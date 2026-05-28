@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following indicators is considered the live blood of democracy?",
+      "options": {"A": "Military strength", "B": "Public opinion", "C": "Secret police", "D": "Economic monopolies"},
+      "answer": "B",
+      "explanation": "Public opinion is the lifeblood of democracy as it ensures government responsiveness to the needs of the governed.",
+      "sectionName": "Elements of Government", "sectionId": 1
+    },
+    {
+      "id": 2,
+      "question": "Identify the term that describes the various approaches and strategies used to exert authority and manage the affairs of a state.",
+      "options": {"A": "Diplomacy", "B": "Governance", "C": "Legitimacy", "D": "Bureaucracy"},
+      "answer": "B",
+      "explanation": "Governance refers to the process and structures through which a state is managed and authority is exercised.",
+      "sectionName": "Elements of Government", "sectionId": 1
+    },
+    {
+      "id": 3,
+      "question": "What concept defines a state's right to itself and maintain its territorial and governmental integrity without external intervention?",
+      "options": {"A": "Authority", "B": "Sovereignty", "C": "Independence", "D": "Nationalism"},
+      "answer": "B",
+      "explanation": "Sovereignty is the supreme power of a state to manage its internal and external affairs without foreign interference.",
+      "sectionName": "Basic Concepts", "sectionId": 2
+    },
+    {
+      "id": 4,
+      "question": "In the context of governmental structures, what type of function does a House of Representatives stand for?",
+      "options": {"A": "Executive", "B": "Judicial", "C": "Legislative", "D": "Administrative"},
+      "answer": "C",
+      "explanation": "The House of Representatives is the lower chamber of the legislature, responsible for law-making.",
+      "sectionName": "Organs of Government", "sectionId": 3
+    },
+    {
+      "id": 5,
+      "question": "What is considered the paramount role of a constitution in ensuring the stability and functioning of a democracy?",
+      "options": {"A": "To grant absolute power to leaders", "B": "To define the powers of the state and rights of citizens", "C": "To promote military rule", "D": "To abolish political parties"},
+      "answer": "B",
+      "explanation": "A constitution provides the legal framework that limits government power and protects individual liberties.",
+      "sectionName": "Constitutionalism", "sectionId": 4
+    },
+    {
+      "id": 6,
+      "question": "In the context of national development, which of the following best describes the most significant role of citizens?",
+      "options": {"A": "Passive observation", "B": "Active participation in the political process", "C": "Evading taxes", "D": "Promoting ethnic divisions"},
+      "answer": "B",
+      "explanation": "Active participation ensures accountability and drives the socio-political growth of a nation.",
+      "sectionName": "Citizenship", "sectionId": 5
+    },
+    {
+      "id": 7,
+      "question": "How does the media influence governance in a democratic society?",
+      "options": {"A": "By suppressing information", "B": "By acting as a watchdog and informing the public", "C": "By obeying every government directive", "D": "By inciting military coups"},
+      "answer": "B",
+      "explanation": "The media serves as the 'fourth estate' by highlighting government successes and failures.",
+      "sectionName": "Public Opinion and Media", "sectionId": 6
+    },
+    {
+      "id": 8,
+      "question": "In what way do pressure groups significantly contribute to the governance structure?",
+      "options": {"A": "By contesting elections", "B": "By influencing government policy in favor of their members", "C": "By making laws", "D": "By interpreting the constitution"},
+      "answer": "B",
+      "explanation": "Pressure groups use lobbying and advocacy to influence government decisions without seeking to control the government.",
+      "sectionName": "Political Processes", "sectionId": 7
+    },
+    {
+      "id": 9,
+      "question": "How does public opinion influence democratic governance?",
+      "options": {"A": "It dictates judicial rulings", "B": "It serves as a feedback mechanism for policy makers", "C": "It is ignored by democratic leaders", "D": "It replaces the need for elections"},
+      "answer": "B",
+      "explanation": "Public opinion helps leaders gauge the popularity and effectiveness of their policies.",
+      "sectionName": "Public Opinion and Media", "sectionId": 6
+    },
+    {
+      "id": 10,
+      "question": "What does a state typically expect from its citizens in return for its responsibility towards them?",
+      "options": {"A": "Absolute silence", "B": "Loyalty and payment of taxes", "C": "Rebellion", "D": "Bribery"},
+      "answer": "B",
+      "explanation": "Citizenship involves duties such as obedience to laws, payment of taxes, and loyalty to the state.",
+      "sectionName": "Citizenship", "sectionId": 5
+    },
+    {
+      "id": 11,
+      "question": "In the context of national cohesion, how does political culture play a critical role in shaping the collective identity of a nation?",
+      "options": {"A": "By encouraging tribalism", "B": "By providing shared beliefs and values about the political system", "C": "By enforcing a single language", "D": "By discouraging voting"},
+      "answer": "B",
+      "explanation": "Political culture consists of the attitudes and beliefs that give order and meaning to a political process.",
+      "sectionName": "Political Culture", "sectionId": 8
+    },
+    {
+      "id": 12,
+      "question": "How does political socialization influence state development?",
+      "options": {"A": "By teaching individuals how to overthrow governments", "B": "By transmitting political values from one generation to another", "C": "By encouraging isolationism", "D": "By promoting illiteracy"},
+      "answer": "B",
+      "explanation": "Socialization ensures the continuity of political values necessary for state stability.",
+      "sectionName": "Political Socialization", "sectionId": 9
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a major indicator of totalitarian tendencies in a democracy?",
+      "options": {"A": "Free press", "B": "Concentration of power in a single leader", "C": "Independent judiciary", "D": "Multi-party system"},
+      "answer": "B",
+      "explanation": "Totalitarianism is marked by centralized control and the absence of individual freedom.",
+      "sectionName": "Types of Government", "sectionId": 10
+    },
+    {
+      "id": 14,
+      "question": "Why is judicial independence key to the stability of democracy?",
+      "options": {"A": "It allows judges to make their own laws", "B": "It ensures impartial administration of justice and checks executive power", "C": "It makes the court superior to the people", "D": "It encourages bribery in the legal system"},
+      "answer": "B",
+      "explanation": "Independence allows the judiciary to rule based on the law without fear of political retaliation.",
+      "sectionName": "Organs of Government", "sectionId": 3
+    },
+    {
+      "id": 15,
+      "question": "Identify one of the key challenges of the Electoral Management Bodies in West Africa.",
+      "options": {"A": "Excessive funding", "B": "Political interference and lack of autonomy", "C": "Too much public trust", "D": "High literacy rates"},
+      "answer": "B",
+      "explanation": "Many EMBs struggle with independence from the executive branch during elections.",
+      "sectionName": "Electoral Process", "sectionId": 11
+    },
+    {
+      "id": 16,
+      "question": "How do political parties contribute to the sustainability of democracy?",
+      "options": {"A": "By causing communal clashes", "B": "By recruiting leaders and mobilizing the electorate", "C": "By banning opposition views", "D": "By controlling the media"},
+      "answer": "B",
+      "explanation": "Political parties organize voters and provide alternative policy platforms.",
+      "sectionName": "Political Parties", "sectionId": 12
+    },
+    {
+      "id": 17,
+      "question": "What is the best strategy to adopt in maximizing the potentials of public corporations?",
+      "options": {"A": "Increased government interference", "B": "Efficient management and reduced bureaucracy", "C": "Granting them permanent subsidies", "D": "Appointing only politicians as heads"},
+      "answer": "B",
+      "explanation": "Public corporations thrive when managed like commercial entities with accountability.",
+      "sectionName": "Public Corporations", "sectionId": 13
+    },
+    {
+      "id": 18,
+      "question": "The role of the civil service in the governance structure includes what function?",
+      "options": {"A": "Formulating political manifestos", "B": "Implementation of government policies", "C": "Adjudicating disputes", "D": "Legislating for the state"},
+      "answer": "B",
+      "explanation": "The civil service is the administrative arm that executes the decisions of the executive.",
+      "sectionName": "Civil Service", "sectionId": 14
+    },
+    {
+      "id": 19,
+      "question": "What is commonly perceived as hindering the advancement of local government administration?",
+      "options": {"A": "Too much autonomy", "B": "Inadequate funding and state government control", "C": "Excessive staff motivation", "D": "Lack of geographical area"},
+      "answer": "B",
+      "explanation": "Local governments often suffer from financial strangulation by the state tiers.",
+      "sectionName": "Local Government", "sectionId": 15
+    },
+    {
+      "id": 20,
+      "question": "Which of the following serves as a pillar for the functioning of a federal system of government?",
+      "options": {"A": "Unitary constitution", "B": "Division of powers between levels of government", "C": "Centralized authority", "D": "Unicameral legislature"},
+      "answer": "B",
+      "explanation": "Federalism requires a constitutionally guaranteed sharing of power between center and components.",
+      "sectionName": "Federalism", "sectionId": 16
+    },
+    {
+      "id": 21,
+      "question": "Why is delegated legislation a key component of a democratic system?",
+      "options": {"A": "It bypasses the legislature permanently", "B": "It saves parliamentary time and handles technical details", "C": "It allows the president to rule by decree", "D": "It abolishes the rule of law"},
+      "answer": "B",
+      "explanation": "The legislature delegates law-making to experts/ministries for efficiency and speed.",
+      "sectionName": "Legislature", "sectionId": 17
+    },
+    {
+      "id": 22,
+      "question": "How best can traditional authorities and their institutions contribute to democratic governance?",
+      "options": {"A": "By leading political party rallies", "B": "By acting as custodians of culture and advisory roles in conflict resolution", "C": "By taking over the functions of the police", "D": "By being the sole legislators"},
+      "answer": "B",
+      "explanation": "Traditional rulers bridge the gap between the modern state and local communities.",
+      "sectionName": "Traditional Systems", "sectionId": 18
+    },
+    {
+      "id": 23,
+      "question": "Which of the following characteristics best describes a Protectorate in the Colonial administrative policy?",
+      "options": {"A": "A territory fully annexed by Britain", "B": "An area under British protection but not fully annexed", "C": "A self-governing dominion", "D": "A part of mainland Britain"},
+      "answer": "B",
+      "explanation": "Protectorates maintained some internal structure under the 'protection' of the colonial power.",
+      "sectionName": "Colonial Administration", "sectionId": 19
+    },
+    {
+      "id": 24,
+      "question": "Identify the statement which accurately describes the nature of a British Crown Colony.",
+      "options": {"A": "It was ruled by an African King", "B": "It was directly governed by a Governor appointed by the Crown", "C": "It had no link with Britain", "D": "It was a military base only"},
+      "answer": "B",
+      "explanation": "Crown Colonies were directly administered by British-appointed officials.",
+      "sectionName": "Colonial Administration", "sectionId": 19
+    },
+    {
+      "id": 25,
+      "question": "The primary aims of the French policy of assimilation in their colonies was what?",
+      "options": {"A": "To develop African cultures", "B": "To turn Africans into French citizens", "C": "To promote Islam", "D": "To prepare colonies for early independence"},
+      "answer": "B",
+      "explanation": "Assimilation aimed to integrate Africans culturally and politically into the French nation.",
+      "sectionName": "Colonial Administration", "sectionId": 19
+    },
+    {
+      "id": 26,
+      "question": "A critical lesson drawn from the role of nationalism and nationalist activities to guide modern governance is what?",
+      "options": {"A": "Violence is the only way to power", "B": "Unity and patriotism are essential for state sovereignty", "C": "Nationalism is outdated", "D": "Foreign aid is better than independence"},
+      "answer": "B",
+      "explanation": "Nationalism taught that collective action is necessary to achieve and maintain self-determination.",
+      "sectionName": "Nationalism", "sectionId": 20
+    },
+    {
+      "id": 27,
+      "question": "Nationalist leaders in the West African Colonies after World War II were primarily associated with what?",
+      "options": {"A": "Demands for total independence", "B": "Supporting colonial rule", "C": "Promoting communism", "D": "Military dictatorships"},
+      "answer": "A",
+      "explanation": "Post-WWII nationalism shifted from 'reform' to 'demand for immediate independence'.",
+      "sectionName": "Nationalism", "sectionId": 20
+    },
+    {
+      "id": 28,
+      "question": "The political agitation by West African Colonies in the post-World War II era was mainly driven by what?",
+      "options": {"A": "A desire to stay in the British Empire", "B": "The return of ex-servicemen and global anti-colonial movements", "C": "A lack of resources", "D": "Colonial encouragement"},
+      "answer": "B",
+      "explanation": "Veterans and global awareness accelerated the drive for freedom.",
+      "sectionName": "Nationalism", "sectionId": 20
+    },
+    {
+      "id": 29,
+      "question": "Which of the following statements best identify the negative impacts of colonial administration on the political development of British West Africa?",
+      "options": {"A": "It introduced democracy instantly", "B": "It disrupted traditional political structures and created artificial boundaries", "C": "It unified all tribes perfectly", "D": "It ended corruption"},
+      "answer": "B",
+      "explanation": "Colonialism often ignored ethnic realities, leading to post-independence instability.",
+      "sectionName": "Colonial Administration", "sectionId": 19
+    },
+    {
+      "id": 30,
+      "question": "Identify a common practice in the governance structure of the pre-independence constitutions of the British West Colonies.",
+      "options": {"A": "Universal adult suffrage from start", "B": "The use of the elective principle with limited franchise", "C": "Direct rule by African chiefs", "D": "Absence of a Governor"},
+      "answer": "B",
+      "explanation": "Early constitutions like Clifford's introduced limited voting rights based on income.",
+      "sectionName": "Constitutional Development", "sectionId": 21
+    },
+    {
+      "id": 31,
+      "question": "What common factor normally finds expression as the reason for military intervention in the politics of West African States?",
+      "options": {"A": "Honesty of politicians", "B": "Corruption and mismanagement by civilian leaders", "C": "The military's desire to rule forever", "D": "Excessive economic growth"},
+      "answer": "B",
+      "explanation": "Military juntas often cite corruption as the primary justification for coups.",
+      "sectionName": "Military Rule", "sectionId": 22
+    },
+    {
+      "id": 32,
+      "question": "Which area of democratic governance structure is mostly negatively affected by military interventions in West African States?",
+      "options": {"A": "The civil service", "B": "The rule of law and constitutionalism", "C": "Traditional systems", "D": "Religious institutions"},
+      "answer": "B",
+      "explanation": "Military rule typically suspends the constitution and suppresses civil liberties.",
+      "sectionName": "Military Rule", "sectionId": 22
+    },
+    {
+      "id": 33,
+      "question": "West African States should take foreign policy determination seriously to achieve what?",
+      "options": {"A": "Isolation from neighbors", "B": "National interest and regional integration", "C": "Control of global oil prices", "D": "Military expansion into Europe"},
+      "answer": "B",
+      "explanation": "Foreign policy is the tool for protecting a state's interests in the international arena.",
+      "sectionName": "Foreign Policy", "sectionId": 23
+    },
+    {
+      "id": 34,
+      "question": "What is a paramount consideration for the determination of foreign policy of a state?",
+      "options": {"A": "The religion of the president", "B": "National Interest", "C": "Personal opinions of citizens", "D": "The size of the state's map"},
+      "answer": "B",
+      "explanation": "National interest is the fundamental driver of every country's foreign policy.",
+      "sectionName": "Foreign Policy", "sectionId": 23
+    },
+    {
+      "id": 35,
+      "question": "What is the main aim for formation of the United Nations particularly in the context of international peace and security?",
+      "options": {"A": "To start a World War III", "B": "To maintain international peace and prevent future conflicts", "C": "To rule over all nations", "D": "To promote only European interests"},
+      "answer": "B",
+      "explanation": "The UN was founded in 1945 to ensure the world never repeats the horrors of the World Wars.",
+      "sectionName": "International Organizations", "sectionId": 24
+    },
+    {
+      "id": 36,
+      "question": "Identify one of the outstanding achievements of the United Nations that has proven to be remarkably resilient over time.",
+      "options": {"A": "The elimination of all poverty", "B": "Decolonization and promotion of human rights", "C": "Establishing a single world government", "D": "Abolishing all borders"},
+      "answer": "B",
+      "explanation": "The UN played a massive role in the independence of many African and Asian countries.",
+      "sectionName": "International Organizations", "sectionId": 24
+    },
+    {
+      "id": 37,
+      "question": "How can government be made effectively accessible to all, regardless of background and distance?",
+      "options": {"A": "By moving the capital every year", "B": "Through decentralization and E-governance", "C": "By making laws in secret", "D": "By reducing the number of local governments"},
+      "answer": "B",
+      "explanation": "Technology and local representation bring government closer to the people.",
+      "sectionName": "Governance", "sectionId": 25
+    },
+    {
+      "id": 38,
+      "question": "What key role does the party system play in the stability and continuity of democratic governance?",
+      "options": {"A": "By encouraging violent protests", "B": "By providing a structured platform for leadership transition", "C": "By making elections unnecessary", "D": "By creating tribal wars"},
+      "answer": "B",
+      "explanation": "Parties allow for a peaceful and organized change of government.",
+      "sectionName": "Political Parties", "sectionId": 12
+    },
+    {
+      "id": 39,
+      "question": "What is the paramount obligation of a citizen to the development and stability of the state?",
+      "options": {"A": "Obedience to laws and tax payment", "B": "Leaving the country permanently", "C": "Supporting only one political party", "D": "Disobeying authority"},
+      "answer": "A",
+      "explanation": "Law-abiding behavior and fiscal contribution are the foundations of statehood.",
+      "sectionName": "Citizenship", "sectionId": 5
+    },
+    {
+      "id": 40,
+      "question": "Identify the outstanding function of the constitution in the context of predictability and stability of the state.",
+      "options": {"A": "It keeps the citizens in fear", "B": "It provides a clear roadmap for governance and succession", "C": "It is easily changed by the president", "D": "It promotes lawlessness"},
+      "answer": "B",
+      "explanation": "A written constitution ensures that everyone knows the 'rules of the game' in politics.",
+      "sectionName": "Constitutionalism", "sectionId": 4
+    },
+    {
+      "id": 41,
+      "question": "Which strong indicators should be present and functioning effectively for there to be meaningful democratic governance?",
+      "options": {"A": "Censorship and police brutality", "B": "Rule of law, free and fair elections, and accountability", "C": "High taxes and low wages", "D": "One-party system"},
+      "answer": "B",
+      "explanation": "Democracy is hollow without the rule of law and transparency.",
+      "sectionName": "Governance", "sectionId": 25
+    },
+    {
+      "id": 42,
+      "question": "Identify the primary advantages of a multi-party system over a single-party system of government.",
+      "options": {"A": "It is cheaper to run", "B": "It offers citizens wider choices and promotes competition", "C": "It leads to faster decision making", "D": "It prevents elections"},
+      "answer": "B",
+      "explanation": "Multi-party systems prevent the emergence of a dictatorship by providing alternatives.",
+      "sectionName": "Political Parties", "sectionId": 12
+    },
+    {
+      "id": 43,
+      "question": "Which of the following reasons explains why some schools of thought advocate for the commercialization or privatization of public corporations?",
+      "options": {"A": "To increase government debt", "B": "To promote efficiency and reduce financial burden on the state", "C": "To create more civil service jobs", "D": "To make services free"},
+      "answer": "B",
+      "explanation": "Privatization is argued to bring private sector discipline to failing state industries.",
+      "sectionName": "Public Corporations", "sectionId": 13
+    },
+    {
+      "id": 44,
+      "question": "What serves as the strong cord that binds the membership of the Economic Community of West African States (ECOWAS)?",
+      "options": {"A": "A single language", "B": "Economic cooperation and regional stability", "C": "A shared military history", "D": "Total political unification"},
+      "answer": "B",
+      "explanation": "ECOWAS was primarily founded to create an economic bloc in West Africa.",
+      "sectionName": "International Organizations", "sectionId": 24
+    },
+    {
+      "id": 45,
+      "question": "The success of the United Nations as the premier global organization can be attributed to which factor?",
+      "options": {"A": "Its military might alone", "B": "Its ability to evolve and mediate international disputes", "C": "The absence of any conflicts in the world", "D": "Its control by only one nation"},
+      "answer": "B",
+      "explanation": "The UN provides a forum for diplomacy that prevents global escalation of local wars.",
+      "sectionName": "International Organizations", "sectionId": 24
+    },
+    {
+      "id": 46,
+      "question": "Identify one reason among the following options for which Nigeria remains a member of the Commonwealth.",
+      "options": {"A": "To be ruled by the British Queen", "B": "Benefits in education, technical assistance, and sports", "C": "Because it has no choice", "D": "To avoid trading with other nations"},
+      "answer": "B",
+      "explanation": "The Commonwealth provides a network for cooperation among former British territories.",
+      "sectionName": "International Organizations", "sectionId": 24
+    },
+    {
+      "id": 47,
+      "question": "How significant is the African Union to its members within the framework of regional cooperation?",
+      "options": {"A": "It has no impact", "B": "It promotes African solutions to African problems and unity", "C": "It encourages colonization", "D": "It replaces the national governments"},
+      "answer": "B",
+      "explanation": "The AU works toward political and economic integration across the continent.",
+      "sectionName": "International Organizations", "sectionId": 24
+    },
+    {
+      "id": 48,
+      "question": "How does decentralization of power affect the efficiency and accountability of government?",
+      "options": {"A": "It makes the government slower", "B": "It promotes local participation and checks central tyranny", "C": "It increases corruption at the center", "D": "It abolishes the presidency"},
+      "answer": "B",
+      "explanation": "Spreading power ensures that local needs are met and officials are more easily monitored.",
+      "sectionName": "Elements of Government", "sectionId": 1
+    },
+    {
+      "id": 49,
+      "question": "What role does civic education play in strengthening democratic participation?",
+      "options": {"A": "It teaches citizens to be afraid of the police", "B": "It informs citizens of their rights and responsibilities", "C": "It promotes illiteracy", "D": "It is unnecessary for democracy"},
+      "answer": "B",
+      "explanation": "An educated electorate is the best defense against bad governance.",
+      "sectionName": "Citizenship", "sectionId": 5
+    },
+    {
+      "id": 50,
+      "question": "How can anti-corruption agencies contribute to good governance in a state?",
+      "options": {"A": "By protecting corrupt leaders", "B": "By enforcing transparency and holding officials accountable", "C": "By increasing government waste", "D": "By suppressing the opposition only"},
+      "answer": "B",
+      "explanation": "Effective anti-corruption bodies protect public funds and integrity.",
+      "sectionName": "Governance", "sectionId": 25
+    }
+  ]
+}

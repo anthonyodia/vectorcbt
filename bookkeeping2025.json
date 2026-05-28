@@ -1,0 +1,529 @@
+{
+  "exam": "2025 BOOKKEEPING OBJECTIVE TEST",
+  "subject": "Bookkeeping",
+  "questions": "Multiple Choice Questions",
+  "question_set": [
+    {
+      "number": 1,
+      "question": "A disadvantage of FIFO method of stock valuation is that",
+      "options": {
+        "A": "closing stock is valued at current price",
+        "B": "profit is overstated during inflation",
+        "C": "it is easy to understand and operate",
+        "D": "it is realistic"
+      },
+      "answer": "B",
+      "explanation": "During inflation, FIFO uses older, lower costs against current sales, which results in a higher (overstated) profit margin."
+    },
+    {
+      "number": 2,
+      "question": "A source of fund available to a joint-stock company is",
+      "options": {
+        "A": "personal savings",
+        "B": "loan from friends",
+        "C": "cooperative loan",
+        "D": "issues of shares"
+      },
+      "answer": "D",
+      "explanation": "Joint-stock companies raise capital from the public primarily by issuing shares."
+    },
+    {
+      "number": 3,
+      "question": "A ledger is",
+      "options": {
+        "A": "book of original entry",
+        "B": "list of balances",
+        "C": "principle book of account",
+        "D": "double entry posting"
+      },
+      "answer": "C",
+      "explanation": "The ledger is the principal book of accounts where all transactions are recorded in their final classified form."
+    },
+    {
+      "number": 4,
+      "question": "Profit and loss account is prepared to ascertain",
+      "options": {
+        "A": "cost of goods sold",
+        "B": "gross profit or gross loss",
+        "C": "cost of goods available for sale",
+        "D": "net profit or net loss"
+      },
+      "answer": "D",
+      "explanation": "The Trading account finds Gross Profit, while the Profit and Loss account determines the final Net Profit or Loss."
+    },
+    {
+      "number": 5,
+      "instruction": "Use the following information to answer question 5 and 6",
+      "data_table": {
+        "title": "Error Rectification",
+        "items": [
+          {"item": "Sum received from customer", "amount": 2000},
+          {"status": "Posted to debit of customer account, credited to cash book"}
+        ]
+      },
+      "question": "This is an error of",
+      "options": {
+        "A": "complete reversal",
+        "B": "principle",
+        "C": "compensation",
+        "D": "commission"
+      },
+      "answer": "A",
+      "explanation": "A reversal error occurs when the correct accounts are used but the debit and credit entries are swapped."
+    },
+    {
+      "number": 6,
+      "question": "To correct this error debit",
+      "options": {
+        "A": "customers account N2000, credit cash account N2000",
+        "B": "cash account N2000, credit customers account N2000",
+        "C": "customers account N4000, credit cash account N4000",
+        "D": "cash account N4000, credit customers account N4000"
+      },
+      "answer": "D",
+      "explanation": "To fix a reversal, you must double the amount on the correct side (Debit Cash N4000) to cancel the error and record the correct entry."
+    },
+    {
+      "number": 7,
+      "question": "The fundamental principles underlying the preparation and presentation of financial statements are accounting",
+      "options": {
+        "A": "bases",
+        "B": "concepts",
+        "C": "policies",
+        "D": "standards"
+      },
+      "answer": "B",
+      "explanation": "Accounting concepts (like going concern or accruals) are the fundamental assumptions used in preparing financial statements."
+    },
+    {
+      "number": 8,
+      "question": "When the sales day book is undercast, the entries to correct the error are debit",
+      "options": {
+        "A": "sales account; credit suspense account",
+        "B": "suspense account; credit sales account",
+        "C": "sales account; credit debtors account",
+        "D": "debtors account; credit sales account"
+      },
+      "answer": "B",
+      "explanation": "Undercast means the total is too low. To increase sales (a credit account), you credit Sales and debit the Suspense account."
+    },
+    {
+      "number": 9,
+      "question": "Acquisition of fixed assets on credit is recorded in",
+      "options": {
+        "A": "purchase day book",
+        "B": "purchase account",
+        "C": "general journal",
+        "D": "general ledger"
+      },
+      "answer": "C",
+      "explanation": "The Purchase Day Book is for goods (stock) only. Fixed assets bought on credit must be recorded in the General Journal."
+    },
+    {
+      "number": 10,
+      "question": "An advantage of cooperative society is that",
+      "options": {
+        "A": "decision making is quicker",
+        "B": "profit is exempted from tax",
+        "C": "it is highly regulated",
+        "D": "it can issues shares to the public"
+      },
+      "answer": "B",
+      "explanation": "Most cooperative societies enjoy tax exemptions on their surpluses in various jurisdictions."
+    },
+    {
+      "number": 11,
+      "question": "The effect of reduction in the provision for doubtful debts is",
+      "options": {
+        "A": "decrease in gross profit",
+        "B": "increase in gross profit",
+        "C": "decrease in net profit",
+        "D": "increase in net profit"
+      },
+      "answer": "D",
+      "explanation": "Reducing a provision is treated as income/gain, which increases the net profit."
+    },
+    {
+      "number": 12,
+      "question": "Kolins failed to record the N6,000 paid for rent in the books. This is an error of",
+      "options": {
+        "A": "omission",
+        "B": "commission",
+        "C": "principle",
+        "D": "original entry"
+      },
+      "answer": "A",
+      "explanation": "Completely failing to record a transaction is an error of omission."
+    },
+    {
+      "number": 13,
+      "question": "Quick decision making is an advantage of",
+      "options": {
+        "A": "public enterprise",
+        "B": "joint stock company",
+        "C": "partnership",
+        "D": "sole proprietorship"
+      },
+      "answer": "D",
+      "explanation": "A sole trader does not need to consult partners or shareholders, allowing for immediate decisions."
+    },
+    {
+      "number": 14,
+      "question": "An advantage of FIFO method of stock issues is that",
+      "options": {
+        "A": "product cost reflects current price",
+        "B": "it is cumbersome to operate",
+        "C": "it is easy to understand",
+        "D": "it allows for deterioration"
+      },
+      "answer": "C",
+      "explanation": "FIFO is straightforward and easy to apply compared to more complex weighted average methods."
+    },
+    {
+      "number": 15,
+      "question": "When return inwards is overstated, the",
+      "options": {
+        "A": "net sales would be overstated",
+        "B": "net sales would be understated",
+        "C": "cost of goods sold would be understated",
+        "D": "cost of goods sold would be overstated"
+      },
+      "answer": "B",
+      "explanation": "Return Inwards is subtracted from Gross Sales. If returns are too high, Net Sales will appear lower than they actually are."
+    },
+    {
+      "number": 16,
+      "question": "The excess of expenditure over income of a not-for-profit making organization would be",
+      "options": {
+        "A": "deducted from accumulated fund",
+        "B": "added to accumulated fund",
+        "C": "added to the subscription",
+        "D": "deducted from the subscription"
+      },
+      "answer": "A",
+      "explanation": "A 'deficit' (excess expenditure) reduces the accumulated fund (capital) of the organization."
+    },
+    {
+      "number": 17,
+      "question": "Examples of items posted in the impersonal nominal account: I. postage expenses II. purchase of desktop computer III. purchase of office furniture IV. travelling expenses",
+      "options": {
+        "A": "I and II",
+        "B": "I and IV",
+        "C": "II and III",
+        "D": "III and IV"
+      },
+      "answer": "B",
+      "explanation": "Nominal accounts record expenses and income. I and IV are expenses. II and III are Real accounts (assets)."
+    },
+    {
+      "number": 18,
+      "question": "Discount received would be recorded in the",
+      "options": {
+        "A": "credit side of total debtors account",
+        "B": "credit side of total creditors account",
+        "C": "debit side of total creditors account",
+        "D": "debit side of total debtors account"
+      },
+      "answer": "C",
+      "explanation": "Discount received reduces the amount owed to creditors, so it is debited to the Total Creditors Control Account."
+    },
+    {
+      "number": 19,
+      "instruction": "Use the following information to answer questions 19 and 20",
+      "data_table": {
+        "title": "Depreciation Data",
+        "currency": "N",
+        "items": [
+          {"item": "Cost of machinery", "amount": 325000},
+          {"item": "Useful life", "amount": 8},
+          {"item": "Salvage value", "amount": 25000}
+        ]
+      },
+      "question": "The net book value at the end of the first year is",
+      "options": {
+        "A": "N287,500",
+        "B": "N300,000",
+        "C": "N325,000",
+        "D": "N350,000"
+      },
+      "answer": "A",
+      "explanation": "Annual Depreciation = (325,000 - 25,000) / 8 = 37,500. NBV = 325,000 - 37,500 = 287,500."
+    },
+    {
+      "number": 20,
+      "question": "Depreciation to be charged to profit and loss account in the second year is",
+      "options": {
+        "A": "N37,500",
+        "B": "N75,000",
+        "C": "N287,500",
+        "D": "N300,000"
+      },
+      "answer": "A",
+      "explanation": "Under the straight-line method, the depreciation charge remains constant at N37,500 every year."
+    },
+    {
+      "number": 21,
+      "question": "A cheque drawn and made payable at a later time within the year is",
+      "options": {
+        "A": "an order cheque",
+        "B": "a bearer cheque",
+        "C": "a stale cheque",
+        "D": "a post-dated cheque"
+      },
+      "answer": "D",
+      "explanation": "A post-dated cheque is one written for a future date."
+    },
+    {
+      "number": 22,
+      "question": "The loss made by a not-for-profit making organization is",
+      "options": {
+        "A": "arrears",
+        "B": "deficit",
+        "C": "overdraft",
+        "D": "surplus"
+      },
+      "answer": "B",
+      "explanation": "In non-profits, excess expenditure over income is termed a 'deficit'."
+    },
+    {
+      "number": 23,
+      "question": "The main source of capital for a not for profit making organization is",
+      "options": {
+        "A": "ploughed back profit",
+        "B": "shares",
+        "C": "subscriptions",
+        "D": "personal savings"
+      },
+      "answer": "C",
+      "explanation": "Subscriptions from members are the primary source of regular income and capital formation for clubs and societies."
+    },
+    {
+      "number": 24,
+      "question": "The concept that cost and benefit in a period should be matched to determine profit or loss is in line with",
+      "options": {
+        "A": "going concern concept",
+        "B": "money measurement concept",
+        "C": "accrual concept",
+        "D": "duality concept"
+      },
+      "answer": "C",
+      "explanation": "The accrual concept ensures revenues and expenses are matched in the period they occur."
+    },
+    {
+      "number": 25,
+      "instruction": "Use the following information to answer 25 and 26",
+      "data_table": {
+        "title": "Total Creditor Control Account Extract",
+        "currency": "N",
+        "items": [
+          {"item": "Balance b/d", "amount": 28400},
+          {"item": "Cash", "amount": 23000},
+          {"item": "Purchases", "amount": 13600},
+          {"item": "Discount received", "amount": 1900},
+          {"item": "Returns", "amount": 900}
+        ]
+      },
+      "question": "The net purchases is",
+      "options": {
+        "A": "N10,840",
+        "B": "N11,740",
+        "C": "N12,700",
+        "D": "N13,640"
+      },
+      "answer": "C",
+      "explanation": "Net Purchases = Total Purchases (13,600) - Returns (900) = 12,700."
+    },
+    {
+      "number": 26,
+      "question": "Balance carried down at the end of the year is",
+      "options": {
+        "A": "N11,840",
+        "B": "N12,740",
+        "C": "N13,640",
+        "D": "N16,240"
+      },
+      "answer": "D",
+      "explanation": "Bal c/d = (28,400 + 13,600) - (23,000 + 1,900 + 900) = 42,000 - 25,800 = 16,200."
+    },
+    {
+      "number": 27,
+      "question": "All transactions paid for are first recorded in the",
+      "options": {
+        "A": "ledger",
+        "B": "cash book",
+        "C": "sales journal",
+        "D": "profit and loss account"
+      },
+      "answer": "B",
+      "explanation": "The Cash Book serves as both a book of original entry and a ledger account for all cash and bank payments."
+    },
+    {
+      "number": 28,
+      "question": "The entries for cash drawn from the bank for office use are",
+      "options": {
+        "A": "debit bank account; credit cash account",
+        "B": "cash account; credit bank account",
+        "C": "drawings account; credit bank account",
+        "D": "bank account; credit drawings account"
+      },
+      "answer": "B",
+      "explanation": "This is a contra entry. Cash (Asset) increases (Debit), and Bank (Asset) decreases (Credit)."
+    },
+    {
+      "number": 29,
+      "question": "Carriage outwards is charged to the",
+      "options": {
+        "A": "credit side of trading account",
+        "B": "debit side of trading account",
+        "C": "credit side of profit and loss account",
+        "D": "debit side of profit and loss account"
+      },
+      "answer": "D",
+      "explanation": "Carriage outwards is a selling expense and belongs in the Profit and Loss account, not the Trading account."
+    },
+    {
+      "number": 30,
+      "question": "A payment of 10,040 to a creditor entered in the books as N10,400 is an error of",
+      "options": {
+        "A": "principle",
+        "B": "omission",
+        "C": "complete reversal",
+        "D": "original entry"
+      },
+      "answer": "D",
+      "explanation": "An error of original entry occurs when a wrong amount is recorded in the journals and carried through to the ledger."
+    },
+    {
+      "number": 31,
+      "question": "A contra entry in the double column cash book is indicated in the",
+      "options": {
+        "A": "folio column",
+        "B": "particulars column",
+        "C": "bank column",
+        "D": "cash column"
+      },
+      "answer": "A",
+      "explanation": "The letter 'C' is placed in the folio column to show it's a contra entry."
+    },
+    {
+      "number": 32,
+      "instruction": "Use the following information to answer question 32 to 34",
+      "data_table": {
+        "title": "Trading Account Data",
+        "currency": "N",
+        "items": [
+          {"item": "Opening stock", "amount": 50000},
+          {"item": "Sales", "amount": 100000},
+          {"item": "Purchases", "amount": 65000},
+          {"item": "Expenses", "amount": 35000},
+          {"item": "Closing stock", "amount": 75000}
+        ]
+      },
+      "question": "The cost of goods sold is",
+      "options": {
+        "A": "N25,000",
+        "B": "N40,000",
+        "C": "N60,000",
+        "D": "N115,000"
+      },
+      "answer": "B",
+      "explanation": "COGS = Opening Stock (50,000) + Purchases (65,000) - Closing Stock (75,000) = 40,000."
+    },
+    {
+      "number": 33,
+      "question": "The gross profit is",
+      "options": {
+        "A": "N25,000",
+        "B": "N40,000",
+        "C": "N60,000",
+        "D": "N115,000"
+      },
+      "answer": "C",
+      "explanation": "Gross Profit = Sales (100,000) - COGS (40,000) = 60,000."
+    },
+    {
+      "number": 34,
+      "question": "The net profit is",
+      "options": {
+        "A": "N25,000",
+        "B": "N40,000",
+        "C": "N60,000",
+        "D": "N115,000"
+      },
+      "answer": "A",
+      "explanation": "Net Profit = Gross Profit (60,000) - Expenses (35,000) = 25,000."
+    },
+    {
+      "number": 35,
+      "question": "Account of debtors are contained in the",
+      "options": {
+        "A": "sales ledger",
+        "B": "purchases ledger",
+        "C": "private ledger",
+        "D": "real ledger"
+      },
+      "answer": "A",
+      "explanation": "The Sales Ledger contains the individual personal accounts of all credit customers (debtors)."
+    },
+    {
+      "number": 36,
+      "question": "Subscription in advance in the balance sheet of not for profit making organization is classified as",
+      "options": {
+        "A": "current asset",
+        "B": "current liability",
+        "C": "long term liability",
+        "D": "fixed asset"
+      },
+      "answer": "B",
+      "explanation": "Income received in advance is a liability because the organization still owes the service to the member."
+    },
+    {
+      "number": 37,
+      "question": "The ledger entries for purchases day book are debit",
+      "options": {
+        "A": "supplier's account; credit purchase account",
+        "B": "purchases account; credit customer's account",
+        "C": "purchase account; credit supplier's account",
+        "D": "customer's account; credit purchases account"
+      },
+      "answer": "C",
+      "explanation": "For credit purchases, the Purchases account is debited and the Supplier's account is credited."
+    },
+    {
+      "number": 38,
+      "question": "Prepayments are shown in the balance sheet as",
+      "options": {
+        "A": "capital",
+        "B": "liability",
+        "C": "fixed asset",
+        "D": "current asset"
+      },
+      "answer": "D",
+      "explanation": "Prepayments represent a benefit to be received in the future, making them a current asset."
+    },
+    {
+      "number": 39,
+      "question": "The records in sales day book are debited to",
+      "options": {
+        "A": "sales account",
+        "B": "customers account",
+        "C": "cash account",
+        "D": "bank account"
+      },
+      "answer": "B",
+      "explanation": "Individual sales recorded in the day book are debited to the specific customer's personal account."
+    },
+    {
+      "number": 40,
+      "question": "Prime cost is the sum of",
+      "options": {
+        "A": "direct materials and direct labour",
+        "B": "direct costs and factory overheads",
+        "C": "direct materials and factory overheads",
+        "D": "factory overheads and administrative expenses"
+      },
+      "answer": "A",
+      "explanation": "Prime cost consists of all direct manufacturing costs: Direct Materials + Direct Labour + Direct Expenses."
+    }
+  ]
+}

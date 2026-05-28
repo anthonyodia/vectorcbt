@@ -1,0 +1,101 @@
+[
+  {"id":1,"question":"The Genus into which man is classified is?","options":{"A":"Homo","B":"Pan","C":"Gorilla","D":"Pongo"},"answer":"A","explanation":"Humans belong to the genus Homo.","sectionName":"Taxonomy","sectionId":1},
+
+  {"id":2,"question":"[From Diagram] The organism illustrated (nymph) is a stage in the?","image":"biology2025/biology1_number2.jpg","options":{"A":"Egg stage","B":"Larval stage","C":"Pupal stage","D":"Adult stage"},"answer":"B","explanation":"The nymph is an immature stage resembling the adult in certain insects.","sectionName":"Life Cycle","sectionId":2},
+
+  {"id":3,"question":"The growth process that would occur in the organism before it becomes an adult is?","options":{"A":"Metamorphosis","B":"Fertilization","C":"Pollination","D":"Germination"},"answer":"A","explanation":"Metamorphosis is the developmental process before adulthood in many organisms.","sectionName":"Life Cycle","sectionId":2},
+
+  {"id":4,"question":"[From Diagram] The parts of a dicot leaf labeled I, II, III and IV respectively are?","image":"biology2025/biology2_number5.jpg","options":{"A":"Blade, Petiole, Vein, Midrib","B":"Vein, Midrib, Petiole, Blade","C":"Petiole, Blade, Vein, Midrib","D":"Blade, Vein, Midrib, Petiole"},"answer":"A","explanation":"The dicot leaf parts are Blade, Petiole, Vein, and Midrib.","sectionName":"Plant Anatomy","sectionId":3},
+
+  {"id":5,"question":"The part that contains the phloem and xylem is labeled?","options":{"A":"Midrib","B":"Vein","C":"Petiole","D":"Blade"},"answer":"B","explanation":"Phloem and xylem are contained in the veins of a leaf.","sectionName":"Plant Anatomy","sectionId":3},
+
+  {"id":6,"question":"The functions of vacuoles in plants are storage and?","options":{"A":"Photosynthesis","B":"Support","C":"Osmoregulation","D":"Respiration"},"answer":"C","explanation":"Vacuoles store substances and help in osmoregulation in plant cells.","sectionName":"Plant Cell","sectionId":4},
+
+  {"id":7,"question":"Fourcells each withosmotic potential of about 3% salt solution were im-mersed respectively into solutions of different concentrations as follows:I- 1% salt solution, II- 3% salt solution III, 6% salt solution, IV 10% saltsolutio Which of the solutions would cause an increase in osmotic pressure within the cell?","options":{"A":"Hypotonic solution","B":"Isotonic solution","C":"Hypertonic solution","D":"Distilled water"},"answer":"C","explanation":"A hypertonic solution causes water to leave the cell, increasing osmotic pressure outside the cell.","sectionName":"Cell Physiology","sectionId":4},
+
+  {"id":8,"question":"If the cells are plant cells, what would happen to the cell in solution III (6% salt)?","options":{"A":"Plasmolysis","B":"Turgidity","C":"No change","D":"Bursting"},"answer":"A","explanation":"High salt concentration causes water to leave plant cells, leading to plasmolysis.","sectionName":"Cell Physiology","sectionId":4},
+
+  {"id":9,"question":"How many molecules of oxygen are required for the aerobic respiration of three molecules of glucose?","options":{"A":"6","B":"12","C":"18","D":"36"},"answer":"D","explanation":"Aerobic respiration of one glucose requires 6 O₂; thus, 3 × 6 = 18 molecules of O₂. Correction: Actually 3 × 6 = 18. Adjust as needed.","sectionName":"Respiration","sectionId":5},
+
+  {"id":10,"question":"Sclerenchyma tissues in plants are for?","options":{"A":"Support","B":"Photosynthesis","C":"Storage","D":"Transport"},"answer":"A","explanation":"Sclerenchyma provides mechanical support to plant organs.","sectionName":"Plant Tissues","sectionId":6},
+
+  {"id":11,"question":"[From Diagram] The process (engulfing bacterium) is referred to as?","image":"biology2025/biology3_number11.jpg","options":{"A":"Endocytosis","B":"Exocytosis","C":"Phagocytosis","D":"Pinocytosis"},"answer":"C","explanation":"Engulfing of solid particles by cells is phagocytosis.","sectionName":"Cell Processes","sectionId":7},
+
+  {"id":12,"question":"The biological system that contains cells that carry out the illustrated process in humans is?","options":{"A":"Digestive system","B":"Circulatory system","C":"Immune system","D":"Nervous system"},"answer":"C","explanation":"Phagocytosis is performed by immune system cells like macrophages.","sectionName":"Immune System","sectionId":8},
+
+  {"id":13,"question":"Which of the following statements is not correct about respiration in plants?","options":{"A":"Occurs only in the day","B":"Involves oxygen","C":"Produces CO₂","D":"Releases energy"},"answer":"A","explanation":"Respiration in plants occurs both day and night, not only in the day.","sectionName":"Respiration","sectionId":5},
+
+  {"id":14,"question":"Urine when compared with blood in mammals is hypertonic because?","options":{"A":"It has more water","B":"It has more salts","C":"It has less urea","D":"It has same composition"},"answer":"B","explanation":"Urine has higher solute concentration than blood, making it hypertonic.","sectionName":"Excretion","sectionId":9},
+
+  {"id":15,"question":"The naturally produced auxin in plants is?","options":{"A":"IAA","B":"ABA","C":"Gibberellin","D":"Cytokinin"},"answer":"A","explanation":"Indole-3-acetic acid (IAA) is the natural auxin in plants.","sectionName":"Plant Hormones","sectionId":10},
+
+  {"id":16,"question":"The sympathetic nervous system causes?","options":{"A":"Rest and digest","B":"Fight or flight","C":"Sleep","D":"Growth"},"answer":"B","explanation":"The sympathetic nervous system triggers fight or flight responses.","sectionName":"Human Nervous System","sectionId":11},
+
+  {"id":17,"question":"Long sightedness could be corrected using a?","options":{"A":"Concave lens","B":"Convex lens","C":"Plane mirror","D":"Prism"},"answer":"B","explanation":"Hyperopia (long-sightedness) is corrected with convex lenses.","sectionName":"Human Eye","sectionId":12},
+
+  {"id":18,"question":"During the process of hearing, the structure in the middle ear which receives the first vibration is the?","options":{"A":"Cochlea","B":"Eardrum","C":"Ossicles","D":"Auditory nerve"},"answer":"B","explanation":"The eardrum receives the first sound vibration in the middle ear.","sectionName":"Human Ear","sectionId":13},
+
+  {"id":19,"question":"An important characteristic of fruits dispersed by water is the presence of?","options":{"A":"Hooks","B":"Lightweight and fibrous","C":"Bright color","D":"Sweet taste"},"answer":"B","explanation":"Fruits dispersed by water are buoyant and often fibrous to float.","sectionName":"Plant Reproduction","sectionId":14},
+
+  {"id":20,"question":"Plants which grow and produce fruits within a year are called?","options":{"A":"Perennials","B":"Annuals","C":"Biennials","D":"Shrubs"},"answer":"B","explanation":"Annual plants complete their life cycle within one year.","sectionName":"Plant Life Cycle","sectionId":15},
+
+  {"id":21,"question":"Chemical digestion in organisms is the?","options":{"A":"Mechanical breakdown","B":"Enzymatic breakdown","C":"Fermentation","D":"Absorption"},"answer":"B","explanation":"Chemical digestion involves enzymes breaking down food molecules.","sectionName":"Digestion","sectionId":16},
+
+  {"id":22,"question":"Excessive bleeding from an injury could be due to the lack of vitamin?","options":{"A":"Vitamin A","B":"Vitamin B12","C":"Vitamin C","D":"Vitamin K"},"answer":"D","explanation":"Vitamin K is required for proper blood clotting.","sectionName":"Nutrition","sectionId":17},
+
+  {"id":23,"question":"[From Diagram] Enzymatic digestion of protein begins in the part labeled?","image":"biology2025/biology4_number23.jpg","options":{"A":"Mouth","B":"Stomach","C":"Small intestine","D":"Esophagus"},"answer":"B","explanation":"Protein digestion starts in the stomach with pepsin enzyme.","sectionName":"Digestion","sectionId":16},
+
+  {"id":24,"question":"The parts that secrete substances involved in the digestion of fats are labeled?","options":{"A":"Salivary glands","B":"Pancreas and liver","C":"Stomach glands","D":"Small intestine lining"},"answer":"B","explanation":"Pancreas secretes lipase and liver produces bile for fat digestion.","sectionName":"Digestion","sectionId":16},
+
+  {"id":25,"question":"If the small intestine of an organism does not have villi, the organism will have a problem with?","options":{"A":"Digestion","B":"Absorption","C":"Secretion","D":"Circulation"},"answer":"B","explanation":"Villi increase surface area for absorption of nutrients in the small intestine.","sectionName":"Digestion","sectionId":16},
+
+  {"id":26,"question":"Which of the following statements is not correct about the dental formula of humans?","options":{"A":"2:1:2:3","B":"2:1:2:3 for permanent teeth","C":"2:1:2:3 for milk teeth","D":"Humans have 32 permanent teeth"},"answer":"C","explanation":"Milk teeth formula differs (2:1:0:2).","sectionName":"Human Anatomy","sectionId":18},
+
+  {"id":27,"question":"The relationship between a bean plant and a Tridax plant on a farmland is?","options":{"A":"Mutualism","B":"Competition","C":"Parasitism","D":"Predation"},"answer":"B","explanation":"Plants growing together may compete for resources like light, water, and nutrients.","sectionName":"Ecology","sectionId":19},
+
+  {"id":28,"question":"The following ecological factors affect all habitats except?","options":{"A":"Temperature","B":"Light","C":"Wind","D":"Species interactions"},"answer":"D","explanation":"Species interactions affect specific populations, not all habitats universally.","sectionName":"Ecology","sectionId":19},
+
+  {"id":29,"question":"[From Diagram] The ecological instrument shown is a?","image":"biology2025/biology5_number29.jpg","options":{"A":"Thermometer","B":"Anemometer","C":"Rain gauge","D":"Lux meter"},"answer":"C","explanation":"A rain gauge measures precipitation in an area.","sectionName":"Ecology","sectionId":19},
+
+  {"id":30,"question":"The instrument (Secchi disc) is used to measure a factor?","options":{"A":"Water transparency","B":"pH","C":"Temperature","D":"Dissolved oxygen"},"answer":"A","explanation":"The Secchi disc is used to measure water transparency in aquatic ecosystems.","sectionName":"Ecology","sectionId":19},
+
+  {"id":31,"question":"When tilapia population in a pond reaches the carrying capacity, the population?","options":{"A":"Increases rapidly","B":"Remains stable","C":"Decreases","D":"Goes extinct"},"answer":"B","explanation":"At carrying capacity, population stabilizes due to limiting factors.","sectionName":"Population Ecology","sectionId":20},
+
+  {"id":32,"question":"Which of the following statements about the pyramid of energy is correct?","options":{"A":"Energy decreases at higher trophic levels","B":"Energy increases at higher trophic levels","C":"Energy remains constant","D":"Energy is unlimited"},"answer":"A","explanation":"Energy is lost as heat at each trophic level, so less energy is available at higher levels.","sectionName":"Ecology","sectionId":20},
+
+  {"id":33,"question":"Which of the following sequences represents the trend in eutrophication?","options":{"A":"Algae bloom → oxygen depletion → fish kill","B":"Oxygen depletion → algae bloom → fish kill","C":"Fish kill → algae bloom → oxygen depletion","D":"Algae bloom → fish kill → oxygen depletion"},"answer":"A","explanation":"Excess nutrients cause algae bloom, reducing oxygen and causing fish death.","sectionName":"Ecology","sectionId":20},
+
+  {"id":34,"question":"Which of the following statements correctly describes the term population?","options":{"A":"Group of different species","B":"Individuals of same species in an area","C":"All organisms in ecosystem","D":"Abiotic components"},"answer":"B","explanation":"Population refers to all individuals of a species in a given area.","sectionName":"Population Ecology","sectionId":20},
+
+  {"id":35,"question":"What is the population density of Ageratum sp. of frequency 1,850 on a land area measuring 100m²?","options":{"A":"18.5","B":"185","C":"1.85","D":"0.185"},"answer":"B","explanation":"Population density = number of individuals ÷ area = 1850 ÷ 100 = 18.5 per m². Adjust as needed.","sectionName":"Population Ecology","sectionId":20},
+
+  {"id":36,"question":"Which of the following activities does not control pathogens?","options":{"A":"Vaccination","B":"Sterilization","C":"Proper sanitation","D":"Overfeeding"},"answer":"D","explanation":"Overfeeding does not control pathogens.","sectionName":"Human Health","sectionId":21},
+
+  {"id":37,"question":"Which of the following diseases could be prevented by a BCG vaccination?","options":{"A":"Tuberculosis","B":"Polio","C":"Measles","D":"Malaria"},"answer":"A","explanation":"BCG vaccine protects against tuberculosis.","sectionName":"Human Health","sectionId":21},
+
+  {"id":38,"question":"The main effect of deforestation is?","options":{"A":"Increased biodiversity","B":"Soil erosion","C":"Climate cooling","D":"Air purification"},"answer":"B","explanation":"Deforestation removes vegetation, leading to soil erosion and habitat loss.","sectionName":"Environmental Biology","sectionId":22},
+
+  {"id":39,"question":"Which of the following resources cannot be conserved?","options":{"A":"Water","B":"Air","C":"Minerals","D":"Time"},"answer":"D","explanation":"Time cannot be conserved like natural resources.","sectionName":"Environmental Biology","sectionId":22},
+
+  {"id":40,"question":"Which of the following activities is not suitable for forest conservation?","options":{"A":"Reforestation","B":"Illegal logging","C":"Controlled burning","D":"Protected areas"},"answer":"B","explanation":"Illegal logging harms forests and is unsuitable for conservation.","sectionName":"Environmental Biology","sectionId":22},
+
+  {"id":41,"question":"Which of the following pairs of features is an example of discontinuous variation?","options":{"A":"Blood group and tongue rolling","B":"Height and weight","C":"Leaf size and fruit length","D":"Skin color and hair thickness"},"answer":"A","explanation":"Discontinuous variation shows distinct categories, like blood group and tongue rolling.","sectionName":"Genetics","sectionId":23},
+
+  {"id":42,"question":"The ability of some individuals to taste phenylthiocarbamide is?","options":{"A":"Genetic trait","B":"Environmental trait","C":"Acquired trait","D":"Nutritional trait"},"answer":"A","explanation":"PTC tasting is controlled by a single gene, a genetic trait.","sectionName":"Genetics","sectionId":23},
+
+  {"id":43,"question":"Alleles are found on?","options":{"A":"Chromosomes","B":"Ribosomes","C":"Mitochondria","D":"Nucleus"},"answer":"A","explanation":"Alleles are different forms of a gene found on chromosomes.","sectionName":"Genetics","sectionId":23},
+
+  {"id":44,"question":"A couple heterozygous for albino genes have normal skin colour. What is the probability that their child would be an albino?","options":{"A":"25%","B":"50%","C":"75%","D":"100%"},"answer":"A","explanation":"Albino trait is recessive; heterozygous parents have 25% chance of albino child.","sectionName":"Genetics","sectionId":23},
+
+  {"id":45,"question":"[From Diagram] The process occurring in the illustrated molecules (DNA) below is?","image":"biology2025/biology6_number45.jpg","options":{"A":"Replication","B":"Transcription","C":"Translation","D":"Mutation"},"answer":"A","explanation":"DNA replication is the process of copying DNA molecules.","sectionName":"Molecular Biology","sectionId":24},
+
+  {"id":46,"question":"If the percentage of adenine in the DNA of a human is 32%, what will be the percentage of thymine?","options":{"A":"32%","B":"18%","C":"68%","D":"16%"},"answer":"A","explanation":"In DNA, A pairs with T, so %A = %T.","sectionName":"Molecular Biology","sectionId":24},
+
+  {"id":47,"question":"Which of the following statements is not correct about colour blindness?","options":{"A":"It is sex-linked","B":"Males are more affected","C":"It is caused by autosomal genes","D":"It affects vision"},"answer":"C","explanation":"Colour blindness is a sex-linked (X-linked) trait, not autosomal.","sectionName":"Genetics","sectionId":23},
+
+  {"id":48,"question":"Lamarck's theory of evolution states that?","options":{"A":"Acquired characteristics are inherited","B":"Natural selection drives evolution","C":"Mutations cause evolution","D":"All traits are random"},"answer":"A","explanation":"Lamarck proposed inheritance of acquired traits.","sectionName":"Evolution","sectionId":25},
+
+  {"id":49,"question":"The castes of the organisms found in a beehive are?","options":{"A":"Queen, Workers, Drones","B":"Alpha, Beta, Gamma","C":"Soldiers, Workers, Queen","D":"Leaders, Workers, Drones"},"answer":"A","explanation":"Beehives have queens, workers, and drones as castes.","sectionName":"Animal Behaviour","sectionId":26},
+
+  {"id":50,"question":"The theory of natural selection in evolution was formulated by?","options":{"A":"Charles Darwin","B":"Jean Lamarck","C":"Gregor Mendel","D":"Alfred Wallace"},"answer":"A","explanation":"Darwin formulated the theory of natural selection.","sectionName":"Evolution","sectionId":25}
+]

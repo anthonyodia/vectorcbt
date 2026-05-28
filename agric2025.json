@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "question": "Under the land use act, certificate of occupancy permits an individual to use a piece of land for?",
+    "options": {"A": "Ownership of land indefinitely","B": "Leasing or occupation for a specified purpose","C": "Sale to any buyer freely","D": "Exemption from all taxes"},
+    "answer": "B",
+    "explanation": "Certificate of occupancy allows lawful use or occupation of land for a specified purpose under the Land Use Act.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 2,
+    "question": "The seasonality of agricultural produce could be eliminated through?",
+    "options": {"A": "Crop rotation","B": "Irrigation and greenhouses","C": "Weed control","D": "Intercropping"},
+    "answer": "B",
+    "explanation": "Seasonality can be reduced using controlled environments like greenhouses and irrigation.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 3,
+    "question": "Agricultural research is important in crop production because it?",
+    "options": {"A": "Reduces labor costs","B": "Improves crop yield and quality","C": "Eliminates the need for fertilizers","D": "Prevents soil erosion automatically"},
+    "answer": "B",
+    "explanation": "Research provides improved varieties, pest control methods, and better crop management.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 4,
+    "question": "A hygrometer is used in agriculture for measuring?",
+    "options": {"A": "Soil pH","B": "Humidity in the air","C": "Soil moisture","D": "Wind speed"},
+    "answer": "B",
+    "explanation": "A hygrometer measures atmospheric humidity, which affects crop growth.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 5,
+    "question": "[From The Diagram] A disadvantage of using the illustrated equipment (coal pot) for brooding is?",
+    "options": {"A": "Uneven heat distribution","B": "Reduces air circulation","C": "Attracts pests","D": "Cannot heat large areas"},
+    "answer": "A",
+    "explanation": "Coal pots produce localized heat, which may not evenly cover the brooding area.",
+    "image": "agric2025/agric4_number5.jpg",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 6,
+    "question": "Other equipment that could perform similar functions in a brooder house are?",
+    "options": {"A": "Electric brooders and gas brooders","B": "Soil heaters","C": "Rainwater harvesters","D": "Sprinkler systems"},
+    "answer": "A",
+    "explanation": "Electric or gas brooders are used to provide uniform heat for chicks.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 7,
+    "question": "The finger like projection of the hand fork are known as?",
+    "options": {"A": "Tines","B": "Prongs","C": "Spikes","D": "Fingers"},
+    "answer": "A",
+    "explanation": "The tines of a hand fork are used for loosening soil and aeration.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 8,
+    "question": "Which of the following statements is not a reason for maintaining farm machines?",
+    "options": {"A": "To reduce downtime","B": "To increase efficiency","C": "To extend machine lifespan","D": "To increase fuel consumption"},
+    "answer": "D",
+    "explanation": "Maintenance reduces fuel consumption; increasing it is not a goal.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 9,
+    "question": "An example of a rock characterized by strata is?",
+    "options": {"A": "Granite","B": "Sandstone","C": "Marble","D": "Basalt"},
+    "answer": "B",
+    "explanation": "Sandstone is sedimentary and shows stratification.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 10,
+    "question": "Groundwater which is available for plant root absorption is?",
+    "options": {"A": "Capillary water","B": "Gravitational water","C": "Hygroscopic water","D": "Runoff water"},
+    "answer": "A",
+    "explanation": "Capillary water is held in soil pores and is available to plants.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 11,
+    "question": "A student obtained the following re- 21. A farm operation usually performed sultsinacertain soil experiment:Mass of empty dish = 10g, Mass of dish + fresh soil = 70g, Mass of dish + dried soil = 55g, The mass of fresh soil is?",
+    "options": {"A": "100 g","B": "200 g","C": "150 g","D": "50 g"},
+    "answer": "C",
+    "explanation": "The fresh soil mass is measured before drying for moisture content determination.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 12,
+    "question": "The mass of moisture lost is?",
+    "options": {"A": "20 g","B": "30 g","C": "40 g","D": "50 g"},
+    "answer": "B",
+    "explanation": "Moisture lost is the difference between fresh soil and oven-dried soil.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 13,
+    "question": "The percentage of moisture in the soil sample is?",
+    "options": {"A": "10%","B": "15%","C": "20%","D": "25%"},
+    "answer": "C",
+    "explanation": "Calculated as (moisture lost ÷ fresh soil mass) × 100.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 14,
+    "question": "In a soil profile, granular structure is usually found in?",
+    "options": {"A": "Topsoil","B": "Subsoil","C": "Parent rock","D": "Bedrock"},
+    "answer": "A",
+    "explanation": "Granular structure is typical of nutrient-rich topsoil.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 15,
+    "question": "[From The Diagram] The illustrated tool (sieve) is used for determining soil?",
+    "options": {"A": "Texture","B": "Fertility","C": "pH","D": "Moisture content"},
+    "answer": "A",
+    "explanation": "A sieve separates soil particles to determine texture.",
+    "image": "agric2025/agric5_number15.jpg",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 16,
+    "question": "Assuming the diameter of the tool is 0.05mm, which of the following soil particles would pass through it?",
+    "options": {"A": "Sand","B": "Silt","C": "Clay","D": "Gravel"},
+    "answer": "B",
+    "explanation": "Silt particles are smaller than 0.05 mm and pass through the sieve.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 17,
+    "question": "A farmer observed purple colouration on cowpea leaves. This deficiency could be corrected by applying?",
+    "options": {"A": "Nitrogen fertilizer","B": "Potassium fertilizer","C": "Phosphorus fertilizer","D": "Magnesium fertilizer"},
+    "answer": "C",
+    "explanation": "Purple coloration usually indicates phosphorus deficiency.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 18,
+    "question": "Which of the following statements correctly defines overhead irrigation?",
+    "options": {"A": "Water is supplied from below the soil","B": "Water is applied directly to the plant leaves","C": "Water is sprayed over crops using sprinklers","D": "Water flows naturally along furrows"},
+    "answer": "C",
+    "explanation": "Overhead irrigation distributes water over the crop canopy via sprinklers.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 19,
+    "question": "Agricultural pollution could be prevented by?",
+    "options": {"A": "Excessive pesticide use","B": "Proper disposal of chemicals","C": "Over-irrigation","D": "Burning crop residues"},
+    "answer": "B",
+    "explanation": "Safe handling and disposal of chemicals prevents pollution.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 20,
+    "question": "Yam stores food in its?",
+    "options": {"A": "Leaves","B": "Stem tuber","C": "Roots","D": "Flowers"},
+    "answer": "B",
+    "explanation": "Yam stores nutrients in its underground stem tuber.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 21,
+    "question": "[From The Diagram] A farm operation usually performed on the part labeled II (Maize Silk) is?",
+    "options": {"A": "Weeding","B": "Pollination","C": "Fertilization","D": "Harvesting"},
+    "answer": "B",
+    "explanation": "The silk receives pollen grains during fertilization.",
+    "image": "agric2025/agric2_number21.jpg",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 22,
+    "question": "The part labeled III is?",
+    "options": {"A": "Kernel","B": "Cob","C": "Husk","D": "Leaf"},
+    "answer": "B",
+    "explanation": "The cob is the central core of the maize ear.",
+    "image": "agric2025/agric2_number21.jpg",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 23,
+    "question": "The moisture content of the illustrated crop should be reduced before harvesting in order to reduce?",
+    "options": {"A": "Pest attack","B": "Mould growth","C": "Weight","D": "Photosynthesis"},
+    "answer": "B",
+    "explanation": "Reducing moisture prevents mold and spoilage.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 24,
+    "question": "Black arm disease of crop affects?",
+    "options": {"A": "Leaves","B": "Roots","C": "Stem","D": "Seeds"},
+    "answer": "C",
+    "explanation": "Black arm disease targets the stem of affected plants.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 25,
+    "question": "An effect of polishing rice grains is that it?",
+    "options": {"A": "Increases nutrient content","B": "Removes bran and reduces fiber","C": "Prevents germination","D": "Reduces cooking time"},
+    "answer": "B",
+    "explanation": "Polishing removes the bran layer, reducing fiber and micronutrients.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 26,
+    "question": "The budding of sweet orange scion on sour orange stock is to prevent?",
+    "options": {"A": "Pest infestation","B": "Nutrient deficiency","C": "Disease susceptibility","D": "Flowering"},
+    "answer": "C",
+    "explanation": "Grafting on resistant rootstock prevents disease susceptibility.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 27,
+    "question": "Plantation agriculture is commonly practiced in the production of?",
+    "options": {"A": "Rice","B": "Cocoa","C": "Maize","D": "Yam"},
+    "answer": "B",
+    "explanation": "Cocoa is a typical plantation crop in West Africa.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 28,
+    "question": "[Calculation] If AB is 15m, DC is 10m and EF is 8m, calculate the area of the farmland?",
+    "options": {"A": "100 m²","B": "120 m²","C": "140 m²","D": "150 m²"},
+    "answer": "B",
+    "explanation": "Area calculation based on given dimensions: 120 m².",
+    "image": "agric2025/agric1_number27.jpg",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 29,
+    "question": "If cowpea was planted on the farmland at a spacing of 25cm by 90cm, determine the plant population?",
+    "options": {"A": "5333","B": "4444","C": "4000","D": "5000"},
+    "answer": "A",
+    "explanation": "Plant population = Area ÷ spacing = 120 m² ÷ (0.25 × 0.9 m) = 5333 plants.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 30,
+    "question": "Dormancy in seeds could be broken by?",
+    "options": {"A": "Scarification","B": "Deep planting","C": "Overwatering","D": "Cold storage"},
+    "answer": "A",
+    "explanation": "Scarification breaks hard seed coats to allow germination.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 31,
+    "question": "A nitrogen fixing forest tree that could be used in alley cropping is?",
+    "options": {"A": "Gmelina","B": "Leucaena","C": "Eucalyptus","D": "Oil palm"},
+    "answer": "B",
+    "explanation": "Leucaena fixes nitrogen and is suitable for alley cropping.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 32,
+    "question": "Allamanda is an ornamental?",
+    "options": {"A": "Tree","B": "Shrub","C": "Grass","D": "Climber"},
+    "answer": "B",
+    "explanation": "Allamanda is cultivated as a flowering ornamental shrub.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 33,
+    "question": "Which of the following diseases of crops could be controlled by fungicides?",
+    "options": {"A": "Bacterial blight","B": "Rust","C": "Nematode attack","D": "Weed infestation"},
+    "answer": "B",
+    "explanation": "Fungicides control fungal diseases like rust.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 34,
+    "question": "Talinum triangulare is mainly dispersed by?",
+    "options": {"A": "Wind","B": "Water","C": "Animals","D": "Explosive mechanism"},
+    "answer": "D",
+    "explanation": "Talinum triangulare seeds are dispersed by explosive dehiscence.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 35,
+    "question": "An example of a dual-purpose cattle is?",
+    "options": {"A": "N’Dama","B": "Holstein","C": "Boran","D": "Friesian"},
+    "answer": "A",
+    "explanation": "N’Dama cattle provide both meat and milk.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 36,
+    "question": "Which of the following products is obtained from a living farm animal?",
+    "options": {"A": "Meat","B": "Leather","C": "Milk","D": "Bone"},
+    "answer": "C",
+    "explanation": "Milk is obtained from a living animal.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 37,
+    "question": "Absorption of water from undigested feed in ruminants occurs in the?",
+    "options": {"A": "Rumen","B": "Omasum","C": "Abomasum","D": "Rectum"},
+    "answer": "B",
+    "explanation": "Omasum absorbs water and nutrients from ingesta.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 38,
+    "question": "The rumen performs the following functions except?",
+    "options": {"A": "Fermentation of fibrous feed","B": "Mixing feed","C": "Water absorption","D": "Enzyme secretion"},
+    "answer": "D",
+    "explanation": "The rumen does not secrete enzymes; microbial fermentation does the work.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 39,
+    "question": "Which of the following methods is not used in collecting semen from farm animal?",
+    "options": {"A": "Artificial vagina","B": "Electro-ejaculation","C": "Natural mating","D": "Hand stripping"},
+    "answer": "C",
+    "explanation": "Natural mating is not a semen collection method.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 40,
+    "question": "Heat stress in farm animals could result in?",
+    "options": {"A": "Increased growth rate","B": "Reduced feed intake","C": "Higher fertility","D": "Reduced water consumption"},
+    "answer": "B",
+    "explanation": "Heat stress reduces feed intake and productivity.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 41,
+    "question": "If the recommended floor space is 0.36m² per chicken, determine the number that could be reared in a house 9m by 20m?",
+    "options": {"A": "500","B": "450","C": "480","D": "400"},
+    "answer": "C",
+    "explanation": "Total area = 9 × 20 = 180 m²; 180 ÷ 0.36 ≈ 500 birds.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 42,
+    "question": "A building with open sides is preferable in a poultry house because it?",
+    "options": {"A": "Prevents predators","B": "Ensures ventilation","C": "Reduces disease","D": "Keeps feed dry"},
+    "answer": "B",
+    "explanation": "Open sides allow proper ventilation and air circulation.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 43,
+    "question": "Wool could be obtained from a?",
+    "options": {"A": "Goat","B": "Sheep","C": "Cow","D": "Rabbit"},
+    "answer": "B",
+    "explanation": "Sheep are primary sources of wool.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 44,
+    "question": "Which of the following poultry diseases could be treated with drugs containing sulphur?",
+    "options": {"A": "Coccidiosis","B": "Newcastle disease","C": "Fowl pox","D": "Avian influenza"},
+    "answer": "A",
+    "explanation": "Sulphur drugs are effective against coccidiosis.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 45,
+    "question": "The most important function of bees to humans is to?",
+    "options": {"A": "Produce honey","B": "Pollinate crops","C": "Provide wax","D": "Control pests"},
+    "answer": "B",
+    "explanation": "Pollination is the most crucial ecological and agricultural service.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 46,
+    "question": "A major export crop in West Africa is?",
+    "options": {"A": "Yam","B": "Maize","C": "Cocoa","D": "Rice"},
+    "answer": "C",
+    "explanation": "Cocoa is a leading export crop in West Africa.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 47,
+    "question": "[Calculation] The farmer's cost of producing a tray of eggs is?",
+    "options": {"A": "₦120","B": "₦150","C": "₦200","D": "₦100"},
+    "answer": "B",
+    "explanation": "Total cost ÷ number of trays gives cost per tray.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 48,
+    "question": "How many trays of eggs were sold by the farmer?",
+    "options": {"A": "200","B": "250","C": "300","D": "150"},
+    "answer": "C",
+    "explanation": "Number sold is based on total production minus unsold units.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 49,
+    "question": "The farmer's net profit is?",
+    "options": {"A": "₦50,000","B": "₦60,000","C": "₦70,000","D": "₦80,000"},
+    "answer": "C",
+    "explanation": "Net profit = Total revenue − Total cost.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  },
+  {
+    "id": 50,
+    "question": "Which of the following marketing functions could enable farmers fix better prices?",
+    "options": {"A": "Transport","B": "Storage","C": "Packaging","D": "Processing"},
+    "answer": "B",
+    "explanation": "Proper storage reduces spoilage and allows better pricing decisions.",
+    "sectionName": "Agricultural Science",
+    "sectionId": 1
+  }
+]

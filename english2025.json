@@ -1,0 +1,648 @@
+{
+  "WAEC_English_Language_Objective_Questions": {
+    "title": "WAEC English Language Objective Test Questions (Complete Merged List)",
+    "instruction": "The following is a complete list of the WAEC English Language objective questions (1-82/90) including Vocabulary, Structure, Cloze Passage, and Test of Orals, organized with sequential numbering, answers, and brief explanations.",
+    "questions": [
+      {
+        "id": 1,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "The hope with which he assumed office contrasts with the ________ which he is leaving.",
+        "options": { "A": "disgust", "B": "distress", "C": "distrust", "D": "despair" },
+        "answer": "D",
+        "explanation": "The direct opposite of 'hope' is 'despair'."
+      },
+      {
+        "id": 2,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "The lies she told will merely exacerbate the situation rather than ________ it.",
+        "options": { "A": "improve", "B": "aid", "C": "reduce", "D": "appease" },
+        "answer": "A",
+        "explanation": "To 'exacerbate' is to make worse; 'improve' is the opposite."
+      },
+      {
+        "id": 3,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "You should not say things that will enrage the children rather than ________ them.",
+        "options": { "A": "honour", "B": "silence", "C": "celebrate", "D": "pacify" },
+        "answer": "D",
+        "explanation": "'Pacify' (to calm) is the opposite of 'enrage'."
+      },
+      {
+        "id": 4,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "The doctor does not think the patient will recover; the signs are ominous rather than ________.",
+        "options": { "A": "feasible", "B": "obvious", "C": "encouraging", "D": "gloomy" },
+        "answer": "C",
+        "explanation": "'Ominous' means threatening; 'encouraging' means promising."
+      },
+      {
+        "id": 5,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "School prefects are expected to be honorable in all their conduct, not ________.",
+        "options": { "A": "wicked", "B": "stupid", "C": "dirty", "D": "devious" },
+        "answer": "D",
+        "explanation": "'Devious' (dishonest) is the opposite of 'honorable'."
+      },
+      {
+        "id": 6,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "Those who praised the king were rewarded while those who ________ him were punished.",
+        "options": { "A": "vilified", "B": "ignored", "C": "avoided", "D": "displeased" },
+        "answer": "A",
+        "explanation": "'Vilified' (to speak ill of) is the opposite of 'praised'."
+      },
+      {
+        "id": 7,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "We had expected the change of colour to be ________ but it was imperceptible.",
+        "options": { "A": "relevant", "B": "baseless", "C": "obvious", "D": "critical" },
+        "answer": "C",
+        "explanation": "'Obvious' is the opposite of 'imperceptible' (unnoticeable)."
+      },
+      {
+        "id": 8,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "We need to teach children to be ________ not insolent.",
+        "options": { "A": "hardworking", "B": "respectful", "C": "generous", "D": "courageous" },
+        "answer": "B",
+        "explanation": "'Insolent' means rude; 'respectful' is the opposite."
+      },
+      {
+        "id": 9,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "I prefer the hustle of the city life to the ________ of the village.",
+        "options": { "A": "hustle", "B": "atmosphere", "C": "surrounding", "D": "tranquility" },
+        "answer": "D",
+        "explanation": "'Tranquility' (peace) contrasts with 'hustle' (noise/activity)."
+      },
+      {
+        "id": 10,
+        "section": "SECTION 1: ANTONYMS",
+        "question": "The soldiers had to take a split decision whether to advance or ________.",
+        "options": { "A": "converge", "B": "abort", "C": "retreat", "D": "surrender" },
+        "answer": "C",
+        "explanation": "'Retreat' is the military opposite of 'advance'."
+      },
+      {
+        "id": 11,
+        "section": "SECTION 2: COMPLETION",
+        "question": "The teacher reached the ________ of his career before he retired.",
+        "options": { "A": "peak", "B": "top", "C": "end", "D": "ultimate" },
+        "answer": "A",
+        "explanation": "'Peak' refers to the height of a professional career."
+      },
+      {
+        "id": 12,
+        "section": "SECTION 2: COMPLETION",
+        "question": "There will be a yearly ________ to determine each employee's contribution.",
+        "options": { "A": "supervision", "B": "assessment", "C": "interview", "D": "placement" },
+        "answer": "B",
+        "explanation": "'Assessment' is the evaluation of work performance."
+      },
+      {
+        "id": 13,
+        "section": "SECTION 2: COMPLETION",
+        "question": "The man was honoured for fighting ________ in the war.",
+        "options": { "A": "furiously", "B": "practically", "C": "properly", "D": "gallantly" },
+        "answer": "D",
+        "explanation": "'Gallantly' implies bravery and honor in battle."
+      },
+      {
+        "id": 14,
+        "section": "SECTION 2: COMPLETION",
+        "question": "The new manager did not ________ responsibilities because she felt she can do everything alone.",
+        "options": { "A": "share", "B": "provide", "C": "delegate", "D": "distribute" },
+        "answer": "C",
+        "explanation": "To 'delegate' means to entrust a task to another person."
+      },
+      {
+        "id": 15,
+        "section": "SECTION 2: COMPLETION",
+        "question": "The ________ of a higher turnover next year may be affected by inflation.",
+        "options": { "A": "budget", "B": "calculation", "C": "suggestion", "D": "forecast" },
+        "answer": "D",
+        "explanation": "A 'forecast' is a prediction of future trends."
+      },
+      {
+        "id": 16,
+        "section": "SECTION 2: COMPLETION",
+        "question": "The revelations rendered her ________ for reelection questionable.",
+        "options": { "A": "competence", "B": "morality", "C": "eligibility", "D": "opportunity" },
+        "answer": "C",
+        "explanation": "'Eligibility' refers to the legal right to be elected."
+      },
+      {
+        "id": 17,
+        "section": "SECTION 2: COMPLETION",
+        "question": "We need you to be the ________ in case the actor is unable to make it.",
+        "options": { "A": "understudy", "B": "actress", "C": "cameo", "D": "miscast" },
+        "answer": "A",
+        "explanation": "An 'understudy' is a standby performer."
+      },
+      {
+        "id": 18,
+        "section": "SECTION 2: COMPLETION",
+        "question": "The doctor warned the patient might develop an ________ to Septrin.",
+        "options": { "A": "illness", "B": "allergy", "C": "infection", "D": "addiction" },
+        "answer": "B",
+        "explanation": "An 'allergy' is a specific immune reaction to medication."
+      },
+      {
+        "id": 19,
+        "section": "SECTION 2: COMPLETION",
+        "question": "Some students are fond of ________ away their money on frivolous things.",
+        "options": { "A": "giving", "B": "donating", "C": "frittering", "D": "putting" },
+        "answer": "C",
+        "explanation": "'Frittering' means wasting time or money on trifles."
+      },
+      {
+        "id": 20,
+        "section": "SECTION 2: COMPLETION",
+        "question": "Mountainous regions are prone to volcanic ________.",
+        "options": { "A": "eruptions", "B": "discharge", "C": "release", "D": "emissions" },
+        "answer": "A",
+        "explanation": "'Eruption' is the standard term for volcanoes."
+      },
+      {
+        "id": 21,
+        "section": "SECTION 3: IDIOMS",
+        "question": "As a school prefect, I must be 'whiter than white'. This means:",
+        "options": { "A": "bright", "B": "honest", "C": "eloquent", "D": "attractive" },
+        "answer": "B",
+        "explanation": "'Whiter than white' means to be completely honest and beyond reproach."
+      },
+      {
+        "id": 22,
+        "section": "SECTION 3: IDIOMS",
+        "question": "Not to 'let the grass grow under his feet' means he should:",
+        "options": { "A": "not allow progress", "B": "not be lazy", "C": "act without delay", "D": "face challenges" },
+        "answer": "C",
+        "explanation": "This idiom means to take action immediately."
+      },
+      {
+        "id": 23,
+        "section": "SECTION 3: STRUCTURE",
+        "question": "Had he confessed much earlier, she would have trusted him. This means:",
+        "options": { "A": "He confessed and was trusted", "B": "He didn't confess and wasn't trusted", "C": "He confessed but wasn't trusted", "D": "He didn't confess but was trusted" },
+        "answer": "B",
+        "explanation": "The past conditional implies the action (confessing) never happened."
+      },
+      {
+        "id": 24,
+        "section": "SECTION 3: IDIOMS",
+        "question": "Investing in the business is a 'long shot'. This means it:",
+        "options": { "A": "has little chance of success", "B": "requires huge capital", "C": "will be profitable", "D": "will take long" },
+        "answer": "A",
+        "explanation": "A 'long shot' is an attempt that has a very small chance of working."
+      },
+      {
+        "id": 25,
+        "section": "SECTION 3: IDIOMS",
+        "question": "Woke up at the 'crack of dawn'. This means:",
+        "options": { "A": "at sunrise", "B": "lights on", "C": "very early", "D": "morning light" },
+        "answer": "C",
+        "explanation": "The very first light of the morning."
+      },
+      {
+        "id": 26,
+        "section": "SECTION 3: IDIOMS",
+        "question": "The rector is in the 'hot seat'. This means he:",
+        "options": { "A": "must make difficult decisions", "B": "is about to be removed", "C": "will quit", "D": "was attacked" },
+        "answer": "A",
+        "explanation": "The 'hot seat' is a position of high pressure and scrutiny."
+      },
+      {
+        "id": 27,
+        "section": "SECTION 3: STRUCTURE",
+        "question": "There was 'little food' for him at home. This means:",
+        "options": { "A": "sure of some food", "B": "not sure of any food", "C": "hidden food", "D": "food would not satisfy" },
+        "answer": "B",
+        "explanation": "'Little' without 'a' means almost none."
+      },
+      {
+        "id": 28,
+        "section": "SECTION 3: IDIOMS",
+        "question": "The manager is 'on the ball'. This means he is:",
+        "options": { "A": "friendly", "B": "smart", "C": "energetic", "D": "competent and efficient" },
+        "answer": "D",
+        "explanation": "'On the ball' means alert and efficient."
+      },
+      {
+        "id": 29,
+        "section": "SECTION 3: IDIOMS",
+        "question": "'Cutting off his nose to spite his face' means the decision:",
+        "options": { "A": "caused pain", "B": "affected son badly", "C": "blow to school", "D": "did the man no good" },
+        "answer": "D",
+        "explanation": "This idiom refers to hurting oneself while trying to punish another."
+      },
+      {
+        "id": 30,
+        "section": "SECTION 3: IDIOMS",
+        "question": "A 'stay of execution' means the action against the company should be:",
+        "options": { "A": "executed", "B": "prioritized", "C": "suspended", "D": "disregarded" },
+        "answer": "C",
+        "explanation": "A 'stay' is a temporary suspension of a legal order."
+      },
+      {
+        "id": 31,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "Extended the frontiers of knowledge.",
+        "options": { "A": "borders", "B": "bounds", "C": "partitions", "D": "precincts" },
+        "answer": "A",
+        "explanation": "'Frontiers' and 'borders' are synonyms for the limits of knowledge."
+      },
+      {
+        "id": 32,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "Music is inappropriate for such a solemn ceremony.",
+        "options": { "A": "unfashionable", "B": "indecent", "C": "unsuitable", "D": "insufficient" },
+        "answer": "C",
+        "explanation": "'Inappropriate' means unsuitable."
+      },
+      {
+        "id": 33,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "Solitude is not good for the aged.",
+        "options": { "A": "independence", "B": "privacy", "C": "grief", "D": "seclusion" },
+        "answer": "D",
+        "explanation": "'Solitude' means being alone or in seclusion."
+      },
+      {
+        "id": 34,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "The recalcitrant was not appointed prefect.",
+        "options": { "A": "dishonest", "B": "wicked", "C": "unruly", "D": "unrepentant" },
+        "answer": "C",
+        "explanation": "'Recalcitrant' refers to someone who is unruly or disobedient."
+      },
+      {
+        "id": 35,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "The professor's explanation was incisive.",
+        "options": { "A": "dull", "B": "clear", "C": "brief", "D": "apt" },
+        "answer": "B",
+        "explanation": "'Incisive' means clear and sharp."
+      },
+      {
+        "id": 36,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "His father is jocular.",
+        "options": { "A": "caring", "B": "hilarious", "C": "kind", "D": "happy" },
+        "answer": "B",
+        "explanation": "'Jocular' relates to being humorous or hilarious."
+      },
+      {
+        "id": 37,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "The electorate misconstructed the intention.",
+        "options": { "A": "misinterpreted", "B": "misplaced", "C": "misapplied", "D": "misdirected" },
+        "answer": "A",
+        "explanation": "To 'misconstruct' is to misinterpret."
+      },
+      {
+        "id": 38,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "Suggestions were absurd.",
+        "options": { "A": "unexpected", "B": "evocative", "C": "expressive", "D": "ridiculous" },
+        "answer": "D",
+        "explanation": "'Absurd' means ridiculous."
+      },
+      {
+        "id": 39,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "Ann's behaviour has been weird.",
+        "options": { "A": "wicked", "B": "strange", "C": "lousy", "D": "dangerous" },
+        "answer": "B",
+        "explanation": "'Weird' means strange."
+      },
+      {
+        "id": 40,
+        "section": "SECTION 4: SYNONYMS",
+        "question": "Exhibit some amount of decorum.",
+        "options": { "A": "decency", "B": "gentility", "C": "intellect", "D": "smartness" },
+        "answer": "A",
+        "explanation": "'Decorum' is decency or proper behavior."
+      },
+      {
+        "id": 41,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "________ football, I also play basketball.",
+        "options": { "A": "except", "B": "besides", "C": "beside", "D": "except for" },
+        "answer": "B",
+        "explanation": "'Besides' means 'in addition to'."
+      },
+      {
+        "id": 42,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "Allowed to carry ________ on this flight.",
+        "options": { "A": "many luggage", "B": "luggage", "C": "much luggage", "D": "a luggage" },
+        "answer": "C",
+        "explanation": "'Luggage' is uncountable; use 'much'."
+      },
+      {
+        "id": 43,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "The class visited the apiary ________.",
+        "options": { "A": "in two weeks", "B": "two weeks ago", "C": "since two weeks", "D": "during two weeks" },
+        "answer": "B",
+        "explanation": "'Ago' marks a point in the past."
+      },
+      {
+        "id": 44,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "If she had prepared well... she ________ won the scholarship.",
+        "options": { "A": "may have", "B": "could have", "C": "might have", "D": "would have" },
+        "answer": "D",
+        "explanation": "Third conditional requires 'would have'."
+      },
+      {
+        "id": 45,
+        "section": "SECTION 5: TAGS",
+        "question": "Peter and Paul come often, ________?",
+        "options": { "A": "have they", "B": "doesn't they", "C": "won't they", "D": "don't they" },
+        "answer": "D",
+        "explanation": "Positive statement in present tense uses 'don't they'."
+      },
+      {
+        "id": 46,
+        "section": "SECTION 5: TENSE",
+        "question": "My family ________ Freedom Square twice in the 1990s.",
+        "options": { "A": "used to visit", "B": "visited", "C": "would visit", "D": "visits" },
+        "answer": "B",
+        "explanation": "Simple past for a completed historical action."
+      },
+      {
+        "id": 47,
+        "section": "SECTION 5: PLURALS",
+        "question": "The ________ who attended appreciated the talk.",
+        "options": { "A": "fathers-in-law", "B": "father-in-laws", "C": "fathers-in-laws", "D": "father's-in-law" },
+        "answer": "A",
+        "explanation": "Pluralize the head noun 'father'."
+      },
+      {
+        "id": 48,
+        "section": "SECTION 5: PARTICIPLES",
+        "question": "We videoed him ________ the phone.",
+        "options": { "A": "repair", "B": "repairs", "C": "repairing", "D": "repaired" },
+        "answer": "C",
+        "explanation": "Continuous participle describing the observed action."
+      },
+      {
+        "id": 49,
+        "section": "SECTION 5: ADJECTIVE ORDER",
+        "question": "Put the ________ on the rack.",
+        "options": { "A": "leather brown big bag", "B": "brown leather big bag", "C": "big leather brown bag", "D": "big brown leather bag" },
+        "answer": "D",
+        "explanation": "Order: Size, then Color, then Material."
+      },
+      {
+        "id": 50,
+        "section": "SECTION 5: SUPERLATIVES",
+        "question": "Tolu is the ________ girl in her class.",
+        "options": { "A": "most cleverest", "B": "cleverest", "C": "more cleverer", "D": "cleverer" },
+        "answer": "B",
+        "explanation": "Single superlative 'cleverest' is correct."
+      },
+      {
+        "id": 51,
+        "section": "SECTION 5: TAGS",
+        "question": "You won't tell him the answer, ________?",
+        "options": { "A": "not so", "B": "don't you", "C": "will you", "D": "isn't it" },
+        "answer": "C",
+        "explanation": "Negative 'won't' takes positive 'will you'."
+      },
+      {
+        "id": 52,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "The most foolish decision ________.",
+        "options": { "A": "he have made", "B": "he will make", "C": "he may make", "D": "he has ever made" },
+        "answer": "D",
+        "explanation": "Perfect tense for lifetime experience."
+      },
+      {
+        "id": 53,
+        "section": "SECTION 5: PHRASAL VERBS",
+        "question": "I only flick ________ newspapers.",
+        "options": { "A": "at", "B": "on", "C": "with", "D": "through" },
+        "answer": "D",
+        "explanation": "'Flick through' means to look through quickly."
+      },
+      {
+        "id": 54,
+        "section": "SECTION 5: PHRASAL VERBS",
+        "question": "Ensure you ________ my office.",
+        "options": { "A": "call by", "B": "call at", "C": "pass into", "D": "come past" },
+        "answer": "B",
+        "explanation": "'Call at' means to visit a place."
+      },
+      {
+        "id": 55,
+        "section": "SECTION 5: COMPARATIVES",
+        "question": "There was ________ than expected.",
+        "options": { "A": "very much", "B": "much more", "C": "less much", "D": "many more" },
+        "answer": "B",
+        "explanation": "'Much more' is correct for uncountable comparison."
+      },
+      {
+        "id": 56,
+        "section": "SECTION 5: PRONOUNS",
+        "question": "The baby became happy when ________ mother returned.",
+        "options": { "A": "its", "B": "her", "C": "his", "D": "it's" },
+        "answer": "A",
+        "explanation": "'Its' is used when the gender of the baby is unknown."
+      },
+      {
+        "id": 57,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "The faster you work ________ you will finish.",
+        "options": { "A": "the sooner", "B": "the soonest", "C": "soonest", "D": "sooner" },
+        "answer": "A",
+        "explanation": "Double comparative structure 'the... the...'."
+      },
+      {
+        "id": 58,
+        "section": "SECTION 5: NOUNS",
+        "question": "We don't discuss... because she is ________.",
+        "options": { "A": "very talkative", "B": "a talkative", "C": "well talkative", "D": "just a talkative" },
+        "answer": "A",
+        "explanation": "'Talkative' is an adjective, modified by 'very'."
+      },
+      {
+        "id": 59,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "I'm sure you know ________ that she is generous.",
+        "options": { "A": "as I know", "B": "as much as I can", "C": "as well as I do", "D": "as I did" },
+        "answer": "C",
+        "explanation": "'As well as I do' is the correct comparison of manner."
+      },
+      {
+        "id": 60,
+        "section": "SECTION 5: PHRASAL VERBS",
+        "question": "They are all rooting ________ Adamu.",
+        "options": { "A": "for", "B": "at", "C": "with", "D": "on" },
+        "answer": "A",
+        "explanation": "'Root for' means to support."
+      },
+      {
+        "id": 61,
+        "section": "SECTION 5: TENSE",
+        "question": "Your eyes are puffy ________?",
+        "options": { "A": "are you crying", "B": "have you been crying", "C": "will you cry", "D": "do you cry" },
+        "answer": "B",
+        "explanation": "Present perfect continuous for a past action with present results."
+      },
+      {
+        "id": 62,
+        "section": "SECTION 5: PHRASAL VERBS",
+        "question": "His mother never ________ him.",
+        "options": { "A": "gave up on", "B": "gave in to", "C": "gave onto", "D": "gave up to" },
+        "answer": "A",
+        "explanation": "'Give up on' means to lose faith in someone."
+      },
+      {
+        "id": 63,
+        "section": "SECTION 5: PRONOUNS",
+        "question": "That is the boy to ________ many awards were given.",
+        "options": { "A": "whom", "B": "who", "C": "which", "D": "whose" },
+        "answer": "A",
+        "explanation": "'Whom' is used after a preposition."
+      },
+      {
+        "id": 64,
+        "section": "SECTION 5: PHRASAL VERBS",
+        "question": "The dancing ________ the party.",
+        "options": { "A": "livened in", "B": "livened up", "C": "livened out", "D": "livened on" },
+        "answer": "B",
+        "explanation": "'Liven up' means to make more lively."
+      },
+      {
+        "id": 65,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "Punished them with a view ________ them.",
+        "options": { "A": "to correct", "B": "to correcting", "C": "on correcting", "D": "to have corrected" },
+        "answer": "B",
+        "explanation": "'With a view to' is followed by the -ing form."
+      },
+      {
+        "id": 66,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "He spends a ________ deal of time.",
+        "options": { "A": "large", "B": "great", "C": "big", "D": "huge" },
+        "answer": "B",
+        "explanation": "Standard idiom: 'A great deal'."
+      },
+      {
+        "id": 67,
+        "section": "SECTION 5: ADVERBS",
+        "question": "The champion has been ________.",
+        "options": { "A": "off form much", "B": "very much off-form most of the time", "C": "very most off-form", "D": "off-form very much" },
+        "answer": "B",
+        "explanation": "Correct order of adverbial frequency and manner."
+      },
+      {
+        "id": 68,
+        "section": "SECTION 5: VOCABULARY",
+        "question": "Labourers work on ________ days.",
+        "options": { "A": "alternate", "B": "alternative", "C": "alternately", "D": "alternating" },
+        "answer": "A",
+        "explanation": "'Alternate' means every other day."
+      },
+      {
+        "id": 69,
+        "section": "SECTION 5: ADVERBS",
+        "question": "Akwu reasons ________.",
+        "options": { "A": "differently totally", "B": "totally different", "C": "different totally", "D": "totally differently" },
+        "answer": "D",
+        "explanation": "Adverb modifying an adverb."
+      },
+      {
+        "id": 70,
+        "section": "SECTION 5: STRUCTURE",
+        "question": "Found the movie ________ boring.",
+        "options": { "A": "such", "B": "absolutely", "C": "rarely", "D": "much" },
+        "answer": "B",
+        "explanation": "'Absolutely' emphasizes the intensity of the adjective."
+      },
+      {
+        "id": 71,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "The [71] was filled to capacity.",
+        "options": { "A": "stadium", "B": "complex", "C": "venue", "D": "field" },
+        "answer": "A",
+        "explanation": "Location of the match."
+      },
+      {
+        "id": 72,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "The [72] were singing.",
+        "options": { "A": "spectators", "B": "viewers", "C": "audience", "D": "onlookers" },
+        "answer": "A",
+        "explanation": "People watching a sports event."
+      },
+      {
+        "id": 73,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "The two [73] filled in.",
+        "options": { "A": "groups", "B": "bodies", "C": "clubs", "D": "teams" },
+        "answer": "D",
+        "explanation": "Participants in the match."
+      },
+      {
+        "id": 74,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "Led by [74] and assistant.",
+        "options": { "A": "coach", "B": "linesman", "C": "referee", "D": "umpire" },
+        "answer": "C",
+        "explanation": "The main official on the field."
+      },
+      {
+        "id": 75,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "Their [75] cheered.",
+        "options": { "A": "admirers", "B": "lovers", "C": "followers", "D": "supporters" },
+        "answer": "D",
+        "explanation": "The fans of the teams."
+      },
+      {
+        "id": 76,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "Committed any [76].",
+        "options": { "A": "error", "B": "mistake", "C": "fault", "D": "foul" },
+        "answer": "D",
+        "explanation": "A breach of football rules."
+      },
+      {
+        "id": 77,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "Bad [77] could show red card.",
+        "options": { "A": "shove", "B": "tackle", "C": "shot", "D": "push" },
+        "answer": "B",
+        "explanation": "A dangerous move during play."
+      },
+      {
+        "id": 78,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "There was a match [78].",
+        "options": { "A": "commentator", "B": "manager", "C": "judge", "D": "commissioner" },
+        "answer": "D",
+        "explanation": "The person overseeing match rules/conduct."
+      },
+      {
+        "id": 79,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "End of [79] time.",
+        "options": { "A": "regulation", "B": "usual", "C": "stopping", "D": "correct" },
+        "answer": "A",
+        "explanation": "Standard match duration."
+      },
+      {
+        "id": 80,
+        "section": "SECTION 6: CLOZE (FOOTBALL)",
+        "question": "Neither team had [80].",
+        "options": { "A": "pulled", "B": "conceded", "C": "created", "D": "obtained" },
+        "answer": "B",
+        "explanation": "Neither team had scored or allowed a goal."
+      }
+    ]
+  }
+}
