@@ -136,6 +136,8 @@
   </style>
 </head>
 <body>
+
+<?php include 'topnavbar.php'; ?>
   <div class="container">
     <!-- Step indicator -->
     <div class="steps">
@@ -216,5 +218,7 @@
       window.location.href = `${redirectPage}?duration=${encodeURIComponent(duration)}`;
     }
   </script>
-</body>
+
+
+<?php include 'footer.php'; ?></body>
 </html>

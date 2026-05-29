@@ -139,6 +139,8 @@ if ($action === 'get_questions') {
     </style>
 </head>
 <body>
+
+<?php include 'topnavbar.php'; ?>
     <div class="container">
         <div class="steps">
             <span>Step 1: Your Details</span>
@@ -475,5 +477,7 @@ if ($action === 'get_questions') {
 
     loadQuestions();
 </script>
-</body>
+
+
+<?php include 'footer.php'; ?></body>
 </html>

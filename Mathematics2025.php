@@ -155,6 +155,8 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
     </style>
 </head>
 <body>
+
+<?php include 'topnavbar.php'; ?>
 <div class="container">
     <div class="steps">
         <span>Step 1: Your Details</span>
@@ -391,5 +393,7 @@ function exportPerformance() {
 
 window.onload = loadQuestions;
 </script>
-</body>
+
+
+<?php include 'footer.php'; ?></body>
 </html>
