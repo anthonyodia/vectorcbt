@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  # 1. Your Existing Web Application
+  web-app:
+    build: .
+    ports:
+      - "8000:8000" # Change this to match your app's port
+    depends_on:
+      - db        # Tells Docker to start the database BEFORE starting your app
+    environment:
+      - DB_HOST=db
+      - DB_USER=root
+      - DB_PASSWORD=my_secure_password
+      - DB_NAME=my_app_database
+
+  # 2. Your New MySQL Database
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: my_secure_password
+      MYSQL_DATABASE: my_app_database
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+# 3. Persistent Storage (Prevents data loss when containers stop)
+volumes:
+  mysql_data:
