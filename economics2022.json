@@ -1,0 +1,1354 @@
+[
+  {
+    "question_number": 1,
+    "context": "The Theory of the Firm",
+    "question": "The sufficient condition for a firm to be in equilibrium is that the",
+    "options": [
+      {
+        "label": "A",
+        "value": "marginal revenue curve is above the average revenue curve"
+      },
+      {
+        "label": "B",
+        "value": "marginal cost curve cuts the marginal revenue curve from below"
+      },
+      {
+        "label": "C",
+        "value": "firm must show that it is profitable"
+      },
+      {
+        "label": "D",
+        "value": "marginal cost must be equal to average revenue"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "The two conditions for a firm's profit maximization (equilibrium) are: 1. Marginal Cost (MC) = Marginal Revenue (MR). 2. The MC curve must cut the MR curve from below. The second condition (MC cutting MR from below) is the sufficient or second-order condition, ensuring that the firm is at a point of maximum profit rather than minimum profit."
+  },
+  {
+    "question_number": 2,
+    "context": "Price Controls",
+    "question": "A minimum price legislation is also called",
+    "options": [
+      {
+        "label": "A",
+        "value": "price ceiling"
+      },
+      {
+        "label": "B",
+        "value": "price mechanism"
+      },
+      {
+        "label": "C",
+        "value": "price control"
+      },
+      {
+        "label": "D",
+        "value": "price floor"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "A **price floor** is a minimum price set by the government above the equilibrium price, usually to protect producers (e.g., minimum wage or agricultural price supports). A price ceiling (A) is a maximum price."
+  },
+  {
+    "question_number": 3,
+    "context": "Theory of Demand",
+    "question": "Which of the following factors is not a cause of change in demand? Changes in",
+    "options": [
+      {
+        "label": "A",
+        "value": "the size of the population"
+      },
+      {
+        "label": "B",
+        "value": "price of the commodity"
+      },
+      {
+        "label": "C",
+        "value": "income distribution"
+      },
+      {
+        "label": "D",
+        "value": "taste and fashion"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "A change in the **price of the commodity** causes a change in the *quantity demanded* (a movement along the demand curve), not a change (shift) in the demand curve itself. Factors like population, income, and taste cause the entire demand curve to shift."
+  },
+  {
+    "question_number": 4,
+    "context": "Business Organizations",
+    "question": "Cooperative societies are formed mainly to",
+    "options": [
+      {
+        "label": "A",
+        "value": "break the monopolies of private companies"
+      },
+      {
+        "label": "B",
+        "value": "encourage thrift and credit among members"
+      },
+      {
+        "label": "C",
+        "value": "assist producers to maximize their profits"
+      },
+      {
+        "label": "D",
+        "value": "promote and maintain the welfare of members"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "The primary objective of cooperative societies is to promote and maintain the **economic and social welfare of their members** by providing mutual services and support, often at lower costs or better terms than private businesses."
+  },
+  {
+    "question_number": 5,
+    "context": "Price Elasticity of Demand",
+    "question": "If the quantity demanded of a commodity increases from 20 units to 30 units when there is an increase in price from $4.00 to $5.00, the elasticity of demand is",
+    "options": [
+      {
+        "label": "A",
+        "value": "2.00"
+      },
+      {
+        "label": "B",
+        "value": "0.50"
+      },
+      {
+        "label": "C",
+        "value": "0.65"
+      },
+      {
+        "label": "D",
+        "value": "2.50"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "A",
+    "explanation": "Elasticity of Demand ($E_d$) is calculated as: \n$$E_d = \\frac{\\text{Percentage Change in Quantity Demanded}}{\\text{Percentage Change in Price}}$$ \nPercentage Change in Quantity Demanded: $\\frac{30 - 20}{20} \\times 100 = 50\\%$\nPercentage Change in Price: $\\frac{5.00 - 4.00}{4.00} \\times 100 = 25\\%$\n$$E_d = \\frac{50\\%}{25\\%} = 2.00$$ \n*Note: The calculated value is 2.0. However, the Law of Demand suggests a price increase should lead to a quantity decrease, making this an unusual case (a Giffen good or an error in the question), but the mathematical calculation using the given figures is 2.0.*"
+  },
+  {
+    "question_number": 6,
+    "context": "Economic Policy",
+    "question": "The use of the bank rate, cash ratio and open market operations constitute",
+    "options": [
+      {
+        "label": "A",
+        "value": "monetary policy"
+      },
+      {
+        "label": "B",
+        "value": "export policy"
+      },
+      {
+        "label": "C",
+        "value": "fiscal policy"
+      },
+      {
+        "label": "D",
+        "value": "import policy"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "A",
+    "explanation": "**Monetary policy** refers to the actions undertaken by a central bank (like setting the bank rate, cash ratio, or using open market operations) to influence the availability and cost of money and credit to help promote national economic goals."
+  },
+  {
+    "question_number": 7,
+    "context": "Basic Economic Problem",
+    "question": "Scale of preference shows",
+    "options": [
+      {
+        "label": "A",
+        "value": "opportunity cost of goods consumed"
+      },
+      {
+        "label": "B",
+        "value": "incomes of consumers in order of size"
+      },
+      {
+        "label": "C",
+        "value": "utilities enjoyed by consumers"
+      },
+      {
+        "label": "D",
+        "value": "consumer's wants in order of priority"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "A **scale of preference** is a list of a consumer's or firm's wants arranged in order of importance or priority, which is necessary because resources are scarce."
+  },
+  {
+    "question_number": 8,
+    "context": "National Income Accounting",
+    "question": "Gross National Product (GNP) less the provision for the wear and tear of assets is the",
+    "options": [
+      {
+        "label": "A",
+        "value": "net factor income"
+      },
+      {
+        "label": "B",
+        "value": "net indirect taxes"
+      },
+      {
+        "label": "C",
+        "value": "net national product"
+      },
+      {
+        "label": "D",
+        "value": "net present value"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Net National Product (NNP)** is calculated by subtracting depreciation (provision for wear and tear) from the Gross National Product (GNP). The formula is: NNP = GNP - Depreciation."
+  },
+  {
+    "question_number": 9,
+    "context": "Theory of Production",
+    "question": "Which of the following factors is not a cause of diminishing returns?",
+    "options": [
+      {
+        "label": "A",
+        "value": "Increase in variable inputs"
+      },
+      {
+        "label": "B",
+        "value": "constant technology"
+      },
+      {
+        "label": "C",
+        "value": "Land fragmentation"
+      },
+      {
+        "label": "D",
+        "value": "Technological innovations"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "The Law of Diminishing Returns occurs when increasing a variable input while holding other inputs constant leads to a fall in marginal product. **Technological innovations** are the primary way to *shift the production function upward* and *overcome* diminishing returns, not cause it."
+  },
+  {
+    "question_number": 10,
+    "context": "Elasticity of Supply",
+    "question": "In perfectly elastic supply, the supply curve",
+    "options": [
+      {
+        "label": "A",
+        "value": "is vertical"
+      },
+      {
+        "label": "B",
+        "value": "is horizontal"
+      },
+      {
+        "label": "C",
+        "value": "slopes downward"
+      },
+      {
+        "label": "D",
+        "value": "slopes upward"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "**Perfectly elastic supply** ($E_s = \\infty$) means that at a specific price, any quantity can be supplied. This is represented by a **horizontal supply curve**." 
+  },
+  {
+    "question_number": 11,
+    "context": "National Income Accounting",
+    "question": "An example of transfer payments in national income accounting is",
+    "options": [
+      {
+        "label": "A",
+        "value": "money transferred to another country"
+      },
+      {
+        "label": "B",
+        "value": "transfer of funds from one bank to another"
+      },
+      {
+        "label": "C",
+        "value": "unemployment allowance paid to the citizens"
+      },
+      {
+        "label": "D",
+        "value": "the amount paid to a worker on transfer"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Transfer payments** are payments made by the government to individuals without any corresponding service or production being rendered in return. Unemployment allowance is a classic example; others include pensions and subsidies."
+  },
+  {
+    "question_number": 12,
+    "context": "Industry and Production",
+    "question": "Which of the following industries will add more value to primary products?",
+    "options": [
+      {
+        "label": "A",
+        "value": "Construction industry"
+      },
+      {
+        "label": "B",
+        "value": "Processing industry"
+      },
+      {
+        "label": "C",
+        "value": "Mining industry"
+      },
+      {
+        "label": "D",
+        "value": "Service industry"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "**Processing industries** (part of the secondary sector/manufacturing) are responsible for taking raw or primary products (e.g., crude oil, cocoa beans) and transforming them into finished or semi-finished goods, thereby adding significant value."
+  },
+  {
+    "question_number": 13,
+    "context": "Consumer Behavior",
+    "question": "A consumer of a single commodity is in equilibrium when",
+    "options": [
+      {
+        "label": "A",
+        "value": "his marginal utility is equal to zero"
+      },
+      {
+        "label": "B",
+        "value": "he can equate his demand with price"
+      },
+      {
+        "label": "C",
+        "value": "he equates marginal utility and price"
+      },
+      {
+        "label": "D",
+        "value": "he can equate his marginal and total utilities"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "For a single commodity, a consumer achieves equilibrium when the **Marginal Utility (MU)** derived from the last unit consumed is equal to the **Price (P)** of the commodity, i.e., $MU_x = P_x$. This is where satisfaction is maximized given the price."
+  },
+  {
+    "question_number": 14,
+    "context": "Balance of Payments",
+    "question": "Foreign investment and long term securities in the balance of payment accounts are recorded as",
+    "options": [
+      {
+        "label": "A",
+        "value": "current account transaction"
+      },
+      {
+        "label": "B",
+        "value": "capital account transaction"
+      },
+      {
+        "label": "C",
+        "value": "balance of trade account transaction"
+      },
+      {
+        "label": "D",
+        "value": "invisible balance account transaction"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "The **Capital Account** (or Financial Account, in modern terms) records all international purchases or sales of assets. Foreign direct investment (FDI) and portfolio investment (like long-term securities) are classic capital/financial account transactions, representing a change in the country's ownership of assets."
+  },
+  {
+    "question_number": 15,
+    "context": "Economic Integration",
+    "question": "A benefit that is present in all forms of economic integration is that",
+    "options": [
+      {
+        "label": "A",
+        "value": "common agricultural policy is in place"
+      },
+      {
+        "label": "B",
+        "value": "the size of the market is widened"
+      },
+      {
+        "label": "C",
+        "value": "factors of production are free to move and be moved"
+      },
+      {
+        "label": "D",
+        "value": "common currency is in use"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "The first step of integration (Preferential Trade Area) and all subsequent steps (up to Economic Union) involve removing trade barriers, which invariably leads to a **widening of the market size** for member countries. The other options refer to higher, more advanced stages of integration (Common Market, Economic Union)."
+  },
+  {
+    "question_number": 16,
+    "context": "Supply Concepts",
+    "question": "The production of rice and yam on the same farmland is an example of",
+    "options": [
+      {
+        "label": "A",
+        "value": "joint supply"
+      },
+      {
+        "label": "B",
+        "value": "composite supply"
+      },
+      {
+        "label": "C",
+        "value": "competitive supply"
+      },
+      {
+        "label": "D",
+        "value": "market supply"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Competitive supply** occurs when two or more goods require the same resources (in this case, farmland) for their production. Increasing the output of one (rice) means decreasing the output of the other (yam)."
+  },
+  {
+    "question_number": 17,
+    "context": "Price Controls",
+    "question": "If the government imposes a minimum price on a commodity",
+    "options": [
+      {
+        "label": "A",
+        "value": "market surplus occurs"
+      },
+      {
+        "label": "B",
+        "value": "the market will be cleared in the short-run"
+      },
+      {
+        "label": "C",
+        "value": "excess demand occurs"
+      },
+      {
+        "label": "D",
+        "value": "government regulation is no longer needed"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "A",
+    "explanation": "A **minimum price (price floor)** is set *above* the equilibrium price. At this higher price, the quantity supplied exceeds the quantity demanded, leading to a **market surplus** (excess supply)."
+  },
+  {
+    "question_number": 18,
+    "context": "Division of Labour",
+    "question": "In manufacturing, division of labour may be hindered by",
+    "options": [
+      {
+        "label": "A",
+        "value": "excessive demand for the product"
+      },
+      {
+        "label": "B",
+        "value": "low level of technology"
+      },
+      {
+        "label": "C",
+        "value": "excess supply of labour"
+      },
+      {
+        "label": "D",
+        "value": "increase in the export of goods"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "**Low level of technology** (B) hinders the complexity and specialization required for effective division of labor. **Excessive demand** (A) and **increased exports** (D) encourage more division of labor, as it increases the size of the market."
+  },
+  {
+    "question_number": 19,
+    "context": "Cost of Production",
+    "question": "The production cost that varies inversely with output is the",
+    "options": [
+      {
+        "label": "A",
+        "value": "total fixed cost"
+      },
+      {
+        "label": "B",
+        "value": "marginal cost"
+      },
+      {
+        "label": "C",
+        "value": "average fixed cost"
+      },
+      {
+        "label": "D",
+        "value": "average cost"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Average Fixed Cost (AFC)** is calculated as Total Fixed Cost (TFC) divided by output (Q): $AFC = \\frac{TFC}{Q}$. Since TFC is constant, as output (Q) increases, the AFC must necessarily decrease, meaning it varies inversely with output."
+  },
+  {
+    "question_number": 20,
+    "context": "Cost of Production",
+    "question": "A firm that closes down will still incur",
+    "options": [
+      {
+        "label": "A",
+        "value": "variable cost"
+      },
+      {
+        "label": "B",
+        "value": "fixed cost"
+      },
+      {
+        "label": "C",
+        "value": "total cost"
+      },
+      {
+        "label": "D",
+        "value": "marginal cost"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "When a firm closes down in the short run (shuts down), it avoids **variable costs** (like wages for labor or raw materials), but it must still pay **fixed costs** (like rent, insurance, or interest payments) which are unavoidable until the long run."
+  },
+  {
+    "question_number": 21,
+    "context": "Business Organizations",
+    "question": "A disadvantage of a joint-stock company is",
+    "options": [
+      {
+        "label": "A",
+        "value": "unlimited liability"
+      },
+      {
+        "label": "B",
+        "value": "limited liability"
+      },
+      {
+        "label": "C",
+        "value": "lack of continuity when a shareholder dies"
+      },
+      {
+        "label": "D",
+        "value": "limited control in management by shareholders"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "In a large **joint-stock company**, ownership (by shareholders) is separated from control (by professional managers/directors). This leads to **limited control in management by individual shareholders**, especially minority ones, which is a major drawback."
+  },
+  {
+    "question_number": 22,
+    "context": "Distribution/Commerce",
+    "question": "The middlemen is responsible for",
+    "options": [
+      {
+        "label": "A",
+        "value": "providing research facilities"
+      },
+      {
+        "label": "B",
+        "value": "purchasing raw materials"
+      },
+      {
+        "label": "C",
+        "value": "designing the product"
+      },
+      {
+        "label": "D",
+        "value": "breaking the bulk"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "Middlemen (wholesalers and retailers) help bridge the gap between producers and consumers. **Breaking the bulk** is a key function, where they buy large quantities from producers and sell them in smaller, manageable units to retailers or consumers."
+  },
+  {
+    "question_number": 23,
+    "context": "Distribution/Commerce",
+    "question": "A major function of the retailer is to",
+    "options": [
+      {
+        "label": "A",
+        "value": "grant credit to the wholesaler"
+      },
+      {
+        "label": "B",
+        "value": "break bulk and sell products in small units"
+      },
+      {
+        "label": "C",
+        "value": "reduce cost of distribution"
+      },
+      {
+        "label": "D",
+        "value": "generate demand for products through advertisement"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "The most significant role of the **retailer** is to complete the distribution chain by purchasing goods in slightly larger quantities from the wholesaler and then **breaking the bulk** further to sell in very **small units** directly to the final consumer."
+  },
+  {
+    "question_number": 24,
+    "context": "Population",
+    "question": "A positive effect of a rapid population increase is",
+    "options": [
+      {
+        "label": "A",
+        "value": "an excessive budget deficit"
+      },
+      {
+        "label": "B",
+        "value": "a reduction in standard of living"
+      },
+      {
+        "label": "C",
+        "value": "a wider market for goods and services"
+      },
+      {
+        "label": "D",
+        "value": "a higher dependency ratio"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "A rapid population increase means more consumers. This expands the demand base, creating a **wider market** for goods and services, which can incentivize production and investment."
+  },
+  {
+    "question_number": 25,
+    "context": "Labour and Efficiency",
+    "question": "Which of the following factors may not affect the efficiency of labour?",
+    "options": [
+      {
+        "label": "A",
+        "value": "Education and training"
+      },
+      {
+        "label": "B",
+        "value": "Provision of welfare service"
+      },
+      {
+        "label": "C",
+        "value": "Race and colour of workforce"
+      },
+      {
+        "label": "D",
+        "value": "Quality of other factor inputs"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Race and colour** are not economic factors that affect a worker's efficiency or productivity. Education, welfare, and the quality of capital/technology (other factor inputs) all directly impact efficiency."
+  },
+  {
+    "question_number": 26,
+    "context": "Unemployment",
+    "question": "The type of unemployment found among workers who leave their jobs in search of other jobs is termed",
+    "options": [
+      {
+        "label": "A",
+        "value": "seasonal unemployment"
+      },
+      {
+        "label": "B",
+        "value": "structural unemployment"
+      },
+      {
+        "label": "C",
+        "value": "frictional unemployment"
+      },
+      {
+        "label": "D",
+        "value": "cyclical unemployment"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Frictional unemployment** is temporary unemployment that results from the time spent matching job seekers with available jobs. It occurs when workers are voluntarily moving between jobs or searching for their first job."
+  },
+  {
+    "question_number": 27,
+    "context": "Agricultural Marketing",
+    "question": "The main objective of marketing boards is to",
+    "options": [
+      {
+        "label": "A",
+        "value": "accumulate revenue for government"
+      },
+      {
+        "label": "B",
+        "value": "educate farmers on pricing of cash crops"
+      },
+      {
+        "label": "C",
+        "value": "stabilize the incomes of cash crop farmers"
+      },
+      {
+        "label": "D",
+        "value": "provide warehousing facilities"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "Historically, the main goal of marketing boards was to buy cash crops from local farmers at guaranteed prices and sell them on the international market, thus **stabilizing farmers' incomes** against volatile world price fluctuations."
+  },
+  {
+    "question_number": 28,
+    "context": "Economies of Scale",
+    "question": "The use of mass advertising media enable a firm to enjoy",
+    "options": [
+      {
+        "label": "A",
+        "value": "managerial economies"
+      },
+      {
+        "label": "B",
+        "value": "financial economies"
+      },
+      {
+        "label": "C",
+        "value": "marketing economies"
+      },
+      {
+        "label": "D",
+        "value": "welfare economies"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Marketing economies** are achieved by large firms because the average cost of advertising or distribution falls as the scale of output increases (e.g., the cost of a national TV ad is spread over millions of units sold)."
+  },
+  {
+    "question_number": 29,
+    "context": "Economic Development",
+    "question": "Increasing national income without effective control of population size in a country can lead to",
+    "options": [
+      {
+        "label": "A",
+        "value": "higher per capita income"
+      },
+      {
+        "label": "B",
+        "value": "increase in poverty"
+      },
+      {
+        "label": "C",
+        "value": "increased outflow of aid"
+      },
+      {
+        "label": "D",
+        "value": "underutilization of resources"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "If the **rate of population growth exceeds the rate of national income growth**, the national income is divided among more people, leading to a fall in per capita income and potentially an **increase in poverty**."
+  },
+  {
+    "question_number": 30,
+    "context": "Money",
+    "question": "An example of commodity money is",
+    "options": [
+      {
+        "label": "A",
+        "value": "currency note"
+      },
+      {
+        "label": "B",
+        "value": "mobile money"
+      },
+      {
+        "label": "C",
+        "value": "cheques"
+      },
+      {
+        "label": "D",
+        "value": "silver"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "**Commodity money** is an item that has intrinsic value in itself, in addition to its use as money. **Silver** and gold are classic examples. Currency notes and checks are forms of fiat money or representative money."
+  },
+  {
+    "question_number": 31,
+    "context": "Inflation",
+    "question": "If inflation is anticipated, people may",
+    "options": [
+      {
+        "label": "A",
+        "value": "save more money"
+      },
+      {
+        "label": "B",
+        "value": "spend more money"
+      },
+      {
+        "label": "C",
+        "value": "give out more loans"
+      },
+      {
+        "label": "D",
+        "value": "spend less money"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "When inflation is anticipated, people expect prices to rise in the future. To avoid paying higher prices later, they will bring forward their purchases, leading to a surge in consumption, i.e., they **spend more money** now."
+  },
+  {
+    "question_number": 32,
+    "context": "Monetary Policy",
+    "question": "If the Central Bank increases its bank rate",
+    "options": [
+      {
+        "label": "A",
+        "value": "many banks will shut down their operations"
+      },
+      {
+        "label": "B",
+        "value": "customers will borrow more from banks"
+      },
+      {
+        "label": "C",
+        "value": "the supply of money may be reduced"
+      },
+      {
+        "label": "D",
+        "value": "interest charges by banks will fall"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "The **bank rate** (or policy rate) is the interest rate at which the Central Bank lends to commercial banks. Increasing this rate causes commercial banks to raise their own lending rates, discouraging borrowing and ultimately causing a reduction in the **money supply** in the economy (a contractionary policy)."
+  },
+  {
+    "question_number": 33,
+    "context": "Banking",
+    "question": "Commercial banks are different from development banks in that the latter",
+    "options": [
+      {
+        "label": "A",
+        "value": "lend on short-term basis"
+      },
+      {
+        "label": "B",
+        "value": "pay interest on current accounts only"
+      },
+      {
+        "label": "C",
+        "value": "are mostly joint-stock companies"
+      },
+      {
+        "label": "D",
+        "value": "do not deal in foreign currencies"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "This question has a minor flaw, as both types can be joint-stock companies. However, in the context of typical exam questions: **Commercial banks** focus on short-term lending, while **development banks** (A.K.A. development finance institutions) primarily provide long-term loans for development projects."
+  },
+  {
+    "question_number": 34,
+    "context": "Fiscal Policy",
+    "question": "Fiscal policy measures imply a change in",
+    "options": [
+      {
+        "label": "A",
+        "value": "only taxation to control aggregate demand"
+      },
+      {
+        "label": "B",
+        "value": "bank rate to infulence lending"
+      },
+      {
+        "label": "C",
+        "value": "only government expenditure to regulate an economy"
+      },
+      {
+        "label": "D",
+        "value": "government revenue and expenditure to regulate an economy"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "**Fiscal policy** is the use of **government revenue (taxation)** and **government expenditure** to influence the aggregate demand and overall economic activity of a country. (B) describes monetary policy."
+  },
+  {
+    "question_number": 35,
+    "context": "Tax Incidence",
+    "question": "If demand is perfectly inelastic, a tax imposed",
+    "options": [
+      {
+        "label": "A",
+        "value": "is borne only by the producer"
+      },
+      {
+        "label": "B",
+        "value": "is borne only by the consumer"
+      },
+      {
+        "label": "C",
+        "value": "will have greater impact on the seller"
+      },
+      {
+        "label": "D",
+        "value": "will have no impact on the buyer"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "If **demand is perfectly inelastic** ($E_d = 0$), consumers will buy the same quantity regardless of price. Therefore, the seller can pass the full burden of the tax onto the consumer, meaning the tax **is borne only by the consumer**."
+  },
+  {
+    "question_number": 36,
+    "context": "Economic Development",
+    "question": "Development planning focuses mainly on",
+    "options": [
+      {
+        "label": "A",
+        "value": "allocation of resources by the entrepreneurs"
+      },
+      {
+        "label": "B",
+        "value": "mapping out strategies by the government"
+      },
+      {
+        "label": "C",
+        "value": "developing some areas of the country by the government"
+      },
+      {
+        "label": "D",
+        "value": "deciding on which types of homes to build"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "**Development planning** is the process where a government or planning authority formulates **strategies, targets, and policies** for the efficient allocation of resources to achieve specific long-term economic and social development goals."
+  },
+  {
+    "question_number": 37,
+    "context": "Economic Development",
+    "question": "Political instability hinders economic growth because it",
+    "options": [
+      {
+        "label": "A",
+        "value": "scares many people from politics"
+      },
+      {
+        "label": "B",
+        "value": "prevent politicians from playing effective politics"
+      },
+      {
+        "label": "C",
+        "value": "discourage entrepreneurs generally"
+      },
+      {
+        "label": "D",
+        "value": "encourages urban-rural migration"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "Political instability creates **uncertainty** and **risk**. This raises the cost of doing business and increases the chance of expropriation, which severely **discourages domestic and foreign entrepreneurs/investors** from making the long-term commitments necessary for economic growth."
+  },
+  {
+    "question_number": 38,
+    "context": "Balance of Payments",
+    "question": "Foreign investment and long term securities in the balance of payment accounts are recorded as",
+    "options": [
+      {
+        "label": "A",
+        "value": "current account transaction"
+      },
+      {
+        "label": "B",
+        "value": "capital account transaction"
+      },
+      {
+        "label": "C",
+        "value": "balance of trade account transaction"
+      },
+      {
+        "label": "D",
+        "value": "invisible balance account transaction"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "This is a repeat of Q14. **Capital Account** (or Financial Account) records international asset flows, including foreign investment (FDI) and long-term securities."
+  },
+  {
+    "question_number": 39,
+    "context": "International Trade",
+    "question": "An argument for the use of commercial policy rest on the need to",
+    "options": [
+      {
+        "label": "A",
+        "value": "make imported goods affordable"
+      },
+      {
+        "label": "B",
+        "value": "reduce domestic unemployment"
+      },
+      {
+        "label": "C",
+        "value": "encourage the importation of non-essential goods"
+      },
+      {
+        "label": "D",
+        "value": "make a country enjoy absolute advantage in production of all goods"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "A key argument for protectionist commercial policies (like tariffs or quotas) is to shelter domestic industries from foreign competition. By boosting domestic production, the goal is to **reduce domestic unemployment** by creating more jobs locally."
+  },
+  {
+    "question_number": 40,
+    "context": "International Trade",
+    "question": "Which of the following measures can lead to an increase in exports?",
+    "options": [
+      {
+        "label": "A",
+        "value": "Increase in export duties"
+      },
+      {
+        "label": "B",
+        "value": "Increase in excise duties"
+      },
+      {
+        "label": "C",
+        "value": "Depreciation of currency"
+      },
+      {
+        "label": "D",
+        "value": "Total ban on imports"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "A **depreciation of currency** means the domestic currency is worth less in terms of foreign currency. This makes a country's exports cheaper to foreign buyers, thereby leading to an **increase in exports**."
+  },
+  {
+    "question_number": 41,
+    "context": "International Trade",
+    "question": "Given that a country's index of export price is 180 and that of import is 200, the terms of trade is",
+    "options": [
+      {
+        "label": "A",
+        "value": "0.09"
+      },
+      {
+        "label": "B",
+        "value": "2.00"
+      },
+      {
+        "label": "C",
+        "value": "90.00"
+      },
+      {
+        "label": "D",
+        "value": "380.00"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "The formula for the Terms of Trade (ToT) is:\n$$\\text{ToT} = \\frac{\\text{Index of Export Prices}}{\\text{Index of Import Prices}} \\times 100$$ \n$$\\text{ToT} = \\frac{180}{200} \\times 100 = 0.9 \\times 100 = 90.00$$"
+  },
+  {
+    "question_number": 42,
+    "context": "Economic Integration",
+    "question": "A benefit that is present in all forms of economic integration is that",
+    "options": [
+      {
+        "label": "A",
+        "value": "factors of production are free to move and be moved"
+      },
+      {
+        "label": "B",
+        "value": "common currency is in use"
+      },
+      {
+        "label": "C",
+        "value": "common agricultural policy is in place"
+      },
+      {
+        "label": "D",
+        "value": "the size of the market is widened"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "This is a repeat of Q15. All forms of economic integration, even the most basic (Preferential Trade Area), involve lowering barriers to trade among members, thereby **widening the size of the market**."
+  },
+  {
+    "question_number": 43,
+    "context": "International Organizations",
+    "question": "The main function of the African Development Bank (AFDB) is to",
+    "options": [
+      {
+        "label": "A",
+        "value": "promote free trade and development among members"
+      },
+      {
+        "label": "B",
+        "value": "provide loans to finance balance of payment problems"
+      },
+      {
+        "label": "C",
+        "value": "provide loans to members to finance viable projects"
+      },
+      {
+        "label": "D",
+        "value": "help members overcome their internal problems"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "The primary objective of the AFDB is to contribute to the sustainable economic development and social progress of its regional members. It achieves this primarily by **providing loans and equity investments to finance viable development projects**."
+  },
+  {
+    "question_number": 44,
+    "context": "Derived Demand",
+    "question": "If petrol is no longer needed to produce energy, then demand for crude oil",
+    "options": [
+      {
+        "label": "A",
+        "value": "will increase"
+      },
+      {
+        "label": "B",
+        "value": "will remain constant"
+      },
+      {
+        "label": "C",
+        "value": "may be limited to chemical industries"
+      },
+      {
+        "label": "D",
+        "value": "will make producing countries richer"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "The demand for crude oil is a **derived demand**, largely dependent on the demand for its refined products, like petrol, for energy. If petrol's energy use ceases, the total demand for crude oil will drastically fall and **may be limited to non-energy uses** (like plastics and chemicals)."
+  },
+  {
+    "question_number": 45,
+    "context": "Production Possibility Curve (PPC)",
+    "question": "There is unemployment of resources when production is",
+    "options": [
+      {
+        "label": "A",
+        "value": "within the production possibility curve"
+      },
+      {
+        "label": "B",
+        "value": "outside the production possibility curve"
+      },
+      {
+        "label": "C",
+        "value": "along the production possibility curve"
+      },
+      {
+        "label": "D",
+        "value": "adequate to meet market demand"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "A",
+    "explanation": "Points **within the PPC** (Production Possibility Curve) represent inefficient production, meaning the economy is not utilizing all its resources fully, leading to **unemployment of resources** (like labor or capital)."
+  },
+  {
+    "question_number": 46,
+    "context": "Factors of Production",
+    "question": "A major characteristic of natural resources is that they",
+    "options": [
+      {
+        "label": "A",
+        "value": "are unlimited in supply"
+      },
+      {
+        "label": "B",
+        "value": "have high cost of production"
+      },
+      {
+        "label": "C",
+        "value": "are free gifts of nature"
+      },
+      {
+        "label": "D",
+        "value": "do not command any price"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "**Land** (natural resources) is defined in economics as all gifts of nature, which are not produced by man. They are considered **free gifts of nature**."
+  },
+  {
+    "question_number": 47,
+    "context": "Economic Systems",
+    "question": "A major disadvantage of a capitalist economy is that it",
+    "options": [
+      {
+        "label": "A",
+        "value": "leads to low production of goods and services"
+      },
+      {
+        "label": "B",
+        "value": "requires large number of officials to operate"
+      },
+      {
+        "label": "C",
+        "value": "considers individual consumers' satisfaction"
+      },
+      {
+        "label": "D",
+        "value": "worsens income inequality among the citizens"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "Capitalism rewards efficiency and successful risk-taking, but the pursuit of profit often results in a massive gap between the rich and the poor, thereby **worsening income inequality**."
+  },
+  {
+    "question_number": 48,
+    "context": "National Income Accounting",
+    "question": "The mining sector of an economy contributes 60% to the Gross Domestic Product (GDP). If the GDP is $540, what is the contribution of the mining sector?",
+    "options": [
+      {
+        "label": "A",
+        "value": "$ 90.00"
+      },
+      {
+        "label": "B",
+        "value": "$ 180.00"
+      },
+      {
+        "label": "C",
+        "value": "$ 324.00"
+      },
+      {
+        "label": "D",
+        "value": "$ 350.00"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "C",
+    "explanation": "Contribution = $60\\%$ of $GDP$\nContribution = $60\\% \\times 540$\n$$\\text{Contribution} = 0.60 \\times 540 = \\$ 324.00$$"
+  },
+  {
+    "question_number": 49,
+    "context": "Types of Demand",
+    "question": "The increase in the demand for a commodity may lead to a decrease in the demand for another if both are",
+    "options": [
+      {
+        "label": "A",
+        "value": "in complementary demand"
+      },
+      {
+        "label": "B",
+        "value": "of the same quality"
+      },
+      {
+        "label": "C",
+        "value": "in composite demand"
+      },
+      {
+        "label": "D",
+        "value": "in competitive demand"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "D",
+    "explanation": "**Competitive demand** (or demand for substitutes) means the goods serve the same purpose (e.g., Coke and Pepsi). An increase in demand for one (Coke) will lead to a decrease in demand for the other (Pepsi), as consumers switch to the preferred good."
+  },
+  {
+    "question_number": 50,
+    "context": "Demand Curve",
+    "question": "The demand curve for goods of ostentation is usually",
+    "options": [
+      {
+        "label": "A",
+        "value": "negatively sloped"
+      },
+      {
+        "label": "B",
+        "value": "positively sloped"
+      },
+      {
+        "label": "C",
+        "value": "vertical"
+      },
+      {
+        "label": "D",
+        "value": "horizontal"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "Goods of ostentation (Veblen goods/luxury items) violate the law of demand. Their demand often increases as their price increases because consumers use the high price as a status symbol. This results in a **positively sloped** (upward-sloping) demand curve."
+  },
+  {
+    "question_number": 51,
+    "context": "Theory of Supply",
+    "question": "The supply curve of a locally-produced good may shift to the right if",
+    "options": [
+      {
+        "label": "A",
+        "value": "there is an increase in taxes on inputs"
+      },
+      {
+        "label": "B",
+        "value": "government increases subsidies"
+      },
+      {
+        "label": "C",
+        "value": "rural-urban migration is encouraged"
+      },
+      {
+        "label": "D",
+        "value": "the price of the commodity increases"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "B",
+    "explanation": "A shift to the **right** indicates an **increase in supply**. An increase in taxes (A) increases production cost and shifts supply left. **Increased subsidies** (B) lower the effective cost of production for the firm, encouraging greater supply."
+  },
+  {
+    "question_number": 52,
+    "context": "Types of Supply",
+    "question": "An increase in the price of commodity X led to a fall in the supply of commodity Y. Commodities X and Y are",
+    "options": [
+      {
+        "label": "A",
+        "value": "competitive goods"
+      },
+      {
+        "label": "B",
+        "value": "composite goods"
+      },
+      {
+        "label": "C",
+        "value": "jointly supplied"
+      },
+      {
+        "label": "D",
+        "value": "derived goods"
+      }
+    ],
+    "source": "WAEC 2022",
+    "answer": "A",
+    "explanation": "This describes **competitive supply**. If the price of X increases, the producer switches more resources to produce X (which is now more profitable), leading to a reduction in the supply of Y, as seen in Q16 (rice and yam on the same farmland)."
+  }
+]

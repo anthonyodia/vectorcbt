@@ -1,0 +1,605 @@
+{
+  "exam_title": "WAEC 2022 Christian Religious Studies (CRS)",
+  "questions": [
+    {
+      "id": 1,
+      "text": "According to the second creation story, which of the following were formed out of the ground?",
+      "options": {
+        "A": "Sun, moon and stars",
+        "B": "Firmaments and light",
+        "C": "Beast of the field and birds",
+        "D": "Fishes and all sea monsters"
+      },
+      "answer": "C",
+      "explanation": "The second creation story (Genesis 2:19) states that the Lord God 'formed out of the ground all the **beast of the field** and all the **birds of the air**...'"
+    },
+    {
+      "id": 2,
+      "text": "Which of the following is the reason for which God decided to make a helper fit for man in the garden of Eden? For",
+      "options": {
+        "A": "communication",
+        "B": "companionship",
+        "C": "fellowship",
+        "D": "procreation"
+      },
+      "answer": "B",
+      "explanation": "Genesis 2:18 states, 'It is not good that the man should be **alone**; I will make him a helper fit for him.' The primary purpose was to provide **companionship**."
+    },
+    {
+      "id": 3,
+      "text": "The supremacy of God during creation was manifested by His",
+      "options": {
+        "A": "consent that a thing be done",
+        "B": "command of let there be",
+        "C": "creation of human kind",
+        "D": "control over the heavens"
+      },
+      "answer": "B",
+      "explanation": "In Genesis 1, God's power and supremacy are manifested by the simple, sovereign **command, 'Let there be,'** which brings creation into existence instantly."
+    },
+    {
+      "id": 4,
+      "text": "Apart from Joseph who was already in Egypt, the offspring of Jacob that migrated from Canaan to Egypt numbered",
+      "options": {
+        "A": "Sixty",
+        "B": "Seventy",
+        "C": "Eighty",
+        "D": "Ninety"
+      },
+      "answer": "B",
+      "explanation": "The total number of Jacob's household that came to Egypt, including Jacob, was 70 (Genesis 46:27). The question refers to the size of the family group that entered Egypt, making **Seventy** the standard biblical answer for this migration."
+    },
+    {
+      "id": 5,
+      "text": "The name Manasseh which Joseph gave to his first son means",
+      "options": {
+        "A": "a beloved son of Joseph's wife",
+        "B": "God had made Joseph forget his hardship",
+        "C": "God had delivered Joseph from death",
+        "D": "God had forgotten Joseph and his family"
+      },
+      "answer": "B",
+      "explanation": "In Genesis 41:51, Joseph named his son **Manasseh**, saying, 'God has made me **forget** all my hardship and all my father's house.' The name means 'causing to forget.'"
+    },
+    {
+      "id": 6,
+      "text": "And the Lord said to Moses see, I make you as God to Pharaoh; and Aaron your brother - shall. which of the following roles was Aaron assigned?",
+      "options": {
+        "A": "prophet",
+        "B": "priest",
+        "C": "seer",
+        "D": "servant"
+      },
+      "answer": "A",
+      "explanation": "Exodus 7:1 states, '...Aaron your brother shall be your **prophet**.' Aaron's role was to be the spokesman (prophet) for Moses (who was 'as God' to Pharaoh)."
+    },
+    {
+      "id": 7,
+      "text": "The presence of God among the Israelites is demonstrated by the symbol of",
+      "options": {
+        "A": "fire and cloud",
+        "B": "smoke and water",
+        "C": "wind and dust",
+        "D": "clouds and winds"
+      },
+      "answer": "A",
+      "explanation": "God led and accompanied the Israelites in the wilderness with a **pillar of cloud** by day and a **pillar of fire** by night (Exodus 13:21-22), symbolizing His divine presence."
+    },
+    {
+      "id": 8,
+      "text": "Joshua's success in the promised land was attributed to the fact that he was",
+      "options": {
+        "A": "carefree about keeping the laws of God",
+        "B": "strong and of good courage",
+        "C": "anointed by Moses personally",
+        "D": "able to take responsibilities"
+      },
+      "answer": "B",
+      "explanation": "In Joshua 1:6, 7, and 9, the Lord repeatedly instructs Joshua to **'Be strong and of good courage'** as the requirement for his success in conquering the land."
+    },
+    {
+      "id": 9,
+      "text": "During the mission of the twelve spies, which of the following tribes did Joshua represent?",
+      "options": {
+        "A": "Ephraim",
+        "B": "Judah",
+        "C": "Reuben",
+        "D": "Levi"
+      },
+      "answer": "A",
+      "explanation": "Numbers 13:8 identifies Joshua as representing the tribe of **Ephraim**. Caleb, the other faithful spy, represented Judah."
+    },
+    {
+      "id": 10,
+      "text": "Who among the following Kings did God sell the people of Israel to and were oppressed for twenty years?",
+      "options": {
+        "A": "Ahab",
+        "B": "Jabin",
+        "C": "Nebuchadnezzar",
+        "D": "Asa"
+      },
+      "answer": "B",
+      "explanation": "Judges 4:3 states that after the death of Ehud, the Lord sold Israel into the hand of **Jabin king of Canaan**, who oppressed them cruelly for **twenty years**."
+    },
+    {
+      "id": 11,
+      "text": "Sisera, the commander was killed by Jael whose husband as a",
+      "options": {
+        "A": "Philistine",
+        "B": "Israelite",
+        "C": "Kenite",
+        "D": "Jebusite"
+      },
+      "answer": "C",
+      "explanation": "Sisera fled to the tent of Jael, the wife of Heber the **Kenite** (Judges 4:17)."
+    },
+    {
+      "id": 12,
+      "text": "Which of the following was the major sin attributed to Hophni and Phinehas? They",
+      "options": {
+        "A": "treated the offering of the Lord with contempt",
+        "B": "took bribes and has no regard for justice",
+        "C": "engaged in idolatry and adultery",
+        "D": "deposed their father from priesthood"
+      },
+      "answer": "A",
+      "explanation": "1 Samuel 2:12-17 describes their sin as using their priestly position to take the best parts of the sacrifices irreverently, which meant **treating the offering of the Lord with contempt**."
+    },
+    {
+      "id": 13,
+      "text": "Samuel was said to have failed in matters of parental responsibility because he",
+      "options": {
+        "A": "made his children to succeed him",
+        "B": "made his children judges over Israel",
+        "C": "did not bring up his children in his way",
+        "D": "could not maintain unity in his family"
+      },
+      "answer": "B",
+      "explanation": "1 Samuel 8:1-3 records that Samuel made his sons judges, but they perverted justice and took bribes, leading the Israelites to demand a king. His failure was placing his corrupt sons in power."
+    },
+    {
+      "id": 14,
+      "text": "Though you are little in your own eyes, are you not the head of the tribes of Israeli On which occasion was this statement made?",
+      "options": {
+        "A": "During the sacrifice at Michmash",
+        "B": "When the sons of Samuel disobeyed God",
+        "C": "When the evil spirit tormented Saul",
+        "D": "During the war between Israel and AmaleK"
+      },
+      "answer": "D",
+      "explanation": "Samuel said this to King Saul as part of his strong rebuke for Saul's disobedience in sparing King Agag and the best of the livestock after the war against the **Amalekites** (1 Samuel 15:17)."
+    },
+    {
+      "id": 15,
+      "text": "One important lesson that could be learnt from David when he spared the life of Saul is",
+      "options": {
+        "A": "that we must not insult kings despite their wickedness",
+        "B": "to avoid retaliation for wrong done against us",
+        "C": "to pray for all who hate you",
+        "D": "that no king should be killed by his subject."
+      },
+      "answer": "B",
+      "explanation": "David spared Saul's life twice (1 Samuel 24, 26) despite Saul actively hunting him. This demonstrates a core religious and ethical principle of non-retaliation and leaving vengeance to God."
+    },
+    {
+      "id": 16,
+      "text": "Which of the following names was given to Solomon by the prophet Nathan when he was born?",
+      "options": {
+        "A": "Ammon",
+        "B": "Absalom",
+        "C": "Jedediah",
+        "D": "Tain or"
+      },
+      "answer": "C",
+      "explanation": "2 Samuel 12:25 records that Nathan the prophet named him **Jedediah** on the Lord's command, meaning 'beloved of the Lord'."
+    },
+    {
+      "id": 17,
+      "text": "And God said 'Ask what I shall give you' To whom and where was this request made?",
+      "options": {
+        "A": "David at Hebron",
+        "B": "Solomon at Hebron",
+        "C": "David at Gibeon",
+        "D": "Solomon at Gibeon"
+      },
+      "answer": "D",
+      "explanation": "God appeared to King **Solomon** in a dream at **Gibeon** and made this offer (1 Kings 3:5)."
+    },
+    {
+      "id": 18,
+      "text": "A major mistake attributed to Rehoboam was his decision to",
+      "options": {
+        "A": "dare Jeroboam to divide the kingdom",
+        "B": "lead Israel to war without God's approval",
+        "C": "worship other gods and marry foreign wives",
+        "D": "follow the negative footsteps of Solomon."
+      },
+      "answer": "A",
+      "explanation": "Rehoboam's mistake was following the advice of his younger, foolish counselors to make the people's burden heavier, which directly led to the secession of the ten northern tribes under **Jeroboam** (1 Kings 12:1-19). The political mistake was his harsh response to Jeroboam's plea."
+    },
+    {
+      "id": 19,
+      "text": "The reason for which the building of the temple came into fulfillment during the time of Solomon was that",
+      "options": {
+        "A": "David was guilty for shedding blood",
+        "B": "there was relative peace during his reign",
+        "C": "his father had arranged for building materials",
+        "D": "he offered enough sacrifices to God"
+      },
+      "answer": "A",
+      "explanation": "God told David that he would not build the temple because he was a **man of war who had shed much blood** (1 Chronicles 22:8). Therefore, his son Solomon, a man of peace, was chosen to complete the task."
+    },
+    {
+      "id": 20,
+      "text": "When Jezebel decided to cut off the prophets of the Lord, who among the following took a hundred prophets and hid them in a cave?",
+      "options": {
+        "A": "Elijah",
+        "B": "Elisha",
+        "C": "Nathan",
+        "D": "Obadiah"
+      },
+      "answer": "D",
+      "explanation": "During Jezebel’s persecution, **Obadiah**, who was in charge of King Ahab’s palace, **took a hundred prophets and hid them in two caves** (50 in each) and supplied them with food and water (1 Kings 18:4)."
+    },
+    {
+      "id": 21,
+      "text": "Elijah ran from Mount.Carmel to the city of Jezreel because he was",
+      "options": {
+        "A": "chased by the Baal prophets",
+        "B": "overjoyed-by his journey",
+        "C": "pursued by Ahab the king",
+        "D": "possessed by the spirit of God"
+      },
+      "answer": "D",
+      "explanation": "After the contest on Mount Carmel, Elijah was running **before** Ahab's chariot to Jezreel because **'the hand of the Lord was upon Elijah'** (1 Kings 18:46), indicating he was supernaturally empowered by the Spirit of God."
+    },
+    {
+      "id": 22,
+      "text": "Proclaim a fast and set Naboth on high among the people. Which of the following was Naboth charged with after the proclamation? He was charged with",
+      "options": {
+        "A": "claiming to be the messiah and king",
+        "B": "cursing God and the King",
+        "C": "instigating riot among the people",
+        "D": "refusing to release the family land to the king"
+      },
+      "answer": "B",
+      "explanation": "Jezebel orchestrated the killing of Naboth by having two false witnesses testify that Naboth had **'cursed God and the king'** (1 Kings 21:10)."
+    },
+    {
+      "id": 23,
+      "text": "Which of the following was the reason for which God promised to punish the house of Ahab and not Ahab himself? Ahab",
+      "options": {
+        "A": "humbled himself",
+        "B": "acted under pressure",
+        "C": "was a righteous man",
+        "D": "acted wisely"
+      },
+      "answer": "A",
+      "explanation": "When Elijah pronounced judgment on Ahab and his house, Ahab showed temporary repentance by tearing his clothes and fasting. God said, **'Because he has humbled himself before me, I will not bring the disaster in his days; but in his son's days I will bring the disaster upon his house'** (1 Kings 21:29)."
+    },
+    {
+      "id": 24,
+      "text": "I have found the book of the law in the house of the Lord. The discovery of the law book____________",
+      "options": {
+        "A": "revealed the sins of Manasseh",
+        "B": "gave Josiah's reform direction",
+        "C": "railed for the revival of the passover",
+        "D": "revealed God's righteousness and purity"
+      },
+      "answer": "B",
+      "explanation": "When the Book of the Law (likely Deuteronomy) was found during the renovation of the Temple, King Josiah's reaction and subsequent national repentance and cleansing were entirely directed by the laws and instructions found in the book. It provided the blueprint for **Josiah's reform** (2 Kings 22-23)."
+    },
+    {
+      "id": 25,
+      "text": "Huldah, the prophetess, pronounced evil upon Judah because the people",
+      "options": {
+        "A": "had burned incense to other gods",
+        "B": "were marrying foreign women",
+        "C": "were disobedient to the king",
+        "D": "had failed to keep the sabbath."
+      },
+      "answer": "A",
+      "explanation": "When Huldah was consulted after the discovery of the Book of the Law, she confirmed that God's wrath would come upon Judah because the people **'have forsaken me and burned incense to other gods'** (2 Kings 22:17)."
+    },
+    {
+      "id": 26,
+      "text": "But the army of the Chaldeans pursued the king and overtook him in the plains of Jericho. This text alludes to the incident where",
+      "options": {
+        "A": "the Babylonians arrested Zedekiah",
+        "B": "the Babylonians made Zedekiah king",
+        "C": "Nebuchadnezzar's army arrested Jehoiachin",
+        "D": "Nebuchadnezzar's army chased Jehoiachin."
+      },
+      "answer": "A",
+      "explanation": "This refers to the final moments of Judah's last king, **Zedekiah**, when he tried to flee Jerusalem after the city was breached, but was captured by the Babylonian (Chaldean) army on the plains of Jericho (2 Kings 25:5)."
+    },
+    {
+      "id": 27,
+      "text": "Which of the following ways did Nehemiah demonstrate concern for his nation? He",
+      "options": {
+        "A": "revived the worship of Yahweh",
+        "B": "rebuilt the temple of Jericho",
+        "C": "reconstructed the walls of Jerusalem",
+        "D": "led the exiles back home."
+      },
+      "answer": "C",
+      "explanation": "Nehemiah's primary mission, for which he is famous, was the urgent task of **reconstructing the walls of Jerusalem** (Nehemiah 1-6)."
+    },
+    {
+      "id": 28,
+      "text": "Then these men came by agreement and found Daniel making petition and supplication before his God. The people the reminded the king about the following except",
+      "options": {
+        "A": "punishment for defaulters",
+        "B": "power of the treaty",
+        "C": "ban on worship",
+        "D": "freedom of worship"
+      },
+      "answer": "D",
+      "explanation": "The incident (Daniel 6) revolves around the decree that established a temporary **ban on worship** to anyone other than the king, the **punishment** (lion's den) for defiance, and the **binding nature of the law** of the Medes and Persians (treaty). They did not remind the king of **freedom of worship**; their goal was the opposite—to enforce the ban."
+    },
+    {
+      "id": 29,
+      "text": "One immoral act that took place in Israel which was condemned by Amos was that",
+      "options": {
+        "A": "priests slept with women in the temple",
+        "B": "Nazarites drank wine and slept in the temple",
+        "C": "the rich men took the wives of the poor",
+        "D": "a man and his father went into the same woman"
+      },
+      "answer": "D",
+      "explanation": "Amos 2:7 explicitly condemns this specific immoral act: '...a man and his father go in to the same girl, so that my holy name is profaned.'"
+    },
+    {
+      "id": 30,
+      "text": "To win Israel back to Himself, God promised turning the valley of Achor into a place of",
+      "options": {
+        "A": "peace",
+        "B": "hope",
+        "C": "mercy",
+        "D": "joy"
+      },
+      "      answer": "B",
+      "explanation": "The Valley of Achor ('Trouble') was where Achan was stoned. Hosea 2:15 promises, '...and make the Valley of Achor a door of **hope**.' This refers to restoring their covenant relationship after judgment."
+    },
+    {
+      "id": 31,
+      "text": "One significant difference between Matthew's and Mark's account of Jesus' baptism is that",
+      "options": {
+        "A": "Matthew alone said that John felt inferior to baptize Jesus",
+        "B": "Matthew alone said a voice came from heaven",
+        "C": "Mark alone made mention of Galilee during the baptism",
+        "D": "only Matthew reported that the spirit alighted on Jesus."
+      },
+      "answer": "A",
+      "explanation": "Only Matthew's Gospel records the dialogue between John and Jesus where John says, 'I need to be baptized by you, and do you come to me?' (Matthew 3:14), showing John's feeling of **inferiority/unworthiness**."
+    },
+    {
+      "id": 32,
+      "text": "Which of the following was the sequence of Jesus' temptation according to Matthew?",
+      "options": {
+        "A": "Temple - wilderness - mountain",
+        "B": "Wilderness - temple - mountain",
+        "C": "Mountain - temple - wilderness",
+        "D": "Wilderness - mountain - temple"
+      },
+      "answer": "D",
+      "explanation": "The sequence in Matthew 4:1-11 is: 1. Turn stones into bread (**Wilderness**), 2. Worship Satan from a high **Mountain**, 3. Jump from the pinnacle of the **Temple**."
+    },
+    {
+      "id": 33,
+      "text": "I desire mercy, and not sacrifice! for I came not to call the righteous, but sinners. Jesus made this remark when",
+      "options": {
+        "A": "He called the first disciples by the sea",
+        "B": "the Sadducees accused Him of eating with sinners",
+        "C": "the Pharisees accused Him of eating with sinners",
+        "D": "He healed the woman with the issue of blood"
+      },
+      "answer": "B",
+      "explanation": "Jesus made this statement twice, but primarily when **the Pharisees accused Him of eating and drinking with tax collectors and sinners** (Matthew 9:10-13)."
+    },
+    {
+      "id": 34,
+      "text": "Jesus' call of the first four disciples to be 'fishers of men' implied that they were to",
+      "options": {
+        "A": "propagate the teachings of Jesus",
+        "B": "convert the Jews into Christians",
+        "C": "win proselytes to Jesus",
+        "D": "be trained to become Rabbis."
+      },
+      "answer": "A",
+      "explanation": "To be 'fishers of men' (Matthew 4:19) means to evangelize and draw people into the kingdom, which involves **propagating the teachings of Jesus** and sharing the good news of salvation."
+    },
+    {
+      "id": 35,
+      "text": "I do not say to you seven times, but seventy times seven. Bv this Jesus meant By this forgiveness",
+      "options": {
+        "A": "must be done only seven",
+        "B": "takes place where there is a plea",
+        "C": "is exercised when offence is repeated severally",
+        "D": "does not need to have any limitation"
+      },
+      "answer": "D",
+      "explanation": "The number 'seventy times seven' (Matthew 18:22) is hyperbolic, meaning an infinite number, thus teaching that forgiveness **does not need to have any limitation**."
+    },
+    {
+      "id": 36,
+      "text": "One of the major things Christians should do to merit God's forgiveness according to Jesus is",
+      "options": {
+        "A": "praying without ceasing",
+        "B": "fellowshipping together",
+        "C": "offering sacrifices to God",
+        "D": "forgiving people who offend them"
+      },
+      "answer": "D",
+      "explanation": "The Lord's Prayer states: 'Forgive us our debts, **as we also have forgiven our debtors**,' and Jesus stresses that if we don't forgive others, God won't forgive us (Matthew 6:14-15)."
+    },
+    {
+      "id": 37,
+      "text": "Which of the following is not a humiliation Jesus suffered during his trial?",
+      "options": {
+        "A": "They spat on him",
+        "B": "His face was covered",
+        "C": "They put a crown on his head",
+        "D": "The guards received him with blows"
+      },
+      "answer": "C",
+      "explanation": "The acts of spitting, covering his face, and striking him with blows (Mark 14:65) occurred during the trial at the high priest's house. **Putting a crown on his head** (the crown of thorns) happened later during the mockery by the Roman soldiers after the conviction (Mark 15:17)."
+    },
+    {
+      "id": 38,
+      "text": "My soul is very sorrowful, even to death; remain here and watch with me. Where was this remark made by Jesus?",
+      "options": {
+        "A": "In the garden of Gethsemane",
+        "B": "When he was in the palace of Caiaphas",
+        "C": "On the way to Golgotha",
+        "D": "When he was sent to Herod."
+      },
+      "answer": "A",
+      "explanation": "Jesus made this statement to his disciples in the **Garden of Gethsemane** just before his arrest (Mark 14:34)."
+    },
+    {
+      "id": 39,
+      "text": "Jesus' offer of paradise to the repentant thief on the cross teaches that",
+      "options": {
+        "A": "God's word must be fulfilled",
+        "B": "repentance is never too late",
+        "C": "Jesus was crucified to save sinners",
+        "D": "people are punished not for their sins"
+      },
+      "answer": "B",
+      "explanation": "The thief repented and asked for remembrance right before his death. Jesus' response, 'Today you will be with me in Paradise,' demonstrates that salvation is available even in the last moments of life, meaning **repentance is never too late** (Luke 23:43)."
+    },
+    {
+      "id": 40,
+      "text": "O foolish men, and slow of heart to believe all that the prophets have spoken! Which people were being referred to as foolish? The",
+      "options": {
+        "A": "two men travelling to Emmaus",
+        "B": "seventy disciples Jesus sent out",
+        "C": "twelve apostles of Jesus",
+        "D": "women who went to the tomb of Jesus."
+      },
+      "answer": "A",
+      "explanation": "The resurrected Jesus spoke these words to **Cleopas and his companion** as they traveled from Jerusalem to Emmaus, who were despairing because they did not believe the reports of the resurrection (Luke 24:13-27)."
+    },
+    {
+      "id": 41,
+      "text": "Which of the following qualified Matthias as an apostle to replace Judas Iscariot? He",
+      "options": {
+        "A": "had accompanied the disciples from the time of the baptism of Jesus",
+        "B": "took active part in evangelism from house to house",
+        "C": "was among the early disciples who prayed fervently",
+        "D": "was among the one hundred and twenty disciples who had the Holy Spirit"
+      },
+      "answer": "A",
+      "explanation": "Peter specified that the replacement must be one who **'accompanied us during all the time that the Lord Jesus went in and out among us, beginning from the baptism of John until the day when he was taken up from us'** (Acts 1:21-22). Matthias met this criterion."
+    },
+    {
+      "id": 42,
+      "text": "The replacement of Judas Iscariot was necessary because the",
+      "options": {
+        "A": "death of Judas Iscariot was premature",
+        "B": "twelve disciples represented the twelve tribes of Israel",
+        "C": "prophesies of the scripture needed to be fulfilled",
+        "D": "status quo of the twelve must be maintained"
+      },
+      "answer": "C",
+      "explanation": "Peter based the necessity for a replacement on the **fulfillment of scripture**, specifically Psalm 69:25 and Psalm 109:8 (Acts 1:16, 20)."
+    },
+    {
+      "id": 43,
+      "text": "Why did you go to uncircumcised men and eat with them! The uncircumcised men were the",
+      "options": {
+        "A": "Gentiles of Caesarea",
+        "B": "Gentiles of Joppa",
+        "C": "household of Cornelius",
+        "D": "household of Simon"
+      },
+      "answer": "C",
+      "explanation": "This is the charge brought against Peter by the Jewish Christians in Jerusalem (Acts 11:3) after he visited, preached to, and ate with **Cornelius's household** (Acts 10), who were uncircumcised Gentiles."
+    },
+    {
+      "id": 44,
+      "text": "From his experience on the road to Damascus Saul learnt all the following except",
+      "options": {
+        "A": "Persecuting the church meant persecuting the Lord",
+        "B": "His confidence in Judaism was misplaced",
+        "C": "He was specially chosen to preach to the Gentile",
+        "D": "He could successfully promote his own will"
+      },
+      "answer": "D",
+      "explanation": "The experience taught Saul that his will (to destroy Christians) was directly opposed to God's will and that he was powerless against Jesus. He learned he was chosen (C), that his Judaism was wrong (B), and that he was attacking Christ (A). He did not learn that he **could successfully promote his own will**."
+    },
+    {
+      "id": 45,
+      "text": "And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved. This needs statement was made by",
+      "options": {
+        "A": "Jesus when he was going to heaven",
+        "B": "The seven deacons during the appointment",
+        "C": "Peter before the Sanhedrin",
+        "D": "The apostles on the day of Pentecost"
+      },
+      "answer": "C",
+      "explanation": "**Peter** made this famous declaration about Jesus when he and John were interrogated **before the Sanhedrin** after healing the lame man at the Temple gate (Acts 4:10, 12)."
+    },
+    {
+      "id": 46,
+      "text": "Which of the following biblical characters was mentioned to have justified his/her faith by works?",
+      "options": {
+        "A": "Ahab",
+        "B": "Jael",
+        "C": "Rehab",
+        "D": "Barnabas"
+      },
+      "answer": "C",
+      "explanation": "James 2:25 states, 'Was not also **Rahab** the prostitute justified by works when she received the messengers and sent them out by another way?'"
+    },
+    {
+      "id": 47,
+      "text": "Is any among you sick? Let him call for the elders of the church and let them pray over him. By this statement, James meant that",
+      "options": {
+        "A": "we should not pray for ourselves when we are sick",
+        "B": "the prayer of the faithful will save the sick",
+        "C": "elders of the church can perform wonders",
+        "D": "prayer without the elders may not be effective,"
+      },
+      "answer": "B",
+      "explanation": "James 5:15 concludes this instruction by saying, **'And the prayer of faith will save the one who is sick, and the Lord will raise him up...'** The emphasis is on the power of faith-filled prayer within the Christian community, particularly by the elders."
+    },
+    {
+      "id": 48,
+      "text": "Peter's encouragement to Christians to put away all forms of malice implies that",
+      "options": {
+        "A": "it is a divine command to forgive",
+        "B": "Christians should emulate Christ",
+        "C": "forgiveness heals the heart",
+        "D": "grievances breeds disunity"
+      },
+      "answer": "D",
+      "explanation": "Peter's call to 'put away all malice...' (1 Peter 2:1) is part of his instruction for Christians to live in harmony and grow together. Malice, envy, and slander are destructive forces that **breed disunity** and prevent spiritual growth within the church."
+    },
+    {
+      "id": 49,
+      "text": "The call on Christians to live as free men, yet without using such freedom as a pretext for perpetuating evil was intended for them to",
+      "options": {
+        "A": "do what is right always",
+        "B": "resist the temptations of the devil",
+        "C": "fight for their right and freedom",
+        "D": "endure suffering and persecutions."
+      },
+      "answer": "A",
+      "explanation": "1 Peter 2:16 states, 'Live as people who are free, not using your freedom as a cover-up for evil, but living as servants of God.' This is a call to moral rectitude, meaning to **do what is right always** (i.e., serving God) rather than yielding to sin."
+    },
+    {
+      "id": 50,
+      "text": "Peter states that God opposes the proud but to the humble, He",
+      "options": {
+        "A": "provides all their needs",
+        "B": "gives them protection",
+        "C": "grants them success",
+        "D": "grants them grace"
+      },
+      "answer": "D",
+      "explanation": "1 Peter 5:5 quotes Proverbs 3:34: '...God opposes the proud, but **gives grace to the humble**.'"
+    }
+  ]
+}

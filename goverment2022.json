@@ -1,0 +1,604 @@
+{
+  "cbt_quiz": [
+    {
+      "question_number": 1,
+      "question": "Which political system allows only one ideology for the state?",
+      "options": [
+        {"A": "socialism"},
+        {"B": "aristocracy"},
+        {"C": "communalism"},
+        {"D": "capitalism"}
+      ],
+      "correct_answer": "A",
+      "explanation": "A political system that enforces a single, non-competing ideology, characteristic of a one-party state, is often associated with authoritarian forms of **Socialism** or Communism in political studies."
+    },
+    {
+      "question_number": 2,
+      "question": "In a representative government, citizens exercise their political power",
+      "options": [
+        {"A": "directly"},
+        {"B": "indirectly"},
+        {"C": "in reverence for the political system"},
+        {"D": "under undue political pressure"}
+      ],
+      "correct_answer": "B",
+      "explanation": "In a representative democracy, citizens elect others (representatives) to make decisions and exercise power on their behalf, meaning power is exercised **indirectly**."
+    },
+    {
+      "question_number": 3,
+      "question": "The essence of the concept of devolution is to cater for the interests of the",
+      "options": [
+        {"A": "ruling governement"},
+        {"B": "majority"},
+        {"C": "minority"},
+        {"D": "rule of law"}
+      ],
+      "correct_answer": "C",
+      "explanation": "**Devolution** is the transfer of power from a central government to a sub-national level, often done to address the distinct interests and needs of regional or ethnic **minority** groups."
+    },
+    {
+      "question_number": 4,
+      "question": "A country's constitution may be derived from which one of the following sources?",
+      "options": [
+        {"A": "Educated elites"},
+        {"B": "Civil society organisations"},
+        {"C": "civil disobedience"},
+        {"D": "Customs and conventions"}
+      ],
+      "correct_answer": "D",
+      "explanation": "Unwritten rules and practices, known as **customs and conventions**, are a key source of a constitution, particularly for states with unwritten constitutional systems."
+    },
+    {
+      "question_number": 5,
+      "question": "One major problem associated with the cabinet system of government is the",
+      "options": [
+        {"A": "abuse of power"},
+        {"B": "frequent change of government"},
+        {"C": "large number of ministers"},
+        {"D": "supremacy of the executive"}
+      ],
+      "correct_answer": "B",
+      "explanation": "The cabinet (or parliamentary) system is prone to **frequent change of government** because the executive relies on the continuous support (confidence) of the legislature, which can be withdrawn."
+    },
+    {
+      "question_number": 6,
+      "question": "Representative governments around the world pay attention to public opinion because of the following factors except",
+      "options": [
+        {"A": "protection of the government from media scrutiny"},
+        {"B": "indication of government in good standing with the people"},
+        {"C": "provision of feedback on implementation of government policies"},
+        {"D": "national security concerns"}
+      ],
+      "correct_answer": "A",
+      "explanation": "Paying attention to public opinion serves the other purposes, but it does **not** protect the government from media scrutiny, as media often shapes and reports on public opinion."
+    },
+    {
+      "question_number": 7,
+      "question": "The determination and execution of government policies is the core function of",
+      "options": [
+        {"A": "Public Complain Commission"},
+        {"B": "Public Service Commission"},
+        {"C": "Civil Service"},
+        {"D": "Judicial Service"}
+      ],
+      "correct_answer": "C",
+      "explanation": "While the Executive determines policies, the professional, non-political **Civil Service** is responsible for the continuous, day-to-day **execution** and administration of government policies."
+    },
+    {
+      "question_number": 8,
+      "question": "Public corporation has a legal personality which means that",
+      "options": [
+        {"A": "no legal suit can be brought against"},
+        {"B": "it can sue and can be sued"},
+        {"C": "it has ultimate power to make its own laws"},
+        {"D": "there is a legal department that represents it"}
+      ],
+      "correct_answer": "B",
+      "explanation": "A **legal personality** means the corporation is a separate legal entity from its owners or members, giving it the capacity to enter into contracts and to **sue and be sued** in its own name."
+    },
+    {
+      "question_number": 9,
+      "question": "Local Government authorities may not receive cooperation from the local people due to the issue of",
+      "options": [
+        {"A": "top bottom approach to development"},
+        {"B": "accessibility to internet facilities"},
+        {"C": "lack of support for the ruling governemnt"},
+        {"D": "non availability of spiritual centres"}
+      ],
+      "correct_answer": "A",
+      "explanation": "A **top-down approach** means development plans are imposed by higher authorities without local consultation, leading to a lack of ownership and cooperation from the local people."
+    },
+    {
+      "question_number": 10,
+      "question": "Delegated legislation can be controlled by",
+      "options": [
+        {"A": "report writing"},
+        {"B": "press conferences"},
+        {"C": "parliamentary question time"},
+        {"D": "threat of secession"}
+      ],
+      "correct_answer": "C",
+      "explanation": "**Parliamentary question time** allows the legislature to scrutinize the activities of the Executive, including subsidiary laws made under delegated power, thus controlling delegated legislation."
+    },
+    {
+      "question_number": 11,
+      "question": "A one-party system imposed by law with all other parties proscribed is",
+      "options": [
+        {"A": "a social party system"},
+        {"B": "a de jure one party system"},
+        {"C": "a communist political system"},
+        {"D": "an elitist party system"}
+      ],
+      "correct_answer": "B",
+      "explanation": "A **de jure** system is one that is established or enforced **by law**; hence, a de jure one-party system is one where all other political parties are legally prohibited."
+    },
+    {
+      "question_number": 12,
+      "question": "Multi-party system is saddled with the problem of",
+      "options": [
+        {"A": "divisiveness"},
+        {"B": "limited choice"},
+        {"C": "weak opposition"},
+        {"D": "political consciousness"}
+      ],
+      "correct_answer": "A",
+      "explanation": "The proliferation of political parties in a multi-party system can often lead to fragmentation, political instability, and social **divisiveness** (polarization)."
+    },
+    {
+      "question_number": 13,
+      "question": "One of the importance of voting in a democracy is that, it",
+      "options": [
+        {"A": "is less expensive"},
+        {"B": "ensures development for all voters"},
+        {"C": "commits citizens to the political system"},
+        {"D": "ensures winner takes all policy."}
+      ],
+      "correct_answer": "C",
+      "explanation": "Voting legitimizes the democratic government and the process of election, encouraging citizens to take ownership and **commits them to the political system**."
+    },
+    {
+      "question_number": 14,
+      "question": "An electoral system in which the electorate elects a small group of people who in turn elects political office holders is known as",
+      "options": [
+        {"A": "general election"},
+        {"B": "second ballot system"},
+        {"C": "Electoral college"},
+        {"D": "local election"}
+      ],
+      "correct_answer": "C",
+      "explanation": "An **Electoral College** is a body of representatives who are chosen by the general electorate and whose sole purpose is to formally elect a major political office holder, like a president."
+    },
+    {
+      "question_number": 15,
+      "question": "Most pressure groups especially in West Africa fail to achieve their goals as a result of",
+      "options": [
+        {"A": "good governance"},
+        {"B": "charisma of the president"},
+        {"C": "transparency of the legislature"},
+        {"D": "corrupt leadership"}
+      ],
+      "correct_answer": "D",
+      "explanation": "Internal flaws like mismanagement of funds, lack of transparency, and **corrupt leadership** often undermine the effectiveness and public support for many pressure groups."
+    },
+    {
+      "question_number": 16,
+      "question": "A pressure group which resorts to violence as a means of pressing home its demands is described as",
+      "options": [
+        {"A": "anomic"},
+        {"B": "associational"},
+        {"C": "labour"},
+        {"D": "attitudinal"}
+      ],
+      "correct_answer": "A",
+      "explanation": "**Anomic** pressure groups are spontaneous, unstructured, and often arise suddenly to demand action, frequently resorting to unpredictable methods, including violence or riots."
+    },
+    {
+      "question_number": 17,
+      "question": "Press control is necessary for a state, particularly in the area of",
+      "options": [
+        {"A": "the economy"},
+        {"B": "auditor general's report"},
+        {"C": "state security and secrets"},
+        {"D": "foreign trade"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Governments typically justify press control or censorship as necessary to safeguard **state security and secrets** against potential threats."
+    },
+    {
+      "question_number": 18,
+      "question": "The media helps to enrich discourse on national issues through its",
+      "options": [
+        {"A": "marketing"},
+        {"B": "editorial comments"},
+        {"C": "sales and advertisement"},
+        {"D": "correspondents"}
+      ],
+      "correct_answer": "B",
+      "explanation": "**Editorial comments** are the official opinions and analyses of the media house on national issues, which stimulate public debate and enrich political discourse."
+    },
+    {
+      "question_number": 19,
+      "question": "Information dissemination and communication in a political environment had been made faster and easier with the advent of",
+      "options": [
+        {"A": "educated practitioners"},
+        {"B": "press censorship"},
+        {"C": "government spokemen"},
+        {"D": "social media"}
+      ],
+      "correct_answer": "D",
+      "explanation": "The emergence of **social media** has revolutionized political communication, making information dissemination instantaneous, direct, and globally widespread."
+    },
+    {
+      "question_number": 20,
+      "question": "The passing of laws by an arm of government to regulate society is the function of the",
+      "options": [
+        {"A": "judiciary"},
+        {"B": "executive"},
+        {"C": "legislature"},
+        {"D": "police"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The **legislature** (Parliament or National Assembly) is the law-making arm of government, responsible for enacting and amending laws to regulate society."
+    },
+    {
+      "question_number": 21,
+      "question": "Militant nationalism in British West Africa after World War II sought to",
+      "options": [
+        {"A": "kill British nationals"},
+        {"B": "overthrow colonialism"},
+        {"C": "stop the export of raw materials"},
+        {"D": "stop the denigration of the African culture."}
+      ],
+      "correct_answer": "B",
+      "explanation": "**Militant nationalism** adopted an aggressive, uncompromising stance demanding immediate self-rule and the complete **overthrow of colonialism**, in contrast to earlier, more moderate movements."
+    },
+    {
+      "question_number": 22,
+      "question": "Proto-nationalism was a movement limited to the demands for",
+      "options": [
+        {"A": "immediate end to colonialism"},
+        {"B": "reforms of the political class and respect for African religion"},
+        {"C": "western education"},
+        {"D": "social amenities and political participation"}
+      ],
+      "correct_answer": "D",
+      "explanation": "**Proto-nationalism** (early nationalism) primarily focused on demanding improvements in the welfare of Africans (**social amenities**) and greater African representation in the colonial political structure (**political participation**)."
+    },
+    {
+      "question_number": 23,
+      "question": "The youth movement across British West African territories served as a spring board for the formation of",
+      "options": [
+        {"A": "militant groups to fight and kill British officials"},
+        {"B": "political parties to champion the course of self-rule"},
+        {"C": "committees to represent the people"},
+        {"D": "associations in pursuit of justice for the people"}
+      ],
+      "correct_answer": "B",
+      "explanation": "Youth movements mobilized mass support and produced leaders who eventually established the modern mass **political parties** that successfully campaigned for self-government and independence."
+    },
+    {
+      "question_number": 24,
+      "question": "A country's foreign policy is foremost driven by",
+      "options": [
+        {"A": "economy"},
+        {"B": "location"},
+        {"C": "natural resources"},
+        {"D": "national interest"}
+      ],
+      "correct_answer": "D",
+      "explanation": "The paramount factor guiding any country's foreign policy decisions and actions is the pursuit and protection of its **national interest**."
+    },
+    {
+      "question_number": 25,
+      "question": "The first inter-territorial political movement organized in the 1920s which sought to bring all the British West African territories together to fight the colonial establishment was the",
+      "options": [
+        {"A": "Aborigines Right Protection Society"},
+        {"B": "West African Youth League"},
+        {"C": "National Congress of British West African"},
+        {"D": "West African Students Union"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The **National Congress of British West Africa (NCBWA)**, founded in 1920 by J.E. Casely Hayford, was the first pan-West African political organization that transcended colonial borders."
+    },
+    {
+      "question_number": 26,
+      "question": "The African Union is unable to play its role on the global political scene very well due to the",
+      "options": [
+        {"A": "inadequate system of education"},
+        {"B": "low level of wages in the member countries"},
+        {"C": "Outbreak of pandemic on the African continent"},
+        {"D": "divided loyalty among member states."}
+      ],
+      "correct_answer": "D",
+      "explanation": "The AU's effectiveness is often hampered by the lack of consensus and **divided loyalty among member states**, who frequently prioritize individual national interests over the collective goals of the Union."
+    },
+    {
+      "question_number": 27,
+      "question": "Which of the following options does the Commonwealth of Nations commit resources to?",
+      "options": [
+        {"A": "Use of a common currency"},
+        {"B": "Superiority of the British Crown"},
+        {"C": "British Leadership on all matters of diplomacy"},
+        {"D": "Promotion of representative democracy"}
+      ],
+      "correct_answer": "D",
+      "explanation": "One of the core values and missions of the Commonwealth is the **promotion of representative democracy**, rule of law, and human rights among its member nations."
+    },
+    {
+      "question_number": 28,
+      "question": "Which summit drew the road map for the implementation of the African Union?",
+      "options": [
+        {"A": "Sirte Summit"},
+        {"B": "Lusaka Summit"},
+        {"C": "Lome Summit"},
+        {"D": "Lagos summit"}
+      ],
+      "correct_answer": "A",
+      "explanation": "The **Sirte Declaration** of 1999 (from the **Sirte Summit** in Libya) set the foundation and provided the initial roadmap for the transition from the Organisation of African Unity (OAU) to the African Union (AU)."
+    },
+    {
+      "question_number": 29,
+      "question": "One of the benefits which the West African state derives from the United Nations is",
+      "options": [
+        {"A": "equal opportunities of appointments to its highest office"},
+        {"B": "permanent membership of the Security Council"},
+        {"C": "greater access to all the organs of the United Nations"},
+        {"D": "total eradication of poverty from the African continent"}
+      ],
+      "correct_answer": "C",
+      "explanation": "As full members of the UN, West African states have the benefit of equal participation and a voice in the General Assembly and **greater access to all the organs of the United Nations** for advocacy and support."
+    },
+    {
+      "question_number": 30,
+      "question": "The Atlantic Charter gave birth to the",
+      "options": [
+        {"A": "Commonwealth of Nations"},
+        {"B": "Allied powers"},
+        {"C": "United Nations"},
+        {"D": "North Atlantic Treaty Organisation"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The principles of collective security and international cooperation outlined in the **Atlantic Charter** (1941) formed the blueprint for the establishment of the **United Nations**."
+    },
+    {
+      "question_number": 31,
+      "question": "Which of the following factors does not influence a country's foreign policy?",
+      "options": [
+        {"A": "Human resources"},
+        {"B": "Geographical location"},
+        {"C": "System of education and number of universities"},
+        {"D": "International laws and conventions"}
+      ],
+      "correct_answer": "C",
+      "explanation": "While important domestically, the specific **system of education and number of universities** do not directly or foremost influence the content and direction of a country's foreign policy."
+    },
+    {
+      "question_number": 32,
+      "question": "In which political system does the government control every aspect of a citizen's life?",
+      "options": [
+        {"A": "communism"},
+        {"B": "Dictatorship"},
+        {"C": "Totalitarianism"},
+        {"D": "Aristocracy"}
+      ],
+      "correct_answer": "C",
+      "explanation": "**Totalitarianism** is a political system where the state recognizes no limits to its authority and strives to control every public and private aspect of its citizens' lives."
+    },
+    {
+      "question_number": 33,
+      "question": "The administrative head of the ministry is the",
+      "options": [
+        {"A": "official of the ruling government"},
+        {"B": "general manager"},
+        {"C": "permanent secretary"},
+        {"D": "chief coordinating officer"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The **Permanent Secretary** (or Director-General) is the non-political, highest-ranking career civil servant responsible for the administrative management of a government ministry."
+    },
+    {
+      "question_number": 34,
+      "question": "The sovereignty of a state can be limited to a great extent by",
+      "options": [
+        {"A": "Rule of law"},
+        {"B": "separation of powers"},
+        {"C": "International Laws and conventions"},
+        {"D": "Legislative Assembly"}
+      ],
+      "correct_answer": "C",
+      "explanation": "When a state ratifies **International Laws and conventions**, it voluntarily accepts restrictions on its freedom of action, thereby limiting its absolute sovereignty."
+    },
+    {
+      "question_number": 35,
+      "question": "A coalition government is a common feature of a",
+      "options": [
+        {"A": "two party systems"},
+        {"B": "multi-party system"},
+        {"C": "one party system"},
+        {"D": "non-party system"}
+      ],
+      "correct_answer": "B",
+      "explanation": "In a **multi-party system**, no single party often wins an outright majority, making it necessary for multiple parties to form a **coalition government** to secure a legislative majority."
+    },
+    {
+      "question_number": 36,
+      "question": "The appointment of judges is based on the recommendation of the",
+      "options": [
+        {"A": "Civil Service Commission"},
+        {"B": "Public Service Commission"},
+        {"C": "Eminent persons in society"},
+        {"D": "Judicial Service Commission"}
+      ],
+      "correct_answer": "D",
+      "explanation": "The **Judicial Service Commission (JSC)** is the independent body responsible for selecting and recommending suitable candidates for appointment to the judiciary."
+    },
+    {
+      "question_number": 37,
+      "question": "Which of the following options is not a function of political parties?",
+      "options": [
+        {"A": "Policy implementation"},
+        {"B": "Political socialisation"},
+        {"C": "Political education"},
+        {"D": "Aggregation of interest"}
+      ],
+      "correct_answer": "A",
+      "explanation": "**Policy implementation** is the responsibility of the Civil Service/Executive Arm of government, not the primary function of political parties (which focus on formulation, education, and interest aggregation)."
+    },
+    {
+      "question_number": 38,
+      "question": "In an election, a secret ballot is described as the process where the voter",
+      "options": [
+        {"A": "is screened off to conceal the vote"},
+        {"B": "cast the vote in a sealed box"},
+        {"C": "in assisted to cast the vote"},
+        {"D": "is searched before casting the vote"}
+      ],
+      "correct_answer": "A",
+      "explanation": "The essence of the **secret ballot** is privacy, achieved by the voter casting their vote in a secluded space (like a voting booth or screen) to **conceal the vote** from public view."
+    },
+    {
+      "question_number": 39,
+      "question": "In which system of government does the legislature pass a vote of no confidence in the government?",
+      "options": [
+        {"A": "Federal"},
+        {"B": "Cabinet"},
+        {"C": "De jure"},
+        {"D": "Monarchical"}
+      ],
+      "correct_answer": "B",
+      "explanation": "The **vote of no confidence** is a defining characteristic of the **Cabinet** (or Parliamentary) system, where the executive branch is drawn from and must retain the confidence of the legislature."
+    },
+    {
+      "question_number": 40,
+      "question": "The concept of social justice implies that the state must ensure",
+      "options": [
+        {"A": "sharing of political power with opponents"},
+        {"B": "security for multi- national businesses"},
+        {"C": "equality of citizens"},
+        {"D": "fairmess to foreign nationals"}
+      ],
+      "correct_answer": "C",
+      "explanation": "**Social justice** is based on the principle that all members of society should have **equality** of opportunity and be treated fairly, regardless of background."
+    },
+    {
+      "question_number": 41,
+      "question": "The basic human right of citizens in a state are",
+      "options": [
+        {"A": "freedom of movement, free education and free health"},
+        {"B": "free social services, speech and religion"},
+        {"C": "right to life, liberty and property"},
+        {"D": "Right to higher education, property and freedom of thought"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The **right to life, liberty, and property** are historically regarded as the classical, fundamental, or 'natural' human rights from which all others are derived."
+    },
+    {
+      "question_number": 42,
+      "question": "A quasi-federal structure is so arranged in order for the",
+      "options": [
+        {"A": "centre to coordinate national level programmes"},
+        {"B": "citizens to have dual allegiance and dual citizenship"},
+        {"C": "component units to breakaway at will"},
+        {"D": "president to amend the constitution at will"}
+      ],
+      "correct_answer": "A",
+      "explanation": "In a **quasi-federal** system, the central government is deliberately made stronger than the regions to enable it to effectively **coordinate national level programmes** and maintain unity."
+    },
+    {
+      "question_number": 43,
+      "question": "When a superior court declares an action of the executive ultra-vires, it means that",
+      "options": [
+        {"A": "the executive should leave power"},
+        {"B": "a vote of no confidence had been passed on the government"},
+        {"C": "the judiciary is more powerful than the executive"},
+        {"D": "the action is illegal and of no effect"}
+      ],
+      "correct_answer": "D",
+      "explanation": "**Ultra Vires** is a Latin phrase meaning 'beyond the powers'; a court declaring an action ultra vires means the executive acted beyond its legal authority, making **the action illegal and of no effect**."
+    },
+    {
+      "question_number": 44,
+      "question": "Which of the following options does not constitute the main objectives of the United Nations?",
+      "options": [
+        {"A": "The maintenance of international peace and security"},
+        {"B": "The promotion of the well-being of the peoples of the world"},
+        {"C": "International cooperation"},
+        {"D": "The use of force to comply with its provisions"}
+      ],
+      "correct_answer": "D",
+      "explanation": "The UN's core objectives focus on peace and cooperation; while force is sometimes used by the Security Council, **the use of force** is not listed as one of its main, positive objectives."
+    },
+    {
+      "question_number": 45,
+      "question": "The Economic Community of West African States was established with the following aims except to",
+      "options": [
+        {"A": "use force to depose unconstitutional regimes"},
+        {"B": "improve the living standard of its people"},
+        {"C": "contribute to the progress and development of the African continent"},
+        {"D": "foster relations among membe states"}
+      ],
+      "correct_answer": "A",
+      "explanation": "ECOWAS was initially established for economic integration; while it later took on security roles, the original/core aims did **not** include the **use of force to depose unconstitutional regimes**."
+    },
+    {
+      "question_number": 46,
+      "question": "The process of international integration arising from the inter-change of world views, products, ideas and other aspects of culture is known as",
+      "options": [
+        {"A": "national interest"},
+        {"B": "globalisation"},
+        {"C": "geopolitics"},
+        {"D": "interest aggregation"}
+      ],
+      "correct_answer": "B",
+      "explanation": "**Globalisation** is the process of increasing worldwide interconnectedness and interdependence, characterized by the exchange of products, ideas, and aspects of culture across borders."
+    },
+    {
+      "question_number": 47,
+      "question": "One negative effect of colonialism on the people of West Africa over the years is the",
+      "options": [
+        {"A": "introduction of modern idea of governance"},
+        {"B": "creation of large political units"},
+        {"C": "change of the socio-political systems of living"},
+        {"D": "development of political institutions"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Colonial rule forcefully imposed new administrative and economic structures, resulting in the violent disruption and **change of the socio-political systems of living** of the indigenous people."
+    },
+    {
+      "question_number": 48,
+      "question": "The Council of Elders in the pre-colonial political institutions of West Africa best served on the Council as",
+      "options": [
+        {"A": "warriors of the state"},
+        {"B": "go-between the gods and the people"},
+        {"C": "custodians of the wealth of the state"},
+        {"D": "representative of the commoners"}
+      ],
+      "correct_answer": "D",
+      "explanation": "Composed of family or kindred heads, the Council of Elders often acted as a legislative and advisory body, serving as the **representative of the commoners** or various constituent units of the community."
+    },
+    {
+      "question_number": 49,
+      "question": "Public corporations are struggling in the West African States as a result of",
+      "options": [
+        {"A": "heavy social and political cost"},
+        {"B": "private-public partnership"},
+        {"C": "public scrutiny and accountability"},
+        {"D": "direct foreign investment"}
+      ],
+      "correct_answer": "A",
+      "explanation": "Public corporations often suffer from political interference, corruption, and the burden of non-commercial mandates, all contributing to **heavy social and political cost** that hinder efficiency."
+    },
+    {
+      "question_number": 50,
+      "question": "The following options are today the biggest threat to the democracy of West African States except",
+      "options": [
+        {"A": "election disputes and related violence"},
+        {"B": "military intervention in politics"},
+        {"C": "youth unemployment"},
+        {"D": "non involvement of traditional rulers in politics."}
+      ],
+      "correct_answer": "D",
+      "explanation": "The **non-involvement of traditional rulers** in partisan politics is generally seen as a positive step to ensure their neutrality and is therefore **not** considered a threat to democracy, unlike the other options."
+    }
+  ]
+}

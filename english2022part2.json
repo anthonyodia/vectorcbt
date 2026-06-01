@@ -1,0 +1,342 @@
+[
+  {
+    "id": 50,
+    "type": "Choice",
+    "question": "Highlights _____ the events will be televised today.",
+    "options": {
+      "A": "of",
+      "B": "for",
+      "C": "in",
+      "D": "on"
+    },
+    "answer": "D",
+    "explanation": "The preposition 'on' is used for television broadcasts."
+  },
+  {
+    "id": 51,
+    "type": "Choice",
+    "question": "When the fire alarm went off, we all _____ the door.",
+    "options": {
+      "A": "made at",
+      "B": "made to",
+      "C": "made after",
+      "D": "made for"
+    },
+    "answer": "B",
+    "explanation": "'Made to' is the correct phrase indicating movement towards a place."
+  },
+  {
+    "id": 52,
+    "type": "Choice",
+    "question": "Jane has stopped smoking _____?",
+    "options": {
+      "A": "hasn't she",
+      "B": "didn't she",
+      "C": "isn't she",
+      "D": "hadn't she"
+    },
+    "answer": "A",
+    "explanation": "The question tag for 'Jane has stopped smoking' is 'hasn't she'."
+  },
+  {
+    "id": 53,
+    "type": "Choice",
+    "question": "Graduates find it difficult to secure _____ nowadays.",
+    "options": {
+      "A": "an employment",
+      "B": "employment",
+      "C": "employments",
+      "D": "few employments"
+    },
+    "answer": "B",
+    "explanation": "'Employment' is an uncountable noun here."
+  },
+  {
+    "id": 54,
+    "type": "Choice",
+    "question": "I'll try to convince him as _____ I can.",
+    "options": {
+      "A": "best",
+      "B": "best as",
+      "C": "the best",
+      "D": "well as"
+    },
+    "answer": "A",
+    "explanation": "The correct phrase is 'as best' or simply 'best' in this context."
+  },
+  {
+    "id": 55,
+    "type": "Choice",
+    "question": "_____ were classmates in the university.",
+    "options": {
+      "A": "his sister and I",
+      "B": "me and his sister",
+      "C": "I and his sister",
+      "D": "His sister and me"
+    },
+    "answer": "A",
+    "explanation": "The correct subject form is 'his sister and I'."
+  },
+  {
+    "id": 56,
+    "type": "Choice",
+    "question": "Their shop stocks _____ overwhelming variety of goods.",
+    "options": {
+      "A": "any",
+      "B": "every",
+      "C": "an",
+      "D": "each"
+    },
+    "answer": "B",
+    "explanation": "'Every' emphasizes the totality of the variety."
+  },
+  {
+    "id": 57,
+    "type": "Choice",
+    "question": "It's a miracle that the child didn't die after the illness, _____?",
+    "options": {
+      "A": "did she",
+      "B": "isn't it",
+      "C": "didn't she",
+      "D": "wasn't it"
+    },
+    "answer": "B",
+    "explanation": "The tag question is 'isn't it' matching the statement."
+  },
+  {
+    "id": 58,
+    "type": "Choice",
+    "question": "It is always good to live _____ one's means.",
+    "options": {
+      "A": "within",
+      "B": "under",
+      "C": "with",
+      "D": "through"
+    },
+    "answer": "A",
+    "explanation": "The phrase 'live within one's means' is correct."
+  },
+  {
+    "id": 59,
+    "type": "Choice",
+    "question": "How I wish she ______ the books before Tunde arrived.",
+    "options": {
+      "A": "sees",
+      "B": "had seen",
+      "C": "has seen",
+      "D": "saw"
+    },
+    "answer": "B",
+    "explanation": "Past perfect 'had seen' is correct for expressing regret about a past action."
+  },
+  {
+    "id": 60,
+    "type": "Choice",
+    "question": "To _____ did you speak?",
+    "options": {
+      "A": "whose",
+      "B": "whom",
+      "C": "who",
+      "D": "which"
+    },
+    "answer": "A",
+    "explanation": "'Whose' is used to ask about possession."
+  },
+  {
+    "id": 61,
+    "type": "Choice",
+    "question": "_____ all probability, the strike will be called off today.",
+    "options": {
+      "A": "Through",
+      "B": "In",
+      "C": "By",
+      "D": "At"
+    },
+    "answer": "B",
+    "explanation": "The phrase is 'In all probability'."
+  },
+  {
+    "id": 62,
+    "type": "Choice",
+    "question": "Amao _____ his master in every way.",
+    "options": {
+      "A": "takes after",
+      "B": "takes over",
+      "C": "takes up",
+      "D": "takes in"
+    },
+    "answer": "A",
+    "explanation": "'Takes after' means to resemble or be like someone."
+  },
+  {
+    "id": 63,
+    "type": "Choice",
+    "question": "He ran _____ that the defenders couldn't catch up with him.",
+    "options": {
+      "A": "very fast",
+      "B": "much faster",
+      "C": "so faster",
+      "D": "so fast"
+    },
+    "answer": "D",
+    "explanation": "The phrase 'so fast' correctly describes the speed."
+  },
+  {
+    "id": 64,
+    "type": "Choice",
+    "question": "I told them I would come back as soon as I _____",
+    "options": {
+      "A": "should",
+      "B": "can",
+      "C": "could",
+      "D": "will"
+    },
+    "answer": "C",
+    "explanation": "Past tense 'could' is correct for a conditional of this type."
+  },
+  {
+    "id": 65,
+    "type": "Choice",
+    "question": "Isn't it high time we _____?",
+    "options": {
+      "A": "started eating",
+      "B": "start eating",
+      "C": "had started eating",
+      "D": "start to eat"
+    },
+    "answer": "C",
+    "explanation": "Past perfect 'had started eating' indicates it's overdue."
+  },
+  {
+    "id": 66,
+    "type": "Choice",
+    "question": "The reason he gave, _____, was most unconvincing.",
+    "options": {
+      "A": "which he had no money",
+      "B": "since he had no money",
+      "C": "that he had no money",
+      "D": "for he had no money"
+    },
+    "answer": "C",
+    "explanation": " 'That he had no money' correctly introduces the reason."
+  },
+  {
+    "id": 67,
+    "type": "Choice",
+    "question": "Sometimes minor incidents in our lives stand out because we cherish",
+    "options": {
+      "A": "it",
+      "B": "many",
+      "C": "none",
+      "D": "them"
+    },
+    "answer": "D",
+    "explanation": "'Them' correctly refers to 'minor incidents'."
+  },
+  {
+    "id": 68,
+    "type": "Choice",
+    "question": "An act of cleanliness is to dispose _____ useless items.",
+    "options": {
+      "A": "away",
+      "B": "of",
+      "C": "with",
+      "D": "off"
+    },
+    "answer": "B",
+    "explanation": "The phrase is 'dispose of'."
+  },
+  {
+    "id": 69,
+    "type": "Choice",
+    "question": "Two of his _____ left for Europe.",
+    "options": {
+      "A": "friends",
+      "B": "friend's",
+      "C": "friends'",
+      "D": "friend"
+    },
+    "answer": "A",
+    "explanation": "Plural 'friends' is correct."
+  },
+  {
+    "id": 70,
+    "type": "Gap Fill",
+    "question": "Within the last quarter of the twentieth century, medical experts have been laying emphasis on ___71___ rather than ___72___ measures. Through primary health care programmes, people have been taught about these. When an individual ___73___ a disease, he has to see a doctor for ___74___. At times, the doctor finds it difficult to ___75___ the disease during the initial examination of the patient because many diseases have similar ___76___. When this happens, the patient is either asked to go to the ___77___ for one test or the other or he would have ___78___ taken to help the doctor find out what is happening internally. it is after all these, and sometimes more, that the doctor can ___79___ some drugs for the individual and perhaps give him some ___80___. To save yourself and everyone else from this headache, it is advisable to pay heed to public health programmes.",
+    "options": {
+      "71": {
+        "A": "effective",
+        "B": "protective",
+        "C": "defensive",
+        "D": "preventive"
+      },
+      "72": {
+        "A": "curative",
+        "B": "healing",
+        "C": "corrective",
+        "D": "anaesthetic"
+      },
+      "73": {
+        "A": "acquires",
+        "B": "contracts",
+        "C": "contacts",
+        "D": "develops"
+      },
+      "74": {
+        "A": "consultation",
+        "B": "interaction",
+        "C": "discussion",
+        "D": "instruction"
+      },
+      "75": {
+        "A": "explain",
+        "B": "discover",
+        "C": "diagnose",
+        "D": "detect"
+      },
+      "76": {
+        "A": "signs",
+        "B": "indications",
+        "C": "symptom",
+        "D": "dues"
+      },
+      "77": {
+        "A": "pharmacy",
+        "B": "infirmary",
+        "C": "ward",
+        "D": "laboratory"
+      },
+      "78": {
+        "A": "an image",
+        "B": "an x-ray",
+        "C": "a film",
+        "D": "a photograph"
+      },
+      "79": {
+        "A": "prescribe",
+        "B": "write",
+        "C": "select",
+        "D": "dictate"
+      },
+      "80": {
+        "A": "concoction",
+        "B": "syringes",
+        "C": "additives",
+        "D": "injections"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "type": "ORAL OBJECTIVE",
+    "question": "lynch",
+    "options": {
+      "A": "flee",
+      "B": "dye",
+      "C": "you",
+      "D": "lick"
+    },
+    "answer": "A",
+    "explanation": "To 'lynch' means to execute by hanging, but in the context of the options, 'flee' (to run away) is the closest related action."
+  }
+]

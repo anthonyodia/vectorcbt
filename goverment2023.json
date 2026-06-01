@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Apart from globalization, what other factor to a large extent affects the sovereignty of a state?",
+      "optionA": "Right of a franchise",
+      "optionB": "System of government",
+      "optionC": "International laws",
+      "optionD": "Inalienability",
+      "correctAnswer": "C",
+      "explanation": "International laws and treaties, which states voluntarily sign, often require them to adhere to certain rules (e.g., trade, human rights, environmental) that can limit their absolute or independent authority (sovereignty)."
+    },
+    {
+      "questionNumber": 2,
+      "question": "A public declaration of policy and aims especially one issued before an election by a political party or candidate is commonly called",
+      "optionA": "steps to govern",
+      "optionB": "Policy paper",
+      "optionC": "guide to government",
+      "optionD": "manifesto",
+      "correctAnswer": "D",
+      "explanation": "This is the standard definition of a political manifesto, which outlines a party's intentions and promises to the electorate."
+    },
+    {
+      "questionNumber": 3,
+      "question": "The media, commonly referred to as the fourth estate of the realm , monitors the activities of government on behalf of the",
+      "optionA": "people",
+      "optionB": "executive",
+      "optionC": "civil society",
+      "optionD": "media organisation",
+      "correctAnswer": "A",
+      "explanation": "The concept of the 'fourth estate' positions the press as a watchdog that holds the government accountable to the public (the people)."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bicameral legislature contributes to the democratic process by",
+      "optionA": "recommending the use of force on policy",
+      "optionB": "suppressing minority rights",
+      "optionC": "imposing programmes and policies on the executive",
+      "optionD": "widening the scope of political participation",
+      "correctAnswer": "D",
+      "explanation": "A bicameral (two-house) legislature, often with different representation bases (e.g., population and region), allows more diverse interests and viewpoints to be represented, thereby widening political participation."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Maintenance of law and order in a state is the function of the",
+      "optionA": "citizens of the state",
+      "optionB": "executive arm of government",
+      "optionC": "legislative arm of government",
+      "optionD": "judicial service",
+      "correctAnswer": "B",
+      "explanation": "The executive arm is responsible for implementing and enforcing laws. This includes the police force and other security agencies tasked with maintaining public order."
+    },
+    {
+      "questionNumber": 6,
+      "question": "The official routine observed in carrying out functions in the civil service is commonly known as",
+      "optionA": "official order",
+      "optionB": "bureaucracy",
+      "optionC": "standard order",
+      "optionD": "command",
+      "correctAnswer": "B",
+      "explanation": "Bureaucracy is the administrative system governing any large institution, characterized by set procedures, hierarchy, and official routines."
+    },
+    {
+      "questionNumber": 7,
+      "question": "The Economic Community of West African State (ECOWAS) is now confronted with a new security threat which is",
+      "optionA": "extremism",
+      "optionB": "smuggling of illegal goods across states",
+      "optionC": "weak national armies",
+      "optionD": "proportional representation",
+      "correctAnswer": "A",
+      "explanation": "In recent years, violent extremism and terrorism (e.g., from groups in the Sahel, Boko Haram) have become the most pressing new security challenges for the ECOWAS region."
+    },
+    {
+      "questionNumber": 8,
+      "question": "The art of maintaining peaceful relationships between states, groups or individuals mostly comes about as a result of the activities and functions of",
+      "optionA": "the legislature",
+      "optionB": "security agencies",
+      "optionC": "diplomats",
+      "optionD": "the media",
+      "correctAnswer": "C",
+      "explanation": "Diplomacy is the art and practice of conducting negotiations and maintaining relations between states. This is the primary role of diplomats."
+    },
+    {
+      "questionNumber": 9,
+      "question": "The following issues are some of the challenges the United Nations (UN) addresses except",
+      "optionA": "oligarchical regimes",
+      "optionB": "humanitarian aids",
+      "optionC": "human rights",
+      "optionD": "climate change",
+      "correctAnswer": "A",
+      "explanation": "The UN provides humanitarian aid, promotes human rights, and addresses climate change. While it promotes democracy, it generally does not intervene in a state's internal form of government (like an oligarchy) due to principles of state sovereignty, unless that regime is a threat to international peace or committing mass human rights violations."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Which system of government allows for and guarantees maximum competition?",
+      "optionA": "Feudalism",
+      "optionB": "Capitalism",
+      "optionC": "Communism",
+      "optionD": "Social Democracy",
+      "correctAnswer": "B",
+      "explanation": "Capitalism is an economic system based on private ownership and free markets, where competition is a core principle. Communism, by contrast, involves state control and the elimination of market competition."
+    },
+    {
+      "questionNumber": 11,
+      "question": "The overriding consideration for the creation of the New Partnership for Africa's Development (NEPAD) was to place Africa on the path to",
+      "optionA": "capitalist government",
+      "optionB": "non-alignment",
+      "optionC": "growth and development",
+      "optionD": "military might",
+      "correctAnswer": "C",
+      "explanation": "NEPAD is the economic development program of the African Union (AU), designed to promote sustainable growth, eradicate poverty, and foster development across the continent."
+    },
+    {
+      "questionNumber": 12,
+      "question": "The French Colonial policies in her West African colonies were different from the British in many ways except in",
+      "optionA": "discriminatory laws",
+      "optionB": "citizenship",
+      "optionC": "imperialism",
+      "optionD": "cultural imposition",
+      "correctAnswer": "C",
+      "explanation": "Both the French (using assimilation/direct rule) and the British (using indirect rule) were imperialist powers. Imperialism (the policy of extending a country's power) was the one thing they had in common, even if their methods (A, B, D) differed."
+    },
+    {
+      "questionNumber": 13,
+      "question": "The reason for which the government should take a key interest in the activities of pressure groups is that, they",
+      "optionA": "provide valuable feedback on government policies and programmes",
+      "optionB": "force coalition among political parties for election",
+      "optionC": "blackmail political leaders",
+      "optionD": "dictate the path and direction for government programmes",
+      "correctAnswer": "A",
+      "explanation": "Pressure groups articulate the specific interests of parts of society, giving the government important feedback on how its policies are affecting different groups."
+    },
+    {
+      "questionNumber": 14,
+      "question": "The rigid nature of a constitution makes it",
+      "optionA": "accessible to all",
+      "optionB": "infallible and standard",
+      "optionC": "easy for quick review",
+      "optionD": "complicated for amendment",
+      "correctAnswer": "D",
+      "explanation": "A 'rigid' constitution is defined by having a difficult or special procedure for amendment, making it complicated to change, unlike a 'flexible' constitution."
+    },
+    {
+      "questionNumber": 15,
+      "question": "The Fundamental Human Rights and Liberties must be entrenched in a constitution to",
+      "optionA": "serve majority interest",
+      "optionB": "show concern for the people",
+      "optionC": "make it difficult to tamper with",
+      "optionD": "espouse love for the country",
+      "correctAnswer": "C",
+      "explanation": "Entrenching rights in a constitution places them above ordinary laws, meaning they cannot be easily changed or 'tampered with' by a simple government majority."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Unitary system of government is adopted by some states because",
+      "optionA": "of homogeneity",
+      "optionB": "it guarnatees democracy",
+      "optionC": "it builds the capacity of citizens in good time",
+      "optionD": "of mineral resources",
+      "correctAnswer": "A",
+      "explanation": "A unitary system (with a strong central government) is best suited for countries that are geographically small and/or have a homogeneous population (lacking deep ethnic or linguistic divides), as there's less demand for regional autonomy."
+    },
+    {
+      "questionNumber": 17,
+      "question": "The public Service Commission performs the following functions except",
+      "optionA": "advisory body",
+      "optionB": "imposition of income tax",
+      "optionC": "welfare of personnel",
+      "optionD": "discipline of personnel",
+      "correctAnswer": "B",
+      "explanation": "The Public Service Commission deals with personnel management (appointments, welfare, discipline). Imposing taxes is a fiscal policy function handled by the legislature and the Ministry of Finance."
+    },
+    {
+      "questionNumber": 18,
+      "question": "What type of right enables citizens to participate in state affairs?",
+      "optionA": "judicial right",
+      "optionB": "social right",
+      "optionC": "habeas corpus",
+      "optionD": "political right",
+      "correctAnswer": "D",
+      "explanation": "Political rights (like the right to vote, run for office, and join a party) are specifically those that allow citizens to participate in the political life and governance of the state."
+    },
+    {
+      "questionNumber": 19,
+      "question": "What is commonly referred to as the association of the government and the governed?",
+      "optionA": "confederation",
+      "optionB": "state",
+      "optionC": "federation",
+      "optionD": "monarchy",
+      "correctAnswer": "B",
+      "explanation": "A 'state' is the political entity comprising a territory, a population (the governed), and a government that exercises sovereignty over them."
+    },
+    {
+      "questionNumber": 20,
+      "question": "The local government system assists best in mentoring and grooming people for",
+      "optionA": "military oprations",
+      "optionB": "leadership positions",
+      "optionC": "citizenship and justice",
+      "optionD": "large-scale farming",
+      "correctAnswer": "B",
+      "explanation": "Local government is often called a 'nursery for democracy' as it provides a training ground for aspiring politicians and administrators to gain experience before moving to higher leadership positions."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Which of the following systems of government does not practice collective responsibility?",
+      "optionA": "Communalism system",
+      "optionB": "Non-centralised system",
+      "optionC": "Executive system",
+      "optionD": "Cabinet system",
+      "correctAnswer": "C",
+      "explanation": "The 'Cabinet system' (Parliamentary) is defined by collective responsibility. The 'Executive system' (Presidential) is based on the separation of powers, where cabinet members are individually accountable to the President, not collectively to the legislature."
+    },
+    {
+      "questionNumber": 22,
+      "question": "One of the formidable challenges the New Partnership for Africa's Development (NEPAD) is confronted with is the",
+      "optionA": "absence of a common platform for debate",
+      "optionB": "over reliance on foreign aid",
+      "optionC": "absence of technology transfer",
+      "optionD": "arms race among member states",
+      "correctAnswer": "B",
+      "explanation": "A major and persistent challenge for NEPAD has been its heavy dependence on funding from external partners and donors (foreign aid) rather than internally generated African capital."
+    },
+    {
+      "questionNumber": 23,
+      "question": "The biggest obstacle which also slowed down nationalist activities in French West African Colonies was the",
+      "optionA": "assimilation policy",
+      "optionB": "constitutional reforms and entrenchment of human rights",
+      "optionC": "assassination of chiefs",
+      "optionD": "deportation of Africans to France",
+      "correctAnswer": "A",
+      "explanation": "The French policy of assimilation created a small, educated elite of 'French' Africans. This co-opted many potential nationalist leaders, separating them from the masses and thus slowing the momentum of the independence movement."
+    },
+    {
+      "questionNumber": 24,
+      "question": "A state that has two levels of government is commonly referred to as",
+      "optionA": "concurrent states",
+      "optionB": "cooperative government",
+      "optionC": "federal state",
+      "optionD": "coalition government",
+      "correctAnswer": "C",
+      "explanation": "A federal state is defined by the constitutional division of sovereignty between two levels of government: a central (federal) government and regional (state or provincial) governments."
+    },
+    {
+      "questionNumber": 25,
+      "question": "One of the major criticisms levelled against the United Nations (UN) is its inability to",
+      "optionA": "ensure fair permanent representation",
+      "optionB": "enforce affirmative action and equal wealth",
+      "optionC": "adopt a universal language for its operation",
+      "optionD": "ensure universal access to education",
+      "correctAnswer": "A",
+      "explanation": "This criticism points to the UN Security Council, where the five permanent (P5) members reflect the global power balance of 1945, not the 21st century. Continents like Africa and South America lack permanent representation, which is seen as unfair."
+    },
+    {
+      "questionNumber": 26,
+      "question": "One of the function of the electoral management body is to",
+      "optionA": "conduct training programmes for presidential candidates",
+      "optionB": "look for external sources besides the government to fund its operations",
+      "optionC": "interpret the electoral laws fairly",
+      "optionD": "engage in business to increase its financial capacity",
+      "correctAnswer": "C",
+      "explanation": "The core mandate of an electoral management body (like an electoral commission) is to administer elections, which includes registering voters, conducting the poll, and applying/interpreting the electoral laws in an impartial manner."
+    },
+    {
+      "questionNumber": 27,
+      "question": "The civil service is different from the public service in terms of",
+      "optionA": "educational qualification",
+      "optionB": "political affiliation",
+      "optionC": "conditions of service",
+      "optionD": "personality and stature",
+      "correctAnswer": "C",
+      "explanation": "The 'public service' is broad (includes teachers, police, military, judiciary, etc.). The 'civil service' is a narrower part of the public service (core government ministries). They operate under different rules, pay scales, and employment terms, which are collectively known as 'conditions of service'."
+    },
+    {
+      "questionNumber": 28,
+      "question": "The judiciary occupies an important place in every state because it is",
+      "optionA": "mandated to supervise the functions of the executive",
+      "optionB": "a unique profession of intellectuals",
+      "optionC": "protector of the rights of the people",
+      "optionD": "a body of upright and just people in society",
+      "correctAnswer": "C",
+      "explanation": "A primary and essential function of an independent judiciary is to interpret the constitution and laws, thereby serving as a check on government power and protecting the fundamental rights of citizens."
+    },
+    {
+      "questionNumber": 29,
+      "question": "An executive president is one who wields the powers of a",
+      "optionA": "head of state and government",
+      "optionB": "ceremonial president only",
+      "optionC": "leader of government business only",
+      "optionD": "despot and benevolent dictator",
+      "correctAnswer": "A",
+      "explanation": "In a presidential (executive) system, the president fulfills both the ceremonial duties of Head of State and the practical, day-to-day duties of the Head of Government."
+    },
+    {
+      "questionNumber": 30,
+      "question": "There are two types of committee system in the House of parliament as part of their operations and one of such is",
+      "optionA": "parliamentary service board",
+      "optionB": "expert committee",
+      "optionC": "Committee of the Whole House",
+      "optionD": "Leadership Committee",
+      "correctAnswer": "C",
+      "explanation": "Parliamentary committees are typically either Standing Committees (permanent) or Ad-hoc/Select Committees (temporary). A 'Committee of the Whole House' is a specific procedural tool where the entire chamber acts as one committee, usually to debate a bill in detail."
+    },
+    {
+      "questionNumber": 31,
+      "question": "A democratic country is one in which the people have the right to",
+      "optionA": "participate in decision making",
+      "optionB": "disregard laws they abhor",
+      "optionC": "violently overthrow a government",
+      "optionD": "punish government by not honouring tax obligation",
+      "correctAnswer": "A",
+      "explanation": "The core principle of democracy ('rule by the people') is that citizens have the right to participate in the decisions that affect them, primarily through voting for representatives."
+    },
+    {
+      "questionNumber": 32,
+      "question": "The best way to keep the military at bay from interfering in politics is by ensuring",
+      "optionA": "high pay rise every year",
+      "optionB": "their inclusion in government",
+      "optionC": "good governance",
+      "optionD": "effective control of their day to day operations",
+      "correctAnswer": "C",
+      "explanation": "Military interventions (coups) are often justified by citing government corruption, incompetence, and instability. Therefore, providing good, effective, and accountable governance removes the primary pretext for military intervention and maintains popular support for civilian rule."
+    },
+    {
+      "questionNumber": 33,
+      "question": "The African Union (AU) is saddled with one of these challenges and that is",
+      "optionA": "absence of rich natural resources",
+      "optionB": "tensions and political discord among member states",
+      "optionC": "inter-ethnic extinction and poor social cohesion",
+      "optionD": "weak labour force",
+      "correctAnswer": "B",
+      "explanation": "As an organization of 55 sovereign states, the AU frequently faces challenges in reaching a consensus. Differing national interests, political conflicts, and regional disputes among member states create political discord that can hinder effective, unified action."
+    },
+    {
+      "questionNumber": 34,
+      "question": "The reluctance of military regimes to hand over power to civilian administration is because they",
+      "optionA": "negotiate better loan terms for the country than the civilian government",
+      "optionB": "have the backing of traditional rulers, their subjects and the clergy",
+      "optionC": "feel a sense of entitlement",
+      "optionD": "perceive civilians and politicians as evil doers and backward",
+      "correctAnswer": "D",
+      "explanation": "Military regimes often justify their rule with a 'messianic' complex, claiming that civilian politicians are corrupt, inept, and divisive. This perception that they are 'saving' the nation makes them reluctant to return power to those they deem unfit to rule."
+    },
+    {
+      "questionNumber": 35,
+      "question": "The exercise of power can arise from any of the following sources except",
+      "optionA": "ideological power",
+      "optionB": "legitimate power",
+      "optionC": "expert power",
+      "optionD": "charismatic power",
+      "correctAnswer": "A",
+      "explanation": "Based on French and Raven's 'Bases of Power,' the common sources are Legitimate (position), Expert (knowledge), Referent (charismatic), Coercive (punishment), and Reward. 'Ideological power' is not one of the distinct classical types, though it can be related to legitimate or charismatic power."
+    },
+    {
+      "questionNumber": 36,
+      "question": "A social, political and economic arrangement in which landed property and other natural resources are collectively owned is referred to as",
+      "optionA": "Federalism",
+      "optionB": "Liberalism",
+      "optionC": "Communalism",
+      "optionD": "Feudalism",
+      "correctAnswer": "C",
+      "explanation": "Communalism is a system of social organization based on the collective ownership of property, particularly land and resources, by the community as a whole."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Public opinion is formed through the following channels except",
+      "optionA": "Cabinet",
+      "optionB": "Elections",
+      "optionC": "Mass media",
+      "optionD": "Political parties",
+      "correctAnswer": "A",
+      "explanation": "The mass media, political parties, and elections are all ways public opinion is formed, expressed, and measured. The Cabinet, however, is part of the government (executive) that *responds* to public opinion; it does not form it."
+    },
+    {
+      "questionNumber": 38,
+      "question": "The function of the Diplomatic Missions include the following except",
+      "optionA": "project the culture of the people",
+      "optionB": "woo investors",
+      "optionC": "pay salaries of workers of the mission",
+      "optionD": "gather intelligence information",
+      "correctAnswer": "C",
+      "explanation": "Paying salaries is an internal administrative task. The diplomatic functions are representing the state, promoting its culture, facilitating trade (wooing investors), and gathering information (intelligence) about the host country."
+    },
+    {
+      "questionNumber": 39,
+      "question": "One of the factors that influences decentralization of power in a state is",
+      "optionA": "weak central authority",
+      "optionB": "widening political participation",
+      "optionC": "maximum allegiance to the state",
+      "optionD": "maximum loyalty",
+      "correctAnswer": "B",
+      "explanation": "Decentralization (moving power from the center to local/regional levels) is often done to bring government 'closer to the people,' allowing more citizens to engage in local decision-making and thus widening political participation."
+    },
+    {
+      "questionNumber": 40,
+      "question": "One of the high points of the activities of the National Congress of British West Africa (NCBWA) led to the",
+      "optionA": "proposal for African unity",
+      "optionB": "creation of the African High Command",
+      "optionC": "Africanization of the Executive Council",
+      "optionD": "introduction of the elective principles",
+      "correctAnswer": "D",
+      "explanation": "A key demand of the NCBWA in the 1920s was for greater African representation in the legislative councils. Their agitation successfully pressured the British to introduce the elective principle (e.g., in the 1922 Clifford Constitution in Nigeria), allowing some Africans to be elected to office for the first time."
+    },
+    {
+      "questionNumber": 41,
+      "question": "The pattern of rule by the French in her West African colonies was highly",
+      "optionA": "decentralized",
+      "optionB": "proportional",
+      "optionC": "consultative",
+      "optionD": "centralized",
+      "correctAnswer": "D",
+      "explanation": "The French policy of assimilation was a direct-rule system, highly centralized and managed from Paris, with little power given to local traditional structures. This is in contrast to the British system of indirect rule."
+    },
+    {
+      "questionNumber": 42,
+      "question": "The Commonwealth of Nations is committed to one of the following principles",
+      "optionA": "human rights and democracy",
+      "optionB": "supervise political activities of member states",
+      "optionC": "draft constitution for member states",
+      "optionD": "finance budget of member states",
+      "correctAnswer": "A",
+      "explanation": "The core values of the Commonwealth, as affirmed in the Harare Declaration, are a commitment to promoting democracy, good governance, human rights, and the rule of law among its members."
+    },
+    {
+      "questionNumber": 43,
+      "question": "The cornerstone of a functioning democracy is the",
+      "optionA": "foreign policy and military alliances",
+      "optionB": "appropriation bill",
+      "optionC": "free and fair elections",
+      "optionD": "expenditure pattern of the executive",
+      "correctAnswer": "C",
+      "explanation": "Democracy is based on the consent of the governed. This consent is given and renewed through periodic free and fair elections, which are the fundamental mechanism for choosing leaders and ensuring accountability."
+    },
+    {
+      "questionNumber": 44,
+      "question": "The issues that are at the core of a country's foreign policy are referred to as",
+      "optionA": "globalisation",
+      "optionB": "state area",
+      "optionC": "national interest",
+      "optionD": "diplomacy",
+      "correctAnswer": "C",
+      "explanation": "National interest is the set of goals (e.g., security, economic prosperity, values) that a state seeks to achieve in its interactions with other states. It is the primary driver of all foreign policy decisions."
+    },
+    {
+      "questionNumber": 45,
+      "question": "The underlying principle of the concept of seperation of powers is mainly to",
+      "optionA": "educate people on their rights",
+      "optionB": "tame the executive",
+      "optionC": "prevent arbitrariness",
+      "optionD": "ensure constitutional review",
+      "correctAnswer": "C",
+      "explanation": "By dividing government power among the legislature, executive, and judiciary, the separation of powers (along with checks and balances) ensures that no single branch becomes all-powerful and rules arbitrarily (like a tyrant)."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Secret voting assists the voter in making a decision without",
+      "optionA": "coercion",
+      "optionB": "pondering over issues",
+      "optionC": "national interest",
+      "optionD": "public good",
+      "correctAnswer": "A",
+      "explanation": "The purpose of a secret ballot is to protect the voter from intimidation, bribery, and other forms of pressure (coercion), allowing them to vote their true conscience freely."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Elections plays a major role in the democratic process because, it",
+      "optionA": "ensures only good people rule",
+      "optionB": "manipulates the electoral process",
+      "optionC": "confers legitimacy",
+      "optionD": "projects the class system",
+      "correctAnswer": "C",
+      "explanation": "Legitimacy is the belief that a government has the right to rule. In a democracy, this right is granted by the people through free and fair elections, which confer legitimacy on the winners."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Which one among the following is a significant factor that influences the foreign policy of a country?",
+      "optionA": "Gender of the political leader",
+      "optionB": "Educational system",
+      "optionC": "Recruitment policy",
+      "optionD": "political system",
+      "correctAnswer": "D",
+      "explanation": "A country's domestic political system (e.g., democracy, monarchy, autocracy) profoundly shapes its foreign policy goals, its allies, and its methods of interaction with the world."
+    },
+    {
+      "questionNumber": 49,
+      "question": "One of the negative effects of colonial rule on West African states was the",
+      "optionA": "building of roads and rail network",
+      "optionB": "social interventions",
+      "optionC": "western education",
+      "optionD": "dependency syndrome",
+      "correctAnswer": "D",
+      "explanation": "Colonialism restructured West African economies to serve as suppliers of raw materials to Europe. This created a long-term economic and political dependency on their former colonizers that persisted long after independence."
+    },
+    {
+      "questionNumber": 50,
+      "question": "One of the low points in the cabinet system of government is that, the",
+      "optionA": "divided loyalty of the cabinet ministers is strong",
+      "optionB": "centre of power in the system is stable",
+      "optionC": "Prime Minister does not regard the Head ofState",
+      "optionD": "tenure of government is always not stable",
+      "correctAnswer": "D",
+      "explanation": "In a cabinet (parliamentary) system, the government can be dismissed with a 'vote of no confidence' from the legislature at any time. This can lead to frequent elections and government changes, making the tenure less stable than in a presidential system with fixed terms."
+    }
+  ]
+}

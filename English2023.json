@@ -1,0 +1,1757 @@
+[
+  {
+    "number": 1,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He don't like apples.",
+      "B": "He doesn't likes apples.",
+      "C": "He doesn't like apples.",
+      "D": "He don't likes apples."
+    },
+    "answer": "C",
+    "explanation": "For third person singular, use 'doesn't' + base verb without 's'."
+  },
+  {
+    "number": 2,
+    "instruction": "Fill in the blank with the correct form of the verb.",
+    "question": "They ______ to the park every Sunday.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "answer": "A",
+    "explanation": "'They' is plural, so the base form 'go' is used."
+  },
+  {
+    "number": 3,
+    "instruction": "Choose the correct preposition.",
+    "question": "She is interested ______ learning French.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "answer": "A",
+    "explanation": "'Interested' is followed by 'in'."
+  },
+  {
+    "number": 4,
+    "instruction": "Choose the correct comparative form.",
+    "question": "This book is ______ than the one I read last week.",
+    "options": {
+      "A": "more interesting",
+      "B": "interestinger",
+      "C": "most interesting",
+      "D": "interesting"
+    },
+    "answer": "A",
+    "explanation": "Use 'more' with adjectives of more than one syllable."
+  },
+  {
+    "number": 5,
+    "instruction": "Choose the correct article.",
+    "question": "She wants to buy ______ orange from the market.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "answer": "B",
+    "explanation": "'Orange' starts with a vowel sound, so 'an' is used."
+  },
+  {
+    "number": 6,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "There is many cars in the parking lot.",
+      "B": "There are many cars in the parking lot.",
+      "C": "There is much cars in the parking lot.",
+      "D": "There are much cars in the parking lot."
+    },
+    "answer": "B",
+    "explanation": "'Many' is used with countable plural nouns; use 'are' for plural."
+  },
+  {
+    "number": 7,
+    "instruction": "Fill in the blank with the correct pronoun.",
+    "question": "This is ______ book, not yours.",
+    "options": {
+      "A": "my",
+      "B": "mine",
+      "C": "me",
+      "D": "I"
+    },
+    "answer": "B",
+    "explanation": "'Mine' is the possessive pronoun."
+  },
+  {
+    "number": 8,
+    "instruction": "Choose the correct verb form.",
+    "question": "She ______ to school by bus every day.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "answer": "B",
+    "explanation": "Third person singular uses 'goes'."
+  },
+  {
+    "number": 9,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He's been working here since five years.",
+      "B": "He's been working here for five years.",
+      "C": "He's worked here since five years.",
+      "D": "He works here since five years."
+    },
+    "answer": "B",
+    "explanation": "'For' is used with periods of time; 'since' with points in time."
+  },
+  {
+    "number": 10,
+    "instruction": "Choose the correct tense.",
+    "question": "I ______ my homework when you called.",
+    "options": {
+      "A": "was doing",
+      "B": "did",
+      "C": "have done",
+      "D": "do"
+    },
+    "answer": "A",
+    "explanation": "Past continuous is used for actions in progress in the past."
+  },
+  {
+    "number": 11,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She can sings well.",
+      "B": "She can sing well.",
+      "C": "She can sang well.",
+      "D": "She can singing well."
+    },
+    "answer": "B",
+    "explanation": "'Can' is followed by the base verb without 's'."
+  },
+  {
+    "number": 12,
+    "instruction": "Fill in the blank with the correct preposition.",
+    "question": "We arrived ______ the airport at 8 PM.",
+    "options": {
+      "A": "to",
+      "B": "in",
+      "C": "at",
+      "D": "on"
+    },
+    "answer": "C",
+    "explanation": "'At' is used for specific places and times."
+  },
+  {
+    "number": 13,
+    "instruction": "Choose the correct synonym for ‘happy’.",
+    "options": {
+      "A": "sad",
+      "B": "joyful",
+      "C": "angry",
+      "D": "tired"
+    },
+    "answer": "B",
+    "explanation": "'Joyful' is a synonym for 'happy'."
+  },
+  {
+    "number": 14,
+    "instruction": "Choose the correct plural form.",
+    "question": "One mouse, two ______.",
+    "options": {
+      "A": "mouses",
+      "B": "mices",
+      "C": "mice",
+      "D": "mouse"
+    },
+    "answer": "C",
+    "explanation": "'Mice' is the correct plural of 'mouse'."
+  },
+  {
+    "number": 15,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I have less books than you.",
+      "B": "I have fewer books than you.",
+      "C": "I have less book than you.",
+      "D": "I have fewer book than you."
+    },
+    "answer": "B",
+    "explanation": "'Fewer' is used with countable nouns like books."
+  },
+  {
+    "number": 16,
+    "instruction": "Fill in the blank with the correct form of the verb.",
+    "question": "If I ______ you, I would apologize.",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "am",
+      "D": "be"
+    },
+    "answer": "B",
+    "explanation": "Subjunctive mood uses 'were' after 'if' for hypothetical situations."
+  },
+  {
+    "number": 17,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She don't like coffee.",
+      "B": "She doesn't like coffee.",
+      "C": "She doesn't likes coffee.",
+      "D": "She don't likes coffee."
+    },
+    "answer": "B",
+    "explanation": "Third person singular requires 'doesn't' + base verb."
+  },
+  {
+    "number": 18,
+    "instruction": "Choose the correct word to complete the sentence.",
+    "question": "I have ______ money than you.",
+    "options": {
+      "A": "less",
+      "B": "fewer",
+      "C": "little",
+      "D": "few"
+    },
+    "answer": "A",
+    "explanation": "'Less' is used with uncountable nouns like money."
+  },
+  {
+    "number": 19,
+    "instruction": "Choose the correct form of the adjective.",
+    "question": "This is the ______ movie I've ever seen.",
+    "options": {
+      "A": "more exciting",
+      "B": "most exciting",
+      "C": "excitingest",
+      "D": "exciting"
+    },
+    "answer": "B",
+    "explanation": "'Most' is used for superlatives of longer adjectives."
+  },
+  {
+    "number": 20,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He did good on the test.",
+      "B": "He did well on the test.",
+      "C": "He did badly on the test.",
+      "D": "He did bad on the test."
+    },
+    "answer": "B",
+    "explanation": "'Well' is the adverb used to describe how he did."
+  },
+  {
+    "number": 21,
+    "instruction": "Choose the correct preposition.",
+    "question": "She is afraid ______ spiders.",
+    "options": {
+      "A": "of",
+      "B": "for",
+      "C": "about",
+      "D": "from"
+    },
+    "answer": "A",
+    "explanation": "'Afraid of' is the correct phrase."
+  },
+  {
+    "number": 22,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "The team are winning.",
+      "B": "The team is winning.",
+      "C": "The teams is winning.",
+      "D": "The teams are winning."
+    },
+    "answer": "B",
+    "explanation": "'Team' as a collective noun takes singular verb."
+  },
+  {
+    "number": 23,
+    "instruction": "Choose the correct verb form.",
+    "question": "They ______ dinner at 7 PM every day.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "having",
+      "D": "had"
+    },
+    "answer": "A",
+    "explanation": "'They' is plural, so use 'have'."
+  },
+  {
+    "number": 24,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I am used to get up early.",
+      "B": "I am used to getting up early.",
+      "C": "I used to getting up early.",
+      "D": "I use to getting up early."
+    },
+    "answer": "B",
+    "explanation": "'Be used to' is followed by gerund (-ing)."
+  },
+  {
+    "number": 25,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She can to swim.",
+      "B": "She can swim.",
+      "C": "She can swimming.",
+      "D": "She can swam."
+    },
+    "answer": "B",
+    "explanation": "'Can' is followed by base form without 'to'."
+  },
+  {
+    "number": 26,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "There's a lot of people here.",
+      "B": "There are a lot of people here.",
+      "C": "There's a lot of persons here.",
+      "D": "There is a lot of persons here."
+    },
+    "answer": "B",
+    "explanation": "'People' is plural; use 'are'."
+  },
+  {
+    "number": 27,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "Its raining outside.",
+      "B": "It's raining outside.",
+      "C": "Its' raining outside.",
+      "D": "Its's raining outside."
+    },
+    "answer": "B",
+    "explanation": "'It's' is contraction for 'it is'."
+  },
+  {
+    "number": 28,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I didn't went to school yesterday.",
+      "B": "I didn't go to school yesterday.",
+      "C": "I don't went to school yesterday.",
+      "D": "I didn't going to school yesterday."
+    },
+    "answer": "B",
+    "explanation": "'Did' is followed by base verb 'go'."
+  },
+  {
+    "number": 29,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "The childrens are playing outside.",
+      "B": "The children are playing outside.",
+      "C": "The children is playing outside.",
+      "D": "The childrens is playing outside."
+    },
+    "answer": "B",
+    "explanation": "'Children' is plural and takes 'are'."
+  },
+  {
+    "number": 30,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He has went to the market.",
+      "B": "He has gone to the market.",
+      "C": "He have gone to the market.",
+      "D": "He has go to the market."
+    },
+    "answer": "B",
+    "explanation": "'Has' + past participle 'gone' is correct present perfect."
+  },
+  {
+    "number": 31,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "Do you wants to come with us?",
+      "B": "Do you want to come with us?",
+      "C": "Does you want to come with us?",
+      "D": "Do you wanting to come with us?"
+    },
+    "answer": "B",
+    "explanation": "'Do' uses base form 'want'."
+  },
+  {
+    "number": 32,
+    "instruction": "Choose the correct form of the adjective.",
+    "question": "This is the ______ day of my life.",
+    "options": {
+      "A": "happier",
+      "B": "happy",
+      "C": "happiest",
+      "D": "more happy"
+    },
+    "answer": "C",
+    "explanation": "Superlative form 'happiest' is used."
+  },
+  {
+    "number": 33,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He enjoys to play football.",
+      "B": "He enjoys playing football.",
+      "C": "He enjoys play football.",
+      "D": "He enjoys played football."
+    },
+    "answer": "B",
+    "explanation": "'Enjoy' is followed by gerund."
+  },
+  {
+    "number": 34,
+    "instruction": "Choose the correct word.",
+    "question": "There is ______ milk in the fridge.",
+    "options": {
+      "A": "much",
+      "B": "many",
+      "C": "few",
+      "D": "a few"
+    },
+    "answer": "A",
+    "explanation": "'Milk' is uncountable; use 'much'."
+  },
+  {
+    "number": 35,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I have lived here since 2010.",
+      "B": "I have lived here for 2010.",
+      "C": "I lived here since 2010.",
+      "D": "I lived here for 2010."
+    },
+    "answer": "A",
+    "explanation": "'Since' is used with starting point in time."
+  },
+  {
+    "number": 36,
+    "instruction": "Choose the correct preposition.",
+    "question": "She is responsible ______ the project.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "with",
+      "D": "at"
+    },
+    "answer": "A",
+    "explanation": "'Responsible for' is correct."
+  },
+  {
+    "number": 37,
+    "instruction": "Choose the correct word to complete the sentence.",
+    "question": "He is better ______ math than I am.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "on",
+      "D": "for"
+    },
+    "answer": "A",
+    "explanation": "'Better at' is the correct phrase."
+  },
+  {
+    "number": 38,
+    "instruction": "Choose the correct verb form.",
+    "question": "They ______ the movie last night.",
+    "options": {
+      "A": "watch",
+      "B": "watched",
+      "C": "watching",
+      "D": "watches"
+    },
+    "answer": "B",
+    "explanation": "Past tense 'watched' for completed action."
+  },
+  {
+    "number": 39,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She has already ate.",
+      "B": "She has already eaten.",
+      "C": "She has already eat.",
+      "D": "She has already eating."
+    },
+    "answer": "B",
+    "explanation": "'Eaten' is the past participle used with 'has'."
+  },
+  {
+    "number": 40,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "If I will see him, I will tell him.",
+      "B": "If I see him, I will tell him.",
+      "C": "If I saw him, I will tell him.",
+      "D": "If I would see him, I will tell him."
+    },
+    "answer": "B",
+    "explanation": "First conditional uses present simple in 'if' clause."
+  },
+  {
+    "number": 41,
+    "instruction": "Choose the correct conjunction.",
+    "question": "I was tired, ______ I went to bed early.",
+    "options": {
+      "A": "so",
+      "B": "but",
+      "C": "because",
+      "D": "although"
+    },
+    "answer": "A",
+    "explanation": "'So' shows result."
+  },
+  {
+    "number": 42,
+    "instruction": "Choose the correct form of the verb.",
+    "question": "She ______ in London since 2015.",
+    "options": {
+      "A": "lived",
+      "B": "has lived",
+      "C": "is living",
+      "D": "lives"
+    },
+    "answer": "B",
+    "explanation": "Present perfect used for action continuing to present."
+  },
+  {
+    "number": 43,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He don't have any money.",
+      "B": "He doesn't have any money.",
+      "C": "He doesn't has any money.",
+      "D": "He don't has any money."
+    },
+    "answer": "B",
+    "explanation": "'Doesn't' + base verb 'have' is correct."
+  },
+  {
+    "number": 44,
+    "instruction": "Choose the correct form of the adjective.",
+    "question": "This problem is ______ than the last one.",
+    "options": {
+      "A": "more difficult",
+      "B": "difficultier",
+      "C": "most difficult",
+      "D": "difficult"
+    },
+    "answer": "A",
+    "explanation": "'More' used with multi-syllable adjectives for comparison."
+  },
+  {
+    "number": 45,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She don't like swimming.",
+      "B": "She doesn't like swimming.",
+      "C": "She doesn't likes swimming.",
+      "D": "She don't likes swimming."
+    },
+    "answer": "B",
+    "explanation": "'Doesn't' + base verb is correct."
+  },
+  {
+    "number": 46,
+    "instruction": "Choose the correct preposition.",
+    "question": "They arrived ______ the station at 6 PM.",
+    "options": {
+      "A": "to",
+      "B": "at",
+      "C": "in",
+      "D": "on"
+    },
+    "answer": "B",
+    "explanation": "'Arrived at' is the correct phrase."
+  },
+  {
+    "number": 47,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I have visited Paris last year.",
+      "B": "I visited Paris last year.",
+      "C": "I have been visiting Paris last year.",
+      "D": "I visiting Paris last year."
+    },
+    "answer": "B",
+    "explanation": "Past simple is used for finished time in the past."
+  },
+  {
+    "number": 48,
+    "instruction": "Choose the correct word to complete the sentence.",
+    "question": "She speaks English ______ than her sister.",
+    "options": {
+      "A": "good",
+      "B": "well",
+      "C": "better",
+      "D": "best"
+    },
+    "answer": "C",
+    "explanation": "'Better' is comparative adverb."
+  },
+  {
+    "number": 49,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I have many homework to do.",
+      "B": "I have much homework to do.",
+      "C": "I have a lot of homework to do.",
+      "D": "I have few homework to do."
+    },
+    "answer": "C",
+    "explanation": "'Homework' is uncountable; use 'a lot of'."
+  },
+  {
+    "number": 50,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "There is a lot of water in the bottle.",
+      "B": "There are a lot of water in the bottle.",
+      "C": "There is many water in the bottle.",
+      "D": "There are many water in the bottle."
+    },
+    "answer": "A",
+    "explanation": "'Water' is uncountable; use 'is'."
+  },
+  {
+    "number": 51,
+    "instruction": "Choose the correct verb form.",
+    "question": "She ______ the piano every day.",
+    "options": {
+      "A": "practice",
+      "B": "practices",
+      "C": "practiced",
+      "D": "practicing"
+    },
+    "answer": "B",
+    "explanation": "Third person singular uses 'practices'."
+  },
+  {
+    "number": 52,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I didn't knew the answer.",
+      "B": "I didn't know the answer.",
+      "C": "I don't knew the answer.",
+      "D": "I didn't knowing the answer."
+    },
+    "answer": "B",
+    "explanation": "'Did' is followed by base verb 'know'."
+  },
+  {
+    "number": 53,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She is good in painting.",
+      "B": "She is good at painting.",
+      "C": "She is good on painting.",
+      "D": "She is good for painting."
+    },
+    "answer": "B",
+    "explanation": "'Good at' is the correct phrase."
+  },
+  {
+    "number": 54,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He will comes tomorrow.",
+      "B": "He will come tomorrow.",
+      "C": "He will coming tomorrow.",
+      "D": "He will came tomorrow."
+    },
+    "answer": "B",
+    "explanation": "'Will' is followed by base verb 'come'."
+  },
+  {
+    "number": 55,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "We was happy to see her.",
+      "B": "We were happy to see her.",
+      "C": "We is happy to see her.",
+      "D": "We are happy to see her."
+    },
+    "answer": "B",
+    "explanation": "'We' takes 'were' in past tense."
+  },
+  {
+    "number": 56,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "It's time to go.",
+      "B": "Its time to go.",
+      "C": "Its' time to go.",
+      "D": "It time to go."
+    },
+    "answer": "A",
+    "explanation": "'It's' is contraction of 'it is'."
+  },
+  {
+    "number": 57,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "Can you borrow me some money?",
+      "B": "Can you lend me some money?",
+      "C": "Can you borrow me a pen?",
+      "D": "Can you lend me a car?"
+    },
+    "answer": "B",
+    "explanation": "'Lend' is used to give something temporarily."
+  },
+  {
+    "number": 58,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He has been worked here for two years.",
+      "B": "He has been working here for two years.",
+      "C": "He has working here for two years.",
+      "D": "He have been working here for two years."
+    },
+    "answer": "B",
+    "explanation": "Present perfect continuous uses 'has been' + verb-ing."
+  },
+  {
+    "number": 59,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I am agree with you.",
+      "B": "I agree with you.",
+      "C": "I agrees with you.",
+      "D": "I agreeing with you."
+    },
+    "answer": "B",
+    "explanation": "'Agree' is a stative verb; do not use continuous."
+  },
+  {
+    "number": 60,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He doesn't has any friends.",
+      "B": "He doesn't have any friends.",
+      "C": "He don't have any friends.",
+      "D": "He doesn't having any friends."
+    },
+    "answer": "B",
+    "explanation": "'Doesn't' + base verb 'have' is correct."
+  },
+  {
+    "number": 61,
+    "instruction": "Choose the correct preposition.",
+    "question": "We are waiting ______ the bus.",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "to",
+      "D": "on"
+    },
+    "answer": "A",
+    "explanation": "'Wait for' is the correct phrase."
+  },
+  {
+    "number": 62,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She told me that she will come.",
+      "B": "She told me that she would come.",
+      "C": "She told me that she will came.",
+      "D": "She told me that she would came."
+    },
+    "answer": "B",
+    "explanation": "Reported speech uses 'would' for future."
+  },
+  {
+    "number": 63,
+    "instruction": "Choose the correct word.",
+    "question": "There are ______ apples on the table.",
+    "options": {
+      "A": "much",
+      "B": "many",
+      "C": "little",
+      "D": "a little"
+    },
+    "answer": "B",
+    "explanation": "'Many' is used with countable plural nouns."
+  },
+  {
+    "number": 64,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "He speaks English very good.",
+      "B": "He speaks English very well.",
+      "C": "He speaks English very better.",
+      "D": "He speaks English very best."
+    },
+    "answer": "B",
+    "explanation": "'Well' is the correct adverb."
+  },
+  {
+    "number": 65,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "I am interesting in music.",
+      "B": "I am interested in music.",
+      "C": "I am interested on music.",
+      "D": "I am interesting on music."
+    },
+    "answer": "B",
+    "explanation": "'Interested in' is correct."
+  },
+  {
+    "number": 66,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "They was playing football.",
+      "B": "They were playing football.",
+      "C": "They is playing football.",
+      "D": "They are playing football."
+    },
+    "answer": "B",
+    "explanation": "Past continuous uses 'were' for plural."
+  },
+  {
+    "number": 67,
+    "instruction": "Choose the correct verb form.",
+    "question": "He ______ to the gym every day.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "answer": "B",
+    "explanation": "Third person singular uses 'goes'."
+  },
+  {
+    "number": 68,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "Who did you meet yesterday?",
+      "B": "Whom did you meet yesterday?",
+      "C": "Who you meet yesterday?",
+      "D": "Whom you meet yesterday?"
+    },
+    "answer": "B",
+    "explanation": "'Whom' is object of the verb 'meet'."
+  },
+  {
+    "number": 69,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "She has less friends than me.",
+      "B": "She has fewer friends than me.",
+      "C": "She has little friends than me.",
+      "D": "She has few friends than me."
+    },
+    "answer": "B",
+    "explanation": "'Fewer' is used with countable nouns."
+  },
+  {
+    "number": 70,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "It's too much cold today.",
+      "B": "It's too cold today.",
+      "C": "It's too colder today.",
+      "D": "It's too coldly today."
+    },
+    "answer": "B",
+    "explanation": "'Too cold' is the correct expression."
+  },
+  {
+    "number": 71,
+    "instruction": "From the words lettered A to D, choose the word closest in meaning to the underlined word in the sentence.",
+    "question": "The company’s profits have increased substantially this year.",
+    "options": {
+      "A": "slightly",
+      "B": "considerably",
+      "C": "gradually",
+      "D": "temporarily"
+    },
+    "answer": "B",
+    "explanation": "‘Substantially’ means considerably or largely."
+  },
+  {
+    "number": 72,
+    "instruction": "From the words lettered A to D, choose the word closest in meaning to the underlined word in the sentence.",
+    "question": "She spoke in a tone that was both sarcastic and mocking.",
+    "options": {
+      "A": "serious",
+      "B": "complimentary",
+      "C": "insincere",
+      "D": "respectful"
+    },
+    "answer": "C",
+    "explanation": "Sarcastic and mocking imply insincerity."
+  },
+  {
+    "number": 73,
+    "instruction": "Complete the sentence with the correct preposition.",
+    "question": "He is responsible __________ organizing the meeting.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "with",
+      "D": "on"
+    },
+    "answer": "A",
+    "explanation": "‘Responsible for’ is the correct collocation."
+  },
+  {
+    "number": 74,
+    "instruction": "Choose the correct form of the verb.",
+    "question": "If she __________ earlier, she would not have missed the train.",
+    "options": {
+      "A": "had left",
+      "B": "leaves",
+      "C": "left",
+      "D": "has left"
+    },
+    "answer": "A",
+    "explanation": "This is a third conditional sentence requiring past perfect."
+  },
+  {
+    "number": 75,
+    "instruction": "Choose the word that best completes the sentence.",
+    "question": "The children were asked to be _______ during the assembly.",
+    "options": {
+      "A": "silent",
+      "B": "silence",
+      "C": "silencing",
+      "D": "silently"
+    },
+    "answer": "A",
+    "explanation": "‘Silent’ is the correct adjective here."
+  },
+  {
+    "number": 76,
+    "instruction": "Read the passage and answer the question that follows.",
+    "passage": "The rainforest is a vital ecosystem that supports a vast array of species. It regulates the climate and purifies the air.",
+    "question": "According to the passage, what role does the rainforest play?",
+    "options": {
+      "A": "It produces timber for construction.",
+      "B": "It supports a limited number of species.",
+      "C": "It helps regulate the climate and purify air.",
+      "D": "It is a desert ecosystem."
+    },
+    "answer": "C",
+    "explanation": "The passage states the rainforest regulates climate and purifies air."
+  },
+  {
+    "number": 77,
+    "instruction": "Read the passage and answer the question that follows.",
+    "passage": "Electric cars are gaining popularity due to their efficiency and low emissions.",
+    "question": "Why are electric cars becoming more popular?",
+    "options": {
+      "A": "They are more expensive.",
+      "B": "They use more fuel.",
+      "C": "They are efficient and emit less pollution.",
+      "D": "They are heavier than regular cars."
+    },
+    "answer": "C",
+    "explanation": "Electric cars are efficient and have low emissions."
+  },
+  {
+    "number": 78,
+    "instruction": "Choose the word that best fits the sentence.",
+    "question": "The doctor advised him to take the medicine _______ food.",
+    "options": {
+      "A": "at",
+      "B": "with",
+      "C": "on",
+      "D": "after"
+    },
+    "answer": "B",
+    "explanation": "‘With food’ is the correct phrase."
+  },
+  {
+    "number": 79,
+    "instruction": "Identify the correct passive sentence.",
+    "question": "They have completed the project.",
+    "options": {
+      "A": "The project was completed by them.",
+      "B": "The project has been completed by them.",
+      "C": "The project will be completed by them.",
+      "D": "They are completing the project."
+    },
+    "answer": "B",
+    "explanation": "Present perfect passive requires ‘has/have been + past participle’."
+  },
+  {
+    "number": 80,
+    "instruction": "Choose the synonym of the word ‘ambiguous’.",
+    "options": {
+      "A": "clear",
+      "B": "vague",
+      "C": "definite",
+      "D": "certain"
+    },
+    "answer": "B",
+    "explanation": "‘Ambiguous’ means vague or unclear."
+  },
+  {
+    "number": 81,
+    "instruction": "Choose the correct phrasal verb to complete the sentence.",
+    "question": "Please _______ your homework before coming to class.",
+    "options": {
+      "A": "hand out",
+      "B": "hand in",
+      "C": "hand over",
+      "D": "hand back"
+    },
+    "answer": "B",
+    "explanation": "‘Hand in’ means to submit homework."
+  },
+  {
+    "number": 82,
+    "instruction": "Identify the sentence with correct subject-verb agreement.",
+    "options": {
+      "A": "The team of players are ready.",
+      "B": "The list of items are on the desk.",
+      "C": "The group of students is studying.",
+      "D": "The pack of wolves are hunting."
+    },
+    "answer": "C",
+    "explanation": "‘Group’ is singular, so ‘is’ is correct."
+  },
+  {
+    "number": 83,
+    "instruction": "Choose the correct tense for the sentence.",
+    "question": "By the time we arrive, the train _______.",
+    "options": {
+      "A": "leaves",
+      "B": "will leave",
+      "C": "will have left",
+      "D": "left"
+    },
+    "answer": "C",
+    "explanation": "Future perfect tense indicates an action completed before another future action."
+  },
+  {
+    "number": 84,
+    "instruction": "Choose the correct word to complete the sentence.",
+    "question": "He does not have ________ money to buy the book.",
+    "options": {
+      "A": "many",
+      "B": "much",
+      "C": "a lot",
+      "D": "few"
+    },
+    "answer": "B",
+    "explanation": "‘Much’ is used with uncountable nouns like money."
+  },
+  {
+    "number": 85,
+    "instruction": "Choose the correct article for the sentence.",
+    "question": "He is _____ honest man.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "answer": "B",
+    "explanation": "‘Honest’ starts with a vowel sound, so ‘an’ is used."
+  },
+  {
+    "number": 86,
+    "instruction": "Choose the correct preposition to complete the sentence.",
+    "question": "She is interested _______ learning French.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "answer": "A",
+    "explanation": "‘Interested in’ is the correct collocation."
+  },
+  {
+    "number": 87,
+    "instruction": "From the following sentences, choose the one that is grammatically correct.",
+    "options": {
+      "A": "Neither of the boys are present.",
+      "B": "Neither of the boys is present.",
+      "C": "Neither of the boys were present.",
+      "D": "Neither of the boys have been present."
+    },
+    "answer": "B",
+    "explanation": "‘Neither’ is singular, so ‘is’ is correct."
+  },
+  {
+    "number": 88,
+    "instruction": "Choose the correct form of the adjective.",
+    "question": "She is the _______ student in the class.",
+    "options": {
+      "A": "more intelligent",
+      "B": "most intelligent",
+      "C": "intelligent",
+      "D": "intelligenter"
+    },
+    "answer": "B",
+    "explanation": "‘Most intelligent’ is the superlative form."
+  },
+  {
+    "number": 89,
+    "instruction": "Identify the correct sentence.",
+    "options": {
+      "A": "He did not do nothing.",
+      "B": "He did nothing.",
+      "C": "He did not do anything.",
+      "D": "Both B and C"
+    },
+    "answer": "D",
+    "explanation": "Sentences B and C are both correct; A contains a double negative."
+  },
+  {
+    "number": 90,
+    "instruction": "Choose the sentence that uses the correct form of ‘there’.",
+    "options": {
+      "A": "Their going to the market.",
+      "B": "There going to the market.",
+      "C": "They’re going to the market.",
+      "D": "Theyre going to the market."
+    },
+    "answer": "C",
+    "explanation": "‘They’re’ is the contraction of ‘they are’."
+  },
+  {
+    "number": 91,
+    "instruction": "Complete the sentence using the correct conditional form.",
+    "question": "If I ______ you, I would apologize.",
+    "options": {
+      "A": "am",
+      "B": "were",
+      "C": "was",
+      "D": "be"
+    },
+    "answer": "B",
+    "explanation": "The subjunctive ‘were’ is correct in hypothetical statements."
+  },
+  {
+    "number": 92,
+    "instruction": "Choose the synonym of the word ‘diligent’.",
+    "options": {
+      "A": "lazy",
+      "B": "careless",
+      "C": "hardworking",
+      "D": "indifferent"
+    },
+    "answer": "C",
+    "explanation": "‘Diligent’ means hardworking."
+  },
+  {
+    "number": 93,
+    "instruction": "Choose the antonym of the word ‘scarce’.",
+    "options": {
+      "A": "rare",
+      "B": "plentiful",
+      "C": "limited",
+      "D": "insufficient"
+    },
+    "answer": "B",
+    "explanation": "‘Plentiful’ is the opposite of ‘scarce’."
+  },
+  {
+    "number": 94,
+    "instruction": "Choose the word that best completes the sentence.",
+    "question": "She decided to ______ the offer after much consideration.",
+    "options": {
+      "A": "accept",
+      "B": "except",
+      "C": "excepted",
+      "D": "accepting"
+    },
+    "answer": "A",
+    "explanation": "‘Accept’ means to agree to."
+  },
+  {
+    "number": 95,
+    "instruction": "Choose the correct passive voice sentence.",
+    "question": "The chef cooks the meal.",
+    "options": {
+      "A": "The meal is cooked by the chef.",
+      "B": "The meal was cooked by the chef.",
+      "C": "The meal has been cooked by the chef.",
+      "D": "The meal cooking is done by the chef."
+    },
+    "answer": "A",
+    "explanation": "Present simple passive is ‘is cooked’."
+  },
+  {
+    "number": 96,
+    "instruction": "Choose the correct comparative form.",
+    "question": "This test is ______ than the previous one.",
+    "options": {
+      "A": "easy",
+      "B": "easier",
+      "C": "easiest",
+      "D": "more easy"
+    },
+    "answer": "B",
+    "explanation": "‘Easier’ is the comparative form."
+  },
+  {
+    "number": 97,
+    "instruction": "Fill in the blank with the correct word.",
+    "question": "The man _______ car was stolen reported to the police.",
+    "options": {
+      "A": "which",
+      "B": "whose",
+      "C": "who",
+      "D": "whom"
+    },
+    "answer": "B",
+    "explanation": "‘Whose’ is the possessive relative pronoun."
+  },
+  {
+    "number": 98,
+    "instruction": "Choose the correct word.",
+    "question": "He has been working here ______ five years.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "from",
+      "D": "at"
+    },
+    "answer": "B",
+    "explanation": "‘For’ is used to indicate duration."
+  },
+  {
+    "number": 99,
+    "instruction": "Identify the word stressed differently from the others.",
+    "options": {
+      "A": "increase",
+      "B": "support",
+      "C": "demand",
+      "D": "rely"
+    },
+    "answer": "D",
+    "explanation": "‘Rely’ is stressed on the second syllable, others on the first."
+  },
+  {
+    "number": 100,
+    "instruction": "Choose the correct verb form.",
+    "question": "Neither the teacher nor the students ______ present.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "answer": "B",
+    "explanation": "When subjects are joined by ‘nor’, the verb agrees with the nearer subject; ‘students’ is plural."
+  },
+  {
+    "number": 101,
+    "instruction": "Choose the correct form of the adjective.",
+    "question": "This is the ______ book I have ever read.",
+    "options": {
+      "A": "more interesting",
+      "B": "most interesting",
+      "C": "interestinger",
+      "D": "interesting"
+    },
+    "answer": "B",
+    "explanation": "Superlative form ‘most interesting’ is correct."
+  },
+  {
+    "number": 102,
+    "instruction": "Choose the correct modal verb.",
+    "question": "You ______ smoke in here; it’s prohibited.",
+    "options": {
+      "A": "must",
+      "B": "may",
+      "C": "must not",
+      "D": "can"
+    },
+    "answer": "C",
+    "explanation": "‘Must not’ expresses prohibition."
+  },
+  {
+    "number": 103,
+    "instruction": "Identify the correctly punctuated sentence.",
+    "options": {
+      "A": "My brother who lives in Lagos is visiting.",
+      "B": "My brother, who lives in Lagos, is visiting.",
+      "C": "My brother who lives in Lagos, is visiting.",
+      "D": "My brother, who lives in Lagos is visiting."
+    },
+    "answer": "B",
+    "explanation": "Non-restrictive clause needs commas."
+  },
+  {
+    "number": 104,
+    "instruction": "Choose the word closest in meaning to ‘ephemeral’.",
+    "options": {
+      "A": "lasting",
+      "B": "short-lived",
+      "C": "permanent",
+      "D": "eternal"
+    },
+    "answer": "B",
+    "explanation": "‘Ephemeral’ means short-lived."
+  },
+  {
+    "number": 105,
+    "instruction": "Complete the sentence with the correct conjunction.",
+    "question": "I will call you ______ I arrive.",
+    "options": {
+      "A": "because",
+      "B": "until",
+      "C": "after",
+      "D": "when"
+    },
+    "answer": "D",
+    "explanation": "‘When’ is correct for time clauses."
+  },
+  {
+    "number": 106,
+    "instruction": "Choose the correct passive form.",
+    "question": "They are painting the house.",
+    "options": {
+      "A": "The house is being painted.",
+      "B": "The house is painted.",
+      "C": "The house has been painted.",
+      "D": "The house was painted."
+    },
+    "answer": "A",
+    "explanation": "Present continuous passive requires ‘is being’ + past participle."
+  },
+  {
+    "number": 107,
+    "instruction": "Identify the sentence with the correct use of articles.",
+    "options": {
+      "A": "She adopted an unique approach.",
+      "B": "She adopted a unique approach.",
+      "C": "She adopted the unique approach.",
+      "D": "She adopted unique approach."
+    },
+    "answer": "B",
+    "explanation": "‘Unique’ starts with a consonant sound; ‘a’ is used."
+  },
+  {
+    "number": 108,
+    "instruction": "Choose the best sentence.",
+    "options": {
+      "A": "He did his homework good.",
+      "B": "He did his homework well.",
+      "C": "He did his homework nicely.",
+      "D": "He did good homework."
+    },
+    "answer": "B",
+    "explanation": "‘Well’ is the adverb correctly modifying ‘did’."
+  },
+  {
+    "number": 109,
+    "instruction": "Fill in the blank with the correct preposition.",
+    "question": "She is good _______ playing the piano.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "with",
+      "D": "on"
+    },
+    "answer": "A",
+    "explanation": "‘Good at’ is correct."
+  },
+  {
+    "number": 110,
+    "instruction": "Choose the correct verb form.",
+    "question": "If he ______ earlier, he would have caught the bus.",
+    "options": {
+      "A": "had left",
+      "B": "left",
+      "C": "leaves",
+      "D": "has left"
+    },
+    "answer": "A",
+    "explanation": "Third conditional uses past perfect."
+  },
+  {
+    "number": 111,
+    "instruction": "Choose the sentence with correct word order.",
+    "options": {
+      "A": "She often goes to the gym.",
+      "B": "She goes often to the gym.",
+      "C": "Often she goes to the gym.",
+      "D": "She goes to often the gym."
+    },
+    "answer": "A",
+    "explanation": "Adverbs of frequency usually come before the main verb."
+  },
+  {
+    "number": 112,
+    "instruction": "Choose the correct homophone to complete the sentence.",
+    "question": "The wind ______ the leaves all over the yard.",
+    "options": {
+      "A": "blew",
+      "B": "blue",
+      "C": "bleww",
+      "D": "blow"
+    },
+    "answer": "A",
+    "explanation": "‘Blew’ is the past tense of ‘blow’."
+  },
+  {
+    "number": 113,
+    "instruction": "Choose the correct synonym for ‘benevolent’.",
+    "options": {
+      "A": "kind",
+      "B": "cruel",
+      "C": "selfish",
+      "D": "mean"
+    },
+    "answer": "A",
+    "explanation": "‘Benevolent’ means kind and generous."
+  },
+  {
+    "number": 114,
+    "instruction": "Choose the correct plural form.",
+    "question": "One child, two ________.",
+    "options": {
+      "A": "childs",
+      "B": "children",
+      "C": "childes",
+      "D": "childrens"
+    },
+    "answer": "B",
+    "explanation": "‘Children’ is the correct plural."
+  },
+  {
+    "number": 115,
+    "instruction": "Choose the sentence with correct punctuation.",
+    "options": {
+      "A": "Lets eat, grandma.",
+      "B": "Let's eat grandma.",
+      "C": "Lets eat grandma.",
+      "D": "Let's eat, grandma."
+    },
+    "answer": "D",
+    "explanation": "‘Let's’ is contraction for ‘let us’; comma clarifies address."
+  },
+  {
+    "number": 116,
+    "instruction": "Complete the sentence with the correct pronoun.",
+    "question": "Everyone must bring ______ own lunch.",
+    "options": {
+      "A": "their",
+      "B": "his",
+      "C": "her",
+      "D": "its"
+    },
+    "answer": "A",
+    "explanation": "‘Everyone’ takes singular but ‘their’ is accepted for gender neutrality."
+  },
+  {
+    "number": 117,
+    "instruction": "Choose the correct form of the verb.",
+    "question": "He ______ to the store every Saturday.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "answer": "B",
+    "explanation": "Third person singular requires ‘goes’."
+  },
+  {
+    "number": 118,
+    "instruction": "Choose the correct conjunction.",
+    "question": "She stayed at home ______ she was feeling sick.",
+    "options": {
+      "A": "because",
+      "B": "although",
+      "C": "but",
+      "D": "so"
+    },
+    "answer": "A",
+    "explanation": "‘Because’ gives reason."
+  },
+  {
+    "number": 119,
+    "instruction": "Choose the word closest in meaning to ‘meticulous’.",
+    "options": {
+      "A": "careless",
+      "B": "precise",
+      "C": "hasty",
+      "D": "sloppy"
+    },
+    "answer": "B",
+    "explanation": "‘Meticulous’ means very careful and precise."
+  },
+  {
+    "number": 120,
+    "instruction": "Choose the sentence with correct subject-verb agreement.",
+    "options": {
+      "A": "Neither the teacher nor the student are here.",
+      "B": "Neither the teacher nor the students is here.",
+      "C": "Neither the teacher nor the students are here.",
+      "D": "Neither the teachers nor the students is here."
+    },
+    "answer": "C",
+    "explanation": "Verb agrees with the nearer subject ‘students’ (plural)."
+  },
+  {
+    "number": 121,
+    "instruction": "Complete the sentence with the correct preposition.",
+    "question": "He apologized ______ being late.",
+    "options": {
+      "A": "for",
+      "B": "about",
+      "C": "at",
+      "D": "to"
+    },
+    "answer": "A",
+    "explanation": "‘Apologize for’ is correct."
+  },
+  {
+    "number": 122,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "The data is accurate.",
+      "B": "The data are accurate.",
+      "C": "The data were accurates.",
+      "D": "The data is accurates."
+    },
+    "answer": "B",
+    "explanation": "‘Data’ is plural, so ‘are’ is correct."
+  },
+  {
+    "number": 123,
+    "instruction": "Choose the correct form of the verb.",
+    "question": "He ______ been working here for five years.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "had",
+      "D": "having"
+    },
+    "answer": "A",
+    "explanation": "Third person singular requires ‘has’."
+  },
+  {
+    "number": 124,
+    "instruction": "Choose the correct word to complete the sentence.",
+    "question": "She has _______ friends in the city.",
+    "options": {
+      "A": "much",
+      "B": "many",
+      "C": "a lot of",
+      "D": "some"
+    },
+    "answer": "B",
+    "explanation": "‘Friends’ is countable, so ‘many’ is correct."
+  },
+  {
+    "number": 125,
+    "instruction": "Choose the correct tense.",
+    "question": "By next year, I _______ my degree.",
+    "options": {
+      "A": "will complete",
+      "B": "will have completed",
+      "C": "completed",
+      "D": "complete"
+    },
+    "answer": "B",
+    "explanation": "Future perfect tense."
+  },
+  {
+    "number": 126,
+    "instruction": "Choose the sentence with correct word order.",
+    "options": {
+      "A": "I have never seen such a beautiful painting.",
+      "B": "I have seen never such a beautiful painting.",
+      "C": "Never I have seen such a beautiful painting.",
+      "D": "I never have seen such a beautiful painting."
+    },
+    "answer": "A",
+    "explanation": "‘Never’ goes before the main verb."
+  },
+  {
+    "number": 127,
+    "instruction": "Choose the correct synonym for ‘deteriorate’.",
+    "options": {
+      "A": "improve",
+      "B": "worsen",
+      "C": "enhance",
+      "D": "strengthen"
+    },
+    "answer": "B",
+    "explanation": "‘Deteriorate’ means to worsen."
+  },
+  {
+    "number": 128,
+    "instruction": "Choose the correct passive voice sentence.",
+    "question": "They will finish the work tomorrow.",
+    "options": {
+      "A": "The work will finish tomorrow.",
+      "B": "The work will be finished tomorrow.",
+      "C": "The work will be finishing tomorrow.",
+      "D": "The work is finished tomorrow."
+    },
+    "answer": "B",
+    "explanation": "Future passive uses ‘will be + past participle’."
+  },
+  {
+    "number": 129,
+    "instruction": "Choose the correct article.",
+    "question": "It was ______ honor to meet the president.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "answer": "B",
+    "explanation": "‘Honor’ begins with a silent ‘h’, so ‘an’ is used."
+  },
+  {
+    "number": 130,
+    "instruction": "Choose the correct preposition.",
+    "question": "She is capable ______ completing the task.",
+    "options": {
+      "A": "of",
+      "B": "to",
+      "C": "in",
+      "D": "with"
+    },
+    "answer": "A",
+    "explanation": "‘Capable of’ is correct."
+  },
+  {
+    "number": 131,
+    "instruction": "Choose the correct verb tense.",
+    "question": "I ______ living here for three years.",
+    "options": {
+      "A": "have been",
+      "B": "had been",
+      "C": "will be",
+      "D": "am"
+    },
+    "answer": "A",
+    "explanation": "Present perfect continuous tense."
+  },
+  {
+    "number": 132,
+    "instruction": "Choose the correct synonym for ‘frugal’.",
+    "options": {
+      "A": "wasteful",
+      "B": "thrifty",
+      "C": "generous",
+      "D": "extravagant"
+    },
+    "answer": "B",
+    "explanation": "‘Frugal’ means thrifty or economical."
+  },
+  {
+    "number": 133,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "Less people came than expected.",
+      "B": "Fewer people came than expected.",
+      "C": "Less persons came than expected.",
+      "D": "Fewer persons came than expected."
+    },
+    "answer": "B",
+    "explanation": "‘Fewer’ is used with countable nouns like people."
+  },
+  {
+    "number": 134,
+    "instruction": "Choose the correct comparative form.",
+    "question": "This hotel is ______ than the one we stayed in last year.",
+    "options": {
+      "A": "better",
+      "B": "good",
+      "C": "best",
+      "D": "more good"
+    },
+    "answer": "A",
+    "explanation": "‘Better’ is the comparative of ‘good’."
+  },
+  {
+    "number": 135,
+    "instruction": "Choose the correct verb form.",
+    "question": "He suggested that she _______ early.",
+    "options": {
+      "A": "leaves",
+      "B": "leave",
+      "C": "left",
+      "D": "leaving"
+    },
+    "answer": "B",
+    "explanation": "Subjunctive mood requires base form ‘leave’."
+  },
+  {
+    "number": 136,
+    "instruction": "Choose the correct sentence.",
+    "options": {
+      "A": "The teacher, as well as the students, are coming.",
+      "B": "The teacher, as well as the students, is coming.",
+      "C": "The teachers, as well as the student, are coming.",
+      "D": "The teachers, as well as the student, is coming."
+    },
+    "answer": "B",
+    "explanation": "‘As well as’ doesn’t affect verb number; subject is singular."
+  },
+  {
+    "number": 137,
+    "instruction": "Choose the correct form to complete the sentence.",
+    "question": "If it ______ tomorrow, we will cancel the picnic.",
+    "options": {
+      "A": "rains",
+      "B": "rain",
+      "C": "rained",
+      "D": "will rain"
+    },
+    "answer": "A",
+    "explanation": "First conditional requires present simple in ‘if’ clause."
+  },
+  {
+    "number": 138,
+    "instruction": "Choose the sentence with correct use of relative pronoun.",
+    "options": {
+      "A": "The man who I met yesterday was kind.",
+      "B": "The man whom I met yesterday was kind.",
+      "C": "The man which I met yesterday was kind.",
+      "D": "The man whose I met yesterday was kind."
+    },
+    "answer": "B",
+    "explanation": "‘Whom’ is correct object pronoun."
+  },
+  {
+    "number": 139,
+    "instruction": "Choose the correct verb form.",
+    "question": "By the time she arrives, we ______ our dinner.",
+    "options": {
+      "A": "finish",
+      "B": "will finish",
+      "C": "will have finished",
+      "D": "finished"
+    },
+    "answer": "C",
+    "explanation": "Future perfect tense."
+  },
+  {
+    "number": 140,
+    "instruction": "Choose the sentence with correct punctuation.",
+    "options": {
+      "A": "Its a beautiful day.",
+      "B": "It's a beautiful day.",
+      "C": "Its' a beautiful day.",
+      "D": "Its's a beautiful day."
+    },
+    "answer": "B",
+    "explanation": "‘It’s’ is contraction of ‘it is’."
+  }
+]

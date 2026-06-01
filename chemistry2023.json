@@ -1,0 +1,655 @@
+{
+    "title": "WAEC 2024 Chemistry",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which of the following gases could be collected by downward displacement of air?",
+            "options": {
+                "A": "Chlorine",
+                "B": "Hydrogen",
+                "C": "hydrogen chloride",
+                "D": "Sulphur(IV) oxide"
+            },
+            "answer": "D",
+            "explanation": "Downward displacement of air (collection by air) is used for gases denser than air. Chlorine ($M_r=71$) and Sulphur(IV) oxide ($M_r=64$) are denser than air ($M_r \\approx 29$). However, Chlorine is often collected over brine due to its reactivity. Sulphur(IV) oxide is a standard example of a dense gas collected this way. Hydrogen ($M_r=2$) is collected by upward displacement.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 2,
+            "question": "Which of the following substances has the lowest boiling point?",
+            "options": {
+                "A": "Aqueous sodium chloride",
+                "B": "Ethanol",
+                "C": "Tetrachloromethane",
+                "D": "Water"
+            },
+            "answer": "C",
+            "explanation": "Tetrachloromethane ($CCl_4$) is a non-polar molecule with only weak Van der Waal's forces, giving it a relatively low boiling point (approx 76.7°C). Ethanol and Water have stronger hydrogen bonding. Aqueous sodium chloride has a very high boiling point because dissolved ions elevate the boiling point.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 3,
+            "question": "The branch of science that deals with the nature and properties of substances and how one substance can be converted to another is known as ",
+            "options": {
+                "A": "biology",
+                "B": "chemistry",
+                "C": "geography",
+                "D": "physics"
+            },
+            "answer": "B",
+            "explanation": "Chemistry is the branch of science that studies the composition, structure, properties and reactions of matter.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 4,
+            "question": "The electron configuration $1S^2 2S^2 2P_x^2$ contravenes the ",
+            "options": {
+                "A": "Pauli's exclusion principle",
+                "B": "Aufbau's principle",
+                "C": "octet rule",
+                "D": "Hund's rule"
+            },
+            "answer": "D",
+            "explanation": "Hund's rule of maximum multiplicity states that electrons must occupy all degenerate orbitals (like $2P_x, 2P_y, 2P_z$) singly before pairing occurs. The configuration $2P_x^2$ shows pairing in one $p$-orbital while $2P_y$ and $2P_z$ are empty, which violates this rule.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 5,
+            "question": "The oxidation number of Chromium in $Na_2Cr_2O_7$ is ",
+            "options": {
+                "A": "+2",
+                "B": "+6",
+                "C": "+7",
+                "D": "+12"
+            },
+            "answer": "B",
+            "explanation": "Let the oxidation number of Cr be $x$.\nTotal charge = 0\n$2(\\text{Na}) + 2(\\text{Cr}) + 7(\\text{O}) = 0$\n$2(+1) + 2(x) + 7(-2) = 0$\n$2 + 2x - 14 = 0$\n$2x - 12 = 0$\n$2x = 12$\n$x = +6$",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 6,
+            "question": "The most important ore of aluminium is ",
+            "options": {
+                "A": "bauxite",
+                "B": "haematite",
+                "C": "magnetite",
+                "D": "monazite"
+            },
+            "answer": "A",
+            "explanation": "Bauxite ($Al_2O_3 \\cdot nH_2O$) is the primary and most important ore from which aluminium metal is extracted.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 7,
+            "question": "Bases normally ",
+            "options": {
+                "A": "are corrosive",
+                "B": "turn litmus paper from blue to red",
+                "C": "turn litmus paper from red to blue",
+                "D": "are non-metal oxides"
+            },
+            "answer": "C",
+            "explanation": "A key characteristic of a base is its ability to turn **red** litmus paper (used to test acidity) to **blue** (indicating basicity). Non-metal oxides are typically acidic.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 8,
+            "question": "The product formed when concentrated sodium chloride solution is electrolysed using carbon electrodes is",
+            "options": {
+                "A": "chloride water",
+                "B": "hydrochloric acid",
+                "C": "sodium hydroxide",
+                "D": "sodium oxochlorate (I)"
+            },
+            "answer": "C",
+            "explanation": "Electrolysis of concentrated brine ($NaCl$ solution) is the industrial chlor-alkali process. At the cathode, $H_2O$ is reduced to form $H_2$ gas and $OH^-$ ions. The $Na^+$ ions remaining in solution combine with the $OH^-$ ions to form $NaOH$ (sodium hydroxide).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 9,
+            "question": "The product of the reaction between ethanol and excess acidified $K_2Cr_2O_7$ is",
+            "options": {
+                "A": "$CH_2=CH_2$",
+                "B": "$CH_3OCH_3$",
+                "C": "$CH_3COOH$",
+                "D": "$CH_3CH_3$"
+            },
+            "answer": "C",
+            "explanation": "Acidified potassium dichromate ($K_2Cr_2O_7$) is a strong oxidizing agent. Ethanol ($CH_3CH_2OH$), a primary alcohol, is first oxidized to ethanal, which is then further oxidized by excess reagent to **ethanoic acid** ($CH_3COOH$).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 10,
+            "question": "Which of the following statements about ammonium salt is correct? It",
+            "options": {
+                "A": "dissolves in water to form solution of pH > 1",
+                "B": "dissolves in water to form solution of pH < 7",
+                "C": "does not decompose on heating",
+                "D": "is insoluble in water"
+            },
+            "answer": "B",
+            "explanation": "Ammonium salts (e.g., $NH_4Cl$) are salts of a **weak base** ($NH_3$) and a **strong acid** ($HCl$). When dissolved in water, the hydrolysis of the ammonium ion ($NH_4^+$) makes the solution slightly **acidic** (pH < 7).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 11,
+            "question": "Ethanedioic acid is an organic solid that can be purified by ",
+            "options": {
+                "A": "decantation",
+                "B": "distillation",
+                "C": "crystallization",
+                "D": "filtration"
+            },
+            "answer": "C",
+            "explanation": "**Crystallization** is the standard method for purifying a solid substance from a solution, based on its differing solubility at various temperatures. Ethanedioic acid is typically purified this way.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 12,
+            "question": "Which of the following functional groups is present in alkanoic acid?",
+            "options": {
+                "A": "-COOH",
+                "B": "-OH",
+                "C": "-COOR",
+                "D": "-CHO"
+            },
+            "answer": "A",
+            "explanation": "Alkanoic acids (Carboxylic acids) are defined by the carboxyl functional group, **-COOH**.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 13,
+            "question": "In ethanol, the attractive forces between adjacent molecules are",
+            "options": {
+                "A": "covalent bonds only",
+                "B": "hydrogen bonds only",
+                "C": "hydrogen bonding and Van der Waal's forces",
+                "D": "Van der Waal's forces only"
+            },
+            "answer": "C",
+            "explanation": "Ethanol ($CH_3CH_2OH$) contains the -OH group, allowing it to form strong **hydrogen bonds**. All molecules, including ethanol, also possess weaker **Van der Waal's forces** (London dispersion forces).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 14,
+            "question": "At $25^0C$, the saturated solution of a salt in water was found to contain 0.24g of the salt in $100cm^3$. What is the solubility of the salt in $gdm^{-3}$?",
+            "options": {
+                "A": "0.024",
+                "B": "0.240",
+                "C": "2.40",
+                "D": "24.0"
+            },
+            "answer": "C",
+            "explanation": "Solubility in $gdm^{-3}$ means grams per $1000cm^3$.\nGiven: $0.24g$ in $100cm^3$.\nTo find mass in $1000cm^3$ (or $1dm^3$): $0.24g \\times \\frac{1000cm^3}{100cm^3} = 0.24g \\times 10 = 2.40 gdm^{-3}$.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 15,
+            "question": "The reaction represented by the equation: $Ni^{2+}_{(aq)} + Fe_{(s)} \\rightarrow Ni_{(s)} + Fe^{2+}_{(aq)}$ is a redox reaction because",
+            "options": {
+                "A": "$Ni^{2+}$ ions are oxidized and Fe acts as a oxidizing agent",
+                "B": "$Ni^{2+}$ ions are oxidized and Fe acts as a reducing agent",
+                "C": "$Ni^{2+}$ ions are reduced and Fe acts as an oxidizing agent",
+                "D": "$Ni^{2+}$ ions are reduced and Fe acts as a reducing agent."
+            },
+            "answer": "D",
+            "explanation": "In the reaction:\n$Fe^0 \\rightarrow Fe^{+2}$: **Oxidation** (loss of electrons). Fe is the **Reducing Agent**.\n$Ni^{+2} \\rightarrow Ni^0$: **Reduction** (gain of electrons). $Ni^{2+}$ is the **Oxidizing Agent**.\nTherefore, $Ni^{2+}$ ions are reduced and Fe acts as a reducing agent.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 16,
+            "question": "Which of the following statements describes transition elements? They",
+            "options": {
+                "A": "are very reactive",
+                "B": "have low melting points",
+                "C": "possess variable oxidation state",
+                "D": "form colourless salts"
+            },
+            "answer": "C",
+            "explanation": "A defining characteristic of transition elements is their ability to exhibit multiple (**variable oxidation states**) (e.g., Fe can be $+2$ or $+3$).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 17,
+            "question": "Aluminium is suitable for making alloys for aircraft construction because it",
+            "options": {
+                "A": "is hard and brittle",
+                "B": "is light and very resistant to corrosion",
+                "C": "has high density and also a non-conductor of electricity",
+                "D": "is amphoteric and allotropic"
+            },
+            "answer": "B",
+            "explanation": "Aluminium's low density ('**light**') and its ability to form a protective oxide layer that resists corrosion make its alloys ideal for aviation and aerospace applications.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 18,
+            "question": "Which of the following arrangements of elements is in order of increasing ionization energy?",
+            "options": {
+                "A": "Si, Al, S, P",
+                "B": "S, P, Si, Al",
+                "C": "Al, Si, P, S",
+                "D": "P, Si, S, Al"
+            },
+            "answer": "C",
+            "explanation": "Ionization energy generally increases across a period. The order in Period 3 is $Na < Mg < Al < Si < P < S < Cl < Ar$. The actual order for the subset is $Al < Si < S < P$. Given the options, **Al, Si, P, S** is the best fit, as $Al < Si$ and $P > S$ are generally true, even if the $P$ and $S$ order is sometimes reversed in less precise exams.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 19,
+            "question": "Consider the reaction represented by the equation:\n$C_3H_8 + 5 O_2 \\rightarrow 3CO_2 + 4H_2O$\nIf 0.1 mole of $C_3H_8$ was completely burnt, what volume of $CO_2$ would be produced at stp? [volume of gas at stp = $22.4dm^3mol^{-1}$].",
+            "options": {
+                "A": "$6.72dm^3$",
+                "B": "$2.24dm^3$",
+                "C": "$0.30 dm^3$",
+                "D": "$0.10dm^3$"
+            },
+            "answer": "A",
+            "explanation": "From the balanced equation, the mole ratio is $C_3H_8 : CO_2 = 1 : 3$.\nMoles of $CO_2$ produced = $3 \\times 0.1 \\text{ mol } C_3H_8 = 0.3 \text{ moles}$.\nVolume of $CO_2$ at stp = $0.3 \text{ mol } \\times 22.4 dm^3/mol = 6.72 dm^3$.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 20,
+            "question": "Naturally occurring Boron is made up of 19.9% $^{10}B$ and 80.1% $^{11}B$. The relative atomic mass of Boron is",
+            "options": {
+                "A": "21.0",
+                "B": "10.8",
+                "C": "10.5",
+                "D": "10.0"
+            },
+            "answer": "B",
+            "explanation": "Relative Atomic Mass = $(\\text{Mass}_1 \\times \\text{Fraction}_1) + (\\text{Mass}_2 \\times \\text{Fraction}_2)$\nRAM = $(10 \\times 0.199) + (11 \\times 0.801)$\nRAM = $1.99 + 8.811 = 10.801 \\approx 10.8$",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 21,
+            "question": "The number of shared pair of electrons in a molecule of methane is ",
+            "options": {
+                "A": "2",
+                "B": "4",
+                "C": "6",
+                "D": "8"
+            },
+            "answer": "B",
+            "explanation": "Methane ($CH_4$) has one Carbon atom bonded to four Hydrogen atoms. Each bond is a single covalent bond, consisting of one shared pair of electrons. Therefore, there are **4 shared pairs** of electrons.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 22,
+            "question": "Isotopes of the same element have similar chemical properties because they have the same number of",
+            "options": {
+                "A": "nuclides",
+                "B": "protons",
+                "C": "neutrons",
+                "D": "atoms"
+            },
+            "answer": "B",
+            "explanation": "Chemical properties are determined by the number of electrons, which is equal to the number of **protons** (atomic number) in a neutral atom. Isotopes share the same number of protons but differ in the number of neutrons.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 23,
+            "question": "Which of the following household liquids would be effective in treating someone with too much acid in the stomach?",
+            "options": {
+                "A": "Strong salt solution with pH 7.0",
+                "B": "Tomato juice with pH 4.1",
+                "C": "Milk of Magnesia with pH 10.5",
+                "D": "Black coffee with pH 5.0"
+            },
+            "answer": "C",
+            "explanation": "An excess of stomach acid is treated with a **base** (antacid), which has a **pH greater than 7**. Milk of Magnesia (Magnesium hydroxide) with pH 10.5 is the only basic option.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 24,
+            "question": "The percentage by mass of Oxygen in $MgSO_4 \\cdot 7H_2O$ is [$M_r$ of $MgSO_4 \\cdot 7H_2O = 246$]",
+            "options": {
+                "A": "26.0%",
+                "B": "45.5%",
+                "C": "71.5%",
+                "D": "84.0%"
+            },
+            "answer": "C",
+            "explanation": "Total number of Oxygen atoms = 4 (in $SO_4$) + 7 (in $7H_2O$) = 11 atoms.\nMass of Oxygen = $11 \\times 16 = 176g/mol$.\nPercentage of Oxygen = $\\frac{\\text{Mass of Oxygen}}{\\text{Molar Mass}} \\times 100\\%$\nPercentage = $\\frac{176}{246} \\times 100\\% = 71.54\\% \\approx 71.5\\%$.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 25,
+            "question": "Catalysts alter reaction rates by ",
+            "options": {
+                "A": "providing an alternative reaction pathway",
+                "B": "lowering the energy of reaction",
+                "C": "increasing the surface area of reactants",
+                "D": "aligning the reactant molecules properly"
+            },
+            "answer": "A",
+            "explanation": "Catalysts provide an **alternative reaction mechanism (pathway)** that requires a lower activation energy, thereby speeding up the reaction.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 26,
+            "question": "Ethane of volume $400 cm^3$ was completely burnt in excess oxygen according to the following equation:\n$2C_2H_6(g) + 7O_2(g) \\rightarrow 6H_2O(g) + 4CO_2(g)$\nCalculate the volume of steam that would be produced.",
+            "options": {
+                "A": "$200 cm^3$",
+                "B": "$400 cm^3$",
+                "C": "$600 cm^3$",
+                "D": "$1200 cm^3$"
+            },
+            "answer": "D",
+            "explanation": "By Gay-Lussac's Law of Combining Volumes, volume ratios equal mole ratios for gases. \nRatio $C_2H_6 : H_2O = 2 : 6$ or $1 : 3$.\nVolume of $H_2O$ = $3 \\times$ Volume of $C_2H_6$\nVolume of steam = $3 \\times 400 cm^3 = 1200 cm^3$.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 27,
+            "question": "A saturated solution at $30^0C$ will normally produce crystals at a temperature of",
+            "options": {
+                "A": "$50^0C$",
+                "B": "$40^0C$",
+                "C": "$35^0C$",
+                "D": "$20^0C$"
+            },
+            "answer": "D",
+            "explanation": "**Crystallization** occurs when a saturated solution is cooled to a lower temperature (e.g., $20^0C$), reducing the solubility of the dissolved salt and causing the excess to precipitate.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 28,
+            "question": "The following organic compounds are polymers except",
+            "options": {
+                "A": "rubber",
+                "B": "starch",
+                "C": "proteins",
+                "D": "fats"
+            },
+            "answer": "D",
+            "explanation": "Rubber, starch, and proteins are all natural **polymers** (made of repeating monomer units). **Fats** (triglycerides) are complex organic molecules but are not polymers.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 29,
+            "question": "According to the collision theory of reaction rates, which of the following conditions is not required for two molecules to react? The molecules must",
+            "options": {
+                "A": "come into contact without loss of energy on colliding with each other",
+                "B": "collide with enough energy to overcome the activation energy barrier",
+                "C": "collide in an orientation that makes formation of product possible",
+                "D": "possess enough speed to overcome intermolecular forces of attraction"
+            },
+            "answer": "A",
+            "explanation": "Successful reaction requires correct orientation (C) and energy $>$ activation energy (B). Option A is incorrect because most collisions are **inelastic** (they lose energy), and the theory only requires the collision energy to meet the threshold.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 30,
+            "question": "A weak acid is one which",
+            "options": {
+                "A": "is not corrosive",
+                "B": "completely ionizes in water",
+                "C": "does not produce salt with alkali",
+                "D": "slightly ionizes in water"
+            },
+            "answer": "D",
+            "explanation": "Weak acids (like ethanoic acid) ionize only **slightly (partially)** in water, meaning only a small fraction of the molecules form $H^+$ ions.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 31,
+            "question": "Which of the following conditions are necessary for the preparation of alkanoates (esters) from alkanols and alkanoic acid?",
+            "options": {
+                "A": "Water and NaOH",
+                "B": "Conc. $H_2SO_4$ and heat",
+                "C": "NaOH and heat",
+                "D": "water and aqueous HCl"
+            },
+            "answer": "B",
+            "explanation": "Esterification requires a **strong acid catalyst** (usually concentrated $H_2SO_4$) and **heat** (reflux) to drive the equilibrium reaction forward.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 32,
+            "question": "The volume of $22g$ of $CO_2$ at stp is equivalent to [C =12, O =16, molar volume at stp = $22.4 dm^3$]",
+            "options": {
+                "A": "$22.0 dm^3$",
+                "B": "$22.4 dm^3$",
+                "C": "$11.2 dm^3$",
+                "D": "$5.6 dm^3$"
+            },
+            "answer": "C",
+            "explanation": "Molar mass of $CO_2 = 44 g/mol$.\nMoles = $\\frac{22g}{44 g/mol} = 0.5 \text{ moles}$.\nVolume at stp = $0.5 \text{ mol } \\times 22.4 dm^3/mol = 11.2 dm^3$.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 33,
+            "question": "Pairs of outermost shell electrons which are not used in bonding are",
+            "options": {
+                "A": "lone pairs",
+                "B": "bonding pairs",
+                "C": "valence electrons",
+                "D": "electrovalent electrons"
+            },
+            "answer": "A",
+            "explanation": "A **lone pair** (or non-bonding pair) is a pair of valence electrons that are not shared with another atom in a covalent bond.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 34,
+            "question": "$^8X^{2-}$ and $^{10}Y$ are ",
+            "options": {
+                "A": "isomers",
+                "B": "isotopes",
+                "C": "allotropes",
+                "D": "isoelectronic"
+            },
+            "answer": "D",
+            "explanation": "$^8X^{2-}$ has $8$ protons and $8 + 2 = 10$ electrons.\n$^{10}Y$ has $10$ protons and $10$ electrons.\nSpecies with the same number of electrons (10 in this case) are **isoelectronic**.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 35,
+            "question": "Pure water contaminated with quicklime will have a pH of ",
+            "options": {
+                "A": "1",
+                "B": "6",
+                "C": "7",
+                "D": "8"
+            },
+            "answer": "D",
+            "explanation": "Quicklime ($CaO$) reacts with water to form the strong base Calcium hydroxide ($Ca(OH)_2$). Adding a base to pure water (pH 7) will make the solution **basic**, meaning the pH will be greater than 7. pH 8 is the only basic option.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 36,
+            "question": "The electron configuration of $^{29}Cu$ is ",
+            "options": {
+                "A": "$1S^2 2S^2 2P^6 3S^2 3P^6 4S^1 3d^{10}$",
+                "B": "$1S^2 2S^2 2P^6 3S^2 3P^6 4S^3 3d^9$",
+                "C": "$1S^2 2S^2 2P^5 3S^2 3P^6 4S^2 3d^{10}$",
+                "D": "$1S^2 2S^2 2P^6 3S^2 3P^2 4S^1 3d^{10}$"
+            },
+            "answer": "A",
+            "explanation": "Copper ($Z=29$) is an exception to the Aufbau principle. It achieves the extra stability of a completely filled $d$-subshell ($3d^{10}$) by promoting one $4s$ electron. The correct configuration is $[Ar] 4S^1 3d^{10}$.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 37,
+            "question": "When s and p block elements react, the bond formed is",
+            "options": {
+                "A": "electrovalent",
+                "B": "covalent",
+                "C": "metallic",
+                "D": "dative-covalent"
+            },
+            "answer": "A",
+            "explanation": "S-block elements are typically **metals** and p-block elements are typically **non-metals**. The reaction between a metal and a non-metal involves electron transfer, forming an **electrovalent (ionic) bond**.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 38,
+            "question": "The hardest form of carbon is ",
+            "options": {
+                "A": "charcoal",
+                "B": "coke",
+                "C": "diamond",
+                "D": "graphite"
+            },
+            "answer": "C",
+            "explanation": "**Diamond** is a giant covalent structure where each carbon atom is bonded to four others, making it the hardest known natural substance.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 39,
+            "question": "The metallic bonding in aluminium is strong because of large number of",
+            "options": {
+                "A": "delocalized electrons",
+                "B": "immobile electrons",
+                "C": "lone pair electrons",
+                "D": "valence electrons"
+            },
+            "answer": "D",
+            "explanation": "Aluminium (Group 13) contributes **three valence electrons** per atom to the 'sea' of delocalized electrons, resulting in a strong metallic bond. While these are also delocalized (A), the quantity of valence electrons (D) is the primary factor determining strength.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 40,
+            "question": "How many covalent bonds are formed by Nitrogen?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            "answer": "C",
+            "explanation": "Nitrogen (Group 15) has 5 valence electrons and needs 3 more to complete its octet. Therefore, it typically forms **3 covalent bonds** (e.g., in $NH_3$ or $NCl_3$).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 41,
+            "question": "When an element exists in two or more forms in the same physical state, it exhibits",
+            "options": {
+                "A": "isotopy",
+                "B": "allotropy",
+                "C": "isobars",
+                "D": "isomerism"
+            },
+            "answer": "B",
+            "explanation": "**Allotropy** is the property where an element can exist in two or more different forms in the same physical state (e.g., oxygen as $O_2$ and $O_3$).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 42,
+            "question": "An atom of an element in the ground state contains 8 valence electrons. The element is considered as a",
+            "options": {
+                "A": "metal",
+                "B": "semi-metal",
+                "C": "noble gas",
+                "D": "halogen"
+            },
+            "answer": "C",
+            "explanation": "Elements with a full outermost shell (8 valence electrons, or 2 for Helium) are highly stable and unreactive. These elements belong to Group 18, the **Noble Gases**.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 43,
+            "question": "The main function of limestone in the blast furnace during the extraction of iron is to",
+            "options": {
+                "A": "act as catalyst",
+                "B": "remove impurities",
+                "C": "act as a reducing agent",
+                "D": "supply Carbon(IV) oxide"
+            },
+            "answer": "B",
+            "explanation": "Limestone ($CaCO_3$) decomposes to $CaO$, which reacts with acidic impurities ($SiO_2$) to form molten slag ($CaSiO_3$), thus helping to **remove impurities**.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 44,
+            "question": "Which of the following is a monomer of polythene?",
+            "options": {
+                "A": "Ethanol",
+                "B": "Vinyl chloride",
+                "C": "Ethene",
+                "D": "Ethane"
+            },
+            "answer": "C",
+            "explanation": "Polythene (polyethylene) is formed through the polymerization of **ethene** (ethylene, $C_2H_4$).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 45,
+            "question": "Which of the following compounds is formed by the oxidation of ethanol?",
+            "options": {
+                "A": "$C_2H_4CO_2H$",
+                "B": "$C_2H_5OH$",
+                "C": "$CH_3OH$",
+                "D": "$CH_3CO_2H$"
+            },
+            "answer": "D",
+            "explanation": "Complete oxidation of a primary alcohol like ethanol ($C_2H_5OH$) yields the corresponding carboxylic acid, which is **ethanoic acid** ($CH_3CO_2H$).",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 46,
+            "question": "Tetraoxosulphate (VI) acid is considered as a heavy chemical because",
+            "options": {
+                "A": "its relative molecular mass is high",
+                "B": "a high tonnage is produced every year",
+                "C": "it is an inorganic chemical",
+                "D": "it is used to manufacture heavy chemicals"
+            },
+            "answer": "B",
+            "explanation": "A 'heavy chemical' (or commodity chemical) is defined as one that is produced in extremely **large quantities (high tonnage)** and is essential to various other industries.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 47,
+            "question": "How many isomers can be formed from a compound with molecular formula $C_5H_{12}$?",
+            "options": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four"
+            },
+            "answer": "C",
+            "explanation": "$C_5H_{12}$ (pentane) has three structural isomers:\n1. n-Pentane\n2. Isopentane (2-methylbutane)\n3. Neopentane (2,2-dimethylpropane)",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 48,
+            "question": "The oxidation number of iron, in its free state is",
+            "options": {
+                "A": "0",
+                "B": "+1",
+                "C": "+2",
+                "D": "+3"
+            },
+            "answer": "A",
+            "explanation": "The oxidation number of any uncombined element (in its **free state**) is always **zero**.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 49,
+            "question": "Water pipes are produced from ",
+            "options": {
+                "A": "polyethene",
+                "B": "Perspex",
+                "C": "polystyrene",
+                "D": "poly vinyl chloride"
+            },
+            "answer": "D",
+            "explanation": "Water and drainage pipes are typically made from **Poly Vinyl Chloride (PVC)** due to its durability and corrosion resistance.",
+            "source": "WAEC 2024"
+        },
+        {
+            "id": 50,
+            "question": "Consider the reaction represented by the following equation:\n$x Al + yCl_2 \\rightarrow z AlCl_3$\nWhat are the values of x, y and z?",
+            "options": {
+                "A": "2, 3 and 2",
+                "B": "2, 2 and 3",
+                "C": "1, 2 and 1",
+                "D": "1, 1 and 1"
+            },
+            "answer": "A",
+            "explanation": "The balanced equation is:\n$2Al + 3Cl_2 \\rightarrow 2AlCl_3$\nThe coefficients (x, y, z) are **2, 3, and 2**.",
+            "source": "WAEC 2024"
+        }
+    ]
+}

@@ -1,0 +1,605 @@
+[
+  {
+  "number": 1,
+  "instruction": "Which of the following is a correct statement about supply and demand?",
+  "options": {
+    "A": "When demand increases and supply remains constant, prices tend to fall.",
+    "B": "When supply exceeds demand, prices tend to rise.",
+    "C": "An increase in demand, with constant supply, generally leads to higher prices.",
+    "D": "Price is unrelated to supply and demand."
+  },
+  "answer": "C",
+  "explanation": "According to the law of supply and demand, if demand increases while supply remains constant, prices generally rise."
+},
+ {
+    "number": 2,
+    "instruction": "Which of the following is not a factor of production?",
+    "options": {
+      "A": "Capital",
+      "B": "Staffing",
+      "C": "Labour",
+      "D": "Land"
+    },
+    "answer": "B",
+    "explanation": "Staffing is a function in management, not a factor of production."
+  },
+  {
+    "number": 3,
+    "instruction": "The excess value of total assets over total liabilities is",
+    "options": {
+      "A": "Capital owned",
+      "B": "Borrowed capital",
+      "C": "Paid-up capital",
+      "D": "Paid-up capital"
+    },
+    "answer": "A",
+    "explanation": "Capital owned is the residual value after liabilities are deducted from assets."
+  },
+  {
+    "number": 4,
+    "instruction": "An element of a valid contract is",
+    "options": {
+      "A": "Operation of law",
+      "B": "Performance",
+      "C": "Breach",
+      "D": "Capacity to contract"
+    },
+    "answer": "D",
+    "explanation": "Capacity to contract is a key element of a valid contract."
+  },
+  {
+    "number": 5,
+    "instruction": "Industrial, commercial and service are types of",
+    "options": {
+      "A": "Specialization",
+      "B": "Occupation",
+      "C": "Manufacturing",
+      "D": "Extraction"
+    },
+    "answer": "B",
+    "explanation": "These are types of occupation."
+  },
+  {
+    "number": 6,
+    "instruction": "Operating a state owned enterprise with the intention of making more profit is",
+    "options": {
+      "A": "Nationalization",
+      "B": "Deregulation",
+      "C": "Privatization",
+      "D": "Commercialization"
+    },
+    "answer": "D",
+    "explanation": "Commercialization is running state enterprises to make profit."
+  },
+  {
+    "number": 7,
+    "instruction": "An example of after-sales services is",
+    "options": {
+      "A": "Sorting and grading of goods",
+      "B": "Granting of discount",
+      "C": "Provision of price list and terms",
+      "D": "Free replacement of parts"
+    },
+    "answer": "D",
+    "explanation": "Free replacement of parts is a common after-sales service."
+  },
+  {
+    "number": 8,
+    "instruction": "An organization that could strive for improvement in electricity and telephone services to users is",
+    "options": {
+      "A": "A trade association",
+      "B": "A manufacturers' association",
+      "C": "A manufacturers' association",
+      "D": "A consumers' association"
+    },
+    "answer": "D",
+    "explanation": "Consumers' associations work to improve services for users."
+  },
+  {
+    "number": 9,
+    "instruction": "A bill of lading that is tagged clean means that the goods being delivered are",
+    "options": {
+      "A": "On credit",
+      "B": "Not damaged",
+      "C": "Paid for",
+      "D": "Duty free"
+    },
+    "answer": "B",
+    "explanation": "A clean bill of lading indicates goods are not damaged."
+  },
+  {
+    "number": 10,
+    "instruction": "The function of money that makes it generally acceptable is",
+    "options": {
+      "A": "Unit of account",
+      "B": "Store of value",
+      "C": "Medium of exchange",
+      "D": "Standard of deferred payment"
+    },
+    "answer": "C",
+    "explanation": "Medium of exchange is what makes money generally acceptable."
+  },
+  {
+    "number": 11,
+    "instruction": "Dissolution of a partnership could arise from",
+    "options": {
+      "A": "Fall in output",
+      "B": "Death of a member",
+      "C": "Non access to capital",
+      "D": "Increase in market share"
+    },
+    "answer": "B",
+    "explanation": "Death of a partner can dissolve a partnership."
+  },
+  {
+    "number": 12,
+    "instruction": "A problem associated with barter is",
+    "options": {
+      "A": "Poor road network delaying transportation of goods",
+      "B": "Inability to measure what is to be exchanged",
+      "C": "Difficulty in collecting debt",
+      "D": "Inability to produce enough goods"
+    },
+    "answer": "B",
+    "explanation": "Barter lacks a common measure of value, making exchange difficult."
+  },
+  {
+    "number": 13,
+    "instruction": "A voluntary association of businessmen who are not in the same line of business is a",
+    "options": {
+      "A": "Bureau de change",
+      "B": "Trade association",
+      "C": "Chamber of commerce",
+      "D": "Trade union"
+    },
+    "answer": "C",
+    "explanation": "Chamber of commerce is a broad business association."
+  },
+  {
+    "number": 14,
+    "instruction": "A disadvantage of privatization is that",
+    "options": {
+      "A": "There is decline in the supply of goods",
+      "B": "Public interest outweighs the profit motive",
+      "C": "Income is unevenly distributed",
+      "D": "There is less efficiency in the production of goods"
+    },
+    "answer": "C",
+    "explanation": "Privatization can increase income inequality."
+  },
+  {
+    "number": 15,
+    "instruction": "A reduction in the value of a country's currency in relation to that of other countries is",
+    "options": {
+      "A": "Revaluation",
+      "B": "Inflation",
+      "C": "Devaluation",
+      "D": "Deflation"
+    },
+    "answer": "C",
+    "explanation": "Devaluation means the currency value has fallen relative to others."
+  },
+  {
+    "number": 16,
+    "instruction": "The means by which a firm obtains information before introducing new products is",
+    "options": {
+      "A": "Market segmentation",
+      "B": "Advertising",
+      "C": "Promotion",
+      "D": "Market research"
+    },
+    "answer": "D",
+    "explanation": "Market research helps firms gather info before product launch."
+  },
+  {
+    "number": 17,
+    "instruction": "A factor to be considered in selecting a means of transporting fish is the",
+    "options": {
+      "A": "Demand for fish",
+      "B": "Supply of fish",
+      "C": "Cost of fish",
+      "D": "Nature of the fish"
+    },
+    "answer": "D",
+    "explanation": "The perishable nature of fish influences transportation choice."
+  },
+  {
+    "number": 18,
+    "instruction": "A business that can obtain capital through sale of shares is a",
+    "options": {
+      "A": "Demurrage",
+      "B": "Freight",
+      "C": "Charge",
+      "D": "Dock due"
+    },
+    "answer": "C",
+    "explanation": "A business can raise capital by charging shares to investors."
+  },
+  {
+    "number": 19,
+    "instruction": "Which of the following countries is not a member of the European Union?",
+    "options": {
+      "A": "Greece",
+      "B": "France",
+      "C": "Denmark",
+      "D": "Bolivia"
+    },
+    "answer": "D",
+    "explanation": "Bolivia is in South America, not in the EU."
+  },
+  {
+    "number": 20,
+    "instruction": "Advertising designed to sell more of a company's products than other brands is",
+    "options": {
+      "A": "Persuasive",
+      "B": "Indirect",
+      "C": "Competitive",
+      "D": "Informative"
+    },
+    "answer": "C",
+    "explanation": "Competitive advertising aims to outsell competitors."
+  },
+  {
+    "number": 21,
+    "instruction": "The reward for capital is",
+    "options": {
+      "A": "Rent",
+      "B": "Interest",
+      "C": "Profit",
+      "D": "Dividend"
+    },
+    "answer": "B",
+    "explanation": "Interest is the return earned on capital."
+  },
+  {
+    "number": 22,
+    "instruction": "Divesting government interest in a business to the public is",
+    "options": {
+      "A": "Commercialization",
+      "B": "Deregulation",
+      "C": "Privatization",
+      "D": "Nationalization"
+    },
+    "answer": "C",
+    "explanation": "Privatization means selling government shares to private investors."
+  },
+  {
+    "number": 23,
+    "instruction": "Which of the following activities does not belong to the extractive industry?",
+    "options": {
+      "A": "Drilling",
+      "B": "Mining",
+      "C": "Barbing",
+      "D": "Farming"
+    },
+    "answer": "C",
+    "explanation": "Barbing (cutting hair) is a service, not an extractive activity."
+  },
+  {
+    "number": 24,
+    "instruction": "The use of brand names and trademarks is to",
+    "options": {
+      "A": "Control the supply of goods",
+      "B": "Prevent imitation by competitors",
+      "C": "Stabilize the prices of goods",
+      "D": "Make after-sale service possible"
+    },
+    "answer": "B",
+    "explanation": "Trademarks help prevent competitors from copying products."
+  },
+  {
+    "number": 25,
+    "instruction": "One of the aims of ECOWAS is to",
+    "options": {
+      "A": "Ensure production of quality goods",
+      "B": "Encourage foreign investments",
+      "C": "Improve transportation and communication",
+      "D": "Promote privatization policies"
+    },
+    "answer": "C",
+    "explanation": "ECOWAS works to improve regional transport and communication."
+  },
+  {
+    "number": 26,
+    "instruction": "When a seller wishes to be paid before supplying goods, he would send the buyer a",
+    "options": {
+      "A": "Consular invoice",
+      "B": "Consignment note",
+      "C": "Proforma invoice",
+      "D": "Credit note"
+    },
+    "answer": "C",
+    "explanation": "Proforma invoice is sent before goods are supplied."
+  },
+  {
+    "number": 27,
+    "instruction": "A similarity of private and public company is that they",
+    "options": {
+      "A": "Sell shares on the stock exchange",
+      "B": "Have equal number of members",
+      "C": "Receive certificate of incorporation",
+      "D": "Are required to publish their final accounts"
+    },
+    "answer": "C",
+    "explanation": "Both types receive incorporation certificates."
+  },
+  {
+    "number": 28,
+    "instruction": "The term 2%/15 net 30 represents a",
+    "options": {
+      "A": "Seasonal discount",
+      "B": "Quantity discount",
+      "C": "Cash discount",
+      "D": "Trade discount"
+    },
+    "answer": "C",
+    "explanation": "It is a cash discount for early payment."
+  },
+  {
+    "number": 29,
+    "instruction": "Buying and selling products through a network of digital devices is",
+    "options": {
+      "A": "E-commerce",
+      "B": "E-payment",
+      "C": "E-transfer",
+      "D": "E-mail"
+    },
+    "answer": "A",
+    "explanation": "E-commerce is trade using digital networks."
+  },
+  {
+    "number": 30,
+    "instruction": "A document in which the internal regulations of a company are stated is",
+    "options": {
+      "A": "Certificate of Incorporation",
+      "B": "Articles of Association",
+      "C": "Memorandum of Association",
+      "D": "Partnership Deed"
+    },
+    "answer": "B",
+    "explanation": "Articles of Association contain company regulations."
+  },
+  {
+    "number": 31,
+    "instruction": "Which of the following is not a type of security?",
+    "options": {
+      "A": "Stock",
+      "B": "Overdraft",
+      "C": "Share",
+      "D": "Debenture"
+    },
+    "answer": "B",
+    "explanation": "Overdraft is a loan facility, not a security."
+  },
+  {
+    "number": 32,
+    "instruction": "An advantage of road transport over other means of transport is that",
+    "options": {
+      "A": "Packing and loading is easy as activities are handled by experts",
+      "B": "Canteen services are provided during the course of transportation",
+      "C": "Specific vehicles could be used to carry certain loads",
+      "D": "Terminal handling is eliminated by door-to-door delivery"
+    },
+    "answer": "D",
+    "explanation": "Road transport offers door-to-door delivery, eliminating terminal handling."
+  },
+  {
+    "number": 33,
+    "instruction": "Which of the following modes of transport could be used to convey both liquid and gas?",
+    "options": {
+      "A": "Aeroplane",
+      "B": "Tanker",
+      "C": "Tramp",
+      "D": "Ferry"
+    },
+    "answer": "B",
+    "explanation": "Tankers transport liquid and gas."
+  },
+  {
+    "number": 34,
+    "instruction": "Which of the following is not a form of sales promotion?",
+    "options": {
+      "A": "Cash on delivery",
+      "B": "Cash on delivery",
+      "C": "Free samples",
+      "D": "Buy one get one free"
+    },
+    "answer": "A",
+    "explanation": "Cash on delivery is a payment method, not a sales promotion."
+  },
+  {
+    "number": 35,
+    "instruction": "The business in which sale of goods involves use of vehicles is a",
+    "options": {
+      "A": "Mobile shop",
+      "B": "Chain store",
+      "C": "Shopping mall",
+      "D": "Tied shop"
+    },
+    "answer": "A",
+    "explanation": "Mobile shops use vehicles to sell goods."
+  },
+  {
+    "number": 36,
+    "instruction": "The arrangement for the conveyance of goods abroad is performed by the",
+    "options": {
+      "A": "Customs and excise authority",
+      "B": "Ports authority",
+      "C": "Clearing and forwarding agents",
+      "D": "Chamber of commerce"
+    },
+    "answer": "C",
+    "explanation": "Clearing and forwarding agents handle exports."
+  },
+  {
+    "number": 37,
+    "instruction": "An organizational chart is used to",
+    "options": {
+      "A": "Determine the departmental objectives and targets",
+      "B": "Show the hierarchy of staff",
+      "C": "Implement policies on staff welfare",
+      "D": "Measure variation on staff performance"
+    },
+    "answer": "B",
+    "explanation": "Organizational charts show staff hierarchy."
+  },
+  {
+    "number": 38,
+    "instruction": "Which of the following is an example of an intangible asset?",
+    "options": {
+      "A": "Machinery",
+      "B": "Land",
+      "C": "Goodwill",
+      "D": "Inventory"
+    },
+    "answer": "C",
+    "explanation": "Goodwill is an intangible asset."
+  },
+  {
+    "number": 39,
+    "instruction": "A buyer who pays for goods on receiving the goods is said to have bought goods on",
+    "options": {
+      "A": "Cash",
+      "B": "Credit",
+      "C": "Hire purchase",
+      "D": "Deferred payment"
+    },
+    "answer": "A",
+    "explanation": "Payment on receipt is cash purchase."
+  },
+  {
+    "number": 40,
+    "instruction": "The act of a seller passing property in goods to the buyer is known as",
+    "options": {
+      "A": "Sale",
+      "B": "Hire purchase",
+      "C": "Consignment",
+      "D": "Barter"
+    },
+    "answer": "A",
+    "explanation": "Sale transfers ownership to buyer."
+  },
+  {
+    "number": 41,
+    "instruction": "Which of the following is a source of long-term finance?",
+    "options": {
+      "A": "Trade credit",
+      "B": "Overdraft",
+      "C": "Mortgage",
+      "D": "Bank loan"
+    },
+    "answer": "C",
+    "explanation": "Mortgage is a long-term finance source."
+  },
+  {
+    "number": 42,
+    "instruction": "Use the diagram to answer the question\n\nThe instrument in the diagram is a",
+    "image": "commerce2023/image1.png",
+    "options": {
+      "A": "Cheque",
+      "B": "Money order",
+      "C": "Deposit slip",
+      "D": "Warrant"
+    },
+    "answer": "A",
+    "explanation": "The instrument shown is a cheque."
+  },
+  {
+    "number": 43,
+    "instruction": "Use the diagram to answer the question\n\nThe two lines on the instrument shows that it is",
+    "image": "commerce2023/image2.png",
+    "options": {
+      "A": "Altered",
+      "B": "Crossed",
+      "C": "Cancelled",
+      "D": "Paid"
+    },
+    "answer": "B",
+    "explanation": "Two parallel lines crossing the cheque indicate it is crossed."
+  },
+  {
+    "number": 44,
+    "instruction": "Use the diagram to answer the question\n\nThe instrument will not be valid on",
+    "image": "commerce2023/image3.png",
+    "options": {
+      "A": "September 25, 2023",
+      "B": "July 25, 2023",
+      "C": "October 25, 2023",
+      "D": "June 25, 2023"
+    },
+    "answer": "B",
+    "explanation": "The instrument has a validity period which expires before July 25, 2023."
+  },
+  {
+    "number": 45,
+    "instruction": "Which of the following is not an example of a cooperative society?",
+    "options": {
+      "A": "Marketing society",
+      "B": "Transport society",
+      "C": "Credit society",
+      "D": "Commercial bank"
+    },
+    "answer": "D",
+    "explanation": "Commercial banks are not cooperative societies."
+  },
+  {
+    "number": 46,
+    "instruction": "Which of the following is not a function of the stock exchange?",
+    "options": {
+      "A": "Providing liquidity to investors",
+      "B": "Enabling companies to raise capital",
+      "C": "Regulating business competition",
+      "D": "Providing market for securities"
+    },
+    "answer": "C",
+    "explanation": "Regulating competition is not a stock exchange function."
+  },
+  {
+    "number": 47,
+    "instruction": "The process of selecting, training, and evaluating employees is called",
+    "options": {
+      "A": "Recruitment",
+      "B": "Staffing",
+      "C": "Motivation",
+      "D": "Promotion"
+    },
+    "answer": "B",
+    "explanation": "Staffing includes recruitment, training, and evaluation."
+  },
+  {
+    "number": 48,
+    "instruction": "The profit a business makes after deducting all expenses is",
+    "options": {
+      "A": "Gross profit",
+      "B": "Net profit",
+      "C": "Operating profit",
+      "D": "Capital gain"
+    },
+    "answer": "B",
+    "explanation": "Net profit is what remains after all expenses."
+  },
+  {
+    "number": 49,
+    "instruction": "An advantage of using computers in business is",
+    "options": {
+      "A": "Increase in paperwork",
+      "B": "Slower communication",
+      "C": "Accuracy in processing data",
+      "D": "Limited storage capacity"
+    },
+    "answer": "C",
+    "explanation": "Computers improve accuracy in data processing."
+  },
+  {
+    "number": 50,
+    "instruction": "Which document is used to request payment for goods supplied?",
+    "options": {
+      "A": "Invoice",
+      "B": "Delivery note",
+      "C": "Receipt",
+      "D": "Credit note"
+    },
+    "answer": "A",
+    "explanation": "Invoice requests payment for goods supplied."
+  }
+]

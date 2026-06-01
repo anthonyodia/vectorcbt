@@ -1,0 +1,618 @@
+{
+  "title": "WAEC 2022 Computer Studies Questions",
+  "source": "WAEC 2022",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "One-millionth of a second is also referred to as",
+      "options": {
+        "A": "nanosecond",
+        "B": "microsecond",
+        "C": "millisecond",
+        "D": "picosecond"
+      },
+      "correct_option": "B",
+      "explanation": "A **microsecond** is 10^-6 seconds, which is one-millionth of a second. A millisecond is 10^-3, a nanosecond is 10^-9, and a picosecond is 10^-12 seconds."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Examples of **quantitative** data type are?",
+      "options": {
+        "A": "continuous and discrete",
+        "B": "local and foreign",
+        "C": "nominal and ordinal",
+        "D": "primary and secondary"
+      },
+      "correct_option": "A",
+      "explanation": "**Quantitative** data is numerical and measurable, divided into **continuous** (can take any value) and **discrete** (can take only specific values). Nominal and ordinal are qualitative data types."
+    },
+    {
+      "questionNumber": 3,
+      "question": "One difference between **data** and **information** is that?",
+      "options": {
+        "A": "data is meaningful while information is not meaningful",
+        "B": "data are raw facts and figures while information is computed",
+        "C": "information is independent of data while data is dependent on information",
+        "D": "information is the raw material while data is the end product of information"
+      },
+      "correct_option": "B",
+      "explanation": "**Data** are unprocessed raw facts and figures, while **information** is the result of processing data to make it meaningful and computed."
+    },
+    {
+      "questionNumber": 4,
+      "question": "The following options are examples of **information** except?",
+      "options": {
+        "A": "area of a circle",
+        "B": "circumference of a circle",
+        "C": "perimeter of a rectangle",
+        "D": "plain shape of a rectangle"
+      },
+      "correct_option": "D",
+      "explanation": "Area, circumference, and perimeter are results of computation (processed data/**information**). The **plain shape** of a rectangle is a raw fact or description (**data**)."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Modern computers compared to earlier computers are?",
+      "options": {
+        "A": "less reliable",
+        "B": "faster and larger",
+        "C": "larger and stronger",
+        "D": "faster and smaller"
+      },
+      "correct_option": "D",
+      "explanation": "Modern computers are significantly **faster** and **smaller** due to advancements in miniaturization (integrated circuits and microprocessors)."
+    },
+    {
+      "questionNumber": 6,
+      "question": "What type of computer would be most suitable for a student who lives in a remote village without constant electricity",
+      "options": {
+        "A": "Desktop computer",
+        "B": "Laptop computer",
+        "C": "Mainframe computer",
+        "D": "Minicomputer"
+      },
+      "correct_option": "B",
+      "explanation": "A **Laptop computer** has a built-in battery, making it portable and allowing temporary operation when disconnected from the main power supply."
+    },
+    {
+      "questionNumber": 7,
+      "question": "EDSAC was produced using a concept known as",
+      "options": {
+        "A": "Circuit switching",
+        "B": "Packet routing",
+        "C": "Packet switching",
+        "D": "Stored program"
+      },
+      "correct_option": "D",
+      "explanation": "EDSAC (1949) was one of the first computers to practically implement the Von Neumann **'Stored Program'** concept, where program instructions and data share the same memory."
+    },
+    {
+      "questionNumber": 8,
+      "question": "The process of running more than one program concurrently is known as",
+      "options": {
+        "A": "multithreading",
+        "B": "multitasking",
+        "C": "multiprogramming",
+        "D": "multipurpose"
+      },
+      "correct_option": "B",
+      "explanation": "**Multitasking** is the operating system's ability to execute multiple tasks or programs seemingly simultaneously by rapidly switching between them."
+    },
+    {
+      "questionNumber": 9,
+      "question": "How many **binary digits** are contained in **10MB** of a memory stick?",
+      "options": {
+        "A": "10 x 1024",
+        "B": "10 x 1024 x 8",
+        "C": "10 x 1024 x 1024",
+        "D": "10 x 1024 x 1024 x 8"
+      },
+      "correct_option": "D",
+      "explanation": "The calculation is: 10 x 1024 KB x 1024 Bytes x 8 bits/Byte. Since 1 Byte equals 8 binary digits (bits), the final multiplication by 8 is necessary."
+    },
+    {
+      "questionNumber": 10,
+      "question": "A student would require the following devices to online application form except?",
+      "options": {
+        "A": "keyboard",
+        "B": "mouse",
+        "C": "printer",
+        "D": "webcam"
+      },
+      "correct_option": "C",
+      "explanation": "A **printer** is an **output** device used to print the final document or confirmation; it is not necessary for the process of filling out and submitting the online form."
+    },
+    {
+      "questionNumber": 11,
+      "question": "The logic gate in the diagram above is called a",
+      "image_name": "Computer2022/image1.jpeg",
+      "options": {
+        "A": "AND gate",
+        "B": "NAND gate",
+        "C": "NOR gate",
+        "D": "OR gate"
+      },
+      "correct_option": "B",
+      "explanation": "The symbol shown (an AND gate with a circle/bubble at the output) is the symbol for a **NAND gate** (NOT-AND)."
+    },
+    {
+      "questionNumber": 12,
+      "question": "The logic equation for the logic gate in the figure above is?",
+      "image_name": "Computer2022/image2.jpeg",
+      "options": {
+        "A": "Z=A+B",
+        "B": "Z=A.B",
+        "C": "Z= A+B (representing Z=NOT(A OR B))",
+        "D": "Z=A.B.C"
+      },
+      "correct_option": "C",
+      "explanation": "Assuming the image is a **NOR gate** (OR gate with a NOT circle), its logical equation is Z = NOT(A+B) which is represented in option C as the logic sum with a bar (NOT) over it."
+    },
+    {
+      "questionNumber": 13,
+      "question": "The part labelled X in the figure above is called?",
+      "image_name": "Computer2022/image3.jpeg",
+      "options": {
+        "A": "auxiliary memory",
+        "B": "output unit",
+        "C": "secondary memory",
+        "D": "storage unit"
+      },
+      "correct_option": "D",
+      "explanation": "In the context of the Von Neumann Architecture diagram, X typically points to the main memory, which is classified as the primary **storage unit**."
+    },
+    {
+      "questionNumber": 14,
+      "question": "The logic equation for the logic-circuit in the diagram above is?",
+      "image_name": "Computer2022/image4.jpeg",
+      "options": {
+        "A": "Z=A+B+C",
+        "B": "Z=A.B+C",
+        "C": "Z=A+B+C (representing Z=NOT(A OR B OR C))",
+        "D": "Z=A.B.C"
+      },
+      "correct_option": "B",
+      "explanation": "The expression **Z = A.B + C** represents a two-level circuit where the inputs A and B are ANDed, and the result is then ORed with input C. (The expression in option C uses NOT(A OR B OR C) which must be represented as a plain string)."
+    },
+    {
+      "questionNumber": 15,
+      "question": "The program that is loaded into a special area on a microprocessor or ROM on a one-time basis and becomes part of the hardware is called?",
+      "options": {
+        "A": "firmware",
+        "B": "liveware",
+        "C": "software",
+        "D": "utility"
+      },
+      "correct_option": "A",
+      "explanation": "**Firmware** is a specialized type of software that provides low-level control for a device's specific hardware and is permanently stored in ROM or flash memory."
+    },
+    {
+      "questionNumber": 16,
+      "question": "The following programs are **general-purpose** application software except",
+      "options": {
+        "A": "corel draw",
+        "B": "payroll system",
+        "C": "Ms software (e.g., MS Excel)",
+        "D": "MS word"
+      },
+      "correct_option": "B",
+      "explanation": "A **payroll system** is **special-purpose** application software, designed for the single, specific task of managing employee salaries and wages."
+    },
+    {
+      "questionNumber": 17,
+      "question": "One similarity between **bespoke software** and **application packages** is that they are?",
+      "options": {
+        "A": "both available off the shelf",
+        "B": "highly standardized",
+        "C": "both written by computer users",
+        "D": "meant to be used by computer end users"
+      },
+      "correct_option": "D",
+      "explanation": "Both custom-made (bespoke) software and off-the-shelf packages (application packages) are created to solve problems for the **end user**."
+    },
+    {
+      "questionNumber": 18,
+      "question": "The process of testing the logic of algorithm to ensure they give correct result is known as?",
+      "options": {
+        "A": "debbuging",
+        "B": "desk checking",
+        "C": "flow charting",
+        "D": "pseudo coding"
+      },
+      "correct_option": "B",
+      "explanation": "**Desk checking** (or a dry run) is the manual, step-by-step tracing of an algorithm's logic with sample data to verify its correctness before coding."
+    },
+    {
+      "questionNumber": 19,
+      "question": "The following instructions are guidelines for drawing flowcharts except that?",
+      "options": {
+        "A": "flowcharts must have a logical start and finish",
+        "B": "it should follow a direction of left to right or top to bottom",
+        "C": "it should follow a direction of right to left or bottom to top",
+        "D": "it should be clear, neat and easy to follow"
+      },
+      "correct_option": "C",
+      "explanation": "Standard flowcharting convention dictates that the flow of logic moves from **top to bottom** or **left to right**."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Key skills of a system analyst include the following except",
+      "options": {
+        "A": "ability to troubleshoot",
+        "B": "interest in learning new skills",
+        "C": "motivational skills",
+        "D": "proficiency in programming languages"
+      },
+      "correct_option": "D",
+      "explanation": "A **System Analyst** focuses on system design and requirements gathering; **programming proficiency** is a core skill for a programmer, not typically the analyst."
+    },
+    {
+      "questionNumber": 21,
+      "question": "The result of the expression $2 \\times 6 + 2 / 4 \\times 2 \\times 4^2$",
+      "options": {
+        "A": "21",
+        "B": "27",
+        "C": "28",
+        "D": "29"
+      },
+      "correct_option": "C",
+      "explanation": "Using BODMAS/PEMDAS: 2 * 6 + 2 / 4 * 2 * 16 = 12 + 0.5 * 2 * 16 = 12 + 1 * 16 = 12 + 16 = 28."
+    },
+    {
+      "questionNumber": 22,
+      "question": "The number 10, 20, 30, 40, 50, 60 and 70 as stated in the QBASIC program indicate",
+      "options": {
+        "A": "bullet numbering",
+        "B": "codes",
+        "C": "bullet numbering",
+        "D": "line number"
+      },
+      "correct_option": "D",
+      "explanation": "In BASIC programming, these numbers are **line numbers** used by the interpreter to execute statements in the correct order."
+    },
+    {
+      "questionNumber": 23,
+      "question": "The QBASIC statement `LET X = Y - 3` means",
+      "options": {
+        "A": "the variables X and Y both receive the value 3",
+        "B": "the variable X receives the value 3",
+        "C": "the variable X receives the value of Y less 3",
+        "D": "an error message has occured due to type mismatch"
+      },
+      "correct_option": "C",
+      "explanation": "The `LET` statement is an **assignment** statement. It calculates the value of (Y-3) and stores that result in the variable **X**."
+    },
+    {
+      "questionNumber": 24,
+      "question": "The part labelled Y in the compiler interface in the diagram represents",
+      "image_name": "Computer2022/image5.jpeg",
+      "options": {
+        "A": "intermediate code",
+        "B": "binary code",
+        "C": "object code",
+        "D": "pseudocode"
+      },
+      "correct_option": "C",
+      "explanation": "A compiler's main function is to translate source code into **object code** (or machine code) for execution."
+    },
+    {
+      "questionNumber": 25,
+      "question": "The virtual communication platform where many people keep in contact with family and friends is known as",
+      "options": {
+        "A": "microsoft visio",
+        "B": "social engineering",
+        "C": "cyberspace",
+        "D": "virtual reality"
+      },
+      "correct_option": "C",
+      "explanation": "**Cyberspace** is the general term for the global domain within the information environment, consisting of the network of human and computer interactions."
+    },
+    {
+      "questionNumber": 26,
+      "question": "The protocol used for email transmission is known as ?",
+      "options": {
+        "A": "HTTP",
+        "B": "DHCP",
+        "C": "IP",
+        "D": "SMTP"
+      },
+      "correct_option": "D",
+      "explanation": "**SMTP** (Simple Mail Transfer Protocol) is the standard protocol for sending (transmitting) email messages."
+    },
+    {
+      "questionNumber": 27,
+      "question": "The signals from A to modem X in the diagram above are",
+      "image_name": "Computer2022/image5.jpeg",
+      "options": {
+        "A": "analogue",
+        "B": "digital",
+        "C": "electrons",
+        "D": "protons"
+      },
+      "correct_option": "B",
+      "explanation": "Assuming A is the computer, it sends **digital** signals to the modem (X), which converts them to analog signals for transmission."
+    },
+    {
+      "questionNumber": 28,
+      "question": "What type of network is represented in the diagram above?",
+      "image_name": "Computer2022/image6.jpeg",
+      "options": {
+        "A": "local area network",
+        "B": "metropolitan area network",
+        "C": "personal area network",
+        "D": "wide area network"
+      },
+      "correct_option": "D",
+      "explanation": "A **Wide Area Network (WAN)** spans a very large geographical area, such as connecting cities or countries."
+    },
+    {
+      "questionNumber": 29,
+      "question": "In the URL https://waec.org.ng, the **domain name** is?",
+      "options": {
+        "A": "waec.org.ng",
+        "B": "http://www.",
+        "C": "//www/.waec.",
+        "D": "org.ng."
+      },
+      "correct_option": "A",
+      "explanation": "The **domain name** is the unique identifier for the website, which is everything between the protocol and the first path separator (or the end)."
+    },
+    {
+      "questionNumber": 30,
+      "question": "The type of transmission in the part labelled q in the diagram above is called",
+      "image_name": "Computer2022/image7.jpeg",
+      "options": {
+        "A": "broadcast",
+        "B": "full duplex",
+        "C": "half duplex",
+        "D": "simplex"
+      },
+      "correct_option": "B",
+      "explanation": "**Full duplex** transmission allows data to be sent and received simultaneously in both directions."
+    },
+    {
+      "questionNumber": 31,
+      "question": "The number of **entries** in the diagram above is",
+      "image_name": "Computer2022/image8.jpeg",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "12"
+      },
+      "correct_option": "B",
+      "explanation": "In a database or table, an **entry** refers to a single complete row or record. If the diagram shows 4 rows of data, that is the number of entries."
+    },
+    {
+      "questionNumber": 32,
+      "question": "The maximum length of a **text field** in MS Access is?",
+      "options": {
+        "A": "75",
+        "B": "120",
+        "C": "255",
+        "D": "265"
+      },
+      "correct_option": "C",
+      "explanation": "The maximum length for the **Short Text** data type (formerly 'Text') in Microsoft Access is **255** characters."
+    },
+    {
+      "questionNumber": 33,
+      "question": "One function of **operating system** is?",
+      "options": {
+        "A": "power supply allocation",
+        "B": "file corruption and deletion",
+        "C": "flowcharting",
+        "D": "resource allocation"
+      },
+      "correct_option": "D",
+      "explanation": "The operating system's core function is **resource allocation**, managing and distributing the computer's hardware (CPU, memory, I/O) to running programs."
+    },
+    {
+      "questionNumber": 34,
+      "question": "The shortcut key for the **open dialog box** in MS Word is ?",
+      "image_name": "Computer2022/image9.jpeg",
+      "options": {
+        "A": "Alt + F12",
+        "B": "Ctrl + F12",
+        "C": "F12",
+        "D": "shift + f12"
+      },
+      "correct_option": "B",
+      "explanation": "**Ctrl + F12** is the standard keyboard shortcut in many Microsoft applications to display the **Open** dialog box."
+    },
+    {
+      "questionNumber": 35,
+      "question": "The part of the Corel Draw window labelled II in the diagram above is called?",
+      "image_name": "Computer2022/image10.jpeg",
+      "options": {
+        "A": "zoom in",
+        "B": "pan",
+        "C": "zoom out",
+        "D": "zoom to fit"
+      },
+      "correct_option": "D",
+      "explanation": "**Zoom to fit** (or Zoom to Page) is a common feature in drawing programs that adjusts the view to show the entire drawing page in the current window."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Which of the following operations will **not** run a slide show in MS PowerPoint?",
+      "options": {
+        "A": "pressing F5",
+        "B": "pressing shift +f5",
+        "C": "choosing the slide show tab",
+        "D": "clicking on the slide show icon bar"
+      },
+      "correct_option": "C",
+      "explanation": "Only clicking the **Slide Show tab** merely displays the commands; you must click a command *within* the tab (like 'From Beginning' or 'From Current Slide') to start the show."
+    },
+    {
+      "questionNumber": 37,
+      "question": "What will be the result of writing the formula $=YEAR(NOW()) + 3$ in a worksheet, of a spread sheet, if the current calendar is 14 August, 1960?",
+      "options": {
+        "A": "17 august 196003",
+        "B": "14 aug,1963",
+        "C": "11 august,1963",
+        "D": "1963"
+      },
+      "correct_option": "D",
+      "explanation": "The **YEAR()** function extracts only the year number. Adding 3 to the starting year (1960) results in the number **1963**."
+    },
+    {
+      "questionNumber": 38,
+      "question": "If A is in cell A1 and B is in Cell B1 of a worksheet in a spreadsheet application, write a formula to calculate $x = (A^2 + \\sqrt{B}) / 100$",
+      "options": {
+        "A": "((A1^2)+(B1^(1/2)))/100",
+        "B": "((A1^2)+(B1^(1/2)))/100",
+        "C": "((A1^2+(B1^(1/2))/100",
+        "D": "((A1^2)+(B1^(1/2)))/100"
+      },
+      "correct_option": "A",
+      "explanation": "The formula correctly uses parentheses for the numerator and the exponent operator (^) for squaring A and finding the square root of B (Square Root is B^(1/2))."
+    },
+    {
+      "questionNumber": 39,
+      "question": "The pictorial representation of an object or application in the computer is called?",
+      "options": {
+        "A": "diagram",
+        "B": "graphic",
+        "C": "Icon",
+        "D": "image"
+      },
+      "correct_option": "C",
+      "explanation": "An **icon** is a small graphical representation that launches a program or represents a file/folder."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Deleted items in the computers are temporarily stored in the?",
+      "options": {
+        "A": "memory unit",
+        "B": "processor",
+        "C": "recycle bin",
+        "D": "task manager"
+      },
+      "correct_option": "C",
+      "explanation": "The **Recycle Bin** (or Trash) is a temporary storage area on the hard disk for deleted files, allowing them to be restored."
+    },
+    {
+      "questionNumber": 41,
+      "question": "The keyboard key combination **ALT + F4** in Microsoft Windows will",
+      "options": {
+        "A": "close active programmes",
+        "B": "open a file",
+        "C": "restart the computer",
+        "D": "Select two stages of booting from the following list"
+      },
+      "correct_option": "A",
+      "explanation": "**ALT + F4** is the universal shortcut in Windows to close the currently focused application window."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Select two stages of **booting** from the following list: i. Power on Self Test; ii. Loading of Operating System; iii. Loading of e-mails; iv. Start in safe mode. v. Save all active files",
+      "options": {
+        "A": "I and II only",
+        "B": "I and III only",
+        "C": "II and IV only",
+        "D": "III and IV only"
+      },
+      "correct_option": "A",
+      "explanation": "The two initial stages of the booting process are the **Power-On Self Test (POST)** and the **loading of the Operating System**."
+    },
+    {
+      "questionNumber": 43,
+      "question": "In number system, **base 16** is called ?",
+      "options": {
+        "A": "hexadecimal",
+        "B": "decimal",
+        "C": "duodecimal",
+        "D": "octal"
+      },
+      "correct_option": "A",
+      "explanation": "Base 16 is the **hexadecimal** number system, which uses digits 0-9 and letters A-F."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Add $127_{16}$ to $50A_{16}$",
+      "options": {
+        "A": "62916",
+        "B": "63016",
+        "C": "63116",
+        "D": "63216"
+      },
+      "correct_option": "C",
+      "explanation": "In Hex: 7 + A(10) = 17(10), which is 11(16) (1 and carry 1). 2 + 0 + 1 = 3. 1 + 5 = 6. Result is **631 base 16**."
+    },
+    {
+      "questionNumber": 45,
+      "question": "The **octal fraction** $0.65_8$ converts to **binary** as",
+      "options": {
+        "A": "0.110011",
+        "B": "0.110101",
+        "C": "101101",
+        "D": "101101"
+      },
+      "correct_option": "B",
+      "explanation": "Convert each octal digit to 3 binary bits: 6(8) = 110(2) and 5(8) = 101(2). Combining them results in **0.110101 base 2**."
+    },
+    {
+      "questionNumber": 46,
+      "question": "**Sequential files** are?",
+      "options": {
+        "A": "sorted using index",
+        "B": "sorted in a particular order",
+        "C": "stored as they come",
+        "D": "stored in any storage media"
+      },
+      "correct_option": "B",
+      "explanation": "A **sequential file** must be accessed in the order it is stored, and is typically **sorted** by a key field for efficiency."
+    },
+    {
+      "questionNumber": 47,
+      "question": "The file access method illustrated in the diagram above is called?",
+      "image_name": "Computer2022/image11.jpeg",
+      "options": {
+        "A": "hashed access",
+        "B": "indexed access",
+        "C": "random access",
+        "D": "sequential access"
+      },
+      "correct_option": "D",
+      "explanation": "If records are accessed one after the other from the start, the method is **sequential access**."
+    },
+    {
+      "questionNumber": 48,
+      "question": "**Serial files** are",
+      "options": {
+        "A": "stored using a key",
+        "B": "sorted in a particular order",
+        "C": "stored as they come",
+        "D": "stored in any storage media"
+      },
+      "correct_option": "C",
+      "explanation": "**Serial files** are simply stored in the order they were created or entered, with no specific logical order or key structure."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Duplicating copyrighted electronic or digital content without the authors approval is considered?",
+      "options": {
+        "A": "felonious",
+        "B": "ethical",
+        "C": "treasonable",
+        "D": "unethical"
+      },
+      "correct_option": "D",
+      "explanation": "This act, commonly known as piracy, violates copyright law and is therefore **unethical**."
+    },
+    {
+      "questionNumber": 50,
+      "question": "**Ethical practice** requires a computer user to",
+      "options": {
+        "A": "shutdown properly",
+        "B": "hack into other peoples computer",
+        "C": "intrude into peoples privacy",
+        "D": "copy software without the license"
+      },
+      "correct_option": "A",
+      "explanation": "While 'shutdown properly' is a maintenance task, it is the only option listed that is a responsible and **ethical** computing practice, unlike the others which are illegal or unethical."
+    }
+  ]
+}

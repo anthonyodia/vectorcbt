@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "type": "Antonym/Contextual Gap",
+    "question": "Obi's family is known for their **audacity**, so one is surprised at his ______.",
+    "options": {
+      "A": "cowardice",
+      "B": "irritability",
+      "C": "moodiness",
+      "D": "insolence"
+    },
+    "answer": "A",
+    "explanation": "**Audacity** means aggressive boldness or daring. The word that is most nearly opposite in meaning and fits the context (showing surprise at the change) is **cowardice**, which means lack of courage."
+  },
+  {
+    "id": 2,
+    "type": "Antonym/Contextual Gap",
+    "question": "Bayo is **careless** in his ways while Tayo is ________.",
+    "options": {
+      "A": "lovable",
+      "B": "meticulous",
+      "C": "difficult",
+      "D": "reserved"
+    },
+    "answer": "B",
+    "explanation": "**Careless** means not giving enough attention to avoiding harm or error. The clearest opposite is **meticulous**, meaning showing great attention to detail; very careful and precise."
+  },
+  {
+    "id": 3,
+    "type": "Antonym/Contextual Gap",
+    "question": "In this country, the law against armed robbery is **stringent** whereas that against smoking in public places is.........",
+    "options": {
+      "A": "accurate",
+      "B": "complex",
+      "C": "lax",
+      "D": "easy"
+    },
+    "answer": "C",
+    "explanation": "**Stringent** means strict, severe, or rigorously enforced. The opposite is **lax**, meaning not sufficiently strict, severe, or careful."
+  },
+  {
+    "id": 4,
+    "type": "Antonym/Contextual Gap",
+    "question": "The purpose of education is not to..... but to **facilitate** progress.",
+    "options": {
+      "A": "prevent",
+      "B": "impede",
+      "C": "stampede",
+      "D": "restrain"
+    },
+    "answer": "B",
+    "explanation": "To **facilitate** means to make an action or process easy or easier. The opposite is to **impede**, which means to hinder or obstruct the progress of."
+  },
+  {
+    "id": 5,
+    "type": "Antonym/Contextual Gap",
+    "question": "These days, many people concentrate on **temporal** things to the detriment of the _______.",
+    "options": {
+      "A": "tangible",
+      "B": "durable",
+      "C": "unchanging",
+      "D": "spiritual"
+    },
+    "answer": "D",
+    "explanation": "**Temporal** means relating to worldly affairs, as opposed to eternal or **spiritual** things. This is the intended contrast."
+  },
+  {
+    "id": 6,
+    "type": "Antonym/Contextual Gap",
+    "question": "While your parents are ........ ., mine are **liberal** in their views.",
+    "options": {
+      "A": "strict",
+      "B": "intimidating",
+      "C": "conservative",
+      "D": "discerning"
+    },
+    "answer": "C",
+    "explanation": "**Liberal** views are open to new opinions and willing to discard traditional values. The opposite is **conservative**, meaning holding to traditional attitudes and cautious about change."
+  },
+  {
+    "id": 7,
+    "type": "Antonym/Contextual Gap",
+    "question": "The judge expected **direct** answers but the accused was ....",
+    "options": {
+      "A": "illusive",
+      "B": "secretive",
+      "C": "delusive",
+      "D": "evasive"
+    },
+    "answer": "D",
+    "explanation": "**Direct** answers are straightforward and honest. The accused was **evasive**, meaning tending to avoid commitment or self-revelation, especially by answering indirectly."
+  },
+  {
+    "id": 8,
+    "type": "Antonym/Contextual Gap",
+    "question": "Kofi is **generous**, whereas his wife is",
+    "options": {
+      "A": "sparing",
+      "B": "stingy",
+      "C": "unkind",
+      "D": "harsh"
+    },
+    "answer": "B",
+    "explanation": "**Generous** means showing a readiness to give or spend. The most appropriate and direct antonym is **stingy**, meaning unwilling to give or spend money."
+  },
+  {
+    "id": 9,
+    "type": "Antonym/Contextual Gap",
+    "question": "His manners are **uncouth**, while his wife's are ___________.",
+    "options": {
+      "A": "clever",
+      "B": "classic",
+      "C": "refined",
+      "D": "purified"
+    },
+    "answer": "C",
+    "explanation": "**Uncouth** means lacking good manners, refinement, or grace. The opposite is **refined**, meaning elegant and cultured in appearance, manner, or taste."
+  },
+  {
+    "id": 10,
+    "type": "Antonym/Contextual Gap",
+    "question": "The **peak** of Mount Everest is about six miles from its _______.",
+    "options": {
+      "A": "base",
+      "B": "depth",
+      "C": "source",
+      "D": "root"
+    },
+    "answer": "A",
+    "explanation": "The **peak** is the top point of a mountain. The opposite extreme of a geographical feature is its **base** (the bottom part)."
+  },
+  {
+    "id": 11,
+    "type": "Sentence Completion",
+    "question": "The recent floods in some countries have _______ many lives.",
+    "options": {
+      "A": "claimed",
+      "B": "drowned",
+      "C": "buried",
+      "D": "injured"
+    },
+    "answer": "A",
+    "explanation": "To **claim** lives is the correct idiomatic verb used to describe the action of a disaster (like a flood) resulting in death."
+  },
+  {
+    "id": 12,
+    "type": "Sentence Completion",
+    "question": "He does not smoke so the gift of an ashtray will not be quite _________.",
+    "options": {
+      "A": "admirable",
+      "B": "applicable",
+      "C": "appropriate",
+      "D": "attractive"
+    },
+    "answer": "C",
+    "explanation": "The word must mean suitable or proper in the circumstances. An ashtray is not **appropriate** for a non-smoker."
+  },
+  {
+    "id": 13,
+    "type": "Sentence Completion",
+    "question": "The reviewer did an excellent job at the book ______.",
+    "options": {
+      "A": "launch",
+      "B": "premiere",
+      "C": "session",
+      "D": "briefing"
+    },
+    "answer": "A",
+    "explanation": "A book **launch** is the event where a book is officially introduced to the public, often involving reviews and critical commentary. *Premiere* is used for films/plays."
+  },
+  {
+    "id": 14,
+    "type": "Sentence Completion",
+    "question": "The governor filed an _______ against the ruling of the tribunal.",
+    "options": {
+      "A": "injunction",
+      "B": "objection",
+      "C": "application",
+      "D": "appeal"
+    },
+    "answer": "D",
+    "explanation": "An **appeal** is a formal request to a higher authority (like a court) to change a previous ruling or decision, which is what one files against a tribunal ruling."
+  },
+  {
+    "id": 15,
+    "type": "Sentence Completion",
+    "question": "At the terminus, all the passengers on the train will have to ________.",
+    "options": {
+      "A": "alight",
+      "B": "disembark",
+      "C": "descend",
+      "D": "dismount"
+    },
+    "answer": "B",
+    "explanation": "**Disembark** is the most formal and appropriate verb for passengers leaving a train, ship, or aircraft. *Alight* is also possible but less formal."
+  },
+  {
+    "id": 16,
+    "type": "Sentence Completion",
+    "question": "Reading the ______ of the famous King, one would see that he had many things to hide.",
+    "options": {
+      "A": "memoirs",
+      "B": "chronicles",
+      "C": "life",
+      "D": "monument"
+    },
+    "answer": "A",
+    "explanation": "**Memoirs** are historical accounts or biographies written from personal knowledge or special sources, typically containing intimate details and secrets of one's life."
+  },
+  {
+    "id": 17,
+    "type": "Sentence Completion",
+    "question": "The smaller boys had always drawn back in fear when the bully raised a fist, but this time they did not ________.",
+    "options": {
+      "A": "advance",
+      "B": "agree",
+      "C": "retaliate",
+      "D": "recoil"
+    },
+    "answer": "D",
+    "explanation": "To **recoil** means to suddenly spring or flinch back in fear, which mirrors the action of 'drawing back in fear.' The sentence structure ('did not') requires a word that means 'flinch/draw back'."
+  },
+  {
+    "id": 18,
+    "type": "Sentence Completion",
+    "question": "The old man prayed for the ________ of his sins before he died.",
+    "options": {
+      "A": "omission",
+      "B": "commission",
+      "C": "permission",
+      "D": "remission"
+    },
+    "answer": "D",
+    "explanation": "**Remission** is a formal term meaning the cancellation of a debt, charge, or penalty, commonly used in a religious context for the forgiveness of sins."
+  },
+  {
+    "id": 19,
+    "type": "Sentence Completion",
+    "question": "Inflation has caused the cost of goods to _________.",
+    "options": {
+      "A": "escalate",
+      "B": "ascend",
+      "C": "intensify",
+      "D": "progress"
+    },
+    "answer": "A",
+    "explanation": "**Escalate** means to increase rapidly, which accurately describes the typical effect of inflation on costs."
+  },
+  {
+    "id": 20,
+    "type": "Sentence Completion",
+    "question": "The economy of the country has remained _______ despite the crisis.",
+    "options": {
+      "A": "strong",
+      "B": "realistic",
+      "C": "tough",
+      "D": "firm"
+    },
+    "answer": "D",
+    "explanation": "**Firm** means securely fixed in place; constant; stable. It is the most appropriate word to describe the resilient and stable nature of an economy during a crisis."
+  },
+  {
+    "id": 21,
+    "type": "Interpretation (Idiom)",
+    "question": "The principal **raised eyebrows** at the student's explanation. This means that the principal",
+    "options": {
+      "A": "was unhappy about the explanation",
+      "B": "rejected the explanation",
+      "C": "considered the explanation",
+      "D": "was surprised by the explanation"
+    },
+    "answer": "D",
+    "explanation": "To **raise eyebrows** is an idiom meaning to show surprise, astonishment, or mild disapproval, usually because something is inappropriate or hard to believe. **Surprise** is the best fit."
+  },
+  {
+    "id": 22,
+    "type": "Interpretation (Idiom)",
+    "question": "Mary **made a clean breast of everything**. This means that Mary ",
+    "options": {
+      "A": "won everyone over",
+      "B": "told the whole truth",
+      "C": "did everything efficiently",
+      "D": "changed the way things were done"
+    },
+    "answer": "B",
+    "explanation": "To **make a clean breast of (something)** is an idiom meaning to confess fully and honestly; to tell the complete truth."
+  },
+  {
+    "id": 23,
+    "type": "Interpretation (Structure)",
+    "question": "**Had it not rained**, I would have visited you. This means that",
+    "options": {
+      "A": "I visited you even though it rained",
+      "B": "It did not rain and so I visited you",
+      "C": "It rained so I did not visit you",
+      "D": "because it did not rain, I visited you"
+    },
+    "answer": "C",
+    "explanation": "This is a **Third Conditional** structure for the past (*If it had not rained, I would have visited*). It describes an unreal past situation. It implies that the actual event was the opposite: **It rained (the condition occurred), so I did not visit you (the result did not occur).**"
+  },
+  {
+    "id": 24,
+    "type": "Interpretation (Idiom)",
+    "question": "I hadn't finished talking to Halima, when she **snapped my head off**. This means that she ",
+    "options": {
+      "A": "gave me a sharp slap",
+      "B": "rudely interrupted me",
+      "C": "hissed at me",
+      "D": "ordered me to stop talking"
+    },
+    "answer": "B",
+    "explanation": "To **snap someone's head off** is an idiom meaning to speak sharply, abruptly, or angrily to someone. In the context of a conversation, this constitutes a rude interruption."
+  },
+  {
+    "id": 25,
+    "type": "Interpretation (Idiom)",
+    "question": "Franca's behaviour towards Edward **leaves much to be desired**. This means that Franca's behaviour was",
+    "options": {
+      "A": "unsatisfactory",
+      "B": "appreciated",
+      "C": "commendable",
+      "D": "unexpected"
+    },
+    "answer": "A",
+    "explanation": "The phrase **leaves much to be desired** means to be far from perfect or good, thus it is **unsatisfactory** or poor."
+  },
+  {
+    "id": 26,
+    "type": "Interpretation (Idiom)",
+    "question": "The teacher truly had his **heart in the right place**. This means that he was",
+    "options": {
+      "A": "kind and considerate",
+      "B": "sharp and thorough",
+      "C": "simple and modest",
+      "D": "focused and direct"
+    },
+    "answer": "A",
+    "explanation": "To **have one's heart in the right place** is an idiom meaning to be kind, well-meaning, and genuinely benevolent or **considerate**."
+  },
+  {
+    "id": 27,
+    "type": "Interpretation (Structure)",
+    "question": "**Only teachers** could afford a car. This means that",
+    "options": {
+      "A": "teachers could afford a car and nothing else",
+      "B": "teachers and nobody else could afford a car",
+      "C": "teachers and others could afford a car",
+      "D": "few teachers could afford a car"
+    },
+    "answer": "B",
+    "explanation": "The word **'Only'** acts as a restrictive modifier, limiting the ability to afford a car exclusively to teachers. It means 'teachers and nobody else'."
+  },
+  {
+    "id": 28,
+    "type": "Interpretation (Idiom)",
+    "question": "The night watchman was given the **marching orders** because of his negligence. This means that he was",
+    "options": {
+      "A": "promoted",
+      "B": "dismissed",
+      "C": "counselled",
+      "D": "suspended"
+    },
+    "answer": "B",
+    "explanation": "To be given **marching orders** is an idiom meaning to be told to leave, especially due to poor performance or misconduct; to be **dismissed** or fired."
+  },
+  {
+    "id": 29,
+    "type": "Interpretation (Simile)",
+    "question": "My friend is **as dull as ditchwater**. This means that my friend is",
+    "options": {
+      "A": "dark in complexion",
+      "B": "extremely boring",
+      "C": "not intelligent",
+      "D": "not a troublemaker"
+    },
+    "answer": "B",
+    "explanation": "**Dull as ditchwater** is a simile meaning utterly uninteresting, dreary, or **extremely boring**."
+  },
+  {
+    "id": 30,
+    "type": "Interpretation (Idiom)",
+    "question": "The director sees Tim as the **joker in the pack**. This means that the director considers Tim to be",
+    "options": {
+      "A": "unpredictable",
+      "B": "humourous",
+      "C": "nonchalant",
+      "D": "unimportant"
+    },
+    "answer": "A",
+    "explanation": "The **joker in the pack** (referencing a wild card in a deck of cards) is a person or thing whose influence or behavior is **unpredictable** and capable of changing things suddenly."
+  },
+  {
+    "id": 31,
+    "type": "Synonym",
+    "question": "The president of the student union said it was **strategic** to boycott classes to press home their demands.",
+    "options": {
+      "A": "acceptable",
+      "B": "ethical",
+      "C": "practical",
+      "D": "tactical"
+    },
+    "answer": "D",
+    "explanation": "**Strategic** means relating to the identification of long-term aims. **Tactical** means relating to actions designed to achieve a short-term goal. The action of boycotting is a specific method, making **tactical** the closest synonym for the *means* chosen."
+  },
+  {
+    "id": 32,
+    "type": "Synonym",
+    "question": "The **proscription** of the political parties was one of the steps taken by the military.",
+    "options": {
+      "A": "launching",
+      "B": "expulsion",
+      "C": "banning",
+      "D": "removal"
+    },
+    "answer": "C",
+    "explanation": "**Proscription** is the action of officially forbidding or condemning something; a **banning**."
+  },
+  {
+    "id": 33,
+    "type": "Synonym",
+    "question": "Farmers sometimes go through the **frustrating** experience of having to watch their produce rot.",
+    "options": {
+      "A": "disheartening",
+      "B": "dismaying",
+      "C": "annoying",
+      "D": "frightening"
+    },
+    "answer": "A",
+    "explanation": "While frustrating is close to annoying, the scale of losing all produce is more profound. **Disheartening** (causing someone to lose determination or confidence) captures the sense of demoralization better."
+  },
+  {
+    "id": 34,
+    "type": "Synonym",
+    "question": "The acrobatic displays left the spectators **stunned**.",
+    "options": {
+      "A": "amused",
+      "B": "enticed",
+      "C": "astonished",
+      "D": "elated"
+    },
+    "answer": "C",
+    "explanation": "**Stunned** means greatly surprised or shocked. **Astonished** is the closest synonym, meaning greatly surprised or amazed."
+  },
+  {
+    "id": 35,
+    "type": "Synonym",
+    "question": "Binetou looked quite **resplendent** in that red dress.",
+    "options": {
+      "A": "expensive",
+      "B": "stunning",
+      "C": "respectable",
+      "D": "conspicuous"
+    },
+    "answer": "B",
+    "explanation": "**Resplendent** means shining brightly or being gorgeously colorful/sumptuous. **Stunning** means extremely impressive or attractive, capturing the visual impact described."
+  },
+  {
+    "id": 36,
+    "type": "Synonym",
+    "question": "It is foolish to depend entirely on **mundane** things.",
+    "options": {
+      "A": "imported",
+      "B": "material",
+      "C": "attractive",
+      "D": "expensive"
+    },
+    "answer": "B",
+    "explanation": "**Mundane** means relating to the world or earthly matters rather than heavenly or spiritual ones. **Material** (relating to physical, worldly things) is the closest synonym in this context."
+  },
+  {
+    "id": 37,
+    "type": "Synonym",
+    "question": "Only a **pragmatic** approach will solve this problem.",
+    "options": {
+      "A": "constant",
+      "B": "careful",
+      "C": "practical",
+      "D": "drastic"
+    },
+    "answer": "C",
+    "explanation": "**Pragmatic** means dealing with things sensibly and realistically in a way that is based on **practical** considerations."
+  },
+  {
+    "id": 38,
+    "type": "Synonym",
+    "question": "The governor **rebutted** all the allegations against him.",
+    "options": {
+      "A": "rejected",
+      "B": "removed",
+      "C": "revoked",
+      "D": "refuted"
+    },
+    "answer": "D",
+    "explanation": "To **rebut** means to claim or prove that evidence or an accusation is false. To **refute** means to prove (a statement or theory) to be wrong or false. They are the closest synonyms for arguing against an accusation."
+  },
+  {
+    "id": 39,
+    "type": "Synonym",
+    "question": "He was jailed for failing to obey the court **injunction**.",
+    "options": {
+      "A": "law",
+      "B": "order",
+      "C": "fine",
+      "D": "proceedings"
+    },
+    "answer": "B",
+    "explanation": "A court **injunction** is an authoritative judicial **order** that either compels or restrains an action by a party."
+  },
+  {
+    "id": 40,
+    "type": "Synonym",
+    "question": "The World Bank made funds available to the government for poverty **alleviation**.",
+    "options": {
+      "A": "reduction",
+      "B": "removal",
+      "C": "termination",
+      "D": "elimination"
+    },
+    "answer": "A",
+    "explanation": "**Alleviation** is the action of making suffering, deficiency, or a problem less severe. **Reduction** (making something smaller or less in amount or severity) is the nearest fit for poverty."
+  },
+  {
+    "id": 41,
+    "type": "Grammar (Word Order)",
+    "question": "The two players protested against the",
+    "options": {
+      "A": "fitness twice-weekly practice",
+      "B": "practice fitness twice-weekly",
+      "C": "twice-weekly practice fitness",
+      "D": "twice-weekly fitness practice"
+    },
+    "answer": "D",
+    "explanation": "The correct order for modifiers before the noun (practice) is: **Frequency** (twice-weekly) $\rightarrow$ **Type/Purpose** (fitness) $\rightarrow$ **Noun** (practice)."
+  },
+  {
+    "id": 42,
+    "type": "Grammar (Conditional Tense)",
+    "question": "if I _____ what actually happened, I would have punished him.",
+    "options": {
+      "A": "had heard",
+      "B": "have had",
+      "C": "had had",
+      "D": "have heard"
+    },
+    "answer": "C",
+    "explanation": "This is a **Third Conditional** sentence (*If I had done, I would have done*). The phrase 'what actually happened' implies knowing, which is a state verb (*to have* information). The Past Perfect form of *to have* is **had had** (Auxiliary 'had' + Past Participle 'had')."
+  },
+  {
+    "id": 43,
+    "type": "Grammar (Question Tag)",
+    "question": "She was certainly going to the cinema, _____?",
+    "options": {
+      "A": "isn't she",
+      "B": "isn't it",
+      "C": "wasn't it",
+      "D": "wasn't she"
+    },
+    "answer": "D",
+    "explanation": "The statement uses the auxiliary verb **was** (positive) and the subject **She**. The tag must be negative and use the same subject/verb: **wasn't she**."
+  },
+  {
+    "id": 44,
+    "type": "Grammar (Possessive)",
+    "question": "Their _____ house is by the side of the road.",
+    "options": {
+      "A": "father-in-law's",
+      "B": "father's-in-law",
+      "C": "fathers-in-law",
+      "D": "father-in-laws"
+    },
+    "answer": "A",
+    "explanation": "To show singular possession of a compound noun, the possessive marker ('s) is added to the last word: **father-in-law's**."
+  },
+  {
+    "id": 45,
+    "type": "Grammar (Phrasal Verb)",
+    "question": "He _____ his ideas very clearly at meetings.",
+    "options": {
+      "A": "puts out",
+      "B": "puts across",
+      "C": "puts away",
+      "D": "puts in"
+    },
+    "answer": "B",
+    "explanation": "The phrasal verb **put across** means to communicate (an idea or feeling) successfully or clearly."
+  },
+  {
+    "id": 46,
+    "type": "Grammar (Pronoun/Contraction)",
+    "question": "Remember to return it to Ruth; _____ hers.",
+    "options": {
+      "A": "is",
+      "B": "it's",
+      "C": "it",
+      "D": "its"
+    },
+    "answer": "B",
+    "explanation": "The gap requires a new subject and verb: **It is** (hers), contracted to **it's**. *Its* (D) is the possessive pronoun."
+  },
+  {
+    "id": 47,
+    "type": "Grammar (Parts of Speech)",
+    "question": "I want to know your religious _____ ",
+    "options": {
+      "A": "believe",
+      "B": "believing",
+      "C": "beliefs",
+      "D": "believes"
+    },
+    "answer": "C",
+    "explanation": "The plural noun form is required to follow the adjective 'religious.' **Beliefs** is the correct plural noun."
+  },
+  {
+    "id": 48,
+    "type": "Grammar (Adverb)",
+    "question": "The student did the assignment, but not _____ the way I had expected.",
+    "options": {
+      "A": "just",
+      "B": "quite",
+      "C": "hardly",
+      "D": "as"
+    },
+    "answer": "B",
+    "explanation": "**Quite** is an adverb meaning 'to a certain or considerable extent; completely.' Used with 'not,' it means 'not completely' or 'not exactly,' which fits the context of partial disappointment."
+  },
+  {
+    "id": 49,
+    "type": "Grammar (Case)",
+    "question": "Bola invited Joe and _____ to the show.",
+    "options": {
+      "A": "I",
+      "B": "myself",
+      "C": "me",
+      "D": "himself"
+    },
+    "answer": "C",
+    "explanation": "The pronoun is the object of the verb **invited**. The correct objective case pronoun is **me** (Test: Bola invited me)."
+  },
+  {
+    "id": 50,
+    "type": "Grammar (Preposition)",
+    "question": "Highlights _____ the events will be televised today.",
+    "options": {
+      "A": "of",
+      "B": "for",
+      "C": "in",
+      "D": "on"
+    },
+    "answer": "A",
+    "explanation": "The preposition **of** is used to connect a part (Highlights) to the whole (the events). **Highlights of** the events is the correct phrase."
+  }
+]

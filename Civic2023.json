@@ -1,0 +1,599 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The payment of residential utility bills is a duty of the",
+      "options": {
+        "A": "local government",
+        "B": "federal government",
+        "C": "citizens",
+        "D": "state government"
+      },
+      "answer": "A",
+      "explanation": "Local governments are responsible for utility bills of residents."
+    },
+    {
+      "id": 2,
+      "question": "Standards, rule and criteria that determine acceptable norms that influence a cordial relationship in the society are referred to as",
+      "options": {
+        "A": "regulations",
+        "B": "attitudes",
+        "C": "conventions",
+        "D": "values"
+      },
+      "answer": "D",
+      "explanation": "Values influence norms and acceptable behavior."
+    },
+    {
+      "id": 3,
+      "question": "A social affiliation between two or more people in the society is known as",
+      "options": {
+        "A": "interpersonal relations",
+        "B": "intercommunal relations",
+        "C": "inter-ethnic relations",
+        "D": "inter societal relations"
+      },
+      "answer": "A",
+      "explanation": "Interpersonal relations involve social connections between individuals."
+    },
+    {
+      "id": 4,
+      "question": "A major achievement that can be attributed to good intercommunal relationship in Nigeria is",
+      "options": {
+        "A": "encouraging competition among individuals in the society",
+        "B": "curtailing rural-urban migration",
+        "C": "promoting peace, mutual understanding and development",
+        "D": "promoting national cultural festivals"
+      },
+      "answer": "C",
+      "explanation": "Good intercommunal relations promote peace and development."
+    },
+    {
+      "id": 5,
+      "question": "A person born in Ghana by Nigerian parents and resides in Ghana is a citizen of",
+      "options": {
+        "A": "Nigerian by registration",
+        "B": "Ghana by birth",
+        "C": "Ghana by naturalization",
+        "D": "Nigeria by birth"
+      },
+      "answer": "B",
+      "explanation": "Born in Ghana, so Ghanaian citizen."
+    },
+    {
+      "id": 6,
+      "question": "God-fatherism in a democratic system of government can lead to",
+      "options": {
+        "A": "loss of employment",
+        "B": "neglect of followers",
+        "C": "economic development",
+        "D": "citizens' participation"
+      },
+      "answer": "B",
+      "explanation": "God-fatherism often leads to favoritism and neglect of others."
+    },
+    {
+      "id": 7,
+      "question": "Road signs are usually",
+      "options": {
+        "A": "informative and persuasive",
+        "B": "punitive and informative",
+        "C": "persuasive and regulatory",
+        "D": "regulatory and informative"
+      },
+      "answer": "D",
+      "explanation": "Road signs mainly inform and regulate."
+    },
+    {
+      "id": 8,
+      "question": "Execution and implementation of government policies are parts of the functions of the",
+      "options": {
+        "A": "public service",
+        "B": "civil society",
+        "C": "military",
+        "D": "legislature"
+      },
+      "answer": "A",
+      "explanation": "Public service executes government policies."
+    },
+    {
+      "id": 9,
+      "question": "Right to ownership of property falls under the category of",
+      "options": {
+        "A": "social right",
+        "B": "political right",
+        "C": "civil right",
+        "D": "economic right"
+      },
+      "answer": "C",
+      "explanation": "Ownership rights are civil rights."
+    },
+    {
+      "id": 10,
+      "question": "The Nigerian Tribune newspaper was established by",
+      "options": {
+        "A": "Ahmadiu Bello",
+        "B": "Herbert Macauley",
+        "C": "Anthony Enahoro",
+        "D": "Obafemi Awolowo"
+      },
+      "answer": "D",
+      "explanation": "Obafemi Awolowo founded the Nigerian Tribune."
+    },
+    {
+      "id": 11,
+      "question": "The right to freedom of expression can be limited by",
+      "options": {
+        "A": "the police",
+        "B": "the legislature",
+        "C": "slander",
+        "D": "insecurity"
+      },
+      "answer": "C",
+      "explanation": "Slander can limit freedom of expression."
+    },
+    {
+      "id": 12,
+      "question": "Local government administration promotes",
+      "options": {
+        "A": "consensus building in governance",
+        "B": "democracy at the grassroots",
+        "C": "responsive government",
+        "D": "responsible government"
+      },
+      "answer": "B",
+      "explanation": "LG promotes democracy at local levels."
+    },
+    {
+      "id": 13,
+      "question": "When voters exercise their right to vote based on monetary or material inducements, the elected candidates may suffer",
+      "options": {
+        "A": "loss of voters support in the next election",
+        "B": "eroded legitimacy during elected term",
+        "C": "erosion of dividends of democracy",
+        "D": "loss of party support for another term"
+      },
+      "answer": "B",
+      "explanation": "Vote-buying undermines legitimacy."
+    },
+    {
+      "id": 14,
+      "question": "The unpleasant attitudes towards people Living With HIV/AIDS is termed",
+      "options": {
+        "A": "human right abuse",
+        "B": "stigmatization",
+        "C": "playing safe",
+        "D": "civic neglect"
+      },
+      "answer": "B",
+      "explanation": "Stigmatization refers to negative attitudes."
+    },
+    {
+      "id": 15,
+      "question": "Human rights abuse can be prevented with the existence of",
+      "options": {
+        "A": "strong armed force",
+        "B": "well-equipped police force",
+        "C": "strong intergovernmental relation",
+        "D": "independence judiciary"
+      },
+      "answer": "D",
+      "explanation": "Judicial independence helps prevent abuse."
+    },
+    {
+      "id": 16,
+      "question": "Traffic regulations are law that mainly",
+      "options": {
+        "A": "guide all road users on safety practices",
+        "B": "instruct drivers on the use of traffic signs only",
+        "C": "ensure the teaching of road safety in school",
+        "D": "establish agencies for control of traffic"
+      },
+      "answer": "A",
+      "explanation": "Traffic laws govern safety for all users."
+    },
+    {
+      "id": 17,
+      "question": "The search of a citizen's residence by the police without a warrant or court order amounts to a breach of his/her right to",
+      "options": {
+        "A": "freedom of expression",
+        "B": "freedom of conscience",
+        "C": "life",
+        "D": "privacy"
+      },
+      "answer": "D",
+      "explanation": "Warrantless search breaches privacy rights."
+    },
+    {
+      "id": 18,
+      "question": "Legislations on issues affecting policies on money, policing and international relations are within the scope of",
+      "options": {
+        "A": "concurrent and residual list",
+        "B": "exclusive legislative matter",
+        "C": "concurrent and exclusive list",
+        "D": "residual legislative matter"
+      },
+      "answer": "A",
+      "explanation": "Money, policing, and international relations are shared legislative areas."
+    },
+    {
+      "id": 19,
+      "question": "The Nigerian federation is divided into how many geopolitical zones?",
+      "options": {
+        "A": "36",
+        "B": "774",
+        "C": "6",
+        "D": "4"
+      },
+      "answer": "C",
+      "explanation": "Nigeria has six geopolitical zones."
+    },
+    {
+      "id": 20,
+      "question": "The traffic sign indicated in Figure 1 means",
+      "options": {
+        "A": "no crossing",
+        "B": "no waiting",
+        "C": "no stopping",
+        "D": "no overtaking"
+      },
+      "answer": "A",
+      "explanation": "Figure 1 shows a no crossing sign."
+    },
+    {
+      "id": 21,
+      "question": "Where you will likely not find the sign in Figure 1 in Nigeria is",
+      "options": {
+        "A": "military zones",
+        "B": "presidential villa",
+        "C": "court areas",
+        "D": "shopping malls"
+      },
+      "answer": "D",
+      "explanation": "No crossing signs are common in official or secure zones, less common in malls."
+    },
+    {
+      "id": 22,
+      "question": "Under the Nigeria 1999 constitution as amended, the right to secede is",
+      "options": {
+        "A": "given to the federal government",
+        "B": "allowed to any state in the federation",
+        "C": "resident in local government in federation",
+        "D": "denied to all states in the federation"
+      },
+      "answer": "D",
+      "explanation": "Secession is not constitutionally permitted."
+    },
+    {
+      "id": 23,
+      "question": "The major aim of youth empowerment programmes it to",
+      "options": {
+        "A": "tackle the problem of insecurity and lawlessness",
+        "B": "provide vocational skills to the youths",
+        "C": "help the youths become good decision makers",
+        "D": "provide attitudinal reorientation to the youths"
+      },
+      "answer": "B",
+      "explanation": "Empowerment aims at skills development."
+    },
+    {
+      "id": 24,
+      "question": "Carefully study the following list of civic education terms I and VII below and use them to answer the questions.\n\nI. HIV/AIDS\nII. Law and order\nIII. Political apathy\nIV. Human trafficking\nV. Popular participation\nVI. Responsible parenting\nVII. Fundamental human rights\n\nThe major reasons some countries are termed developing resulted from",
+      "options": {
+        "A": "III and VI",
+        "B": "II and VII",
+        "C": "V and VI",
+        "D": "IV and V"
+      },
+      "answer": "A",
+      "explanation": "Development issues relate to governance and social values."
+    },
+    {
+      "id": 25,
+      "question": "Carefully study the following list of civic education terms I and VII below and use them to answer the questions.\n\nI. HIV/AIDS\nII. Law and order\nIII. Political apathy\nIV. Human trafficking\nV. Popular participation\nVI. Responsible parenting\nVII. Fundamental human rights\n\nFrom the list above, the two experiences of individuals that require counselling are",
+      "options": {
+        "A": "III and V",
+        "B": "II and III",
+        "C": "I and IV",
+        "D": "I and VII"
+      },
+      "answer": "C",
+      "explanation": "HIV/AIDS and human trafficking often need counseling."
+    },
+    {
+      "id": 26,
+      "question": "Carefully study the following list of civic education terms I and VII below and use them to answer the questions.\n\nI. HIV/AIDS\nII. Law and order\nIII. Political apathy\nIV. Human trafficking\nV. Popular participation\nVI. Responsible parenting\nVII. Fundamental human rights\n\nThe major reasons for citizens' reorientation in civic education are",
+      "options": {
+        "A": "II and V",
+        "B": "VI and VIII",
+        "C": "III and V",
+        "D": "I and II"
+      },
+      "answer": "D",
+      "explanation": "Reorientation involves awareness of rights and responsibilities."
+    },
+    {
+      "id": 27,
+      "question": "One of the political responsibilities of a citizen is",
+      "options": {
+        "A": "engaging in cultural debates",
+        "B": "joining town hall meetings",
+        "C": "exercising the right of franchise",
+        "D": "participation in social gatherings"
+      },
+      "answer": "C",
+      "explanation": "Voting is a key political responsibility."
+    },
+    {
+      "id": 28,
+      "question": "Authority that is recognised by the law of the land is called",
+      "options": {
+        "A": "constituted authority",
+        "B": "charismatic authority",
+        "C": "consultative authority",
+        "D": "religious authority"
+      },
+      "answer": "A",
+      "explanation": "Lawfully recognized authority is constituted authority."
+    },
+    {
+      "id": 29,
+      "question": "Traffic regulations are mainly meant for all",
+      "options": {
+        "A": "private drivers",
+        "B": "road users",
+        "C": "pedestrians",
+        "D": "truck drivers"
+      },
+      "answer": "B",
+      "explanation": "Traffic laws cover all road users."
+    },
+    {
+      "id": 30,
+      "question": "A major attribute an individual will likely exhibit if not contented is",
+      "options": {
+        "A": "dishonesty",
+        "B": "jealousy",
+        "C": "irresponsibility",
+        "D": "greediness"
+      },
+      "answer": "D",
+      "explanation": "Discontent may lead to greed."
+    },
+    {
+      "id": 31,
+      "question": "To enhance national development, parenthood which is the nucleus of every society must be",
+      "options": {
+        "A": "regulated by religious clerics",
+        "B": "relaxed in their responsibilities",
+        "C": "a civil and morally responsible one",
+        "D": "supported by leader in government"
+      },
+      "answer": "C",
+      "explanation": "Responsible parenthood promotes development."
+    },
+    {
+      "id": 32,
+      "question": "The beam of yellow colour on a traffic light is an indication to drivers to",
+      "options": {
+        "A": "get ready to move",
+        "B": "watch out for cars",
+        "C": "stop",
+        "D": "move"
+      },
+      "answer": "A",
+      "explanation": "Yellow indicates caution and readiness to move or stop."
+    },
+    {
+      "id": 33,
+      "question": "One significance of democracy in Nigeria is that it promotes",
+      "options": {
+        "A": "sectionalism",
+        "B": "constitutionalism",
+        "C": "secularism",
+        "D": "regionalism"
+      },
+      "answer": "B",
+      "explanation": "Democracy promotes constitutional governance."
+    },
+    {
+      "id": 34,
+      "question": "When power is concentrated in one central government, the constitution is said to be",
+      "options": {
+        "A": "republican",
+        "B": "semi-federal",
+        "C": "unitary",
+        "D": "federal"
+      },
+      "answer": "C",
+      "explanation": "Unitarian systems centralize power."
+    },
+    {
+      "id": 35,
+      "question": "When opposing communities come together, to discuss a way out of a pending feud, the action is best described as",
+      "options": {
+        "A": "arbitration",
+        "B": "dialogue",
+        "C": "co-operation",
+        "D": "peacemaking"
+      },
+      "answer": "A",
+      "explanation": "Arbitration involves settling disputes."
+    },
+    {
+      "id": 36,
+      "question": "Positive interpersonal relationship mainly promotes",
+      "options": {
+        "A": "existence of healthy rivalry",
+        "B": "acquisition of business ideas",
+        "C": "competition with one another",
+        "D": "peaceful co-existence"
+      },
+      "answer": "D",
+      "explanation": "Good relationships promote peace."
+    },
+    {
+      "id": 37,
+      "question": "Political apathy can be addressed by",
+      "options": {
+        "A": "boycotting election campaigns and rallies",
+        "B": "selling votes to the highest bidders",
+        "C": "public enlightenment and campaigns",
+        "D": "criticizing the policies of elected officials"
+      },
+      "answer": "C",
+      "explanation": "Awareness campaigns reduce apathy."
+    },
+    {
+      "id": 38,
+      "question": "The executive, legislative and judiciary constitute the",
+      "options": {
+        "A": "arms of government",
+        "B": "tiers of government",
+        "C": "forms of government",
+        "D": "systems of government"
+      },
+      "answer": "A",
+      "explanation": "The three branches form the arms of government."
+    },
+    {
+      "id": 39,
+      "question": "The machinery through which the will of the state is driven is described as",
+      "options": {
+        "A": "custom and tradition",
+        "B": "administration",
+        "C": "government",
+        "D": "rule of law"
+      },
+      "answer": "C",
+      "explanation": "Government executes the will of the state."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is important for sustainable human relation in a society?",
+      "options": {
+        "A": "Cultural affinity",
+        "B": "Tolerance",
+        "C": "Rehabilitation",
+        "D": "Birth registration"
+      },
+      "answer": "B",
+      "explanation": "Tolerance fosters peaceful coexistence."
+    },
+    {
+      "id": 41,
+      "question": "Human trafficking can be described as",
+      "options": {
+        "A": "exploitation of humans in ways their rights are deprived in the course of movement",
+        "B": "exploration and adventurers in foreign countries",
+        "C": "recruitment of youths as casual workers in distant places",
+        "D": "desperate desire by youths to travel abroad for greener pasture"
+      },
+      "answer": "A",
+      "explanation": "Human trafficking involves exploitation."
+    },
+    {
+      "id": 42,
+      "question": "Which of the following values will likely, cause harm to the society?",
+      "options": {
+        "A": "Fair play",
+        "B": "Indiscipline",
+        "C": "Tolerance",
+        "D": "Politeness"
+      },
+      "answer": "B",
+      "explanation": "Indiscipline harms societal harmony."
+    },
+    {
+      "id": 43,
+      "question": "Civil societies act mainly as a link between",
+      "options": {
+        "A": "individuals of divergent interests",
+        "B": "different opposing communities",
+        "C": "government and international bodies",
+        "D": "government and the populace"
+      },
+      "answer": "D",
+      "explanation": "Civil societies connect the government and citizens."
+    },
+    {
+      "id": 44,
+      "question": "Legislative arm of government can check the executive by",
+      "options": {
+        "A": "demanding the review of any act of the executive",
+        "B": "withholding the salaries of ministers",
+        "C": "reporting them to the supreme court",
+        "D": "delaying the posting of ambassadors"
+      },
+      "answer": "A",
+      "explanation": "Legislature can check the executive through oversight."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following factors have made political apathy in Nigeria more pronounced?",
+      "options": {
+        "A": "Long period of dictatorship and election rigging",
+        "B": "Indiscriminate registration of parties and illiteracy",
+        "C": "Poverty, ethnicity and religious fanaticism",
+        "D": "Use of card readers and complexity of voting procedure"
+      },
+      "answer": "C",
+      "explanation": "Poverty and ethnicity contribute to apathy."
+    },
+    {
+      "id": 46,
+      "question": "Use the write-up below to answer the question. Driving on the highways entails being very watchful, observant and attentive to one's surrounding, else you may run into an object or someone. Most accidents are caused by human factors.",
+      "options": {
+        "A": "discouraged",
+        "B": "prevented",
+        "C": "managed",
+        "D": "eliminated"
+      },
+      "answer": "B",
+      "explanation": "Careful driving prevents accidents."
+    },
+    {
+      "id": 47,
+      "question": "Combating human trafficking requires the efforts of",
+      "options": {
+        "A": "government, educational bodies, religious organizations excluding civil services",
+        "B": "international bodies, pressure groups and other non-governmental agencies only",
+        "C": "individuals, government, non-governmental agencies including international bodies",
+        "D": "government and non-governmental agencies excluding the students"
+      },
+      "answer": "C",
+      "explanation": "All sectors must collaborate."
+    },
+    {
+      "id": 48,
+      "question": "Activities of secret cults are not likely to be prominent in",
+      "options": {
+        "A": "market squares",
+        "B": "religious gatherings",
+        "C": "motor parks",
+        "D": "educational campuses"
+      },
+      "answer": "A",
+      "explanation": "Secret cult activities are less visible in open markets."
+    },
+    {
+      "id": 49,
+      "question": "An inalienable right enjoyed by citizens of a state but denied all non-citizens is the right to",
+      "options": {
+        "A": "fair hearing",
+        "B": "freedom of speech",
+        "C": "sue and be sued",
+        "D": "be voted for"
+      },
+      "answer": "D",
+      "explanation": "Voting rights are typically inalienable for citizens."
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "src": "civic2023/image1.png",
+      "alt": "Traffic sign indicating no crossing"
+    }
+  ]
+}
