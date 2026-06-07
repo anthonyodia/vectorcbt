@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "Multiply 3.4 x 10⁻⁵ by 7.1 x 10⁸ and leave the answer in standard form.",
+    "image": null,
+    "options": {
+      "A": "2.414 x 10².",
+      "B": "2.414 x 10³.",
+      "C": "2.414 x 10⁴.",
+      "D": "2.414 x 10⁵."
+    },
+    "answer": "B",
+    "explanation": "(3.4 × 7.1) × 10⁻⁵⁺⁸ = 24.14 × 10³ = **2.414 × 10³**."
+  },
+  {
+    "id": 2,
+    "question": "Given that P = {p: 1 < p < 20}, where p is an integer and R = {r : 0 ≤ r ≤ 25, where r is a multiple of 4}. Find P ∩ R",
+    "image": null,
+    "options": {
+      "A": "{4, 8, 10, 16}.",
+      "B": "{4, 8, 12, 16}.",
+      "C": "{4, 8, 12, 16, 20}.",
+      "D": "{4, 8, 12, 16, 20, 24}."
+    },
+    "answer": "B",
+    "explanation": "P = {2, 3, 4, 5, ..., 19}, R = {0, 4, 8, 12, 16, 20, 24}. P ∩ R = **{4, 8, 12, 16}**."
+  },
+  {
+    "id": 3,
+    "question": "The first term of an Arithmetic Progression (A.P) is 2 and the last term is 29. If the common difference is 3, how many terms are in the A.P.?",
+    "image": null,
+    "options": {
+      "A": "8.",
+      "B": "9.",
+      "C": "10.",
+      "D": "11."
+    },
+    "answer": "C",
+    "explanation": "n = (L - a)/d + 1 = (29 - 2)/3 + 1 = **10 terms**."
+  },
+  {
+    "id": 4,
+    "question": "Express in index form: logₓa + log_y a = 3",
+    "image": null,
+    "options": {
+      "A": "x + y = 3.",
+      "B": "xy = 3.",
+      "C": "xy = a³.",
+      "D": "x + y = a³."
+    },
+    "answer": "C",
+    "explanation": "**xy = a³**."
+  },
+  {
+    "id": 5,
+    "question": "Simplify: (2p - q)² - (p + q)²",
+    "image": null,
+    "options": {
+      "A": "3p(p - 2q).",
+      "B": "2p(p - 3q).",
+      "C": "3p(2p - q).",
+      "D": "2p(3p - q)."
+    },
+    "answer": "A",
+    "explanation": "(2p - q)² - (p + q)² = 3p² - 6pq = **3p(p - 2q)**."
+  },
+  {
+    "id": 6,
+    "question": "If (3 - 4√2)(1 + 3√2) = a + b√2, find the value of b",
+    "image": null,
+    "options": {
+      "A": "-5.",
+      "B": "5.",
+      "C": "-21.",
+      "D": "21."
+    },
+    "answer": "B",
+    "explanation": "(3 - 4√2)(1 + 3√2) = 3 + 9√2 - 4√2 - 24 = -21 + 5√2. So **b = 5**."
+  },
+  {
+    "id": 7,
+    "question": "Find the time for which $1,250.00 will amount to $2,031.25 at 12.5% per annum simple interest.",
+    "image": null,
+    "options": {
+      "A": "2 years.",
+      "B": "3 years.",
+      "C": "4 years.",
+      "D": "5 years."
+    },
+    "answer": "D",
+    "explanation": "A = P(1 + rt). 2,031.25 = 1,250(1 + 0.125t). t = **5 years**."
+  },
+  {
+    "id": 8,
+    "question": "If log₂(x - 13) = 5, find the value of x",
+    "image": null,
+    "options": {
+      "A": "8.",
+      "B": "16.",
+      "C": "64.",
+      "D": "45."
+    },
+    "answer": "D",
+    "explanation": "2⁵ = x - 13. 32 = x - 13. **x = 45**."
+  },
+  {
+    "id": 9,
+    "question": "The population of a town increases by 3% every year. In the year 2000, the population was 3000. Find the population in the year 2003.",
+    "image": null,
+    "options": {
+      "A": "3,182.",
+      "B": "3,278.",
+      "C": "6,591.",
+      "D": "7,515."
+    },
+    "answer": "B",
+    "explanation": "P = 3000(1.03)³ = **3,278**."
+  },
+  {
+    "id": 10,
+    "question": "A trader gave a change of #540.00 instead of #570.00 to a customer. Calculate the percentage error.",
+    "image": null,
+    "options": {
+      "A": "5.56%.",
+      "B": "5.56%.",
+      "C": "5.71%.",
+      "D": "5.79%."
+    },
+    "answer": "A",
+    "explanation": "Error = 30. Percentage = (30/540) × 100 = **5.56%**."
+  },
+  {
+    "id": 11,
+    "question": "The interior angle of a regular polygon is 168°. Find the number of sides.",
+    "image": null,
+    "options": {
+      "A": "24.",
+      "B": "30.",
+      "C": "15.",
+      "D": "12."
+    },
+    "answer": "B",
+    "explanation": "168 = (n - 2) × 180/n. **n = 30**."
+  },
+  {
+    "id": 12,
+    "question": "If 3x - 2y = -5 and x + 2y = 9, find (x - y)/(x + y)",
+    "image": null,
+    "options": {
+      "A": "5/3.",
+      "B": "3/5.",
+      "C": "-3/5.",
+      "D": "-5/3."
+    },
+    "answer": "C",
+    "explanation": "x = 1, y = 4. (1-4)/(1+4) = **-3/5**."
+  },
+  {
+    "id": 13,
+    "question": "A variable W varies partly as M and partly inversely as P. Which represents this?",
+    "image": null,
+    "options": {
+      "A": "W = k₁M/k₂P.",
+      "B": "W = (k₁ + k₂)M/P.",
+      "C": "W = k₁M + k₂/P.",
+      "D": "W = (k₁ + k₂)M + P."
+    },
+    "answer": "C",
+    "explanation": "**W = k₁M + k₂/P**."
+  },
+  {
+    "id": 14,
+    "question": "A cylinder of height 2.5m and radius 0.245m is closed at one end. Find the total surface area. (π = 22/7)",
+    "image": null,
+    "options": {
+      "A": "2.1 m².",
+      "B": "3.5 m².",
+      "C": "4.0 m².",
+      "D": "9.4 m²."
+    },
+    "answer": "D",
+    "explanation": "**9.4 m²**."
+  },
+  {
+    "id": 15,
+    "question": "Make R the subject: V = πl(R² - r²)",
+    "image": null,
+    "options": {
+      "A": "R = √(V/(πl) + r²).",
+      "B": "R = √(V/(πl) - r²).",
+      "C": "R = √(V - πlr²).",
+      "D": "R = √(V + πlr²)."
+    },
+    "answer": "A",
+    "explanation": "**R = √(V/(πl) + r²)**."
+  },
+  {
+    "id": 16,
+    "question": "If m ⇒ n, which of the following is valid?",
+    "image": null,
+    "options": {
+      "A": "¬n ⇒ ¬m.",
+      "B": "¬m ⇒ ¬n.",
+      "C": "n ⇒ ¬m.",
+      "D": "m ⇒ n."
+    },
+    "answer": "A",
+    "explanation": "The contrapositive **¬n ⇒ ¬m** is logically equivalent."
+  },
+  {
+    "id": 17,
+    "question": "A number is added to both numerator and denominator of 1/8 to get 1/2. Find the number.",
+    "image": null,
+    "options": {
+      "A": "3.",
+      "B": "4.",
+      "C": "5.",
+      "D": "6."
+    },
+    "answer": "D",
+    "explanation": "(1 + x)/(8 + x) = 1/2. **x = 6**."
+  },
+  {
+    "id": 18,
+    "question": "Gifty, Justina, and Frank shared 60 oranges in ratio 5:3:7. How many did Justina get?",
+    "image": null,
+    "options": {
+      "A": "16.",
+      "B": "12.",
+      "C": "20.",
+      "D": "28."
+    },
+    "answer": "B",
+    "explanation": "Justina's share = (3/15) × 60 = **12 oranges**."
+  },
+  {
+    "id": 19,
+    "question": "Find the quadratic equation whose roots are 2/3 and -1",
+    "image": null,
+    "options": {
+      "A": "3x² - x - 2 = 0.",
+      "B": "3x² + x + 2 = 0.",
+      "C": "3x² + x - 2 = 0.",
+      "D": "3x² + x - 1 = 0."
+    },
+    "answer": "C",
+    "explanation": "**3x² + x - 2 = 0**."
+  },
+  {
+    "id": 20,
+    "question": "A rod of 44m forms a rectangle with length:breadth = 7:4. Find breadth.",
+    "image": null,
+    "options": {
+      "A": "8m.",
+      "B": "14m.",
+      "C": "16m.",
+      "D": "24m."
+    },
+    "answer": "A",
+    "explanation": "Perimeter = 44. k = 2. Breadth = **8m**."
+  },
+  {
+    "id": 21,
+    "question": "In the diagram, MN || KL, ML and KN intersect at X. |MN| = 12cm, |MX| = 10cm. Area of △MXN = 16cm². Find area of △LXK",
+    "image": "maths/image1.png",
+    "options": {
+      "A": "9cm².",
+      "B": "8cm².",
+      "C": "10cm².",
+      "D": "12cm²."
+    },
+    "answer": "A",
+    "explanation": "Similar triangles. Area ratio = **9cm²**."
+  },
+  {
+    "id": 22,
+    "question": "A 15m ladder leans against a pole at 72° to horizontal. Find distance from foot to pole.",
+    "image": null,
+    "options": {
+      "A": "15.8m.",
+      "B": "14.3m.",
+      "C": "4.9m.",
+      "D": "4.6m."
+    },
+    "answer": "D",
+    "explanation": "Distance = 15 × cos(72°) = **4.6m**."
+  },
+  {
+    "id": 23,
+    "question": "In the diagram, O is the centre of the circle. The radius |OA| = 25cm and |AB| = 40cm where AB is a chord. H is the foot of the perpendicular from O to the chord. Find |OH|",
+    "image": "maths/imagex.png",
+    "options": {
+      "A": "15cm.",
+      "B": "20cm.",
+      "C": "25cm.",
+      "D": "30cm."
+    },
+    "answer": "A",
+    "explanation": "|OH|² + 20² = 25². **|OH| = 15cm**."
+  },
+  {
+    "id": 24,
+    "question": "Car valued at $600,000 depreciates 10% yearly. Value after 2 years?",
+    "image": null,
+    "options": {
+      "A": "$120,000.",
+      "B": "$480,000.",
+      "C": "$486,000.",
+      "D": "$540,000."
+    },
+    "answer": "C",
+    "explanation": "600,000 × (0.9)² = **$486,000**."
+  },
+  {
+    "id": 25,
+    "question": "P is 25m on bearing 330° from Q. How far south of P is Q?",
+    "image": null,
+    "options": {
+      "A": "25.2m.",
+      "B": "21.7m.",
+      "C": "19.8m.",
+      "D": "18.5m."
+    },
+    "answer": "B",
+    "explanation": "South component ≈ **21.7m**."
+  },
+  {
+    "id": 26,
+    "question": "Cuboid: length 15cm, breadth 8cm, volume 1560cm³. Total surface area?",
+    "image": null,
+    "options": {
+      "A": "976cm².",
+      "B": "838cm².",
+      "C": "792cm².",
+      "D": "746cm²."
+    },
+    "answer": "B",
+    "explanation": "Height = 13cm. Surface area = **838cm²**."
+  },
+  {
+    "id": 27,
+    "question": "6244ₓ - 1621ₓ = 4323ₓ. Find x.",
+    "image": null,
+    "options": {
+      "A": "Seven.",
+      "B": "Eight.",
+      "C": "Nine.",
+      "D": "Ten."
+    },
+    "answer": "B",
+    "explanation": "Testing base 8. **x = 8**."
+  },
+  {
+    "id": 28,
+    "question": "Factorize: 27x² - 48y²",
+    "image": null,
+    "options": {
+      "A": "3(3x + 4y)(3x - 4y).",
+      "B": "3(3x + 4y)(3x + 4y).",
+      "C": "3(9x - 16y)(9x + 16y).",
+      "D": "3(9x - 16y)(9x - 16y)."
+    },
+    "answer": "A",
+    "explanation": "**3(3x + 4y)(3x - 4y)**."
+  },
+  {
+    "id": 29,
+    "question": "For what values of x is (x - 3)/4 + (x + 1)/8 ≥ 2?",
+    "image": null,
+    "options": {
+      "A": "x ≥ 5.",
+      "B": "x ≥ 6.",
+      "C": "x ≥ 7.",
+      "D": "x ≥ 8."
+    },
+    "answer": "C",
+    "explanation": "3x - 5 ≥ 16. **x ≥ 7**."
+  },
+  {
+    "id": 30,
+    "question": "In the diagram, there is a circle with inscribed angles and exterior angles marked. The angles shown are related through circle theorems. Using the angle relationships in the diagram, find the value of angle y marked in the configuration.",
+    "image": "maths/image2.png",
+    "options": {
+      "A": "64°.",
+      "B": "68°.",
+      "C": "112°.",
+      "D": "128°."
+    },
+    "answer": "B",
+    "explanation": "y = 52° + 16° = **68°**."
+  },
+  {
+    "id": 31,
+    "question": "JKL is tangent to circle GHIK at K. Using the tangent-chord angle theorem and properties of circles, find the angle marked in the diagram.",
+    "image": "maths/image3.png",
+    "options": {
+      "A": "93°.",
+      "B": "55°.",
+      "C": "42°.",
+      "D": "23°."
+    },
+    "answer": "B",
+    "explanation": "Angle between tangent and chord = **55°**."
+  },
+  {
+    "id": 32,
+    "question": "Cone and cylinder have equal volume. Cone radius is 2× cylinder radius. Ratio of heights?",
+    "image": null,
+    "options": {
+      "A": "5:4.",
+      "B": "4:3.",
+      "C": "3:2.",
+      "D": "3:4."
+    },
+    "answer": "B",
+    "explanation": "Height ratio = **4:3**."
+  },
+  {
+    "id": 33,
+    "question": "Find h in the diagram to nearest whole number.",
+    "image": "maths/image4.png",
+    "options": {
+      "A": "15m.",
+      "B": "22m.",
+      "C": "23m.",
+      "D": "18m."
+    },
+    "answer": "C",
+    "explanation": "h ≈ **23m**."
+  },
+  {
+    "id": 34,
+    "question": "Gradient of line through P(2, -8) and Q(1, y) is -4. Find y.",
+    "image": null,
+    "options": {
+      "A": "2.",
+      "B": "4.",
+      "C": "-4.",
+      "D": "-3."
+    },
+    "answer": "C",
+    "explanation": "(y + 8)/(-1) = -4. **y = -4**."
+  },
+  {
+    "id": 35,
+    "question": "In the diagram, PQ || RS, ∠WYZ = 44° and ∠WXY = 50°. Using the properties of parallel lines and transversals, find ∠WTX",
+    "image": "maths/image5.png",
+    "options": {
+      "A": "65°.",
+      "B": "68°.",
+      "C": "86°.",
+      "D": "90°."
+    },
+    "answer": "C",
+    "explanation": "Using parallel lines. **∠WTX = 86°**."
+  },
+  {
+    "id": 36,
+    "question": "Rectangular garden perimeter is 90m. Width is 7m less than length. Find length.",
+    "image": null,
+    "options": {
+      "A": "19m.",
+      "B": "23m.",
+      "C": "24m.",
+      "D": "26m."
+    },
+    "answer": "D",
+    "explanation": "2(l + l - 7) = 90. **l = 26m**."
+  },
+  {
+    "id": 37,
+    "question": "Hexagon: 4 angles sum to 420°. Remaining 2 are equal. Find each.",
+    "image": null,
+    "options": {
+      "A": "60°.",
+      "B": "100°.",
+      "C": "120°.",
+      "D": "150°."
+    },
+    "answer": "D",
+    "explanation": "Sum = 720°. Remaining = 300°. Each = **150°**."
+  },
+  {
+    "id": 38,
+    "question": "In the diagram, a triangle has a line parallel to one of its sides creating similar triangles. Using the properties of parallel lines and similar triangles, find the value of angle x marked in the diagram.",
+    "image": "maths/image6.png",
+    "options": {
+      "A": "120°.",
+      "B": "100°.",
+      "C": "60°.",
+      "D": "150°."
+    },
+    "answer": "B",
+    "explanation": "**x = 100°**."
+  },
+  {
+    "id": 39,
+    "question": "Masses (kg): 59, 44, 53, 49, 57, 40, 48, 50. Calculate mean.",
+    "image": null,
+    "options": {
+      "A": "44 kg.",
+      "B": "50 kg.",
+      "C": "40 kg.",
+      "D": "53 kg."
+    },
+    "answer": "B",
+    "explanation": "Sum = 400. Mean = **50 kg**."
+  },
+  {
+    "id": 40,
+    "question": "Masses (kg): 59, 44, 53, 49, 57, 40, 48, 50. Calculate variance.",
+    "image": null,
+    "options": {
+      "A": "35.",
+      "B": "36.",
+      "C": "40.",
+      "D": "50."
+    },
+    "answer": "A",
+    "explanation": "Variance = **35**."
+  },
+  {
+    "id": 41,
+    "question": "Rectangle: opposite sides (5x+3)m and (2x+9)m, adjacent side (6x-7)m. Area?",
+    "image": null,
+    "options": {
+      "A": "45.",
+      "B": "65.",
+      "C": "125.",
+      "D": "165."
+    },
+    "answer": "B",
+    "explanation": "x = 2. Sides = 13m, 5m. Area = **65 m²**."
+  },
+  {
+    "id": 42,
+    "question": "Die tossed once. Probability of prime number?",
+    "image": null,
+    "options": {
+      "A": "1/2.",
+      "B": "1/6.",
+      "C": "1/3.",
+      "D": "2/3."
+    },
+    "answer": "A",
+    "explanation": "Primes: 2, 3, 5. **P = 1/2**."
+  },
+  {
+    "id": 43,
+    "question": "Circle radius 7cm. Sector area 51.3cm². Find sector angle. (π = 22/7)",
+    "image": null,
+    "options": {
+      "A": "60°.",
+      "B": "120°.",
+      "C": "150°.",
+      "D": "150°."
+    },
+    "answer": "B",
+    "explanation": "**θ = 120°**."
+  },
+  {
+    "id": 44,
+    "question": "Cliff 87m high. Boat 22m away. Angle of depression from top?",
+    "image": null,
+    "options": {
+      "A": "76°.",
+      "B": "64°.",
+      "C": "36°.",
+      "D": "24°."
+    },
+    "answer": "A",
+    "explanation": "tan⁻¹(87/22) = **76°**."
+  },
+  {
+    "id": 45,
+    "question": "In the diagram, a line TU is tangent to a circle at point S. A triangle is formed with the tangent and secant lines. Using the properties of tangents and angles in circles, find ∠PST where the angle 44° is marked in the configuration.",
+    "image": "maths/image7.png",
+    "options": {
+      "A": "101°.",
+      "B": "125°.",
+      "C": "130°.",
+      "D": "135°."
+    },
+    "answer": "A",
+    "explanation": "**∠PST = 101°**."
+  },
+  {
+    "id": 46,
+    "question": "P(Amaka passes) = 3/7, P(Bala passes) = 4/9. P(both pass)?",
+    "image": null,
+    "options": {
+      "A": "2/21.",
+      "B": "4/21.",
+      "C": "5/21.",
+      "D": "9/21."
+    },
+    "answer": "B",
+    "explanation": "(3/7) × (4/9) = **4/21**."
+  },
+  {
+    "id": 47,
+    "question": "Which point lies on 3x - 8y = 11?",
+    "image": null,
+    "options": {
+      "A": "(1, 1).",
+      "B": "(1, -1).",
+      "C": "(-1, 1).",
+      "D": "(-1, -1)."
+    },
+    "answer": "B",
+    "explanation": "3(1) - 8(-1) = 11. **(1, -1)** ✓"
+  },
+  {
+    "id": 48,
+    "question": "Range of: 28, 29, 39, 38, 33, 37, 26, 20, 15, 25?",
+    "image": null,
+    "options": {
+      "A": "22.",
+      "B": "24.",
+      "C": "25.",
+      "D": "27."
+    },
+    "answer": "B",
+    "explanation": "39 - 15 = **24**."
+  },
+  {
+    "id": 49,
+    "question": "AP: 4th term = 16, 8th term = 40. Common difference?",
+    "image": null,
+    "options": {
+      "A": "-6.",
+      "B": "6.",
+      "C": "-2.",
+      "D": "2."
+    },
+    "answer": "B",
+    "explanation": "4d = 24. **d = 6**."
+  },
+  {
+    "id": 50,
+    "question": "For what y is (y+2)/(8y²-10y+3) undefined?",
+    "image": null,
+    "options": {
+      "A": "-3/4, 1/2.",
+      "B": "-3/4, -1/2.",
+      "C": "3/4, 1/2.",
+      "D": "3/4, -1/2."
+    },
+    "answer": "C",
+    "explanation": "(4y - 3)(2y - 1) = 0. **y = 3/4, 1/2**."
+  }
+]

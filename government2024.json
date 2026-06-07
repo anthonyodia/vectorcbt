@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "The ultimate source of power and authority which sets the state apart from other forms of political organisations is referred to as",
+    "options": {
+      "A": "constitutionalism.",
+      "B": "checks and balances.",
+      "C": "rule of law.",
+      "D": "sovereignty."
+    },
+    "answer": "D",
+    "explanation": "**Sovereignty** is the ultimate power and authority that distinguishes a state from other political organizations."
+  },
+  {
+    "id": 2,
+    "question": "The institution through which leaders exercise power to make and enforce laws is the",
+    "options": {
+      "A": "government.",
+      "B": "judiciary.",
+      "C": "political party.",
+      "D": "security agency."
+    },
+    "answer": "A",
+    "explanation": "The **government** is the institution that exercises power to make and enforce laws on behalf of the state."
+  },
+  {
+    "id": 3,
+    "question": "The fundamental principles by which a state is ordered and governed are usually outlined in a",
+    "options": {
+      "A": "bill.",
+      "B": "constitution.",
+      "C": "parliamentary proceedings.",
+      "D": "state manual."
+    },
+    "answer": "B",
+    "explanation": "A **constitution** outlines the fundamental principles and rules governing a state."
+  },
+  {
+    "id": 4,
+    "question": "Which one among the following factors greatly restrains the government in a democratic society?",
+    "options": {
+      "A": "Consent of the governed.",
+      "B": "Consent of the civil society organisation.",
+      "C": "Ideology of the party.",
+      "D": "Parliamentary debates."
+    },
+    "answer": "A",
+    "explanation": "The **consent of the governed** is the primary restraint on government power in a democratic society."
+  },
+  {
+    "id": 5,
+    "question": "The following factors are challenges faced by the judiciary under the doctrine of Separation of Powers except",
+    "options": {
+      "A": "appointment of judges.",
+      "B": "financial autonomy.",
+      "C": "removal of judges from office.",
+      "D": "poor legal infrastructure."
+    },
+    "answer": "B",
+    "explanation": "**Financial autonomy** is not typically a challenge for the judiciary; the other options are common challenges."
+  },
+  {
+    "id": 6,
+    "question": "Accountability in constitutional democracy is best enforced through a system of",
+    "options": {
+      "A": "checks and balances.",
+      "B": "civil society organisations.",
+      "C": "subversion of the law.",
+      "D": "selection of the right leaders."
+    },
+    "answer": "A",
+    "explanation": "**Checks and balances** ensure accountability by allowing each branch of government to oversee the others."
+  },
+  {
+    "id": 7,
+    "question": "The application of the common principles that are important to improve decision-making processes and ultimately strengthen democracy and improve social and economic development is best described as",
+    "options": {
+      "A": "fundamental human rights.",
+      "B": "good governance.",
+      "C": "separation of powers.",
+      "D": "social democracy."
+    },
+    "answer": "B",
+    "explanation": "**Good governance** applies common principles to improve decision-making and strengthen democratic development."
+  },
+  {
+    "id": 8,
+    "question": "One of the reasons for having two legislative chambers in the governance structure of a country is to ensure the",
+    "options": {
+      "A": "executive is kept under check and control.",
+      "B": "powers of the lower chamber is suppressed.",
+      "C": "strict control of the affairs of the state.",
+      "D": "thorough scrutiny of legislation."
+    },
+    "answer": "D",
+    "explanation": "Two chambers allow for **thorough scrutiny of legislation** through debate and review by both chambers."
+  },
+  {
+    "id": 9,
+    "question": "Which one of the following factors has contributed largely to the weakened and poor performance of state institutions in most West African States?",
+    "options": {
+      "A": "corruption.",
+      "B": "globalisation.",
+      "C": "low remuneration and wages.",
+      "D": "weak institutional memory."
+    },
+    "answer": "A",
+    "explanation": "**Corruption** is a major factor that has weakened state institutions across West Africa."
+  },
+  {
+    "id": 10,
+    "question": "One of the paramount roles to play as a citizen in sustaining the democratic system of governance is to",
+    "options": {
+      "A": "avoid criticism of government.",
+      "B": "play the partisan card.",
+      "C": "pray for a good leader.",
+      "D": "register and vote in elections."
+    },
+    "answer": "D",
+    "explanation": "**Registering and voting in elections** is a fundamental citizen responsibility in sustaining democracy."
+  },
+  {
+    "id": 11,
+    "question": "The responsibility of citizens towards nation-building is to",
+    "options": {
+      "A": "encourage civil disobedience in the face of hardship.",
+      "B": "participate and contribute to decision making.",
+      "C": "stampede government policies and programmes.",
+      "D": "boycott and withdraw services to the state."
+    },
+    "answer": "B",
+    "explanation": "Citizens should **participate and contribute to decision-making** processes for nation-building."
+  },
+  {
+    "id": 12,
+    "question": "By competing in general elections, political parties ultimately offer citizens",
+    "options": {
+      "A": "a choice in government.",
+      "B": "automatic membership of a party.",
+      "C": "opportunity to be extremely loyal to one party.",
+      "D": "opportunity to vilify the government."
+    },
+    "answer": "A",
+    "explanation": "Political parties competing in elections offer citizens **a choice in government** through electoral options."
+  },
+  {
+    "id": 13,
+    "question": "Public opinion is an essential element in a democracy because it can act as a",
+    "options": {
+      "A": "check on leadership and government activities.",
+      "B": "mouthpiece for the opposition only.",
+      "C": "news outlet for the media and government only.",
+      "D": "propaganda tool for the government at all material times."
+    },
+    "answer": "A",
+    "explanation": "Public opinion serves as a **check on leadership and government activities** in a democracy."
+  },
+  {
+    "id": 14,
+    "question": "The media serve a useful purpose in a democracy by",
+    "options": {
+      "A": "connecting the government and the people.",
+      "B": "ensuring government plays to their dictates.",
+      "C": "assisting in the formation of political parties.",
+      "D": "manipulating political leaders in government."
+    },
+    "answer": "A",
+    "explanation": "The media's primary purpose is **connecting the government and the people** through information."
+  },
+  {
+    "id": 15,
+    "question": "One of the pivotal roles played by pressure groups in a functioning democracy is the",
+    "options": {
+      "A": "implementation of public policy by them.",
+      "B": "influence on public policy decisions.",
+      "C": "trumpeting of good deeds of a government always.",
+      "D": "blackmailing of the government to act in their favour."
+    },
+    "answer": "B",
+    "explanation": "Pressure groups play a key role in **influencing public policy decisions** in a democracy."
+  },
+  {
+    "id": 16,
+    "question": "Promoting electoral integrity is the crucial function of which institution of state?",
+    "options": {
+      "A": "the civil society organisations.",
+      "B": "executive arm of government.",
+      "C": "electoral management body.",
+      "D": "security services."
+    },
+    "answer": "C",
+    "explanation": "The **electoral management body** is the institution responsible for promoting electoral integrity."
+  },
+  {
+    "id": 17,
+    "question": "These rights which are explicitly protected by the Constitution are referred to as",
+    "options": {
+      "A": "checks and balances.",
+      "B": "constitutional clauses.",
+      "C": "entrenched clauses.",
+      "D": "separation of powers."
+    },
+    "answer": "C",
+    "explanation": "Rights explicitly protected by the Constitution are called **entrenched clauses** that are difficult to change."
+  },
+  {
+    "id": 18,
+    "question": "Constitutionally, the local government administration is controlled by the state through",
+    "options": {
+      "A": "administrators.",
+      "B": "legislation.",
+      "C": "native laws.",
+      "D": "state bureau."
+    },
+    "answer": "B",
+    "explanation": "Local government is controlled by the state through **legislation** as per constitutional provisions."
+  },
+  {
+    "id": 19,
+    "question": "Which state institution is referred to as the bureaucratic wing responsible for the running of government offices, agencies and departments?",
+    "options": {
+      "A": "Bureau of National Affairs.",
+      "B": "Civil Service.",
+      "C": "Controller of state services.",
+      "D": "Public services board."
+    },
+    "answer": "B",
+    "explanation": "The **Civil Service** is the bureaucratic wing that runs government offices, agencies, and departments."
+  },
+  {
+    "id": 20,
+    "question": "The local government administration in many West African countries is faced with a myriad of problems one of which is",
+    "options": {
+      "A": "employment retention.",
+      "B": "illiterate traditional authorities.",
+      "C": "unavailability of land.",
+      "D": "weak institution."
+    },
+    "answer": "D",
+    "explanation": "**Weak institutions** are a major problem affecting local government administration in West Africa."
+  },
+  {
+    "id": 21,
+    "question": "One of the following options does not pass as a means of ensuring the independence of the judiciary which is",
+    "options": {
+      "A": "immunity from prosecution.",
+      "B": "promotion on merit.",
+      "C": "security of tenure.",
+      "D": "salary determined by the executive."
+    },
+    "answer": "D",
+    "explanation": "**Salary determined by the executive** undermines judicial independence; judges' salaries should be independent."
+  },
+  {
+    "id": 22,
+    "question": "As part of its constitutional mandate, the Public Service Commission operates to",
+    "options": {
+      "A": "appoint the head of the commission.",
+      "B": "carry out the order of the presidency only.",
+      "C": "recruit high ranking personnel for the civil service.",
+      "D": "review salaries and allowances of staff of the executive only."
+    },
+    "answer": "C",
+    "explanation": "The Public Service Commission **recruits high-ranking personnel for the civil service** as part of its mandate."
+  },
+  {
+    "id": 23,
+    "question": "The impartiality of the civil servants is important to the governance structure because they work for the interest of the",
+    "options": {
+      "A": "bureaucrat.",
+      "B": "executive.",
+      "C": "presidency.",
+      "D": "state."
+    },
+    "answer": "D",
+    "explanation": "Civil servants must remain impartial because they work for the interest of the **state**, not any individual."
+  },
+  {
+    "id": 24,
+    "question": "Which one of the following cannot be considered as a factor that influences the delimitation of a country into constituencies?",
+    "options": {
+      "A": "administrative convenience.",
+      "B": "geographical proximity.",
+      "C": "historical experience.",
+      "D": "political socialisation."
+    },
+    "answer": "D",
+    "explanation": "**Political socialisation** is not a factor in constituency delimitation; the other factors directly influence boundaries."
+  },
+  {
+    "id": 25,
+    "question": "A type of constitution suitable for the governance of a federal state is a",
+    "options": {
+      "A": "flexible constitution.",
+      "B": "rigid constitution.",
+      "C": "republican constitution.",
+      "D": "parliamentary constitution."
+    },
+    "answer": "B",
+    "explanation": "A **rigid constitution** is suitable for federal states as it protects the division of powers between levels."
+  },
+  {
+    "id": 26,
+    "question": "A set of principles enshrined in a constitution that guide the government in making laws and policies for the welfare of the people is referred to as",
+    "options": {
+      "A": "directive principle of state policy.",
+      "B": "constitutional provisions.",
+      "C": "Human Rights and Administrative Justice.",
+      "D": "edicts, customs and traditions."
+    },
+    "answer": "A",
+    "explanation": "The **directive principle of state policy** guides government in making laws for people's welfare."
+  },
+  {
+    "id": 27,
+    "question": "Which situation in a democratic state can create an environment where military intervention is perceived as the only option to restore order, protect the population or address grievances?",
+    "options": {
+      "A": "boycott of elections.",
+      "B": "economic crises.",
+      "C": "political crises.",
+      "D": "youth unemployment."
+    },
+    "answer": "C",
+    "explanation": "**Political crises** can create conditions where military intervention might be seen as necessary."
+  },
+  {
+    "id": 28,
+    "question": "Despite the many challenges bedevilling the Economic Community of West African States (ECOWAS), it has managed over the years in promoting",
+    "options": {
+      "A": "regime protection and economic stability in member countries.",
+      "B": "collective will against globalisation.",
+      "C": "trade tariffs and self-reliance.",
+      "D": "regional integration and cooperation."
+    },
+    "answer": "D",
+    "explanation": "**ECOWAS** has promoted **regional integration and cooperation** among member states."
+  },
+  {
+    "id": 29,
+    "question": "One of the reasons for which the United Nations (UN) is considered as the only influential world body is the fact that it",
+    "options": {
+      "A": "plays a crucial role in international diplomacy.",
+      "B": "supports the war mission of member countries.",
+      "C": "influences regime change by supporting the opposition.",
+      "D": "withholds humanitarian support to military regimes."
+    },
+    "answer": "A",
+    "explanation": "The UN is influential because it **plays a crucial role in international diplomacy** and peacekeeping."
+  },
+  {
+    "id": 30,
+    "question": "The African Union (AU) aims at ensuring the following developments in member countries except for",
+    "options": {
+      "A": "equal distribution of wealth.",
+      "B": "governance and democracy.",
+      "C": "peace and security.",
+      "D": "social development."
+    },
+    "answer": "A",
+    "explanation": "**Equal distribution of wealth** is not a primary AU aim; it focuses on governance, peace, security, and development."
+  },
+  {
+    "id": 31,
+    "question": "The Commonwealth of Nations concerns itself with one of the following activities in member countries which is",
+    "options": {
+      "A": "assisting in the overthrow of unpopular government.",
+      "B": "conducting elections in member countries.",
+      "C": "operating the financial sector of poor countries.",
+      "D": "promotion of peace and security."
+    },
+    "answer": "D",
+    "explanation": "The **Commonwealth** concerns itself with **promoting peace and security** among member nations."
+  },
+  {
+    "id": 32,
+    "question": "The African Union (AU) aims to promote gender equality and women's empowerment through the strategic framework organ of the",
+    "options": {
+      "A": "African Peer Review Mechanism (APRM).",
+      "B": "African Development Bank (ADB).",
+      "C": "New Partnership for Africa's Development (NEPAD).",
+      "D": "Specialised Commission of Women Empowerment (SCWE)."
+    },
+    "answer": "C",
+    "explanation": "The AU promotes gender equality through **NEPAD** (New Partnership for Africa's Development)."
+  },
+  {
+    "id": 33,
+    "question": "What encompasses a range of diplomatic, political, economic and security decisions and actions that a state embarks on to protect and promote sovereignty on the global stage?",
+    "options": {
+      "A": "Alliances.",
+      "B": "Foreign policy.",
+      "C": "National interest.",
+      "D": "constitutionalism."
+    },
+    "answer": "B",
+    "explanation": "**Foreign policy** encompasses all diplomatic, political, economic, and security decisions to protect sovereignty."
+  },
+  {
+    "id": 34,
+    "question": "What colonial policy worked against the sovereign power and authority and the traditional political authority and institutions?",
+    "options": {
+      "A": "Crown Colony Edict.",
+      "B": "Expatriate Edict.",
+      "C": "Indirect Rule.",
+      "D": "Protectorate Colony Edict."
+    },
+    "answer": "C",
+    "explanation": "**Indirect Rule** undermined traditional authority by involving colonial powers in governance structures."
+  },
+  {
+    "id": 35,
+    "question": "The surge in nationalism and its related activities was fueled by oppressive colonial experiences and",
+    "options": {
+      "A": "partition of West African territories.",
+      "B": "the strong desire for civilisation.",
+      "C": "ideology and activities of Pan-Africanism.",
+      "D": "monopoly of mineral resources and land degradation."
+    },
+    "answer": "C",
+    "explanation": "Nationalism was fueled by colonial oppression and the **ideology and activities of Pan-Africanism**."
+  },
+  {
+    "id": 36,
+    "question": "Which institution of state enables different groups and interests to be represented as well as actively participate in the political space?",
+    "options": {
+      "A": "Advocate Groups.",
+      "B": "Democracy.",
+      "C": "Judiciary.",
+      "D": "Political party."
+    },
+    "answer": "D",
+    "explanation": "**Political parties** enable different groups and interests to be represented and participate in politics."
+  },
+  {
+    "id": 37,
+    "question": "Nationalism played a crucial role in the struggle for independence in West Africa by way of fostering a sense of community among the people and",
+    "options": {
+      "A": "abhorrence of the Western style of governance.",
+      "B": "civil disobedience and the killings of white officials.",
+      "C": "dismantling of artificial borders.",
+      "D": "political consciousness."
+    },
+    "answer": "D",
+    "explanation": "Nationalism fostered community and **political consciousness** among people seeking independence."
+  },
+  {
+    "id": 38,
+    "question": "The Crown Colony policy introduced some progressive institutions of governance in West Africa such as the",
+    "options": {
+      "A": "creation of the rigid class system.",
+      "B": "education of the traditional rulers.",
+      "C": "introduction of the Western legal system.",
+      "D": "introduction of military academy."
+    },
+    "answer": "C",
+    "explanation": "Crown Colony policy introduced the **Western legal system** as a progressive institution."
+  },
+  {
+    "id": 39,
+    "question": "The following influential nationalist leaders contributed significantly to shaping the political destiny and nation-states of West Africa except",
+    "options": {
+      "A": "Dawda Kairaba Jawara.",
+      "B": "Kwame Nkrumah.",
+      "C": "Nnamdi Azikwe.",
+      "D": "Oliver Tambo."
+    },
+    "answer": "D",
+    "explanation": "**Oliver Tambo** was a South African leader; the others were West African nationalist leaders."
+  },
+  {
+    "id": 40,
+    "question": "Diplomacy plays a vital role in shaping the interactions between states and by extension maintaining",
+    "options": {
+      "A": "bipolar world.",
+      "B": "global stability.",
+      "C": "power blocks.",
+      "D": "unipolar world."
+    },
+    "answer": "B",
+    "explanation": "Diplomacy shapes state interactions and maintains **global stability** and peaceful relations."
+  },
+  {
+    "id": 41,
+    "question": "Military rule does not only pose a threat to democracy but also to",
+    "options": {
+      "A": "fundamental human rights.",
+      "B": "national borders.",
+      "C": "nationalism and patriotism.",
+      "D": "state sovereignty."
+    },
+    "answer": "A",
+    "explanation": "Military rule threatens both democracy and **fundamental human rights** of citizens."
+  },
+  {
+    "id": 42,
+    "question": "The following constitute the key features of most independent constitutions in West African States except",
+    "options": {
+      "A": "nationalist leaders became army commanders.",
+      "B": "democratic principles of governance.",
+      "C": "national unity and diversity.",
+      "D": "socio-economic rights and development."
+    },
+    "answer": "A",
+    "explanation": "**Nationalist leaders becoming army commanders** is not a typical feature of independent constitutions."
+  },
+  {
+    "id": 43,
+    "question": "The grave effect of the French Colonial Policy of Assimilation in her West African Colonies was the",
+    "options": {
+      "A": "aggressive development of nationalism.",
+      "B": "shortfall in the essential needs of the colonies.",
+      "C": "slow pace in their political fortunes.",
+      "D": "waging war on neighbouring colonial territories."
+    },
+    "answer": "A",
+    "explanation": "The French assimilation policy provoked **aggressive development of nationalism** as resistance."
+  },
+  {
+    "id": 44,
+    "question": "The British Colonial policy in her West African territories was marked by the following strategies and structures except",
+    "options": {
+      "A": "divide and rule.",
+      "B": "economic exploitation.",
+      "C": "indirect rule.",
+      "D": "investments in the colonies."
+    },
+    "answer": "D",
+    "explanation": "**Investments in the colonies** was not a feature; British policy focused on exploitation and control."
+  },
+  {
+    "id": 45,
+    "question": "Globalisation impacts the development and progress of West African States by way of",
+    "options": {
+      "A": "manipulation of economics of states.",
+      "B": "propping of regimes.",
+      "C": "protecting state sovereignty.",
+      "D": "technology transfer."
+    },
+    "answer": "D",
+    "explanation": "Globalisation impacts development through **technology transfer** to West African states."
+  },
+  {
+    "id": 46,
+    "question": "Power, authority, legitimacy and sovereignty are described in the study of government as what?",
+    "options": {
+      "A": "Basic Concepts and Principles.",
+      "B": "Constitutionalism and Meanings.",
+      "C": "Principles and Structures.",
+      "D": "Structure of Governance."
+    },
+    "answer": "A",
+    "explanation": "Power, authority, legitimacy, and sovereignty are described as **Basic Concepts and Principles** in government."
+  },
+  {
+    "id": 47,
+    "question": "A government with corrupt rulers who use their power to exploit the people and natural resources of their own territory to extend their personal wealth and political power is described as",
+    "options": {
+      "A": "autocracy.",
+      "B": "capitalism.",
+      "C": "kleptocracy.",
+      "D": "oligarchy."
+    },
+    "answer": "C",
+    "explanation": "**Kleptocracy** describes a government where corrupt rulers exploit for personal wealth and power."
+  },
+  {
+    "id": 48,
+    "question": "In what way can the local government system assist in national development? By",
+    "options": {
+      "A": "aligning local efforts with broader national goals.",
+      "B": "depending on the central government for basic needs and development.",
+      "C": "encouraging youth movement to the industrial centres.",
+      "D": "ensuring only top-bottom policies of government are supported."
+    },
+    "answer": "A",
+    "explanation": "Local government assists development by **aligning local efforts with broader national goals**."
+  },
+  {
+    "id": 49,
+    "question": "The perceived perennial problem of the United Nations (UN) since its inception is the",
+    "options": {
+      "A": "Directive Principles of State Policy.",
+      "B": "deep-seated diversity among member states.",
+      "C": "nature of political leaders and their ages.",
+      "D": "poor constitutional provisions of member states."
+    },
+    "answer": "B",
+    "explanation": "The UN's perennial problem is **deep-seated diversity among member states** causing disagreements."
+  },
+  {
+    "id": 50,
+    "question": "For the executive to enjoy the goodwill of the people in a democratic state, it must adhere to the tenets of",
+    "options": {
+      "A": "the Council of State.",
+      "B": "exercise of unrestrained power.",
+      "C": "laissez-faire government.",
+      "D": "political equality."
+    },
+    "answer": "D",
+    "explanation": "The executive must adhere to **political equality** to maintain the goodwill and trust of the people."
+  }
+]

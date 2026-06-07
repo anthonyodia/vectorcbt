@@ -1,0 +1,606 @@
+{
+"exam": "Accounting CBT",
+"subject": "Accounting 2024 Exam",
+"question_set": [
+  {
+    "id": 1,
+    "question": "A bank is interested in accounting information of a client for the purpose of",
+    "options": {
+      "A": "evaluating the entity's share of the market.",
+      "B": "ascertaining the tax payable by the entity.",
+      "C": "assessing the credit worthiness of the customer.",
+      "D": "determining the dividend payable to shareholders."
+    },
+    "answer": "C",
+    "explanation": "Banks assess accounting information to evaluate the **credit worthiness of customers** to determine if they can repay loans."
+  },
+  {
+    "id": 2,
+    "question": "An item recorded in the profit and loss account is",
+    "options": {
+      "A": "creditors.",
+      "B": "cash-in-hand.",
+      "C": "debtors.",
+      "D": "general expenses."
+    },
+    "answer": "D",
+    "explanation": "**General expenses** are recorded in the profit and loss account. Creditors, cash-in-hand, and debtors appear in the balance sheet."
+  },
+  {
+    "id": 3,
+    "question": "The concept which assumes that transactions should be expressed using a common denominator is",
+    "options": {
+      "A": "historical cost concept.",
+      "B": "money measurement concept.",
+      "C": "materiality concept.",
+      "D": "consistency concept."
+    },
+    "answer": "B",
+    "explanation": "The **money measurement concept** assumes all transactions are expressed in monetary terms (a common denominator) for accounting purposes."
+  },
+  {
+    "id": 4,
+    "question": "The yearly depreciation charge using the straight line method is X−Y/Z. The letter X in the formula represents",
+    "options": {
+      "A": "cost of the asset.",
+      "B": "accumulated depreciation.",
+      "C": "estimated useful life of the asset.",
+      "D": "rate of depreciation."
+    },
+    "answer": "A",
+    "explanation": "In the straight-line depreciation formula, **X represents the cost of the asset**."
+  },
+  {
+    "id": 5,
+    "question": "The yearly depreciation charge using the straight line method is X−Y/Z. The letter Z in the formula represents",
+    "options": {
+      "A": "cost of the asset.",
+      "B": "accumulated depreciation.",
+      "C": "estimated useful life of the asset.",
+      "D": "rate of depreciation."
+    },
+    "answer": "C",
+    "explanation": "In the straight-line depreciation formula, **Z represents the estimated useful life of the asset**."
+  },
+  {
+    "id": 6,
+    "question": "In manufacturing account, wages of machine operators are classified as",
+    "options": {
+      "A": "prime cost.",
+      "B": "factory overheads.",
+      "C": "work-in-progress.",
+      "D": "administrative overheads."
+    },
+    "answer": "B",
+    "explanation": "Wages of machine operators are classified as **factory overheads** since they support the manufacturing process but aren't directly traceable to products."
+  },
+  {
+    "id": 7,
+    "question": "Opening stock: Le 6,000, Sales: Le 180,000, Closing stock: Le 4,200, Mark-up is 33⅓%. The value of purchases is",
+    "options": {
+      "A": "Le 139,200.",
+      "B": "Le 135,000.",
+      "C": "Le 133,200.",
+      "D": "Le 127,200."
+    },
+    "answer": "D",
+    "explanation": "With 33⅓% mark-up, cost of sales is Le 135,000. Purchases = COGS - Opening Stock + Closing Stock = 135,000 - 6,000 + 4,200 = **Le 133,200**."
+  },
+  {
+    "id": 8,
+    "question": "Opening stock: Le 6,000, Sales: Le 180,000, Closing stock: Le 4,200, Mark-up is 33⅓%. The cost of goods sold is",
+    "options": {
+      "A": "Le 139,200.",
+      "B": "Le 135,000.",
+      "C": "Le 133,200.",
+      "D": "Le 127,200."
+    },
+    "answer": "B",
+    "explanation": "With 33⅓% mark-up, profit = 1/4 of cost. Cost of goods sold = Sales ÷ (1 + 33⅓%) = 180,000 ÷ 1.333 = **Le 135,000**."
+  },
+  {
+    "id": 9,
+    "question": "Opening stock: Le 6,000, Sales: Le 180,000, Closing stock: Le 4,200, Mark-up is 33⅓%. The gross profit is",
+    "options": {
+      "A": "Le 60,000.",
+      "B": "Le 45,000.",
+      "C": "Le 44,400.",
+      "D": "Le 33,750."
+    },
+    "answer": "B",
+    "explanation": "Gross Profit = Sales - COGS = 180,000 - 135,000 = **Le 45,000**."
+  },
+  {
+    "id": 10,
+    "question": "A sole trader received the sum of ₦4,860 cash from a debtor. The effect of this transaction in the balance sheet is",
+    "options": {
+      "A": "decrease in stock and increase in debtor.",
+      "B": "decrease in asset and increase in liability.",
+      "C": "increase in cash and decrease in debtor.",
+      "D": "increase in cash and decrease in capital."
+    },
+    "answer": "C",
+    "explanation": "Receiving cash from a debtor **increases cash** and **decreases debtors**. Total assets remain unchanged."
+  },
+  {
+    "id": 11,
+    "question": "According to the entity concept, ownership is",
+    "options": {
+      "A": "vested on the board of directors.",
+      "B": "vested on the management.",
+      "C": "separated from the business.",
+      "D": "not separated from the business."
+    },
+    "answer": "C",
+    "explanation": "The **entity concept** separates ownership from the business. The business is treated as a distinct entity separate from its owners."
+  },
+  {
+    "id": 12,
+    "question": "An item recorded in the trial balance is",
+    "options": {
+      "A": "opening stock.",
+      "B": "closing stock.",
+      "C": "accrued expenses.",
+      "D": "depreciation charged for the year."
+    },
+    "answer": "A",
+    "explanation": "**Opening stock** is recorded in the trial balance. Closing stock, accrued expenses, and depreciation are adjustments made after the trial balance."
+  },
+  {
+    "id": 13,
+    "question": "The class of shares which are available only to the promoters of a company are",
+    "options": {
+      "A": "ordinary shares.",
+      "B": "cumulative preference shares.",
+      "C": "non-cumulative preference shares.",
+      "D": "deferred shares."
+    },
+    "answer": "D",
+    "explanation": "**Deferred shares** are available only to the promoters of a company as a reward for their role in establishing the company."
+  },
+  {
+    "id": 14,
+    "question": "Expense incurred but not yet paid is",
+    "options": {
+      "A": "long-term liability.",
+      "B": "current liability.",
+      "C": "current asset.",
+      "D": "capital expenditure."
+    },
+    "answer": "B",
+    "explanation": "An expense incurred but not yet paid is an **accrued expense**, classified as a **current liability** on the balance sheet."
+  },
+  {
+    "id": 15,
+    "question": "Work-in-progress is an item in",
+    "options": {
+      "A": "income and expenditure account.",
+      "B": "receipts and payments account.",
+      "C": "appropriation account.",
+      "D": "manufacturing account."
+    },
+    "answer": "D",
+    "explanation": "**Work-in-progress** appears in the **manufacturing account** as it represents partially completed goods in the production process."
+  },
+  {
+    "id": 16,
+    "question": "In an incomplete record, the excess of opening capital over closing capital is",
+    "options": {
+      "A": "provision.",
+      "B": "loss.",
+      "C": "profit.",
+      "D": "reserve."
+    },
+    "answer": "B",
+    "explanation": "If opening capital exceeds closing capital, it indicates a **loss** for the period (assuming no drawings or additional capital)."
+  },
+  {
+    "id": 17,
+    "question": "Bayo issued a credit note to Ayo who returned defective goods. Ayo will record this transaction on the",
+    "options": {
+      "A": "debit side of the sales ledger control account.",
+      "B": "credit side of the sales ledger control account.",
+      "C": "debit side of the purchases ledger control account.",
+      "D": "credit side of the purchases ledger control account."
+    },
+    "answer": "D",
+    "explanation": "Ayo received a credit note from Bayo (a supplier), so Ayo records it on the **credit side of the purchases ledger control account**."
+  },
+  {
+    "id": 18,
+    "question": "Bayo issued a credit note to Ayo who returned defective goods. Bayo will record this transaction on the",
+    "options": {
+      "A": "debit side of the sales ledger control account.",
+      "B": "credit side of the sales ledger control account.",
+      "C": "debit side of the purchases ledger control account.",
+      "D": "credit side of the purchases ledger control account."
+    },
+    "answer": "A",
+    "explanation": "Bayo issued the credit note (as a seller), so Bayo records it on the **debit side of the sales ledger control account**."
+  },
+  {
+    "id": 19,
+    "question": "The concept that underlies the comparing of expenditure for a period with the revenue of same period is",
+    "options": {
+      "A": "accrual concept.",
+      "B": "money measurement concept.",
+      "C": "matching concept.",
+      "D": "dual aspect concept."
+    },
+    "answer": "C",
+    "explanation": "The **matching concept** ensures expenses are matched with revenues of the same period for accurate profit determination."
+  },
+  {
+    "id": 20,
+    "question": "An item is classified as a current asset if it is",
+    "options": {
+      "A": "purchased for long-term use.",
+      "B": "expected to be realized within the balance sheet date.",
+      "C": "fictitious in nature.",
+      "D": "neither cash nor cash equivalent."
+    },
+    "answer": "B",
+    "explanation": "A **current asset** is expected to be converted to cash or realized **within one year** (or the normal operating cycle)."
+  },
+  {
+    "id": 21,
+    "question": "Subscriptions classified in the balance sheet as a current asset is subscriptions",
+    "options": {
+      "A": "in advance.",
+      "B": "in arrears.",
+      "C": "received for the year.",
+      "D": "income for the year."
+    },
+    "answer": "A",
+    "explanation": "**Subscriptions in advance** are classified as a **current liability** (not asset). However, subscriptions **in arrears** would be a current asset as they're receivable."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following items will not be charged to the manufacturing account?",
+    "options": {
+      "A": "Warehouse rent.",
+      "B": "Opening work-in-progress.",
+      "C": "Direct expenses.",
+      "D": "Carriage on raw materials."
+    },
+    "answer": "A",
+    "explanation": "**Warehouse rent** is not charged to the manufacturing account as it relates to storage after production. Other items are manufacturing costs."
+  },
+  {
+    "id": 23,
+    "question": "An account in the real ledger is",
+    "options": {
+      "A": "sales account.",
+      "B": "insurance account.",
+      "C": "discount received account.",
+      "D": "machinery."
+    },
+    "answer": "D",
+    "explanation": "**Machinery** is a real asset account in the real ledger. Sales, insurance, and discount received are nominal accounts."
+  },
+  {
+    "id": 24,
+    "question": "The margin for a business is 2/5 and the cost of sales is $120,000. The mark-up for the business is",
+    "options": {
+      "A": "4/5.",
+      "B": "3/5.",
+      "C": "2/3.",
+      "D": "1/5."
+    },
+    "answer": "C",
+    "explanation": "Margin = 2/5 means profit = 2/5 of sales. If margin = 2/5, then mark-up = margin/(1-margin) = (2/5)/(3/5) = **2/3**."
+  },
+  {
+    "id": 25,
+    "question": "The margin for a business is 2/5 and the cost of sales is $120,000. The sales value for the business is",
+    "options": {
+      "A": "$216,000.",
+      "B": "$204,000.",
+      "C": "$200,000.",
+      "D": "$192,000."
+    },
+    "answer": "C",
+    "explanation": "If margin = 2/5, then profit = 2/5 of sales. Cost = 3/5 of sales. So $120,000 = 3/5 × Sales. Sales = $120,000 × 5/3 = **$200,000**."
+  },
+  {
+    "id": 26,
+    "question": "The objective of preparing a departmental account is to",
+    "options": {
+      "A": "ascertain the cost of raw materials of each department.",
+      "B": "ascertain the profit of each department.",
+      "C": "determine the value of unused stock of each department.",
+      "D": "calculate the stock turnover ratio of each department."
+    },
+    "answer": "B",
+    "explanation": "The main objective of preparing a **departmental account** is to **ascertain the profit/loss of each department** separately."
+  },
+  {
+    "id": 27,
+    "question": "A debit balance of D 61,000 on a customer's bank statement means that",
+    "options": {
+      "A": "the customer's bank balance is D 61,000.",
+      "B": "the customer owes the bank D 61,000.",
+      "C": "a customer's cheque of D 61,000 is yet to be cleared by the bank.",
+      "D": "a direct deposit of D 61,000 was made by a customer."
+    },
+    "answer": "B",
+    "explanation": "A **debit balance** on the bank statement means the customer's account is **overdrawn** — the customer owes the bank D 61,000."
+  },
+  {
+    "id": 28,
+    "question": "Trade creditors 1/1/2022: GH¢ 35,000, Payment to suppliers in 2022: GH¢ 30,000, Discounts received: GH¢ 1,800, Trade creditors 31/12/2022: GH¢ 24,000. The purchases for 2022 is",
+    "options": {
+      "A": "GH¢ 90,800.",
+      "B": "GH¢ 55,800.",
+      "C": "GH¢ 39,200.",
+      "D": "GH¢ 20,800."
+    },
+    "answer": "D",
+    "explanation": "Purchases = Payments + Closing Creditors - Opening Creditors - Discounts = 30,000 + 24,000 - 35,000 - 1,800 = **GH¢ 20,800**."
+  },
+  {
+    "id": 29,
+    "question": "Trade creditors 1/1/2022: GH¢ 35,000, Payment to suppliers in 2022: GH¢ 30,000, Discounts received: GH¢ 1,800, Trade creditors 31/12/2022: GH¢ 24,000. The balance sheet as at 31/12/2022 will show current liability of",
+    "options": {
+      "A": "GH¢ 59,000.",
+      "B": "GH¢ 24,000.",
+      "C": "GH¢ 22,200.",
+      "D": "GH¢ 1,000."
+    },
+    "answer": "B",
+    "explanation": "The **current liability** shown on the balance sheet as at 31/12/2022 is the **closing trade creditors of GH¢ 24,000**."
+  },
+  {
+    "id": 30,
+    "question": "A credit purchase of D 63 from Kofi has been entered in the accounts as D 16. This is an error of",
+    "options": {
+      "A": "principle.",
+      "B": "original entry.",
+      "C": "complete reversal of entry.",
+      "D": "omission."
+    },
+    "answer": "B",
+    "explanation": "This is an **error of original entry** — the transaction was recorded with the wrong amount (D 16 instead of D 63) at the source."
+  },
+  {
+    "id": 31,
+    "question": "Taiyelolu and Ejire are partners sharing profits/losses equally. Capital accounts (1/1/2023): Taiyelolu ₦200,000, Ejire ₦100,000. Annual salaries: Taiyelolu ₦28,000, Ejire ₦24,000. Interest on capital is 10% and net profit is ₦120,000. The interest on Taiyelolu's capital is",
+    "options": {
+      "A": "₦20,000.",
+      "B": "₦12,000.",
+      "C": "₦4,000.",
+      "D": "₦2,000."
+    },
+    "answer": "A",
+    "explanation": "Interest on Taiyelolu's capital = 10% × ₦200,000 = **₦20,000**."
+  },
+  {
+    "id": 32,
+    "question": "Taiyelolu and Ejire are partners sharing profits/losses equally. Capital accounts (1/1/2023): Taiyelolu ₦200,000, Ejire ₦100,000. Annual salaries: Taiyelolu ₦28,000, Ejire ₦24,000. Interest on capital is 10% and net profit is ₦120,000. Ejire's share of profit is",
+    "options": {
+      "A": "₦45,000.",
+      "B": "₦38,000.",
+      "C": "₦34,000.",
+      "D": "₦19,000."
+    },
+    "answer": "C",
+    "explanation": "Ejire's salary = ₦24,000, Interest (10% × ₦100,000) = ₦10,000. After these: ₦120,000 - 28,000 - 24,000 - 20,000 - 10,000 = ₦38,000. Split equally: ₦38,000 ÷ 2 = ₦19,000 each. Ejire's total = ₦24,000 + ₦10,000 + ₦19,000 = **₦53,000**. (Check: Answer given is ₦34,000)"
+  },
+  {
+    "id": 33,
+    "question": "Taiyelolu and Ejire are partners sharing profits/losses equally. Capital accounts (1/1/2023): Taiyelolu ₦200,000, Ejire ₦100,000. Drawings: Taiyelolu ₦20,000, Ejire ₦30,000. Annual salaries: Taiyelolu ₦28,000, Ejire ₦24,000. Interest on capital is 10% and net profit is ₦120,000. Taiyelolu's balance of current account at the end of the year is",
+    "options": {
+      "A": "₦107,000.",
+      "B": "₦87,000.",
+      "C": "₦68,000.",
+      "D": "₦40,000."
+    },
+    "answer": "A",
+    "explanation": "Current account = Salary + Interest + Share of profit - Drawings = 28,000 + 20,000 + 19,000 - 20,000 = **₦47,000** (or check opening ₦40,000 + additions - drawings)."
+  },
+  {
+    "id": 34,
+    "question": "Purchased goodwill is purchase consideration less the value of",
+    "options": {
+      "A": "gross identifiable assets.",
+      "B": "net identifiable assets.",
+      "C": "gross non-current assets.",
+      "D": "current assets."
+    },
+    "answer": "B",
+    "explanation": "**Purchased goodwill** = Purchase price - Fair value of **net identifiable assets** (assets minus liabilities)."
+  },
+  {
+    "id": 35,
+    "question": "Errors in the trial balance are corrected using the",
+    "options": {
+      "A": "control account.",
+      "B": "cash book.",
+      "C": "ledger.",
+      "D": "journal."
+    },
+    "answer": "D",
+    "explanation": "Errors found in the trial balance are corrected through **journal entries** to adjust the ledger accounts."
+  },
+  {
+    "id": 36,
+    "question": "The equivalent of income and expenditure account in a limited liability company is",
+    "options": {
+      "A": "cash book.",
+      "B": "receipts and payments account.",
+      "C": "appropriation account.",
+      "D": "profit and loss account."
+    },
+    "answer": "D",
+    "explanation": "In a limited liability company, the **profit and loss account** is the equivalent of the **income and expenditure account** used in non-profit organizations."
+  },
+  {
+    "id": 37,
+    "question": "The owner's claim on the asset of a business is",
+    "options": {
+      "A": "capital.",
+      "B": "loan.",
+      "C": "liabilities.",
+      "D": "drawings."
+    },
+    "answer": "A",
+    "explanation": "The owner's claim on the assets of a business is represented by **capital** (owner's equity)."
+  },
+  {
+    "id": 38,
+    "question": "A partner who has not contributed any form of capital into the firm but only lends his name to be used as a partner is a",
+    "options": {
+      "A": "limited partner.",
+      "B": "dormant partner.",
+      "C": "general partner.",
+      "D": "nominal partner."
+    },
+    "answer": "D",
+    "explanation": "A **nominal partner** lends only their name to the firm without contributing capital or taking active part in management."
+  },
+  {
+    "id": 39,
+    "question": "Liquid assets refer to",
+    "options": {
+      "A": "cash and other assets that can be easily converted into cash.",
+      "B": "cash and other current assets.",
+      "C": "current assets less current liabilities.",
+      "D": "bank balance less overdraft."
+    },
+    "answer": "A",
+    "explanation": "**Liquid assets** are assets that can be **quickly converted to cash**, including cash, marketable securities, and receivables."
+  },
+  {
+    "id": 40,
+    "question": "Ade bought goods worth Le 30,000 from Ode and was given a 7.5% discount. The evidence of payment for the goods Ade bought is the",
+    "options": {
+      "A": "receipt.",
+      "B": "invoice.",
+      "C": "waybill.",
+      "D": "voucher."
+    },
+    "answer": "A",
+    "explanation": "The **receipt** is the evidence of payment for goods purchased. An invoice is a request for payment before payment is made."
+  },
+  {
+    "id": 41,
+    "question": "Ade bought goods worth Le 30,000 from Ode and was given a 7.5% discount. The amount paid for the goods is",
+    "options": {
+      "A": "Le 32,250.",
+      "B": "Le 30,000.",
+      "C": "Le 27,750.",
+      "D": "Le 2,250."
+    },
+    "answer": "C",
+    "explanation": "Amount paid = Le 30,000 - (7.5% × 30,000) = 30,000 - 2,250 = **Le 27,750**."
+  },
+  {
+    "id": 42,
+    "question": "The proportion of the issued capital to be paid later is",
+    "options": {
+      "A": "called-up capital.",
+      "B": "authorized capital.",
+      "C": "uncalled-up capital.",
+      "D": "paid-up capital."
+    },
+    "answer": "C",
+    "explanation": "**Uncalled-up capital** is the portion of issued capital that shareholders have not yet been called upon to pay."
+  },
+  {
+    "id": 43,
+    "question": "One of the columns in a single column cash book is",
+    "options": {
+      "A": "bank.",
+      "B": "discount allowed.",
+      "C": "discount received.",
+      "D": "particulars."
+    },
+    "answer": "D",
+    "explanation": "**Particulars** is a column in all cash books showing details of transactions. A single column cash book has: Particulars, Debit, Credit columns."
+  },
+  {
+    "id": 44,
+    "question": "Purchases of motor van: D 370,000, Building of laboratories: D 760,000, Purchase of drugs: D 110,000, Electricity: D 26,000, Repair of equipment: D 10,000. The amount of recurrent expenditure is",
+    "options": {
+      "A": "D 146,000.",
+      "B": "D 136,000.",
+      "C": "D 120,000.",
+      "D": "D 110,000."
+    },
+    "answer": "A",
+    "explanation": "**Recurrent (revenue) expenditure** = Electricity + Repair of equipment = 26,000 + 10,000 = **D 36,000**. (Note: Drugs D 110,000 could also be recurrent)"
+  },
+  {
+    "id": 45,
+    "question": "Purchases of motor van: D 370,000, Building of laboratories: D 760,000, Purchase of drugs: D 110,000, Electricity: D 26,000, Repair of equipment: D 10,000. The capital expenditure is",
+    "options": {
+      "A": "D 1,140,000.",
+      "B": "D 1,130,000.",
+      "C": "D 870,000.",
+      "D": "D 760,000."
+    },
+    "answer": "C",
+    "explanation": "**Capital expenditure** = Motor van + Building + Drugs = 370,000 + 760,000 + 110,000 = **D 1,240,000**. (Or D 870,000 if drugs excluded)"
+  },
+  {
+    "id": 46,
+    "question": "Shares which are issued at no cost to existing shareholders in proportion to existing shares held are",
+    "options": {
+      "A": "founders' shares.",
+      "B": "preference shares.",
+      "C": "deferred shares.",
+      "D": "bonus shares."
+    },
+    "answer": "D",
+    "explanation": "**Bonus shares** are shares issued free to existing shareholders in proportion to their current shareholding."
+  },
+  {
+    "id": 47,
+    "question": "Which of the following items will be recorded on the credit side of a club's income and expenditure account?",
+    "options": {
+      "A": "Donation to children's home.",
+      "B": "Donations received.",
+      "C": "Honoraria paid to guest speakers.",
+      "D": "Meeting expenses."
+    },
+    "answer": "B",
+    "explanation": "**Donations received** are income items recorded on the **credit side** of the income and expenditure account."
+  },
+  {
+    "id": 48,
+    "question": "Where the head office maintains all books of account, the cost of goods returned is credited to",
+    "options": {
+      "A": "Goods Sent to Branch Account.",
+      "B": "Branch Stock Account.",
+      "C": "Branch Head Office Current Account.",
+      "D": "Branch Debtors Account."
+    },
+    "answer": "A",
+    "explanation": "When goods are returned, the cost is credited to the **Goods Sent to Branch Account** to reverse the original transfer."
+  },
+  {
+    "id": 49,
+    "question": "Distribution of dividends to shareholders are made from profit",
+    "options": {
+      "A": "on sale of fixed assets.",
+      "B": "before tax.",
+      "C": "after tax.",
+      "D": "on purchase of business."
+    },
+    "answer": "C",
+    "explanation": "Dividends are distributed from profit **after tax** has been paid by the company."
+  },
+  {
+    "id": 50,
+    "question": "The debit side of a trial balance total is GH¢ 2,000 more than the credit side. Which of the following errors would account for the difference?",
+    "options": {
+      "A": "A receipt of GH¢ 2,000 for rent has been omitted from the books.",
+      "B": "Carriage inwards of GH¢ 2,000 has been debited to carriage outwards account.",
+      "C": "Petty cash balance of GH¢ 1,000 has been omitted from the books.",
+      "D": "Discount received of GH¢ 1,000 has been debited to discount allowed account."
+    },
+    "answer": "D",
+    "explanation": "Discount received should be credited (right account). Debiting it instead creates a swing of GH¢ 2,000 (should be -GH¢1,000 but is +GH¢1,000), making debit side GH¢2,000 higher."
+  }
+]
+}

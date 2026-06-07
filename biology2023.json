@@ -1,0 +1,654 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The type of nutrition in which organisms take solid organic materials into their body is",
+      "image": null,
+      "options": {
+        "A": "parasitic",
+        "B": "holozoic",
+        "C": "saprophytic",
+        "D": "symbiotic"
+      },
+      "answer": "B",
+      "explanation": "Holozoic nutrition involves organisms taking in solid organic materials."
+    },
+    {
+      "id": 2,
+      "question": "The ability of organisms to maintain a constant internal environment is known as",
+      "image": null,
+      "options": {
+        "A": "diuresis",
+        "B": "plasmolysis",
+        "C": "endosmosis",
+        "D": "homeostasis"
+      },
+      "answer": "D",
+      "explanation": "Homeostasis is the process of maintaining a stable internal environment."
+    },
+    {
+      "id": 3,
+      "question": "Organisms that feed on dead, decaying tissues of other organisms are known as",
+      "image": null,
+      "options": {
+        "A": "saprophytes",
+        "B": "autotrophs",
+        "C": "parasites",
+        "D": "heterotrophs"
+      },
+      "answer": "A",
+      "explanation": "Saprophytes feed on dead organic matter."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following activities is against the conservation of natural resources?",
+      "image": null,
+      "options": {
+        "A": "Contour ploughing",
+        "B": "establishment of game reserves",
+        "C": "deforestation",
+        "D": "afforestation"
+      },
+      "answer": "C",
+      "explanation": "Deforestation leads to loss of natural resources and is against conservation."
+    },
+    {
+      "id": 5,
+      "question": "The food substance that would produce the highest amount of energy is",
+      "image": null,
+      "options": {
+        "A": "protein",
+        "B": "amino acid",
+        "C": "fat",
+        "D": "glucose"
+      },
+      "answer": "C",
+      "explanation": "Fat provides the highest energy per gram among the options."
+    },
+    {
+      "id": 6,
+      "question": "The diagrams above are illustrations of forms in which a particular group of organisms exist. Study them and answer the question. Which group of organisms is illustrated?",
+      "image": "biology2023/image1.png",
+      "options": {
+        "A": "protozoa",
+        "B": "viruses",
+        "C": "fungi",
+        "D": "bacteria"
+      },
+      "answer": "D",
+      "explanation": "Based on the diagram, the organisms are bacteria."
+    },
+    {
+      "id": 7,
+      "question": "The diagrams above are illustrations of forms in which a particular group of organisms exist. Study them and answer the question. In which of the illustrated forms does the organism that causes cholera exist?",
+      "image": "biology2023/image2.png",
+      "options": {
+        "A": "III",
+        "B": "II",
+        "C": "IV",
+        "D": "V"
+      },
+      "answer": "A",
+      "explanation": "The form labeled III represents Vibrio cholerae, the cholera-causing bacterium."
+    },
+    {
+      "id": 8,
+      "question": "Growth in animals differs from that in plants because growth in",
+      "image": null,
+      "options": {
+        "A": "plants is indefinite",
+        "B": "plants is intercalary",
+        "C": "animals is apical",
+        "D": "plants is from within"
+      },
+      "answer": "A",
+      "explanation": "Plants can grow indefinitely, unlike animals."
+    },
+    {
+      "id": 9,
+      "question": "The structure that its action could result in choking when talking and eating at the same time is",
+      "image": "biology2023/image3.png",
+      "options": {
+        "A": "oesophagus",
+        "B": "epiglottis",
+        "C": "pharynx",
+        "D": "liver"
+      },
+      "answer": "B",
+      "explanation": "The epiglottis prevents food from entering the windpipe when swallowing."
+    },
+    {
+      "id": 10,
+      "question": "The diagram above is an illustration of a mango leaf drawn by a student in a Biology test. The student failed the test. Study it and answer the question. The likely reason why the student failed the test was that the",
+      "image": "biology2023/image4.png",
+      "options": {
+        "A": "labels were wrong and the guidelines were not touching the structures",
+        "B": "net venation shown were few, rough, not properly drawn and wrongly placed",
+        "C": "leaf venation should have been parallel and the midrib should be thicker",
+        "D": "leaf was too tapered at the apex, the leaf stalk was too short and the shape of leaf was wrong"
+      },
+      "answer": "B",
+      "explanation": "Poor drawing and labeling affected the score."
+    },
+    {
+      "id": 11,
+      "question": "The diagram below is an illustration of a mango leaf drawn by a student in a Biology test. The student failed the test. Study it and answer the question. which features of the diagram would have earned the student more marks if shown",
+      "image": "biology2023/image4.png",
+      "options": {
+        "A": "colour and size",
+        "B": "spelling of label and length of midrib",
+        "C": "habitat and agricultural qualities of leaf",
+        "D": "title and margin"
+      },
+      "answer": "A",
+      "explanation": "Color and size details improve diagram accuracy."
+    },
+    {
+      "id": 12,
+      "question": "A group of organisms belonging to different species that coexist in the same habitat and interact is referred to as",
+      "image": null,
+      "options": {
+        "A": "community",
+        "B": "biosphere",
+        "C": "niche",
+        "D": "population"
+      },
+      "answer": "A",
+      "explanation": "A community comprises different species living together."
+    },
+    {
+      "id": 13,
+      "question": "The mouthparts of a grasshopper are adapted for",
+      "image": null,
+      "options": {
+        "A": "sucking",
+        "B": "chewing",
+        "C": "grinding",
+        "D": "absorption"
+      },
+      "answer": "B",
+      "explanation": "Grasshoppers have chewing mouthparts."
+    },
+    {
+      "id": 14,
+      "question": "What is the probability that a pregnancy would result in a male child?",
+      "image": null,
+      "options": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "1",
+        "D": "1/4"
+      },
+      "answer": "B",
+      "explanation": "Typically, there's a 50% chance for male or female."
+    },
+    {
+      "id": 15,
+      "question": "A vestigial structure in humans is",
+      "image": null,
+      "options": {
+        "A": "earlobe",
+        "B": "gallbladder",
+        "C": "tailbone",
+        "D": "villus"
+      },
+      "answer": "C",
+      "explanation": "The tailbone is vestigial in humans."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following instruments is not used in measuring abiotic factors in a habitat?",
+      "image": null,
+      "options": {
+        "A": "microscope",
+        "B": "Wind vane",
+        "C": "thermometer",
+        "D": "hygrometer"
+      },
+      "answer": "A",
+      "explanation": "Microscopes are not used for measuring abiotic factors."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following factors is the main problem facing xerophytes?",
+      "image": null,
+      "options": {
+        "A": "Conservation of excess water",
+        "B": "competition for sunlight",
+        "C": "lack of adequate water",
+        "D": "formation of poor roots"
+      },
+      "answer": "C",
+      "explanation": "Xerophytes struggle with water scarcity."
+    },
+    {
+      "id": 18,
+      "question": "A Rhesus negative woman may experience stillbirth of the second child that is Rhesus positive because",
+      "image": null,
+      "options": {
+        "A": "the foetus is deprived of nourishment",
+        "B": "they have poor circulatory system",
+        "C": "the blood of the foetus might clump",
+        "D": "the woman is susceptible to diseases during pregnancy"
+      },
+      "answer": "C",
+      "explanation": "Rhesus incompatibility can cause blood clumping."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following hormones is wrongly paired with its secretory organ?",
+      "image": null,
+      "options": {
+        "A": "oestrogen and ovary",
+        "B": "Oxytocin and hypothalamus",
+        "C": "adrenalin and kidney",
+        "D": "insulin and pancreas"
+      },
+      "answer": "C",
+      "explanation": "Adrenalin is secreted by the adrenal glands, not the kidney."
+    },
+    {
+      "id": 20,
+      "question": "The rate of decomposition of dead organisms is faster in the tropical rainforest than in other biomes because",
+      "image": null,
+      "options": {
+        "A": "of consistent cool temperature",
+        "B": "of availability of moisture",
+        "C": "of the relatively constant day light.",
+        "D": "there are more plants"
+      },
+      "answer": "B",
+      "explanation": "Moisture accelerates decomposition."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following organisms would be the producer in a food chain?",
+      "image": null,
+      "options": {
+        "A": "Goat",
+        "B": "maize",
+        "C": "man",
+        "D": "bacterium"
+      },
+      "answer": "B",
+      "explanation": "Maize is a producer (plant)."
+    },
+    {
+      "id": 22,
+      "question": "The diagrams below are illustrations of organisms in a habitat. Study them and answer the question, The feeding relationship between the organisms labelled III and IV in the diagrams is",
+      "image": "biology2023/image5.png",
+      "options": {
+        "A": "predation",
+        "B": "mutualism",
+        "C": "parasitism",
+        "D": "saprophytism"
+      },
+      "answer": "A",
+      "explanation": "Predation is a feeding relationship where one organism hunts the other."
+    },
+    {
+      "id": 23,
+      "question": "The diagrams below are illustrations of organisms in a habitat. Study them and answer the question, the producer in the diagram is",
+      "image": "biology2023/image6.png",
+      "options": {
+        "A": "IV because it is the largest organism in the diagram",
+        "B": "IV because it is the organism that receives the highest amount of sunlight",
+        "C": "I because it uses sunlight to manufacture food",
+        "D": "I because it contains the least amount of energy"
+      },
+      "answer": "C",
+      "explanation": "The organism that uses sunlight to produce food is the producer."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following soil types have a high capillarity?",
+      "image": null,
+      "options": {
+        "A": "Sand and clay",
+        "B": "loam and sand",
+        "C": "silt and sand",
+        "D": "silt and clay"
+      },
+      "answer": "D",
+      "explanation": "Silt and clay have high capillarity due to small particle size."
+    },
+    {
+      "id": 25,
+      "question": "The diagram above is an illustration of a structure in the skeletal system of humans. Study it and answer the question, the illustrated structure is a part of the",
+      "image": "biology2023/image7.png",
+      "options": {
+        "A": "appendicular skeleton",
+        "B": "axial skeleton",
+        "C": "axis vertebrae",
+        "D": "cervical vertebrae"
+      },
+      "answer": "C",
+      "explanation": "The diagram shows a vertebra, part of the axis."
+    },
+    {
+      "id": 26,
+      "question": "The diagram below is an illustration of a structure in the skeletal system of humans. Study it and answer the question, An individual was involved in a car accident and the illustrated structure was badly injured. Which of the following structures would most likely be affected?",
+      "image": "biology2023/image8.png",
+      "options": {
+        "A": "Clavicle, tongue and pelvis",
+        "B": "Eye, cerebellum and ear",
+        "C": "Ear, brain and hinge joint",
+        "D": "Lumbar, eye and teeth"
+      },
+      "answer": "C",
+      "explanation": "The diagram relates to the ear and brain area, likely affected in injury."
+    },
+    {
+      "id": 27,
+      "question": "Study the list of organisms below and use them to answer the questions. I-Hydra II-Owl III-Snake IV-Snail. The arrangement of the organisms in order of increasing complexity is",
+      "image": null,
+      "options": {
+        "A": "II-III-I-IV",
+        "B": "I-IV-III-II",
+        "C": "I-II-III-IV",
+        "D": "IV-III-II-I"
+      },
+      "answer": "C",
+      "explanation": "Hydra (simple), snail (more complex), snake, owl (most complex)."
+    },
+    {
+      "id": 28,
+      "question": "Study the list of organisms below and use them to answer the questions. I-Hydra II-Owl III-Snake IV-Snail. The Phylum of the organism labeled IV is",
+      "image": null,
+      "options": {
+        "A": "Platyhelminthes",
+        "B": "mollusca",
+        "C": "Arthropoda",
+        "D": "Coelenterata"
+      },
+      "answer": "B",
+      "explanation": "Snail belongs to Phylum Mollusca."
+    },
+    {
+      "id": 29,
+      "question": "Placentation in fruits is referred to as the",
+      "image": null,
+      "options": {
+        "A": "arrangement of ovules in the ovary of a flower",
+        "B": "part of the ovary where the ovules originate and remain till maturity",
+        "C": "ovules borne on a central column of tissues in an ovary",
+        "D": "formation of a single carpel joined at the two edges of an ovule"
+      },
+      "answer": "C",
+      "explanation": "Placentation involves ovules on the placenta inside the ovary."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following characteristics shows discontinuous variation in plants?",
+      "image": null,
+      "options": {
+        "A": "Colour of flower",
+        "B": "Leaf size",
+        "C": "Height of plant",
+        "D": "fruit size"
+      },
+      "answer": "A",
+      "explanation": "Color of flower varies discontinuously."
+    },
+    {
+      "id": 31,
+      "question": "An example of a process that involves osmosis is the",
+      "image": null,
+      "options": {
+        "A": "movement of water from root hairs into cortical cell",
+        "B": "reabsorption of food nutrients from the kidney into blood capillaries",
+        "C": "translocation of starch from leaves to all parts of a plant",
+        "D": "movement of digested food from ileum into blood capillaries"
+      },
+      "answer": "A",
+      "explanation": "Osmosis is the movement of water across a semi-permeable membrane."
+    },
+    {
+      "id": 32,
+      "question": "Stunted growth and small yellow leaves in plants are symptoms of the deficiencies of",
+      "image": null,
+      "options": {
+        "A": "nitrogen",
+        "B": "iron",
+        "C": "sulphur",
+        "D": "magnesium"
+      },
+      "answer": "A",
+      "explanation": "Nitrogen deficiency causes stunted growth and yellowing."
+    },
+    {
+      "id": 33,
+      "question": "The eye defect caused by an uneven curvature of the cornea or lens or both is",
+      "image": null,
+      "options": {
+        "A": "myopia",
+        "B": "presbyopia",
+        "C": "astigmatism",
+        "D": "hypermetropia"
+      },
+      "answer": "C",
+      "explanation": "Astigmatism results from uneven corneal curvature."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following processes does not occur during photosynthesis?",
+      "image": null,
+      "options": {
+        "A": "Energy from sunlight is absorbed",
+        "B": "Carbon (IV) oxide is evolved",
+        "C": "oxygen is evolved",
+        "D": "water is split"
+      },
+      "answer": "B",
+      "explanation": "Photosynthesis consumes CO₂, it is not evolved."
+    },
+    {
+      "id": 35,
+      "question": "The illustration above is a genetic diagram. Study it and answer the question below. What is the name of the genetic diagram?",
+      "image": "biology2023/image9.png",
+      "options": {
+        "A": "Genetic square",
+        "B": "Inheritance diagram",
+        "C": "Punnett square",
+        "D": "Genetic cross"
+      },
+      "answer": "C",
+      "explanation": "It's a Punnett square used in genetics."
+    },
+    {
+      "id": 36,
+      "question": "The illustration above is a genetic diagram. Study it and answer the question below. What do the labels I, II, III, and IV respectively represent?",
+      "image": "biology2023/image10.png",
+      "options": {
+        "A": "Ee, Ee, EE and E",
+        "B": "EE, EE, Ee, and Ee",
+        "C": "EE, EE, EE and EE",
+        "D": "EE, EE, Ee and ee"
+      },
+      "answer": "D",
+      "explanation": "The labels represent specific genotypes."
+    },
+    {
+      "id": 37,
+      "question": "The illustration above is a genetic diagram. Study it and answer the question. What is the genotypic ratio",
+      "image": "biology2023/image10.png",
+      "options": {
+        "A": "1:1",
+        "B": "4:0",
+        "C": "1:3",
+        "D": "1:2:1"
+      },
+      "answer": "D",
+      "explanation": "The typical Mendelian monohybrid ratio is 1:2:1."
+    },
+    {
+      "id": 38,
+      "question": "The diagram above is an illustration of a cell in which photosynthesis takes place. Study it and answer the question. In which of the labeled parts would molecules of water and carbon (IV) oxide combine to form sugar?",
+      "image": "biology2023/image12.png",
+      "options": {
+        "A": "I",
+        "B": "III",
+        "C": "II",
+        "D": "IV"
+      },
+      "answer": "C",
+      "explanation": "The chloroplast (or part II) is where photosynthesis occurs."
+    },
+    {
+      "id": 39,
+      "question": "The diagram above is an illustration of a cell in which photosynthesis takes place. Study it and answer the question. the oxygen gas formed in the cell diffuses out of the cytoplasm into the air spaces through the part labeled",
+      "image": "biology2023/image13.png",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "C",
+      "explanation": "Oxygen diffuses out through the stomata or air spaces (part III)."
+    },
+    {
+      "id": 40,
+      "question": "Fishes survive in water mainly because they possess",
+      "image": null,
+      "options": {
+        "A": "streamlined body",
+        "B": "scales",
+        "C": "paired fins",
+        "D": "gills"
+      },
+      "answer": "D",
+      "explanation": "Gills allow fishes to extract oxygen from water."
+    },
+    {
+      "id": 41,
+      "question": "The tricuspid valve is located between the",
+      "image": null,
+      "options": {
+        "A": "right auricle and right ventricle.",
+        "B": "aorta and the left ventricle",
+        "C": "left auricle and left ventricle",
+        "D": "right auricle and the superior vena cava"
+      },
+      "answer": "A",
+      "explanation": "The tricuspid valve separates the right atrium and right ventricle."
+    },
+    {
+      "id": 42,
+      "question": "The androecium in a flowering plant is a collection of",
+      "image": "biology2023/image14.png",
+      "options": {
+        "A": "stamens",
+        "B": "sperms",
+        "C": "ovules",
+        "D": "filament"
+      },
+      "answer": "A",
+      "explanation": "The androecium comprises stamens."
+    },
+    {
+      "id": 43,
+      "question": "The diagram above is an illustration of some structures used for gaseous exchange in humans. Study it and answer the question. The parts labeled 1, II, III, and IV respectively are",
+      "image": "biology2023/image14.png",
+      "options": {
+        "A": "larynx, bronchus, bronchiole and trachea.",
+        "B": "bronchus, bronchiole, trachea and larynx.",
+        "C": "bronchiole, trachea, bronchus and larynx.",
+        "D": "larynx, trachea, bronchiole, and bronchus."
+      },
+      "answer": "D",
+      "explanation": "Correctly matching the parts for human respiratory structures."
+    },
+    {
+      "id": 44,
+      "question": "The diagram above is an illustration of some structures used for gaseous exchange in humans. Study it and answer the question. the part labeled III can be found in the",
+      "image": "biology2023/image15.png",
+      "options": {
+        "A": "lung",
+        "B": "heart",
+        "C": "kidney",
+        "D": "sternum"
+      },
+      "answer": "A",
+      "explanation": "Part III is in the lung, involved in gas exchange."
+    },
+    {
+      "id": 45,
+      "question": "Use the information below to answer the question. I - making shoes from crocodile skin, II - making tables with plastic, III - using elephant tusk for decoration, IV - using firewood for cooking. The act that should be encouraged for the conservation of wildlife and forests is",
+      "image": null,
+      "options": {
+        "A": "III",
+        "B": "IV",
+        "C": "II",
+        "D": "I"
+      },
+      "answer": "B",
+      "explanation": "Using firewood should be minimized to conserve forests."
+    },
+    {
+      "id": 46,
+      "question": "Use the information below to answer the question. I - making shoes from crocodile skin, II - making tables with plastic, III - using elephant tusk for decoration, IV - using firewood for cooking. In order to avoid some of the acts that would have negative effects on conservation. Government should",
+      "image": null,
+      "options": {
+        "A": "encourage over-utilization of forest resources",
+        "B": "enact and enforce laws towards conservation of resources",
+        "C": "encourage indiscriminate killing of wildlife",
+        "D": "promote felling of trees without planting new ones"
+      },
+      "answer": "B",
+      "explanation": "Legislation and enforcement help conservation efforts."
+    },
+    {
+      "id": 47,
+      "question": "The following activities are associated with termites except",
+      "image": null,
+      "options": {
+        "A": "nuptial flight",
+        "B": "searching for food",
+        "C": "communication",
+        "D": "pollination"
+      },
+      "answer": "D",
+      "explanation": "Termites do not pollinate plants."
+    },
+    {
+      "id": 48,
+      "question": "The capturing and digestion of insects by a pitcher plant is a special form of nutrition that is",
+      "image": null,
+      "options": {
+        "A": "heterotrophic",
+        "B": "saprophytic",
+        "C": "chemosynthetic",
+        "D": "autotrophic"
+      },
+      "answer": "A",
+      "explanation": "It's heterotrophic since it consumes insects."
+    },
+    {
+      "id": 49,
+      "question": "Paternity disputes could be resolved accurately through",
+      "image": null,
+      "options": {
+        "A": "finger printing",
+        "B": "tongue rolling",
+        "C": "DNA test",
+        "D": "blood group"
+      },
+      "answer": "C",
+      "explanation": "DNA testing provides accurate paternity identification."
+    },
+    {
+      "id": 50,
+      "question": "A sudden change in the genetic composition of an organism is termed",
+      "image": null,
+      "options": {
+        "A": "mutation",
+        "B": "linkage",
+        "C": "variation",
+        "D": "epistasis"
+      },
+      "answer": "A",
+      "explanation": "Mutation is a sudden change in genetic material."
+    }
+  ]
+}

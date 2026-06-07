@@ -1,0 +1,374 @@
+{
+  "exam_metadata": {
+    "subject": "Geography",
+    "year": "2021",
+    "exam_body": "WAEC",
+    "total_questions": 50
+  },
+  "assessment": [
+    {
+      "id": "q1",
+      "instruction": "Use the climate data of the station to answer the question below.",
+      "table_data": {
+        "rows": [
+          ["Month", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+          ["Temp (ºC)", "16", "20", "22", "23", "25", "28", "28", "30", "27", "26", "23", "21"],
+          ["Rain (mm)", "62", "50", "56", "89", "180", "189", "140", "163", "228", "230", "83", "41"]
+        ]
+      },
+      "question": "Which month in the station has the highest rainfall?",
+      "options": { "A": "January", "B": "October", "C": "July", "D": "September" },
+      "answer": "B",
+      "explanation": "According to the table, October has 230mm, which is the highest value."
+    },
+    {
+      "id": "q2",
+      "question": "What is the annual rainfall for station X?",
+      "options": { "A": "1511 mm", "B": "1504 mm", "C": "1254 mm", "D": "1160 mm" },
+      "answer": "A",
+      "explanation": "Annual rainfall is the sum of all monthly rainfall: 62+50+56+89+180+189+140+163+228+230+83+41 = 1511mm."
+    },
+    {
+      "id": "q3",
+      "question": "Calculate the range of temperature for the station",
+      "options": { "A": "2ºC", "B": "5ºC", "C": "12ºC", "D": "14ºC" },
+      "answer": "D",
+      "explanation": "Range = Highest (30ºC in Aug) - Lowest (16ºC in Jan) = 14ºC."
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following statements is true about rainfall in station X?",
+      "options": { "A": "the rainfall duration is six months", "B": "the station has a double maximum rainfall", "C": "rainfall mainly falls in winter", "D": "the rainfall in the station is uniformly distributed" },
+      "answer": "B",
+      "explanation": "There are two peaks in rainfall (June and October), indicating a double maximum."
+    },
+    {
+      "id": "q5",
+      "question": "The rock which has the capacity to retain underground water is?",
+      "options": { "A": "impermeable", "B": "crystalline", "C": "compact", "D": "permeable" },
+      "answer": "D",
+      "explanation": "Permeable rocks have pores or spaces that allow them to hold water."
+    },
+    {
+      "id": "q6",
+      "question": "The temperature reading at the peak of a volcano is 6ºC. What will be the temperature at the foot of the volcano which is 3000 metres from the surrounding low land?",
+      "options": { "A": "5.5ºC", "B": "13.5ºC", "C": "13.5ºC", "D": "25.5ºC" },
+      "answer": "D",
+      "explanation": "Lapse rate is 6.5ºC per 1000m. 3000m = 19.5ºC. 6ºC + 19.5ºC = 25.5ºC."
+    },
+    {
+      "id": "q7",
+      "question": "The sun is overhead at the tropic of Capricorn on",
+      "options": { "A": "March 21", "B": "December 22", "C": "September 23", "D": "June 21" },
+      "answer": "B",
+      "explanation": "This occurs during the December Solstice."
+    },
+{
+    "id": "q8",
+    "instruction": "MAP DESCRIPTION (DAMBO DISTRICT): A 1:50,000 map. The NORTHEAST is high ground with contours peaking at 400m. A road connects DAMBO (Northwest) to HUME (South-Central). OGOH is West of Dambo, and ILO is East of Hume. Point A is at the hilltop and Point B is at the base, with contours widely spaced at the bottom. The SOUTHEAST is low-lying with marsh symbols.",
+    "question": "The scale of the map in representative fraction (RF) is",
+    "options": { "A": "1: 200,000", "B": "1: 50,000", "C": "1: 150,000", "D": "1: 10,000" },
+    "answer": "B",
+    "explanation": "1:50,000 is the standard scale for topographical maps in this region."
+  },
+  {
+    "id": "q9",
+    "instruction": "MAP DESCRIPTION: Scale 1:50,000. Road distance from DAMBO (NW) to HUME (S-Central) measures 30cm on the map.",
+    "question": "What is the approximate distance between the settlements of Dambo and Hume by road?",
+    "options": { "A": "10km", "B": "15km", "C": "20km", "D": "30km" },
+    "answer": "B",
+    "explanation": "At 1:50,000, 2cm = 1km. Therefore, 30cm = 15km."
+  },
+  {
+    "id": "q10",
+    "instruction": "MAP DESCRIPTION: On the slope from A (top) to B (bottom), contours are very close at the top and very far apart at the bottom.",
+    "question": "Line A - B in the mapped area can be best described as",
+    "options": { "A": "convex slope", "B": "uniform slope", "C": "dip slope", "D": "concave slope" },
+    "answer": "D",
+    "explanation": "Concave slopes have contours that are widely spaced at the base and closely packed at the peak."
+  },
+  {
+    "id": "q11",
+    "instruction": "MAP DESCRIPTION: The Southeastern area contains blue symbols for swamps and marshes.",
+    "question": "The southeastern part of the map area is-----",
+    "options": { "A": "poorly drained", "B": "a plantation", "C": "a lake", "D": "an ocean" },
+    "answer": "A",
+    "explanation": "Swamps and marshes indicate poor drainage."
+  },
+  {
+    "id": "q12",
+    "instruction": "MAP DESCRIPTION: Contour values: NW=100m, SW=150m, SE=50m, NE=400m.",
+    "question": "The highest point of the mapped area is found in the-----",
+    "options": { "A": "southwest", "B": "southeast", "C": "northeast", "D": "northwest" },
+    "answer": "C",
+    "explanation": "The highest contour readings (400m) are in the Northeast."
+  },
+    {
+      "id": "q13",
+      "question": "The most population means of transportation in the mapped area is-------",
+      "options": { "A": "river", "B": "footpath", "C": "air", "D": "road" },
+      "answer": "D",
+      "explanation": "Road networks are the primary connector for settlements."
+    },
+    {
+      "id": "q14",
+      "question": "The distance between DAMBO and Ogoh as the crow flies is approximately by?",
+      "options": { "A": "5.0 km", "B": "10.0 km", "C": "20.0 km", "D": "26.0 km" },
+      "answer": "B",
+      "explanation": "Straight-line measurement (as the crow flies) on the map scale."
+    },
+    {
+      "id": "q15",
+      "question": "The bearing of ILO from Hume is about-----",
+      "options": { "A": "3.30", "B": "2.10", "C": "1.45", "D": "3.5" },
+      "answer": "C",
+      "explanation": "Calculated using a protractor from North on the map."
+    },
+    {
+      "id": "q16",
+      "instruction": "Study the map of DAMBO DISTRICT and use it to answer the question below",
+      "question": "All the following are man-made features found on the mapped area except?",
+      "options": { "A": "dams", "B": "bridges", "C": "roads", "D": "settlements" },
+      "answer": "A",
+      "explanation": "While others are infrastructure, dams are often specific to certain map symbols; usually, 'rivers' would be the natural exception if listed."
+    },
+    {
+      "id": "q17",
+      "question": "The direction of DAMBO from Hume is------",
+      "options": { "A": "northeast", "B": "southeast", "C": "southwest", "D": "northwest" },
+      "answer": "D",
+      "explanation": "Based on the compass rose relative to Hume."
+    },
+    {
+      "id": "q18",
+      "question": "Which of the following is a dispositional feature of an arid region?",
+      "options": { "A": "barchan", "B": "zeugen", "C": "rock pedestal", "D": "yardang" },
+      "answer": "A",
+      "explanation": "A barchan is a crescent-shaped sand dune formed by deposition."
+    },
+    {
+      "id": "q19",
+      "question": "Which drainage pattern is best established in the areas of alternate hard and soft rocks",
+      "options": { "A": "trellis", "B": "centripetal", "C": "radial", "D": "annular" },
+      "answer": "A",
+      "explanation": "Trellis drainage occurs where rivers cut through alternate layers of hard and soft rock."
+    },
+    {
+      "id": "q20",
+      "question": "The time at the Greenwich Meridian is 10:00 am. What would the time at 30ºE be?",
+      "options": { "A": "8:00 am", "B": "8:00 pm", "C": "12:00 am", "D": "12:00 pm" },
+      "answer": "D",
+      "explanation": "30 degrees East = +2 hours (15 degrees = 1 hour). 10am + 2 hours = 12pm."
+    },
+    {
+      "id": "q21",
+      "question": "Which of the following pairs of landforms are of desert origin",
+      "options": { "A": "yardangs and batholiths", "B": "sandbars and tombolos", "C": "zeugens and inselbergs", "D": "barchans and tombolos" },
+      "answer": "C",
+      "explanation": "Zeugens and inselbergs are both created by wind/water erosion in arid regions."
+    },
+    {
+      "id": "q22",
+      "question": "On March 21 each year, all towns in the southern hemisphere experience?",
+      "options": { "A": "complete daylight for 14 hours", "B": "partial darkness", "C": "equal length of day and night", "D": "longer period of twilight" },
+      "answer": "C",
+      "explanation": "March 21 is the Equinox, where day and night are equal everywhere."
+    },
+    {
+      "id": "q23",
+      "question": "Which of the following wave actions is a process of erosion",
+      "options": { "A": "traction", "B": "hydraulic", "C": "saltation", "D": "suspension" },
+      "answer": "B",
+      "explanation": "Hydraulic action is the force of water breaking down rocks."
+    },
+    {
+      "id": "q24",
+      "question": "A feature produced by water in desert areas is-------",
+      "options": { "A": "barchans", "B": "zeugens", "C": "yardangs", "D": "wadis" },
+      "answer": "D",
+      "explanation": "Wadis are dry riverbeds that fill with water during rare flash floods."
+    },
+    {
+      "id": "q25",
+      "question": "The longitude which almost bisects Africa into two equal halves, east and west, is longitude-----------",
+      "options": { "A": "20ºE", "B": "20ºW", "C": "40ºE", "D": "40ºW" },
+      "answer": "A",
+      "explanation": "20ºE runs through the center of the African continent."
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following elements of weather is matched with the wrong measuring instrument?",
+      "options": { "A": "humidity and barometer", "B": "rainfall and rain guage", "C": "sunshine and sundial", "D": "windspeed and anemometer" },
+      "answer": "A",
+      "explanation": "Humidity is measured by a hygrometer; a barometer measures air pressure."
+    },
+    {
+      "id": "q27",
+      "question": "Marble is a metamorphosed -------",
+      "options": { "A": "basalt", "B": "granite", "C": "gabbro", "D": "limestone" },
+      "answer": "D",
+      "explanation": "Marble is formed when limestone is subjected to heat and pressure."
+    },
+    {
+      "id": "q28",
+      "question": "Which of the following pairs of minerals form the bulk of the inner core of the earth",
+      "options": { "A": "aluminum and iron", "B": "iron and nickel", "C": "tin and columbite", "D": "silicon and copper" },
+      "answer": "B",
+      "explanation": "The core is primarily made of the Nife (Nickel and Iron) layer."
+    },
+    {
+      "id": "q29",
+      "question": "Which of the following pairs of rock examples are sedimentary rocks?",
+      "options": { "A": "graphite and sandstone", "B": "gabbro and schist", "C": "limestone and chalk", "D": "gneiss and granite" },
+      "answer": "C",
+      "explanation": "Both limestone and chalk are organic sedimentary rocks."
+    },
+    {
+      "id": "q30",
+      "question": "In the northern hemisphere, the summer solstice is experienced on?",
+      "options": { "A": "September 22/23", "B": "June 21", "C": "December 22", "D": "March 21" },
+      "answer": "B",
+      "explanation": "June 21 marks the longest day in the Northern Hemisphere."
+    },
+    {
+      "id": "q31",
+      "question": "What is the time at Accra at longitude Oº when the local time at longitude 45ºW is 12 noon",
+      "options": { "A": "3 p.m", "B": "5 p.m", "C": "7 p.m", "D": "9 p.m" },
+      "answer": "A",
+      "explanation": "45º difference = 3 hours. Since Accra (0º) is East of 45ºW, we add time: 12 noon + 3 hours = 3 p.m."
+    },
+    {
+      "id": "q32",
+      "question": "Which of the following are the possible causes of soil erosion? (I) bush burning (II) over grazing (III) reafforestation (IV) excavation",
+      "options": { "A": "I and II only", "B": "I, II, and IV only", "C": "I, II, and III only", "D": "II, III, and IV only" },
+      "answer": "B",
+      "explanation": "Reafforestation (III) prevents erosion, while the others cause it."
+    },
+    {
+      "id": "q33",
+      "question": "In Koppen's classification of climates, Af refers to?",
+      "options": { "A": "monsoon", "B": "equatorial", "C": "mediterranean", "D": "desert" },
+      "answer": "B",
+      "explanation": "Af stands for Tropical Rainforest/Equatorial climate."
+    },
+    {
+      "id": "q34",
+      "question": "Which mountain type is described as the lighthouse of mediterranean?",
+      "options": { "A": "block", "B": "flow", "C": "residual", "D": "volcanic" },
+      "answer": "D",
+      "explanation": "Mt. Stromboli is a volcanic mountain known as the 'Lighthouse of the Mediterranean'."
+    },
+    {
+      "id": "q35",
+      "question": "Which of the following are achievements of ECOWAS (I) common market (II) free movement (III) military cooperation (IV) trade restriction",
+      "options": { "A": "I, II and III only", "B": "I, II, and IV only", "C": "II, III, and IV only", "D": "I, III, and IV only" },
+      "answer": "A",
+      "explanation": "Trade restriction is not an achievement; ECOWAS aims to remove restrictions."
+    },
+    {
+      "id": "q36",
+      "question": "The farming technique which can be adopted as a method of soil conservation is?",
+      "options": { "A": "bush fallowing", "B": "monoculture", "C": "shifting cultivation", "D": "cover cropping" },
+      "answer": "D",
+      "explanation": "Cover cropping protects the soil from erosion."
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following factors does not influence population distribution?",
+      "options": { "A": "climate", "B": "soil", "C": "sex ratio", "D": "relief" },
+      "answer": "C",
+      "explanation": "Sex ratio is a population characteristic, not a factor that determines where people live."
+    },
+    {
+      "id": "q38",
+      "question": "Low population densities of the middle belt of West African countries can best be described as",
+      "options": { "A": "trans-Saharan slave trade", "B": "rich fertile soil", "C": "concentration of industries", "D": "presence of mineral resources" },
+      "answer": "A",
+      "explanation": "Historical slave raids significantly depopulated this region."
+    },
+    {
+      "id": "q39",
+      "question": "Which of the following towns has the best natural harbour in West Africa?",
+      "options": { "A": "port-harcourt", "B": "takoradi", "C": "freetown", "D": "monrovia" },
+      "answer": "C",
+      "explanation": "Freetown has one of the largest natural deep-water harbours in the world."
+    },
+    {
+      "id": "q40",
+      "question": "An effect of rural-urban migration on the source region is",
+      "options": { "A": "rural depopulation", "B": "urban depopulation", "C": "rural employment", "D": "rural unemployment" },
+      "answer": "A",
+      "explanation": "The source region (rural area) loses its population to the city."
+    },
+    {
+      "id": "q41",
+      "question": "Which of the following best describes the characteristics of a rural settlement",
+      "options": { "A": "primary activities", "B": "secondary activities", "C": "tertiary activities", "D": "large area coverage" },
+      "answer": "A",
+      "explanation": "Rural areas are dominated by farming, fishing, and mining (primary activities)."
+    },
+    {
+      "id": "q42",
+      "question": "The most significant factor which accounts for the rapid growth in the population of the capital cities of West Africa is",
+      "options": { "A": "political rallies", "B": "sport events", "C": "rural-urban migration", "D": "religious tourism" },
+      "answer": "C",
+      "explanation": "Mass movement from villages to cities drives urban growth."
+    },
+    {
+      "id": "q43",
+      "question": "An example fossil fuel is",
+      "options": { "A": "granite", "B": "coal", "C": "clay", "D": "sandtone" },
+      "answer": "B",
+      "explanation": "Coal is a combustible sedimentary rock formed from ancient plant matter."
+    },
+    {
+      "id": "q44",
+      "question": "Which of the following are characteristics of most large cities? (I) large populations (II) administrative centers (III) religious centers (IV) commercial centers",
+      "options": { "A": "I and III only", "B": "I and IV only", "C": "II and III only", "D": "II and IV only" },
+      "answer": "B",
+      "explanation": "Large populations and commerce are universal characteristics of large cities."
+    },
+    {
+      "id": "q45",
+      "question": "The industrial belt of Japan produces",
+      "options": { "A": "ships, electronics and motor vehicles", "B": "warships, ammunitions, and building materials", "C": "fertilizers, pesticides, and combined harvesters", "D": "leather, goods, plastic, and pharmaceutical products" },
+      "answer": "A",
+      "explanation": "Japan is world-renowned for its high-tech electronics and automobile exports."
+    },
+    {
+      "id": "q46",
+      "question": "Cities of high population densities develop on plains because (I) climate barriers (II) fertile soils (III) lack heavy rainfall (IV) terrain with ease of communication",
+      "options": { "A": "I and II only", "B": "I and III only", "C": "I and IV only", "D": "II and IV only" },
+      "answer": "D",
+      "explanation": "Fertile soil and flat terrain make plains ideal for settlement and transport."
+    },
+    {
+      "id": "q47",
+      "question": "A notable problem of air transportation in tropical Africa is",
+      "options": { "A": "slow speed", "B": "low freight charges", "C": "adequate space", "D": "low patronage" },
+      "answer": "D",
+      "explanation": "High costs often result in low patronage compared to other transport modes."
+    },
+    {
+      "id": "q48",
+      "question": "Which of the following is most affected by drought and flood",
+      "options": { "A": "ocean transport", "B": "road transport", "C": "air transport", "D": "river transport" },
+      "answer": "D",
+      "explanation": "Water levels directly impact the navigability of rivers."
+    },
+    {
+      "id": "q49",
+      "question": "The reasons for siting industries in urban areas include; (I) employment (II) revenue generation (III) religious tolerance (IV) unemployment provision",
+      "options": { "A": "I and II only", "B": "II and IV only", "C": "III and IV only", "D": "I and IV only" },
+      "answer": "A",
+      "explanation": "Industries provide jobs and tax revenue for the city."
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following factors explains the need for international trade (I) variation in technology (II) uniformity in taste (III) language barrier (IV) difference in natural resources",
+      "options": { "A": "I and II only", "B": "II and III only", "C": "II and IV only", "D": "I and IV only" },
+      "answer": "D",
+      "explanation": "Differences in technology and resources drive countries to trade."
+    }
+  ]
+}

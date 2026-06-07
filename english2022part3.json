@@ -1,0 +1,624 @@
+[
+  {
+    "id": 81,
+    "type": "WAEC Multiple Choice",
+    "question": "said",
+    "options": {
+      "A": "paid",
+      "B": "maid",
+      "C": "many",
+      "D": "ham"
+    },
+    "answer": "B",
+    "explanation": " 'Maid' is the correct option because it shares a similar vowel pattern with 'said'."
+  },
+  {
+    "id": 82,
+    "type": "WAEC Multiple Choice",
+    "question": "dance",
+    "options": {
+      "A": "dunce",
+      "B": "aunt",
+      "C": "friend",
+      "D": "mace"
+    },
+    "answer": "B",
+    "explanation": " 'Aunt' shares similar vowel sounds with 'dance'."
+  },
+  {
+    "id": 83,
+    "type": "WAEC Multiple Choice",
+    "question": "core",
+    "options": {
+      "A": "pole",
+      "B": "cot",
+      "C": "loud",
+      "D": "saw"
+    },
+    "answer": "A",
+    "explanation": " 'Pole' has a similar vowel sound to 'core'."
+  },
+  {
+    "id": 84,
+    "type": "WAEC Multiple Choice",
+    "question": "nook",
+    "options": {
+      "A": "noon",
+      "B": "poor",
+      "C": "good",
+      "D": "food"
+    },
+    "answer": "A",
+    "explanation": " 'Noon' shares similar vowel sounds with 'nook'."
+  },
+  {
+    "id": 85,
+    "type": "WAEC Multiple Choice",
+    "question": "doubt",
+    "options": {
+      "A": "nought",
+      "B": "round",
+      "C": "rough",
+      "D": "drove"
+    },
+    "answer": "A",
+    "explanation": " 'Nought' is pronounced similarly to 'doubt'."
+  },
+  {
+    "id": 86,
+    "type": "WAEC Multiple Choice",
+    "question": "hut",
+    "options": {
+      "A": "knob",
+      "B": "rot",
+      "C": "bought",
+      "D": "tonne"
+    },
+    "answer": "A",
+    "explanation": " 'Knob' shares a similar ending sound with 'hut'."
+  },
+  {
+    "id": 87,
+    "type": "WAEC Multiple Choice",
+    "question": "alert",
+    "options": {
+      "A": "pearl",
+      "B": "percent",
+      "C": "heart",
+      "D": "check"
+    },
+    "answer": "C",
+    "explanation": " 'Heart' rhymes with 'alert'."
+  },
+  {
+    "id": 88,
+    "type": "WAEC Multiple Choice",
+    "question": "believe",
+    "options": {
+      "A": "lie",
+      "B": "quay",
+      "C": "lettuce",
+      "D": "kick"
+    },
+    "answer": "A",
+    "explanation": " 'Lie' rhymes with 'believe'."
+  },
+  {
+    "id": 89,
+    "type": "WAEC Multiple Choice",
+    "question": "beauty",
+    "options": {
+      "A": "good",
+      "B": "courier",
+      "C": "put",
+      "D": "few"
+    },
+    "answer": "B",
+    "explanation": " 'Courier' rhymes with 'beauty'."
+  },
+  {
+    "id": 90,
+    "type": "WAEC Multiple Choice",
+    "question": "white",
+    "options": {
+      "A": "pair",
+      "B": "hit",
+      "C": "bye",
+      "D": "writ"
+    },
+    "answer": "A",
+    "explanation": " 'Pair' rhymes with 'white'."
+  },
+  {
+    "id": 91,
+    "type": "WAEC Multiple Choice",
+    "question": "here",
+    "options": {
+      "A": "chair",
+      "B": "weird",
+      "C": "care",
+      "D": "pair"
+    },
+    "answer": "D",
+    "explanation": " 'Pair' rhymes with 'here'."
+  },
+  {
+    "id": 92,
+    "type": "WAEC Multiple Choice",
+    "question": "here",
+    "options": {
+      "A": "chair",
+      "B": "weird",
+      "C": "care",
+      "D": "pair"
+    },
+    "answer": "D",
+    "explanation": " repeated question, same answer."
+  },
+  {
+    "id": 93,
+    "type": "WAEC Multiple Choice",
+    "question": "soul",
+    "options": {
+      "A": "how",
+      "B": "plough",
+      "C": "boat",
+      "D": "bouy"
+    },
+    "answer": "C",
+    "explanation": " 'Boat' rhymes with 'soul'."
+  },
+  {
+    "id": 94,
+    "type": "WAEC Multiple Choice",
+    "question": "boot",
+    "options": {
+      "A": "louse",
+      "B": "bull",
+      "C": "cook",
+      "D": "ruse"
+    },
+    "answer": "B",
+    "explanation": " 'Bull' rhymes with 'boot'."
+  },
+  {
+    "id": 95,
+    "question": "fall",
+    "options": {
+      "A": "power",
+      "B": "dole",
+      "C": "dawn"
+    },
+    "answer": "C",
+    "explanation": " 'Dawn' rhymes with 'fall'."
+  },
+  {
+    "id": 96,
+    "type": "Same consonant sound",
+    "question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letter(s) underlined.",
+    "options": {
+      "A": "another",
+      "B": "made",
+      "C": "wedge",
+      "D": "flunked"
+    },
+    "answer": "C",
+    "explanation": "'Wedge' shares the same /dʒ/ sound as the underlined part."
+  },
+  {
+    "id": 97,
+    "type": "Same consonant sound",
+    "question": "j oy",
+    "options": {
+      "A": "ahoy",
+      "B": "huge",
+      "C": "you",
+      "D": "bagged"
+    },
+    "answer": "A",
+    "explanation": "'Ahoy' contains the same /ɔɪ/ sound."
+  },
+  {
+    "id": 98,
+    "type": "Same consonant sound",
+    "question": "chunk",
+    "options": {
+      "A": "choir",
+      "B": "chemise",
+      "C": "matches",
+      "D": "show"
+    },
+    "answer": "A",
+    "explanation": " 'Choir' contains the same /kw/ sound."
+  },
+  {
+    "id": 99,
+    "type": "Same consonant sound",
+    "question": "chunk",
+    "options": {
+      "A": "choir",
+      "B": "chemise",
+      "C": "matches",
+      "D": "show"
+    },
+    "answer": "A",
+    "explanation": " repeated question, same answer."
+  },
+  {
+    "id": 100,
+    "type": "Same consonant sound",
+    "question": "pressure",
+    "options": {
+      "A": "sour",
+      "B": "beige",
+      "C": "wash",
+      "D": "measure"
+    },
+    "answer": "D",
+    "explanation": "'Measure' has the same /ʒ/ sound as in 'pressure'."
+  },
+  {
+    "id": 101,
+    "type": "Same consonant sound",
+    "question": "easy",
+    "options": {
+      "A": "loss",
+      "B": "phase",
+      "C": "curse",
+      "D": "last"
+    },
+    "answer": "B",
+    "explanation": "'Phase' shares the same /z/ sound."
+  },
+  {
+    "id": 102,
+    "type": "Same consonant sound",
+    "question": "method",
+    "options": {
+      "A": "brother",
+      "B": "bath",
+      "C": "though",
+      "D": "breathe"
+    },
+    "answer": "C",
+    "explanation": "'Though' contains the /ð/ sound."
+  },
+  {
+    "id": 103,
+    "type": "Same consonant sound",
+    "question": "reverse",
+    "options": {
+      "A": "aisle",
+      "B": "debrise",
+      "C": "cast",
+      "D": "boys"
+    },
+    "answer": "C",
+    "explanation": "'Cast' contains the /k/ sound."
+  },
+  {
+    "id": 104,
+    "type": "Same consonant sound",
+    "question": "gang",
+    "options": {
+      "A": "gene",
+      "B": "gist",
+      "C": "tag",
+      "D": "merge"
+    },
+    "answer": "C",
+    "explanation": "'Tag' shares the /g/ sound."
+  },
+  {
+    "id": 105,
+    "type": "Same consonant sound",
+    "question": "supper",
+    "options": {
+      "A": "psychic",
+      "B": "elephant",
+      "C": "trip",
+      "D": "psalm"
+    },
+    "answer": "D",
+    "explanation": "'Psalm' contains the /s/ sound."
+  },
+  {
+    "id": 106,
+    "type": "Same consonant sound",
+    "question": "beige",
+    "options": {
+      "A": "gag",
+      "B": "genre",
+      "C": "gem",
+      "D": "lough"
+    },
+    "answer": "A",
+    "explanation": "'Gag' shares the /g/ sound."
+  },
+  {
+    "id": 107,
+    "type": "Same consonant sound",
+    "question": "long",
+    "options": {
+      "A": "plunge",
+      "B": "chunk",
+      "C": "binge",
+      "D": "dawn"
+    },
+    "answer": "B",
+    "explanation": "'Chunk' contains the /ʧ/ sound."
+  },
+  {
+    "id": 108,
+    "type": "Same consonant sound",
+    "question": "bask",
+    "options": {
+      "A": "slacks",
+      "B": "basque",
+      "C": "lacks",
+      "D": "axed"
+    },
+    "answer": "B",
+    "explanation": "'Basque' contains the /b/ sound."
+  },
+  {
+    "id": 109,
+    "type": "Same consonant sound",
+    "question": "then",
+    "options": {
+      "A": "month",
+      "B": "three",
+      "C": "thunder",
+      "D": "thus"
+    },
+    "answer": "D",
+    "explanation": "'Thus' contains the /ð/ sound."
+  },
+  {
+    "id": 110,
+    "type": "Same consonant sound",
+    "question": "spit",
+    "options": {
+      "A": "sprint",
+      "B": "split",
+      "C": "spendour",
+      "D": "spill"
+    },
+    "answer": "A",
+    "explanation": "'Sprint' shares the /s/ sound."
+  },
+  {
+    "id": 111,
+    "type": "Same consonant sound",
+    "question": "black",
+    "options": {
+      "A": "kneed",
+      "B": "know",
+      "C": "scene",
+      "D": "echo"
+    },
+    "answer": "D",
+    "explanation": "'Echo' contains the /k/ sound."
+  },
+  {
+    "id": 112,
+    "type": "Same consonant sound",
+    "question": "hatch",
+    "options": {
+      "A": "stash",
+      "B": "match",
+      "C": "chain",
+      "D": "chat"
+    },
+    "answer": "B",
+    "explanation": "'Match' contains the /tʃ/ sound."
+  },
+  {
+    "id": 113,
+    "type": "Same consonant sound",
+    "question": "roam",
+    "options": {
+      "A": "come",
+      "B": "done",
+      "C": "home",
+      "D": "from"
+    },
+    "answer": "C",
+    "explanation": "'Home' contains the /oʊ/ sound, similar to 'roam'."
+  },
+  {
+    "id": 114,
+    "type": "Same consonant sound",
+    "question": "callow",
+    "options": {
+      "A": "colour",
+      "B": "brow",
+      "C": "allow",
+      "D": "shallow"
+    },
+    "answer": "C",
+    "explanation": "'Allow' contains the /aʊ/ sound, similar to 'callow'."
+  },
+  {
+    "id": 115,
+    "type": "Same consonant sound",
+    "question": "fasted",
+    "options": {
+      "A": "instead",
+      "B": "lasted",
+      "C": "harvest",
+      "D": "practised"
+    },
+    "answer": "B",
+    "explanation": "'Lasted' shares the /tɪd/ ending sound."
+  },
+  {
+    "id": 116,
+    "type": "Same consonant sound",
+    "question": "lose",
+    "options": {
+      "A": "shoes",
+      "B": "loose",
+      "C": "does",
+      "D": "mouse"
+    },
+    "answer": "B",
+    "explanation": "'Loose' shares the /s/ sound."
+  },
+  {
+    "id": 117,
+    "type": "Primary Stress",
+    "question": "institution",
+    "options": {
+      "A": "IN-sti-tu-tion",
+      "B": "in-STI-tu-tion",
+      "C": "in-sti-TU-tion",
+      "D": "in-sti-tu-TION"
+    },
+    "answer": "A",
+    "explanation": "Primary stress on the first syllable."
+  },
+  {
+    "id": 118,
+    "type": "Primary Stress",
+    "question": "institution",
+    "options": {
+      "A": "IN-sti-tu-tion",
+      "B": "in-STI-tu-tion",
+      "C": "in-sti-TU-tion",
+      "D": "in-sti-tu-TION"
+    },
+    "answer": "A",
+    "explanation": "Same as above."
+  },
+  {
+    "id": 119,
+    "type": "Primary Stress",
+    "question": "spectacular",
+    "options": {
+      "A": "SPEC-tac-u-lar",
+      "B": "spec-TAC-u-lar",
+      "C": "spec-tac-U-lar",
+      "D": "spec-tac-u-LAR"
+    },
+    "answer": "A",
+    "explanation": "Primary stress on the first syllable."
+  },
+  {
+    "id": 120,
+    "type": "Primary Stress",
+    "question": "parochial",
+    "options": {
+      "A": "PA-ro-chi-al",
+      "B": "pa-RO-chi-al",
+      "C": "pa-ro-CHI-al",
+      "D": "pa-ro-chi-AL"
+    },
+    "answer": "A",
+    "explanation": "Primary stress on the first syllable."
+  },
+  {
+    "id": 121,
+    "type": "Primary Stress",
+    "question": "curriculum",
+    "options": {
+      "A": "CUR-ric-u-lum",
+      "B": "cur-RIC-u-lum",
+      "C": "cur-ric-U-lum",
+      "D": "cur-ric-u-LUM"
+    },
+    "answer": "A",
+    "explanation": "Primary stress on the first syllable."
+  },
+  {
+    "id": 122,
+    "type": "Primary Stress",
+    "question": "affidavit",
+    "options": {
+      "A": "AFF-i-da-vit",
+      "B": "aff-I-da-vit",
+      "C": "aff-i-DA-vit",
+      "D": "aff-i-da-VIT"
+    },
+    "answer": "A",
+    "explanation": "Primary stress on the first syllable."
+  },
+  {
+    "id": 123,
+    "type": "Stress Pattern",
+    "question": "In the following options lettered A to D, all the words except one have the same stress pattern. Identify the one with the different stress pattern.",
+    "options": {
+      "A": "public",
+      "B": "concern",
+      "C": "centre",
+      "D": "people"
+    },
+    "answer": "A",
+    "explanation": "'Public' has a different stress pattern from the others."
+  },
+  {
+    "id": 124,
+    "type": "Stress Pattern",
+    "question": "In the following options lettered A to D, all the words except one have the same stress pattern.",
+    "options": {
+      "A": "standard",
+      "B": "beauty",
+      "C": "statement",
+      "D": "gain"
+    },
+    "answer": "B",
+    "explanation": "'Beauty' has a different stress pattern."
+  },
+  {
+    "id": 125,
+    "type": "Stress Pattern",
+    "question": "In the following options lettered A to D, all the words except one have the same stress pattern.",
+    "options": {
+      "A": "discomfort",
+      "B": "aggressive",
+      "C": "quality",
+      "D": "depended"
+    },
+    "answer": "B",
+    "explanation": "'Aggressive' has a different stress pattern."
+  },
+  {
+    "id": 126,
+    "type": "Stress Pattern",
+    "question": "In the following options lettered A to D, all the words except one have the same stress pattern.",
+    "options": {
+      "A": "confess",
+      "B": "festive",
+      "C": "justice",
+      "D": "haughty"
+    },
+    "answer": "A",
+    "explanation": "'Confess' has a different stress pattern."
+  },
+  {
+    "id": 127,
+    "type": "Stress Pattern",
+    "question": "In the following options lettered A to D, all the words except one have the same stress pattern.",
+    "options": {
+      "A": "foster",
+      "B": "manner",
+      "C": "cadet",
+      "D": "guardian"
+    },
+    "answer": "C",
+    "explanation": "'Cadet' has a different stress pattern."
+  },
+  {
+    "id": 128,
+    "type": "Sentence Stress",
+    "question": "HE is the press photographer.",
+    "options": {
+      "A": "Is she the press photographer?",
+      "B": "Was he the press photographer?",
+      "C": "Is he the museum photographer?",
+      "D": "Is he the press editor?"
+    },
+    "answer": "B",
+    "explanation": "The sentence emphasizes 'HE', so the correct response emphasizes his role."
+  }
+]

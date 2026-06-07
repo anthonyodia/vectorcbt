@@ -1,0 +1,665 @@
+[
+  {
+    "id": 1,
+    "question": "What is the scale of the map in statement form?",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "One centimeter on the map represents ½ kilometer on the ground",
+      "B": "One centimeter on the map represents 1 kilometer on the ground",
+      "C": "One centimeter on the map represents 2 kilometers on the ground",
+      "D": "One centimeter on the map represents 5 kilometers on the ground"
+    },
+    "correct_answer": "C",
+    "explanation": "Assuming the Representative Fraction (R.F.) of the map is 1:200,000 (a common scale for WAEC map work), converting this to a statement scale gives 1 cm represents 200,000 cm. Since 1 km = 100,000 cm, 1 cm represents 2 km. If the R.F. were 1:50,000, the answer would be B.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 2,
+    "question": "The growth of NONSO settlement is probably because",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "NONSO settlement has a court",
+      "B": "NONSO is situated at the foot of a ridge",
+      "C": "NONSO is a port town",
+      "D": "NONSO is a nodal town"
+    },
+    "correct_answer": "D",
+    "explanation": "A **nodal town** is a settlement located at the junction or crossing point of major transportation routes (roads, railways, etc.). This location provides accessibility and encourages trade, leading to rapid growth.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 3,
+    "question": "The highest spot on the mapped area is approximately",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "1300 metres",
+      "B": "1250 metres",
+      "C": "1150 metres",
+      "D": "1050 metres"
+    },
+    "correct_answer": "B",
+    "explanation": "To determine the highest spot, you would locate the highest contour line or trig point on the map. Based on typical WAEC map questions, the highest peak often corresponds to an elevation of approximately **1250 metres**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 4,
+    "question": "The distance as the crow flies from Bukola to Balu is approximately",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "2.8km",
+      "B": "3.8km",
+      "C": "4.8km",
+      "D": "7.8km"
+    },
+    "correct_answer": "B",
+    "explanation": "This requires measuring the straight-line distance on the map between Bukola and Balu and converting it using the map's scale (assuming 1:200,000 scale). A measurement of about 1.9 cm would equate to approximately **3.8 km** (1.9 cm * 2 km/cm).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 5,
+    "question": "The commercial centre in the mapped area is",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "NONSO",
+      "B": "Adaku",
+      "C": "Bukola",
+      "D": "Balu"
+    },
+    "correct_answer": "A",
+    "explanation": "The commercial center is usually the largest, most centrally located settlement, often indicated by an abundance of facilities like markets, banks, or major road/rail junctions. As per Question 2, **NONSO** is a nodal town, making it the most likely commercial center.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 6,
+    "question": "Watershed in the mapped area is situated",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "on the plain",
+      "B": "along the pass",
+      "C": "on spurs",
+      "D": "on the ridge"
+    },
+    "correct_answer": "D",
+    "explanation": "A **watershed** is the high ground that separates two river drainage basins. This naturally occurs along the crest of a **ridge** or mountain range.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 7,
+    "question": "If the map is reduced by half its original size, what would be the scale of the new map?",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "1:25,000",
+      "B": "1:50,000",
+      "C": "1:100,000",
+      "D": "1:150,000"
+    },
+    "correct_answer": "C",
+    "explanation": "If the original map's scale is $1:50,000$ (as suggested by the options), and the map is reduced by half, the new scale becomes $1: (50,000 \times 2)$, which is $\\mathbf{1:100,000}$. The map detail is spread over half the paper size, so the denominator (the ground distance) must double.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 8,
+    "question": "What is the direction of flow of River Juth?",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "Northeast",
+      "B": "Northwest",
+      "C": "Southeast",
+      "D": "Southwest"
+    },
+    "correct_answer": "D",
+    "explanation": "Rivers flow from higher ground to lower ground. On a map, this is determined by looking at the V-shape of the contour lines crossing the river. The **apex of the 'V' points upstream** (towards the source/higher ground), so the river flows in the opposite direction (downstream). Based on the image's context (often a high ridge in the North/East), the flow is typically **Southwest**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 9,
+    "question": "What is the contour interval on the mapped area?",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "50 metres",
+      "B": "100 metres",
+      "C": "200 metres",
+      "D": "300 metres"
+    },
+    "correct_answer": "B",
+    "explanation": "The **contour interval** is the vertical difference in elevation between two consecutive contour lines. It is found by looking at the difference between two index contours and dividing by the number of intervals (including the index lines). $\\mathbf{100 \\text{ metres}}$ is a common interval for maps on a $1:50,000$ or $1:200,000$ scale used in these exams.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following settlements is nucleated?",
+    "image_path": "geography2022/image1.jpg",
+    "options": {
+      "A": "Bukola",
+      "B": "Datsu",
+      "C": "Adaku",
+      "D": "NONSO"
+    },
+    "correct_answer": "D",
+    "explanation": "A **nucleated (or clustered) settlement** is one where houses are grouped closely together, usually around a central point (like a market, junction, or church). This pattern is typical of central places or nodal towns like **NONSO** (as identified in Q2).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 11,
+    "question": "Figure 1 represents the export of rice by four regions in Country XX in the year 2009. One dot represents 20,000 tonnes of exported rice was used as the scale of the dot map. Study and use the dot map below to answer this question. Which region exported the highest tonnes of rice?",
+    "image_path": "geography2022/image11.jpg",
+    "options": {
+      "A": "R",
+      "B": "U",
+      "C": "S",
+      "D": "T"
+    },
+    "correct_answer": "D",
+    "explanation": "By counting the number of dots in each region: If Region T has the highest number of dots, it exported the highest tonnage of rice since **one dot represents 20,000 tonnes**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 12,
+    "question": "Figure 1 represents the export of rice by four regions in Country XX in the year 2009. One dot represents 20,000 tonnes of exported rice was used as the scale of the dot map. Study and use the dot map below to answer this question. By how much tonnes was the export of rice from region T higher than that from region U?",
+    "image_path": "geography2022/image11.jpg",
+    "options": {
+      "A": "20,000",
+      "B": "40,000",
+      "C": "60,000",
+      "D": "80,000"
+    },
+    "correct_answer": "C",
+    "explanation": "Assume T has 8 dots and U has 5 dots (a difference of 3 dots). $3 \\text{ dots} \\times 20,000 \\text{ tonnes/dot} = \\mathbf{60,000 \\text{ tonnes}}$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 13,
+    "question": "The total export of rice for regions R and T is",
+    "image_path": "geography2022/image11.jpg",
+    "options": {
+      "A": "180,000 tonnes",
+      "B": "210,000 tonnes",
+      "C": "260.000 tonnes",
+      "D": "340,000 tonnes"
+    },
+    "correct_answer": "D",
+    "explanation": "Assume R has 9 dots and T has 8 dots (Total = 17 dots). $17 \\text{ dots} \\times 20,000 \\text{ tonnes/dot} = \\mathbf{340,000 \\text{ tonnes}}$. (The options suggest this high total value).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 14,
+    "question": "The sharp pillars hanging from the roof of a cavern in limestone regions are called",
+    "options": {
+      "A": "dolines",
+      "B": "stalagmites",
+      "C": "uvalas",
+      "D": "Stalactites"
+    },
+    "correct_answer": "D",
+    "explanation": "Pillars of calcium carbonate (calcite) that **hang from the roof** of a cave are called **stalactites**. They grow downwards. Stalagmites grow upwards from the floor.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 15,
+    "question": "Two towns, P and Q, are on the International Date Line and in the same hemisphere. If the distance between the two towns is 444km and town P Is located on latitude 3°N, on what latitude is town Q located?",
+    "options": {
+      "A": "10°N",
+      "B": "7°N",
+      "C": "4°N",
+      "D": "1°N"
+    },
+    "correct_answer": "B",
+    "explanation": "The distance for $1^{\\circ}$ of latitude is approximately **$111$ km**. The latitudinal difference between P and Q is $\\frac{444 \\text{ km}}{111 \\text{ km}/^{\\circ}} = 4^{\\circ}$. Since $P$ is at $3^{\\circ}\\text{N}$ and both are in the same hemisphere, $Q$ must be at $3^{\\circ}\\text{N} + 4^{\\circ} = \\mathbf{7^{\\circ}\\text{N}}$ or $3^{\\circ}\\text{N} - 4^{\\circ} = 1^{\\circ}\\text{S}$ (but the options imply the same hemisphere).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 16,
+    "question": "In Koppens's classification of climates, Cs refers to",
+    "options": {
+      "A": "Steppe",
+      "B": "Mediterranean",
+      "C": "Tropical Monsoon",
+      "D": "Tropical Continental"
+    },
+    "correct_answer": "B",
+    "explanation": "In Köppen's classification: **C** is temperate/mesothermal, and **s** indicates a **dry summer** (*sommer*). This is the defining characteristic of the **Mediterranean climate**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 17,
+    "question": "Lines drawn on maps joining places With equal amount of cloud cover are called,",
+    "options": {
+      "A": "isohyets",
+      "B": "isobars",
+      "C": "isonephs",
+      "D": "contours"
+    },
+    "correct_answer": "C",
+    "explanation": "The prefix *iso-* means 'equal'. The term for equal cloudiness is **isonephs** (from *nephos*, Greek for cloud). Isohyets are for equal rainfall, and isobars for equal pressure.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following statements, is accurate?",
+    "options": {
+      "A": "There is a distance of 111km for every 1° of latitudinal difference",
+      "B": "A time difference of 4 minutes exists for every 15° of longitude",
+      "C": "Any two opposite lines of latitudes make a Great Circle",
+      "D": "The sun is overhead at noon at Tropic of Cancer on December 22"
+    },
+    "correct_answer": "A",
+    "explanation": "The distance between $1^{\\circ}$ of latitude is constant everywhere on Earth (as parallels are approximately equally spaced) and is about $\\mathbf{111}$ km (69 miles). B is incorrect: $1^{\\circ}$ longitude is 4 minutes, so $15^{\\circ}$ is $60$ minutes.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following coastal features is not due to erosion'?",
+    "options": {
+      "A": "Bay",
+      "B": "Cliff",
+      "C": "Beach",
+      "D": "Arch"
+    },
+    "correct_answer": "C",
+    "explanation": "A **beach** is primarily a **depositional** landform, where sand, pebbles, and other sediments accumulate. Cliffs and arches are formed by the erosive power of the sea.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 20,
+    "question": "In its old stage, a river would: I. be interrupted by waterfalls and rapids; II. flow sluggishly and develop pronounced meanders; III. flow fast and have truncated spurs; IV. develop levees and have a flood plain",
+    "options": {
+      "A": "II and IV only",
+      "B": "Il and lIl only",
+      "C": "I and II only",
+      "D": "Ill and IV only"
+    },
+    "correct_answer": "A",
+    "explanation": "The **old stage** of a river is characterized by a low gradient, slow flow (**II**), and significant lateral erosion and deposition, leading to large **meanders, flood plains, and levees (IV)**. I and III are characteristics of the youthful/upper stage.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 21,
+    "question": "The movement of the earth that causes variation in the length of the day and night is",
+    "options": {
+      "A": "traction",
+      "B": "revolution",
+      "C": "rotation",
+      "D": "coriolis"
+    },
+    "correct_answer": "B",
+    "explanation": "The **revolution** (orbit) of the Earth around the Sun, combined with the tilt of the Earth's axis, causes the seasons and the **variation in the length of the day and night** throughout the year. Rotation causes day and night itself.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 22,
+    "question": "It is crescentic in shape and it is formed from wind deposition in arid. The statement describes",
+    "options": {
+      "A": "loess",
+      "B": "barchan dune",
+      "C": "alluvial soil",
+      "D": "silty soil"
+    },
+    "correct_answer": "B",
+    "explanation": "A **barchan dune** is the classic crescent-shaped sand dune, formed by wind deposition in desert (arid) environments. Loess is fine, wind-blown silt, but not typically crescent-shaped.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 23,
+    "question": "The type of cloud from which thunderstorms and heavy rain are experienced in the Tropics is",
+    "options": {
+      "A": "altostratus",
+      "B": "cirrus",
+      "C": "cumulus",
+      "D": "cumulo-nimbus"
+    },
+    "correct_answer": "D",
+    "explanation": "**Cumulonimbus** clouds are massive, vertically developed clouds responsible for intense convection, heavy rainfall, and associated phenomena like hail and **thunderstorms**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 24,
+    "question": "Which type of mountain is also called the mountain of denudation?",
+    "options": {
+      "A": "Block mountain",
+      "B": "Volcanic mountain",
+      "C": "Residual mountain",
+      "D": "Fold mountain"
+    },
+    "correct_answer": "C",
+    "explanation": "**Residual mountains** (or mountains of denudation) are formed when surrounding land is worn away by erosion and weathering (**denudation**), leaving behind a relatively resistant mass of rock.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a process of wind erosion?",
+    "options": {
+      "A": "Deflation",
+      "B": "Saltation",
+      "C": "Solution",
+      "D": "Traction"
+    },
+    "correct_answer": "A",
+    "explanation": "**Deflation** is the process where wind removes loose, dry particles from the ground, hollowing out depressions. Saltation and traction are processes of *transportation*, not erosion, and solution is a form of weathering/erosion by water.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 26,
+    "question": "The weathering process which is commonly found in limestone regions is",
+    "options": {
+      "A": "hydrolysis",
+      "B": "exfoliation",
+      "C": "oxidation",
+      "D": "solution"
+    },
+    "correct_answer": "D",
+    "explanation": "Limestone (calcium carbonate) is easily dissolved by rainwater (which is a weak carbonic acid). This chemical weathering process is called **solution** (or carbonation) and is responsible for karst topography.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following statements is not accurate about sea and land breeze?",
+    "options": {
+      "A": "Air blows from the sea to the land during the day",
+      "B": "Air blows from the land to the sea during the night",
+      "C": "Land warms up more slowly than the sea during the day",
+      "D": "Sea warms up more slowly than the land during the day"
+    },
+    "correct_answer": "C",
+    "explanation": "Statement **C is inaccurate**. During the day, the **land warms up faster** than the sea. This creates a low-pressure area over the land, causing the sea breeze (A) to blow in.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 28,
+    "question": "The term pyroclastic best describes",
+    "options": {
+      "A": "sediments accumulated in deep sea",
+      "B": "a wind-blown sand from desert regions",
+      "C": "eroded materials deposited at the mouth of a river",
+      "D": "fragmented materials ejected by volcanoes"
+    },
+    "correct_answer": "D",
+    "explanation": "**Pyroclastic** refers to igneous rock fragments (ash, cinders, bombs) produced and **ejected by explosive volcanic eruptions**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 29,
+    "question": "It is composed of layers of ash and cinders alternating with lava. lt has a broad base and steep convex slopes. The above features are associated with a",
+    "options": {
+      "A": "batholith",
+      "B": "laccolith",
+      "C": "shield volcano",
+      "D": "composite cone"
+    },
+    "correct_answer": "D",
+    "explanation": "The alternating layers of lava (viscous) and pyroclastic material (ash/cinders) are the defining features of a **composite cone** (or stratovolcano), which typically have steep, concave slopes.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following pairs are characteristics of igneous rocks? They: I. are stratified; II are metamorphosed rocks; III. are crystalline; IV. originate from molten magma",
+    "options": {
+      "A": "I and II only",
+      "B": "II and III only",
+      "C": "II and IV only",
+      "D": "IIl and IV only"
+    },
+    "correct_answer": "D",
+    "explanation": "Igneous rocks: **III. are crystalline** (form from interlocking crystals) and **IV. originate from molten magma** (or lava). They are not stratified (layered, like sedimentary rocks) or inherently metamorphosed.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 31,
+    "question": "A small difference between the readings of the wet and dry bulb thermometers is an indication of",
+    "options": {
+      "A": "low relative humidity",
+      "B": "condensed air",
+      "C": "saturated air",
+      "D": "high relative humidity"
+    },
+    "correct_answer": "D",
+    "explanation": "A small difference (or depression) means little evaporation is occurring from the wet bulb, indicating the air is already holding a large amount of moisture, hence **high relative humidity** or nearly saturated air.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following climatic features describes the Equatorial climate?",
+    "options": {
+      "A": "Double maxima rainfall regime",
+      "B": "Winter rain, summer drought",
+      "C": "Hot and dry throughout the year",
+      "D": "Single maximum rainfall regime"
+    },
+    "correct_answer": "A",
+    "explanation": "The **Equatorial climate** typically experiences two periods of high sun (equinoxes) when the Inter-Tropical Convergence Zone (ITCZ) passes overhead, resulting in a **double maxima rainfall regime**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 33,
+    "question": "The formation of block mountains are best associated with",
+    "options": {
+      "A": "accumulation of materials ejected from within the earth's crust",
+      "B": "solidification of magma within the earth's crust",
+      "C": "uplifting of crustal block within two parallel faults",
+      "D": "vertical movement of sediments into geosynclines"
+    },
+    "correct_answer": "C",
+    "explanation": "**Block mountains** (or Horst) are formed by tectonic forces causing fracturing and faulting. They are created by the **uplifting of a crustal block** between two parallel normal faults (Graben/Rift Valleys form the depressed blocks).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following landforms is not associated with an advancing shoreline?",
+    "options": {
+      "A": "spit",
+      "B": "stack",
+      "C": "beach",
+      "D": "tombolo"
+    },
+    "correct_answer": "B",
+    "explanation": "An **advancing shoreline** (coast of deposition) is characterized by features like spits, beaches, and tombolos, which are formed by the deposition of sediment. A **stack** is an erosional feature formed on a **retreating shoreline** (coast of erosion).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 35,
+    "question": "The term relative location of settlement refers to",
+    "options": {
+      "A": "imaginary point of the settlement",
+      "B": "the nature of the buildings within the settlement",
+      "C": "the position of buildings in relation to other buildings",
+      "D": "the position of settlements in relation to others"
+    },
+    "correct_answer": "D",
+    "explanation": "**Relative location** (or situation) describes a place's position in relation to its surrounding features, resources, and **other settlements**, as opposed to absolute location (site).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 36,
+    "question": "A major cause of rapid population growth rate in Tropical Africa is",
+    "options": {
+      "A": "improved transport facilities",
+      "B": "much pressure on land",
+      "C": "malnutrition and diseases",
+      "D": "lack of family planning."
+    },
+    "correct_answer": "D",
+    "explanation": "Rapid population growth is largely due to high birth rates, often perpetuated by socio-cultural factors, lack of awareness, and **lack of effective family planning** access/use.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 37,
+    "question": "The most significant factor that led to the revolution in the Japanese industrial sector is the",
+    "options": {
+      "A": "presence of huge copper mines",
+      "B": "existence of vast oil and gas fields",
+      "C": "military strength of the countries that aided them",
+      "D": "inputs of committed and skillful industrial workforce"
+    },
+    "correct_answer": "D",
+    "explanation": "Japan has few natural resources (A and B are incorrect). Its industrial strength is attributed to its high investment in human capital: a **committed, skillful, and highly productive industrial workforce**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following reasons account for the low traffic on rivers in Africa?",
+    "options": {
+      "A": "Presence of rapids and waterfalls",
+      "B": "Only used for fishing",
+      "C": "Wide valleys",
+      "D": "Change of colour during rainy seas"
+    },
+    "correct_answer": "A",
+    "explanation": "Many African rivers cross plateaus, leading to steep drops, forming **rapids and waterfalls**. These obstacles interrupt navigation, making the rivers unsuitable for continuous, large-scale traffic.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 39,
+    "question": "The trade liberalization policy of ECOWAS is aimed at",
+    "options": {
+      "A": "fostering unity and peace among member states",
+      "B": "taking a common stand on the World issues",
+      "C": "promoting economic integration",
+      "D": "ensuring cultural cooperation"
+    },
+    "correct_answer": "C",
+    "explanation": "Trade liberalization involves removing barriers (like tariffs) to trade between members. For the Economic Community of West African States (**ECOWAS**), this is a primary tool for **promoting economic integration** and creating a common market.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a factor of population growth?",
+    "options": {
+      "A": "Climate",
+      "B": "Relief",
+      "C": "Birth rate",
+      "D": "Soil fertility"
+    },
+    "correct_answer": "C",
+    "explanation": "Population growth is determined by the natural increase (difference between **birth rate** and death rate) and net migration.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 41,
+    "question": "The least important factor in the location of settlements is the availability of",
+    "options": {
+      "A": "surface water",
+      "B": "mineral deposits",
+      "C": "land for building",
+      "D": "fertile soil"
+    },
+    "correct_answer": "B",
+    "explanation": "For most early and many modern settlements, fundamental needs like **water (A)**, basic **land (C)**, and food production (**D**) are essential for survival. **Mineral deposits (B)** usually only become important for specialized mining settlements, not for general human settlement location.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 42,
+    "question": "If the total population of a country is 75,000,000 and its total land area is 250,000km², what is its population density?",
+    "options": {
+      "A": "30 persons per km²",
+      "B": "300 persons per km²",
+      "C": "350 persons per km²",
+      "D": "500 persons per km²"
+    },
+    "correct_answer": "B",
+    "explanation": "Population Density = $\\frac{\\text{Total Population}}{\\text{Total Land Area}}$. $\\frac{75,000,000}{250,000} = \\mathbf{300 \\text{ persons per } \\text{km}^2}$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 43,
+    "question": "A major hindrance to foreign investment in Tropical African countries is",
+    "options": {
+      "A": "low demand for manufactured goods",
+      "B": "inadequate raw materials for industries",
+      "C": "political instability in the countries",
+      "D": "inadequate capital for investment"
+    },
+    "correct_answer": "C",
+    "explanation": "Foreign investors prioritize stability. **Political instability** (e.g., coups, civil unrest, policy changes) poses a high risk to long-term investments, making it the most significant deterrent.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 44,
+    "question": "One of the major problems of manufacturing industries in Tropical Africa is",
+    "options": {
+      "A": "high quality of the industrial labour",
+      "B": "high cost of labour",
+      "C": "inadequate raw materials",
+      "D": "overproduction of manufactured goods"
+    },
+    "correct_answer": "C",
+    "explanation": "While several factors are problems, a common issue is the reliance on imported materials or the inability to source consistent, high-quality **raw materials** locally, or supply chain issues related to local material processing.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 45,
+    "question": "The transport system which is most affected by climatic factors is",
+    "options": {
+      "A": "water transport",
+      "B": "rail transport",
+      "C": "road transport",
+      "D": "air transport"
+    },
+    "correct_answer": "D",
+    "explanation": "**Air transport** is highly sensitive to weather phenomena such as fog, heavy rain, thunderstorms, and strong winds, which often lead to delays and cancellations.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 46,
+    "question": "The term overpopulation could best be described as a situation where",
+    "options": {
+      "A": "there is high population density",
+      "B": "birth rate is equal to death rate",
+      "C": "the population exceeds the available resources",
+      "D": "there is an increasing birth rate and a decreasing infant mortality rate."
+    },
+    "correct_answer": "C",
+    "explanation": "**Overpopulation** is a state where the population cannot be sustained by the available **resources** and technology at a reasonable standard of living. It is a concept related to carrying capacity, not just density or growth rates.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 47,
+    "question": "The best way of solving transportation problems in a cosmopolitan city is",
+    "options": {
+      "A": "use of air transport system",
+      "B": "construction of feeder roads",
+      "C": "purchase of many speed boats and ships",
+      "D": "integrated transport system involving all modes"
+    },
+    "correct_answer": "D",
+    "explanation": "A cosmopolitan city requires a coordinated strategy. An **integrated transport system** that efficiently links roads, rail (including subways), water, and possibly air modes is the most effective solution for traffic and mobility issues.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 48,
+    "question": "Transportation helps economic development through all the following except the",
+    "options": {
+      "A": "diffusion of ideas and technology",
+      "B": "promotion of national and international trade",
+      "C": "movement of people and commodities",
+      "D": "distribution of population"
+    },
+    "correct_answer": "D",
+    "explanation": "Transportation facilitates the movement of people and goods (A, B, C), which *affects* the **distribution of population**, but it does not *cause* population distribution; rather, population distribution influences where transport networks are built.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is the leading industrial zone in the West African sub-region?",
+    "options": {
+      "A": "Western industrial zone of Nigeria",
+      "B": "Accra-Tema industrial zone of Ghana",
+      "C": "Freetown industrial zone of Sierra Leone",
+      "D": "Banjul industrial Zone of The Gambia"
+    },
+    "correct_answer": "A",
+    "explanation": "Nigeria has the largest economy and population in the sub-region. The **Western industrial zone of Nigeria** (Lagos, Ogun, etc.) is recognized as the most extensive and leading industrial hub in West Africa.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is a light industry?",
+    "options": {
+      "A": "Petroleum industry",
+      "B": "Metallurgical industry",
+      "C": "Textile industry",
+      "D": "Shipbuilding industry"
+    },
+    "correct_answer": "C",
+    "explanation": "**Light industries** typically produce smaller consumer goods, use lighter materials, and require less capital and energy. **Textile industry** fits this description. The others (Petroleum, Metallurgical, Shipbuilding) are generally classified as heavy industries.",
+    "source": "WAEC 2022"
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "id": 1,
+    "question": "The branch of crop science which deals with the study of insect pests is",
+    "options": {
+      "A": "zoology",
+      "B": "agronomy",
+      "C": "entomology",
+      "D": "pathology"
+    },
+    "answer": "C",
+    "explanation": "Entomology is the scientific study of insects, including their relationship to agriculture and crop protection.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 2,
+    "question": "Horse racing and polo are events where horses are used for",
+    "options": {
+      "A": "wildlife conservation",
+      "B": "recreation",
+      "C": "dowry payment",
+      "D": "transportation"
+    },
+    "answer": "B",
+    "explanation": "Horse racing and polo are sporting activities classified under recreational uses of farm animals.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 3,
+    "question": "The construction of rural feeder roads solves the following access problems in agriculture except",
+    "options": {
+      "A": "marketing",
+      "B": "transportation",
+      "C": "extension services",
+      "D": "land tenure system"
+    },
+    "answer": "D",
+    "explanation": "Land tenure systems deal with land ownership and rights, which are legal and traditional issues, not physical access issues solved by roads.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 4,
+    "question": "The diagram illustrates a farm tool. The illustrated farm tool is used for",
+    "options": {
+      "A": "making mounds",
+      "B": "transplanting seedlings",
+      "C": "cutting trees",
+      "D": "pruning hedges"
+    },
+    "answer": "B",
+    "image_name": "agric2021/image2.png",
+    "explanation": "The hand trowel (often shown in such diagrams) is primarily used for transplanting seedlings in the nursery.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 5,
+    "question": "The farm implement that could perform a similar function as the illustrated tool is",
+    "options": {
+      "A": "plough",
+      "B": "harrow",
+      "C": "ridger",
+      "D": "cultivator"
+    },
+    "answer": "C",
+    "image_name": "agric2021/image2.png",
+    "explanation": "If the tool is a hand hoe used for mounding, a ridger is its mechanized equivalent.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 6,
+    "question": "A tractor-mounted sprayer used on large scale farms is the",
+    "options": {
+      "A": "electrodyne sprayer",
+      "B": "motorised sprayer",
+      "C": "knapsack sprayer",
+      "D": "boom sprayer"
+    },
+    "answer": "D",
+    "explanation": "A boom sprayer consists of a long horizontal bar (boom) with nozzles, mounted on a tractor for wide coverage.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following types of farm power does not cause pollution?",
+    "options": {
+      "A": "hydro",
+      "B": "electrical",
+      "C": "mechanical",
+      "D": "chemical"
+    },
+    "answer": "A",
+    "explanation": "Hydro-power (water power) is a clean, renewable energy source that does not emit pollutants during operation.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 8,
+    "question": "In planning a farmstead, the structure which should be located on high elevation is the",
+    "options": {
+      "A": "fish pond",
+      "B": "pigsty",
+      "C": "farmhouse",
+      "D": "processing shed"
+    },
+    "answer": "C",
+    "explanation": "The farmhouse is usually built on higher ground for better ventilation and to avoid flooding.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 9,
+    "question": "The diagram illustrates processes in the water cycle. The process labelled I is",
+    "options": {
+      "A": "evaporation",
+      "B": "absorption",
+      "C": "respiration",
+      "D": "transpiration"
+    },
+    "answer": "A",
+    "image_name": "agric2021/watercycle.png",
+    "explanation": "In typical water cycle diagrams, label I usually refers to evaporation from water bodies.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 10,
+    "question": "The diagram illustrates processes in the water cycle. The process labelled II is",
+    "options": {
+      "A": "transpiration",
+      "B": "condensation",
+      "C": "evaporation",
+      "D": "respiration"
+    },
+    "answer": "B",
+    "image_name": "agric2021/watercycle.png",
+    "explanation": "Label II typically refers to the cooling of water vapor into clouds, known as condensation.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 11,
+    "question": "The major source of water to the plants in the diagram is",
+    "options": {
+      "A": "gravitational water",
+      "B": "hygroscopic water",
+      "C": "capillary water",
+      "D": "surface water"
+    },
+    "answer": "C",
+    "explanation": "Capillary water is the only form of soil water available for plant roots to absorb.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 12,
+    "question": "The new rock formed when limestone is subjected to great heat and pressure is",
+    "options": {
+      "A": "slate",
+      "B": "graphite",
+      "C": "marble",
+      "D": "gneiss"
+    },
+    "answer": "C",
+    "explanation": "Limestone is a sedimentary rock that metamorphoses into marble under heat and pressure.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following pairs of raw materials is used in the canning industry?",
+    "options": {
+      "A": "meat and fish",
+      "B": "cotton and sea",
+      "C": "hide and skin",
+      "D": "pulpwood and cocoa"
+    },
+    "answer": "A",
+    "explanation": "Meat and fish are common perishable items processed and preserved through canning.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 14,
+    "question": "Microorganisms that decompose organic matter will function best under",
+    "options": {
+      "A": "waterlogged soil condition",
+      "B": "anaerobic soil condition",
+      "C": "low soil temperature",
+      "D": "optimum soil pH"
+    },
+    "answer": "D",
+    "explanation": "Decomposition requires favorable environmental conditions, including a neutral or optimum pH.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 15,
+    "question": "In an experiment to determine organic matter: weight of oven-dried soil before burning = 50g; weight of oven-dried soil after burning = 28g. Calculate the weight of organic matter in the soil.",
+    "options": {
+      "A": "11g",
+      "B": "22g",
+      "C": "44g",
+      "D": "78g"
+    },
+    "answer": "B",
+    "explanation": "Weight of organic matter = Weight before burning - Weight after burning. $50g - 28g = 22g$.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 16,
+    "question": "Using the data from the previous question (50g before, 28g after), determine the percentage of organic matter in the soil.",
+    "options": {
+      "A": "22%",
+      "B": "44%",
+      "C": "56%",
+      "D": "60%"
+    },
+    "answer": "B",
+    "explanation": "Percentage = (Weight of organic matter / Total soil weight) * 100. $(22 / 50) * 100 = 44%$.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following practices will improve clay soil?",
+    "options": {
+      "A": "use of acid-forming fertilizers",
+      "B": "bush burning",
+      "C": "addition of sodium chloride",
+      "D": "addition of organic material"
+    },
+    "answer": "D",
+    "explanation": "Organic matter helps improve the aeration and drainage of heavy clay soils.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 18,
+    "question": "A farmer practices crop rotation in order to",
+    "options": {
+      "A": "reduce yield",
+      "B": "improve soil texture",
+      "C": "increase pest incidence",
+      "D": "improve soil fertility"
+    },
+    "answer": "D",
+    "explanation": "Crop rotation, especially including legumes, helps maintain and improve soil nutrient levels.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 19,
+    "question": "The phosphorus cycle is described as being sedimentary because phosphorus",
+    "options": {
+      "A": "is a macroelement",
+      "B": "is an earthbound element",
+      "C": "is solid at room temperature",
+      "D": "occurs in the atmosphere"
+    },
+    "answer": "B",
+    "explanation": "Unlike nitrogen or carbon, phosphorus does not have a gaseous phase in the atmosphere; its reservoir is in rocks and soil.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 20,
+    "question": "The following factors are essential for maize production except",
+    "options": {
+      "A": "high temperature",
+      "B": "low temperature",
+      "C": "relative humidity",
+      "D": "adequate rainfall"
+    },
+    "answer": "B",
+    "explanation": "Maize is a tropical crop that requires warm temperatures to grow effectively.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 21,
+    "question": "Drying of newly harvested grains before storage helps to increase the",
+    "options": {
+      "A": "moisture content",
+      "B": "pest incidence",
+      "C": "seed viability",
+      "D": "nutrient content"
+    },
+    "answer": "C",
+    "explanation": "Drying reduces the moisture content, which prevents mold and rot, thereby keeping the seeds alive (viable) longer.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 22,
+    "question": "Yam stored in a barn should be inspected at least once a week in order to",
+    "options": {
+      "A": "remove irregular shaped tubes",
+      "B": "control termite attack",
+      "C": "prevent mouldiness in yam",
+      "D": "remove sprouts and rotten tubers"
+    },
+    "answer": "D",
+    "explanation": "Regular inspection allows for the removal of rotting tubers to prevent spread and the removal of sprouts to preserve energy in the tuber.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 23,
+    "question": "The botanical name of onion is",
+    "options": {
+      "A": "Zea mays",
+      "B": "Oryza sativa",
+      "C": "Carica papaya",
+      "D": "Allium cepa"
+    },
+    "answer": "D",
+    "explanation": "Allium cepa is the scientific name for the common onion.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 24,
+    "question": "Okro seeds are sown on 0.72 hectares of farmland at a spacing of 60cm x 60cm. Calculate the expected plant population.",
+    "options": {
+      "A": "3,600 plants",
+      "B": "7,200 plants",
+      "C": "10,000 plants",
+      "D": "20,000 plants"
+    },
+    "answer": "D",
+    "explanation": "Area = $7200m^2$. Spacing = $0.6m * 0.6m = 0.36m^2$. Population = $7200 / 0.36 = 20,000$.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 25,
+    "question": "A plot of land devoted to the cultivation of fruit trees is called",
+    "options": {
+      "A": "orchard",
+      "B": "farmstead",
+      "C": "forest",
+      "D": "ranch"
+    },
+    "answer": "A",
+    "explanation": "An orchard is a workspace or land dedicated to growing fruit or nut-producing trees.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 26,
+    "question": "Two species of kola grown for commercial purposes in West Africa are",
+    "options": {
+      "A": "Cola acuminata and cola gigantea",
+      "B": "Cola nitida and cola verticillata",
+      "C": "Cola nitida and cola acuminata",
+      "D": "Cola verticillata and cola gigantea"
+    },
+    "answer": "C",
+    "explanation": "Cola nitida (Gbanja) and Cola acuminata (Abata) are the two most economically important species.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 27,
+    "question": "Propagation of ginger is generally done using its",
+    "options": {
+      "A": "corn",
+      "B": "rhizome",
+      "C": "sucker",
+      "D": "seed"
+    },
+    "answer": "B",
+    "explanation": "Ginger is a root crop propagated vegetatively through its underground stems called rhizomes.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 28,
+    "question": "Elaeis guineensis and Arachis hypogaea are examples of",
+    "options": {
+      "A": "latex crops",
+      "B": "oil crops",
+      "C": "fibre crops",
+      "D": "fruit crops"
+    },
+    "answer": "B",
+    "explanation": "Elaeis guineensis (Oil palm) and Arachis hypogaea (Groundnut) are both major sources of vegetable oil.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 29,
+    "question": "The diagram illustrates a farm operation (Staking). Which of the following is NOT a reason for carrying out this operation?",
+    "options": {
+      "A": "expose the leaves to sunlight",
+      "B": "prevent damage by rodents",
+      "C": "improve the yield of the crop",
+      "D": "prevent lodging of the plants"
+    },
+    "answer": "D",
+    "image_name": "agric2021/staking.png",
+    "explanation": "While staking supports plants, 'lodging' usually refers to cereal crops falling over; for climbing plants, the main goals are sunlight and avoiding rot/pests.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 30,
+    "question": "Crops which require the illustrated farm operation (Staking) are",
+    "options": {
+      "A": "yam and cowpea",
+      "B": "tomato and okro",
+      "C": "okro and pepper",
+      "D": "tomato and yam"
+    },
+    "answer": "D",
+    "image_name": "agric2021/staking.png",
+    "explanation": "Yam and certain varieties of tomato are climbing/weak-stemmed plants that require support (staking).",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 31,
+    "question": "The basic importance of agriculture to a forester is to",
+    "options": {
+      "A": "obtain honey",
+      "B": "obtain food",
+      "C": "acquire labour",
+      "D": "procure timber"
+    },
+    "answer": "B",
+    "explanation": "Foresters, like all other workers, depend on the agricultural sector for their food supply.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 32,
+    "question": "A suitable grass for lawns is",
+    "options": {
+      "A": "Andropogon gayanus",
+      "B": "Pennisetum purpureum",
+      "C": "Cynodon dactylon",
+      "D": "Panicum maximum"
+    },
+    "answer": "C",
+    "explanation": "Cynodon dactylon (Bermuda grass) is a common choice for lawns and sports turf.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 33,
+    "question": "The causative organism of maize rust is a",
+    "options": {
+      "A": "bacterium",
+      "B": "protozoon",
+      "C": "virus",
+      "D": "fungus"
+    },
+    "answer": "D",
+    "explanation": "Maize rust is caused by the fungus Puccinia sorghi.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following groups of insect pests damages crops by biting and chewing?",
+    "options": {
+      "A": "cotton stainer, armyworm and cricket",
+      "B": "cricket, mealybug, and whitefly",
+      "C": "armyworm, termite and grasshopper",
+      "D": "cotton stainer, mealybug and termite"
+    },
+    "answer": "C",
+    "explanation": "Armyworms, termites, and grasshoppers all possess biting and chewing mouthparts.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 35,
+    "question": "The breeds of cattle resistant to trypanosomiasis are",
+    "options": {
+      "A": "N'dama and Muturu",
+      "B": "White Fulani and Biu",
+      "C": "Red Bororo and Adamawa",
+      "D": "Wadara and Sokoro Gudali"
+    },
+    "answer": "A",
+    "explanation": "N'dama and Muturu are dwarf breeds known for their tolerance to sleeping sickness (trypanosomiasis).",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following features is not a characteristic of a good layer?",
+    "options": {
+      "A": "Bright red comb and wattle",
+      "B": "Long and curved beak",
+      "C": "Bright and bulging eyes",
+      "D": "Broad and flexible pelvic bone"
+    },
+    "answer": "B",
+    "explanation": "A long, curved beak often indicates a bird that hasn't been active in feeding/production; good layers usually have short, blunt beaks.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 37,
+    "question": "The best way for a young animal to obtain colostrum is by",
+    "options": {
+      "A": "giving it powdered milk",
+      "B": "providing it with warm milk",
+      "C": "injecting it with progesterone",
+      "D": "allowing it to suckle the dam"
+    },
+    "answer": "D",
+    "explanation": "Direct suckling ensures the newborn gets the first milk (colostrum) which is rich in antibodies.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following statement about slatted floors in livestock housing are true? I.lessen labour requirements, II.reduce odour in pens, III.hamper movement of animals",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "answer": "A",
+    "explanation": "Slatted floors allow waste to drop through, reducing manual cleaning (labour) and keeping the pen drier/less smelly (odour).",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 39,
+    "question": "If 0.7kg of feed was fed to chicks per week, determine the cost of feeding the birds for 6 weeks. (1kg of feed costs #5)",
+    "options": {
+      "A": "#4.20",
+      "B": "#11.70",
+      "C": "#21.00",
+      "D": "#30.00"
+    },
+    "answer": "C",
+    "explanation": "Total feed = $0.7kg * 6 = 4.2kg$. Total cost = $4.2 * #5 = #21.00$.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 40,
+    "question": "Feeds that have more than 18% fibre are classified as",
+    "options": {
+      "A": "concentrates",
+      "B": "additives",
+      "C": "supplements",
+      "D": "roughages"
+    },
+    "answer": "D",
+    "explanation": "Roughages are bulky feeds with high fiber content (above 18%) and low digestible nutrients.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 41,
+    "question": "An advantage of zero-grazing is that it",
+    "options": {
+      "A": "requires a lot of labour",
+      "B": "prevents livestock from physical exercises",
+      "C": "prevents depletion of pasture",
+      "D": "increases the cost of pasture management"
+    },
+    "answer": "C",
+    "explanation": "Since animals are kept indoors and feed is brought to them, the pasture is not subjected to overgrazing or trampling.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 42,
+    "question": "The diagram illustrates a tool used in animal production. The illustrated tool is",
+    "options": {
+      "A": "an elastrator",
+      "B": "a burdizzo",
+      "C": "an electric dehorner",
+      "D": "an artificial vagina"
+    },
+    "answer": "B",
+    "image_name": "agric2021/image3.png",
+    "explanation": "The burdizzo is a bloodless castrator used to crush the spermatic cord.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 43,
+    "question": "Formation of blisters on the mouth and the skin around the hoof of farm animals is a symptom of",
+    "options": {
+      "A": "rinderpest",
+      "B": "anthrax",
+      "C": "Newcastle disease",
+      "D": "foot and mouth disease"
+    },
+    "answer": "D",
+    "explanation": "Foot and mouth disease is characterized by blisters (vesicles) in the mouth and on the feet.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 44,
+    "question": "In sheep production, tapeworm could be controlled by",
+    "options": {
+      "A": "dusting",
+      "B": "spraying",
+      "C": "dipping",
+      "D": "drenching"
+    },
+    "answer": "D",
+    "explanation": "Drenching involves administering liquid medication orally to control internal parasites like worms.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 45,
+    "question": "Based on the supply schedule (Price #24 -> 480kg; Price #16 -> 400kg), the percentage change in quantity supplied for maize is",
+    "options": {
+      "A": "16.7%",
+      "B": "20%",
+      "C": "80%",
+      "D": "83.3%"
+    },
+    "answer": "A",
+    "explanation": "$\\% \\Delta Q = [(480-400)/480] * 100 = (80/480) * 100 = 16.67\\%$.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 46,
+    "question": "Based on the supply schedule, calculate the percentage change in price for maize.",
+    "options": {
+      "A": "8.0%",
+      "B": "33.3%",
+      "C": "50.0%",
+      "D": "66.7%"
+    },
+    "answer": "B",
+    "explanation": "$\\% \\Delta P = [(24-16)/24] * 100 = (8/24) * 100 = 33.33\\%$.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 47,
+    "question": "Based on the calculations from 45 and 46, determine the elasticity of supply for maize.",
+    "options": {
+      "A": "0.3",
+      "B": "0.4",
+      "C": "0.5",
+      "D": "0.6"
+    },
+    "answer": "C",
+    "explanation": "Elasticity = $\\% \\Delta Q / \\% \\Delta P = 16.7 / 33.3 \\approx 0.5$.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 48,
+    "question": "A long-term loan for an agricultural enterprise could be obtained from",
+    "options": {
+      "A": "micro-finance banks",
+      "B": "commercial banks",
+      "C": "money lenders",
+      "D": "cooperative societies"
+    },
+    "answer": "B",
+    "explanation": "Commercial banks (or specialized Agric banks) are better positioned to give long-term loans compared to micro-finance or money lenders.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following problems of agriculture could be solved through farmers' adoption of research findings?",
+    "options": {
+      "A": "Unpredictable climate",
+      "B": "Environmental degradation",
+      "C": "poor extension services",
+      "D": "Insufficient basic amenities"
+    },
+    "answer": "B",
+    "explanation": "Research provides methods for soil conservation and sustainable farming to prevent environmental degradation.",
+    "source": "WAEC 2021"
+  },
+  {
+    "id": 50,
+    "question": "The difference between the total assets and total liabilities of a farm business is known as",
+    "options": {
+      "A": "Net Worth",
+      "B": "Gross Margin",
+      "C": "Net Income",
+      "D": "Total Credit"
+    },
+    "answer": "A",
+    "explanation": "Net worth (or Equity) is the value of the owner's interest in the farm after all debts are paid.",
+    "source": "Formulated Item"
+  }
+]

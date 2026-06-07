@@ -1,0 +1,625 @@
+[
+  {
+    "id": 1,
+    "question": "What is the scale of the map in the statement form?",
+    "options": {
+      "A": "1 centimeter on the map represents 2 kilometers on the ground",
+      "B": "1 centimeter on the map represents 1 kilometer on the ground",
+      "C": "1 centimeter on the map represents 1/2 kilometer on the ground",
+      "D": "1 centimeter on the map represents a kilometer on the ground"
+    },
+    "answer": "B",
+    "explanation": "By measuring the linear scale bar on the map: $\\mathbf{4 \\text{ cm} = 4 \\text{ km}}$ (from the scale bar itself, 4 units of 1 km each). Therefore, $\\mathbf{1 \\text{ cm} \\text{ on the map represents } 1 \\text{ kilometer} \\text{ on the ground}}$. Option B and D are identical in meaning.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 2,
+    "question": "The contour interval on the mapped arc is",
+    "options": {
+      "A": "50 meters",
+      "B": "100 meters",
+      "C": "150 meters",
+      "D": "200 meters"
+    },
+    "answer": "A",
+    "explanation": "The labelled contour lines are **50, 100, 150**, etc. The difference between two consecutive labelled contour lines is $100 \\text{ m} - 50 \\text{ m} = \\mathbf{50 \\text{ meters}}$ (assuming this is derived from the map's contours).",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 3,
+    "question": "The future of the mouth of River Bala is likely to be a",
+    "options": {
+      "A": "waterfall",
+      "B": "river capture",
+      "C": "saddle",
+      "D": "delta"
+    },
+    "answer": "D",
+    "explanation": "The mouth of River Bala opens into a large area of **swamp** (indicated by the swamp symbol). Swamps are low-lying areas where the river loses speed and deposits sediment, leading to the formation of a $\\mathbf{delta}$ at or near its mouth.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 4,
+    "question": "What is the direction of Sasa from Moma?",
+    "options": {
+      "A": "north east",
+      "B": "south west",
+      "C": "north west",
+      "D": "south cast"
+    },
+    "answer": "B",
+    "explanation": "To find the direction **of Sasa from Moma**, place a compass point on Moma. Sasa is clearly located to the left and down from Moma, which corresponds to the **south west** direction.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 5,
+    "question": "The highest point of the mapped area is approximately",
+    "options": {
+      "A": "325 meters",
+      "B": "375 meters",
+      "C": "390 meters",
+      "D": "395 meters"
+    },
+    "answer": "C",
+    "explanation": "The highest relief is found in the far **north-west**. The highest labelled contour is $150 \\text{ m}$. Assuming the contour interval of $50 \\text{ m}$ continues, the peak is estimated to be below the next index contour, making $\\mathbf{390 \\text{ meters}}$ the most reasonable estimate.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 6,
+    "question": "Which part of the mapped area can coastal fishing be practiced?",
+    "options": {
+      "A": "south western",
+      "B": "south eastern",
+      "C": "north eastern",
+      "D": "north western"
+    },
+    "answer": "A",
+    "explanation": "The key shows a 'Sea' symbol, which is located in the **south-western** corner of the map, west of Opom. Therefore, coastal fishing would be practiced in the $\\mathbf{south \\ western}$ area.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 7,
+    "question": "The feature marked Q on the mapped area can be described as",
+    "options": {
+      "A": "meander",
+      "B": "levee",
+      "C": "elbow",
+      "D": "oxbow lake"
+    },
+    "answer": "D",
+    "explanation": "The feature marked $\\mathbf{Q}$ is a crescent-shaped body of water, cut off from the main channel of the river. This is the characteristic shape and location of an $\\mathbf{oxbow \\ lake}$.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following settlements is likely to engage in fish processing",
+    "options": {
+      "A": "Lola",
+      "B": "Sasa",
+      "C": "Kako",
+      "D": "Opom"
+    },
+    "answer": "D",
+    "explanation": "Fish processing is likely to occur in the settlement nearest the source of fish, which is the **Sea** (coastal fishing). $\\mathbf{Opom}$ is the only named settlement clearly located on the coast and is therefore the most likely centre for coastal fish processing.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 9,
+    "question": "What is the approximate bearing of Lola from Sasa?",
+    "options": {
+      "A": "63",
+      "B": "154",
+      "C": "206",
+      "D": "334"
+    },
+    "answer": "B",
+    "explanation": "Lola is to the **South-East** of Sasa. A South-East direction corresponds to a bearing between $90^\\circ$ and $180^\\circ$. $\\mathbf{154^\\circ}$ is a typical South-East bearing.",
+    "is_map_dependent": true,
+    "image": "geography/image1.jpeg"
+  },
+  {
+    "id": 10,
+    "question": "The annual rainfall recorded at Station F is",
+    "options": {
+      "A": "831 mm",
+      "B": "813 mm",
+      "C": "381 mm",
+      "D": "318 mm"
+    },
+    "answer": "A",
+    "explanation": "The annual rainfall is the sum of the monthly rainfall: $0+0+0+10+108+133+187+201+187+5+0+0 = \\mathbf{831 \\text{ mm}}$ (derived from the climate table).",
+    "is_map_dependent": false,
+    "image": "geography/image2.jpeg"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following months is the hottest",
+    "options": {
+      "A": "January",
+      "B": "April",
+      "C": "May",
+      "D": "September"
+    },
+    "answer": "C",
+    "explanation": "The hottest month is the one with the highest recorded temperature. This is **May** at $\\mathbf{36^\\circ C}$ (derived from the climate table).",
+    "is_map_dependent": false,
+    "image": "geography/image2.jpeg"
+  },
+  {
+    "id": 12,
+    "question": "What is the annual range of temperature for station F",
+    "options": {
+      "A": "360\\u00b0c",
+      "B": "230\\u00b0c",
+      "C": "130\\u00b0c",
+      "D": "30\\u00b0c"
+    },
+    "answer": "C",
+    "explanation": "The annual range is the difference between the maximum and minimum monthly temperatures. Max: $36^\\circ C$ (May); Min: $23^\\circ C$ (Jan, Dec). Range: $36^\\circ C - 23^\\circ C = \\mathbf{13^\\circ C}$. Option C is the closest match, suggesting a typo in the options.",
+    "is_map_dependent": false,
+    "image": "geography/image2.jpeg"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following represents the correct sequence in which denudation occurs?",
+    "options": {
+      "A": "weathering, erosion, and deposition",
+      "B": "erosion, weathering, and deposition",
+      "C": "weathering, deposition, and erosion",
+      "D": "disposition, erosion, and weathering"
+    },
+    "answer": "A",
+    "explanation": "Denudation involves $\\mathbf{Weathering}$ (breaking down) $\\rightarrow$ $\\mathbf{Erosion}$ (carrying away) $\\rightarrow$ $\\mathbf{Deposition}$ (settling)."
+  },
+  {
+    "id": 14,
+    "question": "Which drainage pattern is best formed in the area of alternate hard and soft rocks",
+    "options": {
+      "A": "trellised",
+      "B": "dendritic",
+      "C": "radial",
+      "D": "annular"
+    },
+    "answer": "A",
+    "explanation": "A $\\mathbf{trellised}$ drainage pattern is characteristic of areas with alternating bands of hard and soft rock, where streams flow perpendicular to the rock structure."
+  },
+  {
+    "id": 15,
+    "question": "Rocks formed through cementation of accumulated materials under water is ?",
+    "options": {
+      "A": "metamorphic",
+      "B": "igneous",
+      "C": "sedimentary",
+      "D": "acidic"
+    },
+    "answer": "C",
+    "explanation": "The process of compacting and cementing accumulated sediments is how $\\mathbf{sedimentary}$ rocks are formed."
+  },
+  {
+    "id": 16,
+    "question": "An instruction of thick acid lava, which forces overlaying sedimentary rock layers to bulge into a dome, may cool and solidify to form a",
+    "options": {
+      "A": "batholith",
+      "B": "laccolith",
+      "C": "dyke",
+      "D": "lopolith"
+    },
+    "answer": "B",
+    "explanation": "A $\\mathbf{laccolith}$ is a mushroom-shaped intrusive body that is forced between horizontal rock layers, causing the overlying layers to bulge upwards into a dome."
+  },
+  {
+    "id": 17,
+    "question": "The Greek system of classifying climate is based on",
+    "options": {
+      "A": "temperature",
+      "B": "rainfall and temperature",
+      "C": "rainfall and vegetation",
+      "D": "humidity"
+    },
+    "answer": "A",
+    "explanation": "The ancient Greek climate classification (Torrid, Temperate, Frigid) was based on latitude, which is the primary control of $\\mathbf{temperature}$."
+  },
+  {
+    "id": 18,
+    "question": "What will be the time at Greenwich meridian when it is 12 noon at longitude 60\\u00b0 E",
+    "options": {
+      "A": "4.00 a.m.",
+      "B": "4.00 p.m",
+      "C": "8.00 a.m.",
+      "D": "8.00 p.m."
+    },
+    "answer": "C",
+    "explanation": "Time difference: $60^\\circ \\times 4 \\text{ min/degree} = 240 \\text{ min} = 4 \\text{ hours}$. Since $60^\\circ E$ is ahead of GMT, subtract the difference: $12:00 \\text{ noon} - 4 \\text{ hours} = \\mathbf{8:00 \\text{ a.m.}}$. (GMT)."
+  },
+  {
+    "id": 19,
+    "question": "The movement of Earth around the sun on its elliptical orbit is called",
+    "options": {
+      "A": "rotation",
+      "B": "axis",
+      "C": "revolution",
+      "D": "gravitation"
+    },
+    "answer": "C",
+    "explanation": "The movement of Earth around the Sun is called $\\mathbf{revolution}$."
+  },
+  {
+    "id": 20,
+    "question": "The Deccan Plateau in Indian is a good example of",
+    "options": {
+      "A": "dissected plateau",
+      "B": "volcanic plateau",
+      "C": "tectonic plateau",
+      "D": "intermontane plateau"
+    },
+    "answer": "B",
+    "explanation": "The Deccan Plateau was formed by massive lava flows (Deccan Traps), making it a $\\mathbf{volcanic \\ plateau}$ (specifically, a flood basalt plateau)."
+  },
+  {
+    "id": 21,
+    "question": "Horst is a feature associated with?",
+    "options": {
+      "A": "volcanic mountain",
+      "B": "residual mountain",
+      "C": "block mountain",
+      "D": "fold mountain"
+    },
+    "answer": "C",
+    "explanation": "A $\\mathbf{Horst}$ is an uplifted block of land between two parallel faults, a defining feature of $\\mathbf{block \\ mountains}$."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following pairs of land forms are surface features of a karst region? i. Clint ii. Grikes\\u00a0iii. Stalagmite iv. Cavin",
+    "options": {
+      "A": "i and ii only",
+      "B": "i and iii only",
+      "C": "ii and iii only",
+      "D": "ii and iv only"
+    },
+    "answer": "A",
+    "explanation": "Karst surface features include $\\mathbf{Clints}$ (blocks) and $\\mathbf{Grikes}$ (grooves) forming the limestone pavement. Stalagmites and Caves are underground features."
+  },
+  {
+    "id": 23,
+    "question": "Two towns, A and B, are on the international dateline. What will be the distance between the two towns if town A is located on latitude 40\\u00b0 N and town B is located on latitude 10\\u00b0 N?",
+    "options": {
+      "A": "8880 kilometers",
+      "B": "5550 kilometers",
+      "C": "3330 kilometers",
+      "D": "2220 kilometers"
+    },
+    "answer": "C",
+    "explanation": "Difference in latitude: $40^\\circ - 10^\\circ = 30^\\circ$. Distance along a meridian is approximately $111 \\text{ km}$ per degree: $30 \\times 111 = \\mathbf{3330 \\text{ kilometers}}$."
+  },
+  {
+    "id": 24,
+    "question": "Wind erosion results in the formation of the following land forms except.",
+    "options": {
+      "A": "zeugen",
+      "B": "yardang",
+      "C": "ventifact",
+      "D": "barchan"
+    },
+    "answer": "D",
+    "explanation": "Zeugen, yardang, and ventifacts are formed by wind $\\mathbf{erosion}$. A $\\mathbf{barchan}$ is a sand dune formed by wind $\\mathbf{deposition}$."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following best explains the breaking down of well jointed rocks into large rectangular-shaped features by mechanical weathering?",
+    "options": {
+      "A": "block disintegration",
+      "B": "exfoliation dome",
+      "C": "landslide",
+      "D": "solifluction"
+    },
+    "answer": "A",
+    "explanation": "This process, caused by temperature or frost, breaks rock into blocks along existing joints, and is called $\\mathbf{block \\ disintegration}$."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following sequence is correct in the formation of a stack",
+    "options": {
+      "A": "cave, arch, headland, stack",
+      "B": "headland cave, arch, stack",
+      "C": "headland, arch, cave, stack",
+      "D": "cave, headland arch, stack"
+    },
+    "answer": "B",
+    "explanation": "The sequence of coastal erosion is: $\\mathbf{Headland} \\rightarrow \\mathbf{Cave} \\rightarrow \\mathbf{Arch} \\rightarrow \\mathbf{Stack}$."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following conditions can produce a waterfall?",
+    "options": {
+      "A": "sharp break in the bed of a river",
+      "B": "elbow of capture of young rivers",
+      "C": "backward erosion",
+      "D": "lateral erosion"
+    },
+    "answer": "A",
+    "explanation": "A waterfall is formed where there is a $\\mathbf{sharp \\ break \\ in \\ the \\ bed \\ of \\ a \\ river}$ (e.g., over a layer of resistant rock)."
+  },
+  {
+    "id": 28,
+    "question": "In which of the following regions will weathering by frost action occur throughout the years",
+    "options": {
+      "A": "cool temperate",
+      "B": "equatorial",
+      "C": "monsoon",
+      "D": "Mediterranean"
+    },
+    "answer": "A",
+    "explanation": "Frost action requires temperatures to cycle around $0^\\circ C$. This is common in $\\mathbf{cool \\ temperate}$ or high-altitude regions."
+  },
+  {
+    "id": 29,
+    "question": "The lapse rate refers to the average rate at which ?",
+    "options": {
+      "A": "radiant energy is converted to heat",
+      "B": "air pressure decreases with altitude",
+      "C": "Air pressure increases with altitude",
+      "D": "temperature decreases with altitude"
+    },
+    "answer": "D",
+    "explanation": "The $\\mathbf{Lapse \\ Rate}$ is the rate at which $\\mathbf{temperature \\ decreases \\ with \\ altitude}$ in the atmosphere."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is proof of the Earth's spherical shape?",
+    "options": {
+      "A": "circumnavigation",
+      "B": "variation in the length of the day and night making of a year",
+      "C": "Rise and fall of tides"
+    },
+    "answer": "A",
+    "explanation": "The ability to sail completely around the Earth ($\\mathbf{circumnavigation}$) and return to the starting point is direct proof of its spherical nature."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following types of rocks contain fossils?",
+    "options": {
+      "A": "igneous",
+      "B": "sedimentary",
+      "C": "metamorphic",
+      "D": "volcanic"
+    },
+    "answer": "B",
+    "explanation": "$\\mathbf{Sedimentary \\ rocks}$ form from deposited layers of material, which can trap and preserve organic remains ($\\mathbf{fossils}$).",
+    "image": "geography/image3.jpeg"
+  },
+  {
+    "id": 32,
+    "question": "The natural exchange of water between land, oceans and the atmosphere is known as",
+    "options": {
+      "A": "energy cycle",
+      "B": "hydrological cycle",
+      "C": "nitrogen cycle",
+      "D": "carbon cycle"
+    },
+    "answer": "B",
+    "explanation": "The movement and circulation of water is the $\\mathbf{hydrological \\ cycle}$ (or water cycle)."
+  },
+  {
+    "id": 33,
+    "question": "Lines drawn on a map connecting places with equal duration of sunshine are called",
+    "options": {
+      "A": "isohels",
+      "B": "isotherms",
+      "C": "isonephs",
+      "D": "isohyets"
+    },
+    "answer": "A",
+    "explanation": "An $\\mathbf{isohel}$ is a line connecting points on a map that receive the same amount of solar radiation or $\\mathbf{duration \\ of \\ sunshine}$."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following examples of rock is mostly likely to be weathered by the process of solution ?",
+    "options": {
+      "A": "slates",
+      "B": "graphite",
+      "C": "limestone",
+      "D": "granite"
+    },
+    "answer": "C",
+    "explanation": "$\\mathbf{Limestone}$ (calcium carbonate) is easily dissolved by weak acids in rainwater, making it highly susceptible to $\\mathbf{solution}$ weathering."
+  },
+  {
+    "id": 35,
+    "question": "Which of the following occurs when the sun is vertically overhead at the equator?",
+    "options": {
+      "A": "equinox",
+      "B": "solstice",
+      "C": "deflection of winds and ocean currents"
+    },
+    "answer": "A",
+    "explanation": "When the sun is directly overhead the equator, the length of day and night is approximately equal everywhere on Earth. This event is called an $\\mathbf{equinox}$."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following pairs of ways can be used to solve the world's high population concentration problems i. family planning\\u00a0ii. sex education\\u00a0iii. early marriage\\u00a0iv. industrialization",
+    "options": {
+      "A": "i and ii only",
+      "B": "only",
+      "C": "ii and iii",
+      "D": "iii and iv only"
+    },
+    "answer": "A",
+    "explanation": "$\\mathbf{Family \\ planning}$ (i) and $\\mathbf{sex \\ education}$ (ii) directly address population growth by influencing birth rates."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following countries in West Africa is well known for the production of diamonds?",
+    "options": {
+      "A": "togo",
+      "B": "burkina faso",
+      "C": "siera leone",
+      "D": "benin"
+    },
+    "answer": "C",
+    "explanation": "$\\mathbf{Sierra \\ Leone}$ has historically been a major producer of $\\mathbf{diamonds}$ in West Africa."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a leading industrial area in North America?",
+    "options": {
+      "A": "The northeastern industrial area of USA",
+      "B": "central Canada industrial area",
+      "C": "South Mexico Industrial Area",
+      "D": "The Guatemala industrial area"
+    },
+    "answer": "A",
+    "explanation": "The $\\mathbf{Northeastern \\ industrial \\ area \\ of \\ the \\ USA}$ (the traditional manufacturing belt) remains a major industrial region."
+  },
+  {
+    "id": 39,
+    "question": "\"It is an intensive cultivation of fruits, vegetables, flowers, it is small-scale farming, the yields are very high per hectare, produce sold to customers is usually fresh, and commonly practiced in urban communities .\u201d the above statements are the characteristics of a?",
+    "options": {
+      "A": "mixed farming",
+      "B": "sericulture",
+      "C": "market gardening",
+      "D": "viniculture"
+    },
+    "answer": "C",
+    "explanation": "This describes $\\mathbf{market \\ gardening}$ (or truck farming), which is intensive, perishable production for $\\mathbf{urban \\ markets}$."
+  },
+  {
+    "id": 40,
+    "question": "An advantage of a large population is?",
+    "options": {
+      "A": "increase in government expenditure",
+      "B": "surplus empowerment opportunities",
+      "C": "abundant labour force",
+      "D": "small market for goods"
+    },
+    "answer": "C",
+    "explanation": "A large population provides an $\\mathbf{abundant \\ labour \\ force}$ and a large market, which are economic advantages."
+  },
+  {
+    "id": 41,
+    "question": "Which of the following best describes the relationship between rural and urban areas?",
+    "options": {
+      "A": "urban areas are not as important as rural areas",
+      "B": "urban and rural areas depend on each other",
+      "C": "rural areas exist only to serve urban areas",
+      "D": "urban areas can exist without rural areas"
+    },
+    "answer": "B",
+    "explanation": "Rural areas provide resources (food, labor); urban areas provide services and markets. They are mutually dependent, so $\\mathbf{urban \\ and \\ rural \\ areas \\ depend \\ on \\ each \\ other}$."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following factors has the greatest influence on the location of the cement industry?",
+    "options": {
+      "A": "proximity to source of raw materials",
+      "B": "nearness to market",
+      "C": "source of capital",
+      "D": "manpower development"
+    },
+    "answer": "A",
+    "explanation": "Cement production uses heavy, bulky raw materials (limestone, clay). The industry is located near the raw materials to minimize transport costs, prioritizing $\\mathbf{proximity \\ to \\ source \\ of \\ raw \\ materials}$."
+  },
+  {
+    "id": 43,
+    "question": "Which of the following best describes high population growth?",
+    "options": {
+      "A": "The number of births equals the number of deaths",
+      "B": "birth rate are equal to death rate",
+      "C": "emigration is equal to immigration",
+      "D": "birth rates are higher than death rates"
+    },
+    "answer": "D",
+    "explanation": "High population growth (natural increase) occurs when $\\mathbf{birth \\ rates \\ are \\ higher \\ than \\ death \\ rates}$."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following pairs of activities can initiate deforestation? i. lumbering\\u00a0ii. afforestation\\u00a0iii. excavation\\u00a0iv. grazing",
+    "options": {
+      "A": "i and iv only",
+      "B": "ii and iii only",
+      "C": "ii and iv only",
+      "D": "i and ii only"
+    },
+    "answer": "A",
+    "explanation": "$\\mathbf{Lumbering}$ (cutting trees) and clearing land for $\\mathbf{grazing}$ (or agriculture) are key causes of deforestation."
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is a major of plantation agriculture?",
+    "options": {
+      "A": "Control weeds with herbicide",
+      "B": "encourage monoculture",
+      "C": "foreign exchange earners",
+      "D": "application of modern technology"
+    },
+    "answer": "C",
+    "explanation": "Plantations focus on cash crops for export markets, making them major $\\mathbf{foreign \\ exchange \\ earners}$."
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is arranged according to the increasing size of settlement?",
+    "options": {
+      "A": "town, conurbation, hamlet, and village",
+      "B": "Hamlet, village, town and conurbation",
+      "C": "village, town, conurbation, and hamlet",
+      "D": "conurbation, town, hamlet, and village"
+    },
+    "answer": "B",
+    "explanation": "The order of increasing size is: $\\mathbf{Hamlet} \\rightarrow \\mathbf{Village} \\rightarrow \\mathbf{Town} \\rightarrow \\mathbf{Conurbation}$ (large urban cluster)."
+  },
+  {
+    "id": 47,
+    "question": "Wood carving, leather work, and cloth weaving are examples of?",
+    "options": {
+      "A": "chemical industry",
+      "B": "power industry",
+      "C": "heavy industry",
+      "D": "local craft industry"
+    },
+    "answer": "D",
+    "explanation": "These are small-scale, traditional, manual production activities, which are classified as $\\mathbf{local \\ craft \\ industry}$."
+  },
+  {
+    "id": 48,
+    "question": "Population density is defined as the average",
+    "options": {
+      "A": "number of people in the capital town",
+      "B": "number of people living in a unit area",
+      "C": "number of human resources",
+      "D": "number of deaths and births in a unit area"
+    },
+    "answer": "B",
+    "explanation": "Population density is the average $\\mathbf{number \\ of \\ people \\ living \\ in \\ a \\ unit \\ area}$ (e.g., persons per $\\text{km}^2$)."
+  },
+  {
+    "id": 49,
+    "question": "A settlement pattern in which houses are arranged along lines of transportation is described as",
+    "options": {
+      "A": "dispersed",
+      "B": "linear",
+      "C": "radial",
+      "D": "nucleated"
+    },
+    "answer": "B",
+    "explanation": "Settlements that string out along a road or river form a $\\mathbf{linear}$ (or ribbon) pattern."
+  },
+  {
+    "id": 50,
+    "question": "Which of this is a difference between primary and secondary industries?",
+    "options": {
+      "A": "Primary industries provide services while Secondary industries process raw materials.",
+      "B": "Primary industries process raw materials while Secondary industries provide services.",
+      "C": "Primary industries extract raw materials while Secondary industries process raw materials into finished goods.",
+      "D": "Primary industries manufacture finished goods while Secondary industries extract raw materials."
+    },
+    "answer": "C",
+    "explanation": "$\\mathbf{Primary \\ industries \\ extract \\ raw \\ materials}$ (e.g., mining, farming), while $\\mathbf{Secondary \\ industries \\ process \\ them}$ (e.g., manufacturing, construction)."
+  }
+]

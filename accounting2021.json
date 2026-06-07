@@ -1,0 +1,615 @@
+{
+  "exam_metadata": {
+    "source": "WAEC 2021",
+    "subject": "Financial Accounting",
+    "total_items": 50
+  },
+  "assessment": [
+    {
+      "id": 1,
+      "question": "The original record containing the details of a transaction which serves as a basis for posting is",
+      "options": {
+        "A": "general ledger",
+        "B": "source document",
+        "C": "subsidiary book",
+        "D": "trial balance"
+      },
+      "answer": "B",
+      "explanation": "A source document (e.g., invoice, receipt) is the original record that captures the details of a transaction before it is recorded in any book of account."
+    },
+    {
+      "id": 2,
+      "question": "In the preparation of financial statements, full disclosure of minor events are ignored in line with",
+      "options": {
+        "A": "accrual concept",
+        "B": "money measurement concept",
+        "C": "business entity concept",
+        "D": "materiality concept"
+      },
+      "answer": "D",
+      "explanation": "The materiality concept states that accounting standards can be ignored if the net impact of a transaction is so small that it wouldn't mislead the user of the financial statements."
+    },
+    {
+      "id": 3,
+      "question": "A limitation of the money measurement concept is that",
+      "options": {
+        "A": "it results in inaccurate financial statements",
+        "B": "financial statement is not easily understood",
+        "C": "important non-monetary activities are not reported",
+        "D": "the reports are not comparable to that of other businesses"
+      },
+      "answer": "C",
+      "explanation": "Money measurement only records facts that can be expressed in monetary terms, ignoring vital factors like employee morale or management expertise."
+    },
+    {
+      "id": 4,
+      "question": "Where partners maintain a fluctuating capital account, partners' share of profit is credited to",
+      "options": {
+        "A": "capital account",
+        "B": "profit and loss appropriate account",
+        "C": "current account",
+        "D": "profit and loss account"
+      },
+      "answer": "A",
+      "explanation": "In a fluctuating capital system, all adjustments (profits, drawings, interest) are made directly in the Capital Account rather than a separate Current Account."
+    },
+    {
+      "id": 5,
+      "question": "The difference between the market value of goods produced and the cost of production is",
+      "options": {
+        "A": "net profit on goods sold",
+        "B": "gross profit on manufacturing",
+        "C": "closing stock of work-in-progress",
+        "D": "prime cost of manufacturing"
+      },
+      "answer": "B",
+      "explanation": "Manufacturing profit (or gross profit on manufacturing) is the excess of the market value of finished goods over the cost of producing them."
+    },
+    {
+      "id": 6,
+      "instruction": "Use the following information below to answer this question: Attama and Wawa were in partnership sharing profits and losses in the ratio 4:3. Attama was entitled to a salary of D13,000 per annum. A net profit of D34,000 was made for the year.",
+      "question": "The residual profit of the business for the year is",
+      "options": {
+        "A": "D47,000",
+        "B": "D34,000",
+        "C": "D22,000",
+        "D": "D21,000"
+      },
+      "answer": "D",
+      "explanation": "Residual Profit = Net Profit - Partner Salary. Therefore: D34,000 - D13,000 = D21,000."
+    },
+    {
+      "id": 7,
+      "instruction": "Use the following information below to answer this question: Attama and Wawa were in partnership sharing profits and losses in the ratio 4:3. Attama was entitled to a salary of D13,000 per annum. A net profit of D34,000 was made for the year.",
+      "question": "Attama's share of profit is",
+      "options": {
+        "A": "D21,000",
+        "B": "D19,428",
+        "C": "D12,000",
+        "D": "D9,000"
+      },
+      "answer": "C",
+      "explanation": "Attama's share is 4/7 of the residual profit (D21,000). (4/7) * 21,000 = D12,000."
+    },
+    {
+      "id": 8,
+      "question": "Reducing balance method charges depreciating as fixed percentage of the",
+      "options": {
+        "A": "net book value of asset",
+        "B": "cost of asset",
+        "C": "market value of asset",
+        "D": "accumulated depreciation on asset"
+      },
+      "answer": "A",
+      "explanation": "The reducing balance method applies a fixed percentage to the Net Book Value (Cost - Accumulated Depreciation) of the asset each year."
+    },
+    {
+      "id": 9,
+      "question": "Goods returned to the supplier is recorded in the accounts as: debit",
+      "options": {
+        "A": "Sales Returns Account; credit Suppliers' Account",
+        "B": "Purchases Returns Account; credit Supplier's Account",
+        "C": "Supplier's Account; credit Purchases Returns Account",
+        "D": "Supplier's Account; credit Purchases Account"
+      },
+      "answer": "C",
+      "explanation": "When returning goods, the supplier (the receiver) is debited, and the Purchases Returns account is credited."
+    },
+    {
+      "id": 10,
+      "question": "Net profit of a sole proprietor is transferred to the",
+      "options": {
+        "A": "profit and loss account",
+        "B": "profit and loss appropriation account.",
+        "C": "capital account",
+        "D": "drawings account"
+      },
+      "answer": "C",
+      "explanation": "For a sole proprietor, the net profit is added to the Capital Account at the end of the trading period."
+    },
+    {
+      "id": 11,
+      "question": "Accounting evolved out of the need of businesses for",
+      "options": {
+        "A": "profit making",
+        "B": "record keeping",
+        "C": "increasing sales",
+        "D": "obtaining finance"
+      },
+      "answer": "B",
+      "explanation": "The fundamental origin of accounting is the necessity to keep systematic records of financial transactions."
+    },
+    {
+      "id": 12,
+      "question": "Sales account was undercast by GH¢ 1,000. When this is corrected, both the gross profit and the net profit would",
+      "options": {
+        "A": "increase by GH¢2,000",
+        "B": "increase by GH¢1,000",
+        "C": "decrease by GH¢1,000",
+        "D": "decrease by GH¢2,000"
+      },
+      "answer": "B",
+      "explanation": "Sales is a component of both Gross and Net Profit. Correcting an undercast (adding missing value) will increase both profit figures by that amount."
+    },
+    {
+      "id": 13,
+      "instruction": "Use the following information to answer this question: Sales for the year: 450,000; Purchases for the year: 230,000; Opening stock: 60,000; Closing stock: 40,000 (Currency: Le)",
+      "question": "The stock turnover period is",
+      "options": {
+        "A": "88 days",
+        "B": "73 days",
+        "C": "58 days",
+        "D": "41 days"
+      },
+      "answer": "B",
+      "explanation": "Average Stock = (60k+40k)/2 = 50k. Cost of Goods Sold = 60k + 230k - 40k = 250k. Turnover Ratio = 250k/50k = 5 times. Turnover Period = 365 / 5 = 73 days."
+    },
+    {
+      "id": 14,
+      "instruction": "Use the following information: Sales: 450,000; Purchases: 230,000; Opening stock: 60,000; Closing stock: 40,000 (Le)",
+      "question": "The mark-up is",
+      "options": {
+        "A": "88%",
+        "B": "80%",
+        "C": "44.44%",
+        "D": "26.67%"
+      },
+      "answer": "B",
+      "explanation": "COGS = 250,000. Gross Profit = Sales (450,000) - COGS (250,000) = 200,000. Mark-up = (Profit / COGS) * 100 = (200,000 / 250,000) * 100 = 80%."
+    },
+    {
+      "id": 15,
+      "question": "Company as a legal entity means that it",
+      "options": {
+        "A": "must always have a company lawyer",
+        "B": "can sue and be sued",
+        "C": "must settle disputes among shareholders in court",
+        "D": "should prepare accounts approved by a lawyer"
+      },
+      "answer": "B",
+      "explanation": "Legal personality means the company is treated as a person in the eyes of the law, distinct from its owners."
+    },
+    {
+      "id": 16,
+      "question": "The type of stock recorded in the trading account of a manufacturing business is",
+      "options": {
+        "A": "raw material",
+        "B": "work-in progress",
+        "C": "consumables",
+        "D": "finished goods"
+      },
+      "answer": "D",
+      "explanation": "Raw materials and WIP are in the Manufacturing Account; only Finished Goods are transferred to the Trading Account to determine Gross Profit."
+    },
+    {
+      "id": 17,
+      "question": "Accounts of fixed assets are kept in the",
+      "options": {
+        "A": "purchases ledger",
+        "B": "private ledger",
+        "C": "sales ledger",
+        "D": "general ledger"
+      },
+      "answer": "D",
+      "explanation": "The General Ledger contains all real and nominal accounts, including fixed assets and expenses."
+    },
+    {
+      "id": 18,
+      "question": "Recurrent expenditure of a local government include",
+      "options": {
+        "A": "erection of market stalls",
+        "B": "repayment of loans",
+        "C": "purchase of office equipment",
+        "D": "purchase of office stationery"
+      },
+      "answer": "D",
+      "explanation": "Recurrent expenditure refers to ongoing costs for day-to-day operations, such as stationery or salaries."
+    },
+    {
+      "id": 19,
+      "question": "The accounting principle of double entry states that",
+      "options": {
+        "A": "debit the giver and credit the receiver",
+        "B": "assets must be equal to capital plus liabilities",
+        "C": "every debit entry must have a corresponding credit entry",
+        "D": "debit entries increase liabilities while credit entries increase assets"
+      },
+      "answer": "C",
+      "explanation": "Double-entry bookkeeping requires that every financial transaction be recorded in at least two accounts, with debits equaling credits."
+    },
+    {
+      "id": 20,
+      "question": "Lima paid off debt of D2,500 owed to Dongo by cash. The entries in lima's book are: debit",
+      "options": {
+        "A": "cash D2,500; credit Dongo D2,500",
+        "B": "Dongo D2,500; credit cash D2,500",
+        "C": "Bad debt D2,500; credit Dongo D2,500",
+        "D": "Dongo D2,500; credit bad debt D2,500"
+      },
+      "answer": "B",
+      "explanation": "Lima is paying, so Cash (Asset) decreases (Credit) and Dongo (Liability) decreases (Debit)."
+    },
+    {
+      "id": 21,
+      "question": "The petty cash account has an imprest of GH¢36,000 and a debit balance of GH¢10,000 at the end of the month. The reimbursement required would be",
+      "options": {
+        "A": "GH¢46,000",
+        "B": "GH¢36,000",
+        "C": "GH¢26,000",
+        "D": "GH¢10,000"
+      },
+      "answer": "C",
+      "explanation": "Reimbursement is the amount spent to restore the imprest. Amount spent = Imprest - Balance = 36,000 - 10,000 = 26,000."
+    },
+    {
+      "id": 22,
+      "question": "Commercial activities undertaken by a social club to raise funds include",
+      "options": {
+        "A": "donation",
+        "B": "bar",
+        "C": "grant",
+        "D": "subscription"
+      },
+      "answer": "B",
+      "explanation": "Running a bar is a commercial (trading) activity used by clubs to generate income, unlike donations or grants."
+    },
+    {
+      "id": 23,
+      "question": "The final stage of accounting process is",
+      "options": {
+        "A": "interpretation",
+        "B": "recording",
+        "C": "reporting",
+        "D": "summarizing"
+      },
+      "answer": "A",
+      "explanation": "After reporting financial results, the data must be interpreted to make informed business decisions."
+    },
+    {
+      "id": 24,
+      "question": "The value of goods sent to a branch is debited to the",
+      "options": {
+        "A": "goods sent to branch account",
+        "B": "branch debtors account",
+        "C": "branch adjustment account",
+        "D": "branch stock account"
+      },
+      "answer": "D",
+      "explanation": "When the head office sends goods to a branch, the Branch Stock Account is debited to show the increase in inventory at the branch."
+    },
+    {
+      "id": 25,
+      "question": "The major source of revenue for central/federal government is",
+      "options": {
+        "A": "tenement rate",
+        "B": "excise duty",
+        "C": "market toll",
+        "D": "parking roll"
+      },
+      "answer": "B",
+      "explanation": "Excise duties and taxes are primary revenue sources for federal governments, whereas tolls and rates often go to local governments."
+    },
+    {
+      "id": 26,
+      "question": "A business includes 50% mark-up on all its products. This would mean margin of",
+      "options": {
+        "A": "66 2/3%",
+        "B": "66 1/3%",
+        "C": "33 2/3%",
+        "D": "33 1/3%"
+      },
+      "answer": "D",
+      "explanation": "Margin = Mark-up / (1 + Mark-up). 0.50 / (1 + 0.50) = 0.50 / 1.50 = 1/3 = 33 1/3%."
+    },
+    {
+      "id": 27,
+      "instruction": "Use the following information: Gross profit: 50,400; Discounts received: 3,300; Discounts allowed: 2,500; Net profit: 26,500; Cost of goods sold: 184,000 (GH¢)",
+      "question": "Sales for the period is",
+      "options": {
+        "A": "GH¢234,400",
+        "B": "GH¢210,500",
+        "C": "GH¢133,600",
+        "D": "GH¢76,900"
+      },
+      "answer": "A",
+      "explanation": "Sales = Gross Profit + COGS = 50,400 + 184,000 = 234,400."
+    },
+    {
+      "id": 28,
+      "instruction": "Use the information from Q27.",
+      "question": "Other operating expenses for the period is",
+      "options": {
+        "A": "GH¢27,300",
+        "B": "GH¢25,700",
+        "C": "GH¢24,700",
+        "D": "GH¢23,900"
+      },
+      "answer": "C",
+      "explanation": "Other Expenses = Gross Profit + Discounts Received - Discounts Allowed - Net Profit = 50,400 + 3,300 - 2,500 - 26,500 = 24,700."
+    },
+    {
+      "id": 29,
+      "question": "All cash transactions of a not-for-profit making organization are recorded in",
+      "options": {
+        "A": "three-column cash book",
+        "B": "income and expenditure account",
+        "C": "subscriptions account",
+        "D": "receipts and payments account"
+      },
+      "answer": "D",
+      "explanation": "The Receipts and Payments account is essentially the cash book for a non-profit organization."
+    },
+    {
+      "id": 30,
+      "question": "Subsidiary books of account are used to record transactions",
+      "options": {
+        "A": "made in the same period",
+        "B": "of a similar nature",
+        "C": "involving minor amounts",
+        "D": "without source documents"
+      },
+      "answer": "B",
+      "explanation": "Subsidiary books (like Sales Day Book, Purchases Day Book) group together transactions of the same type."
+    },
+    {
+      "id": 31,
+      "question": "Members of a not-for-profit making organization",
+      "options": {
+        "A": "earn dividend on their contributions",
+        "B": "do not receive surplus at the end of the year",
+        "C": "are paid interest on their contributions",
+        "D": "share profits according to their contributions"
+      },
+      "answer": "B",
+      "explanation": "Non-profits distribute any surplus for the organization's activities; members do not get profits."
+    },
+    {
+      "id": 32,
+      "question": "The main aim of accounting is to",
+      "options": {
+        "A": "identify profitable activities",
+        "B": "communicate financial information",
+        "C": "ensure business success",
+        "D": "guarantee liquidity"
+      },
+      "answer": "B",
+      "explanation": "Accounting provides a systematic way to record, classify, and summarize financial transactions to communicate useful information to users."
+    },
+    {
+      "id": 33,
+      "question": "The trading account is prepared to ascertain the",
+      "options": {
+        "A": "net profit",
+        "B": "gross profit",
+        "C": "closing stock",
+        "D": "total assets"
+      },
+      "answer": "B",
+      "explanation": "Trading account calculates the difference between sales and cost of goods sold to find Gross Profit."
+    },
+    {
+      "id": 34,
+      "question": "Cost of goods sold is the total of",
+      "options": {
+        "A": "opening stock + purchases + closing stock",
+        "B": "opening stock + purchases - closing stock",
+        "C": "purchases - opening stock + closing stock",
+        "D": "purchases + closing stock"
+      },
+      "answer": "B",
+      "explanation": "COGS = Opening Stock + Purchases - Closing Stock."
+    },
+    {
+      "id": 35,
+      "question": "In a manufacturing business, the account that shows all manufacturing expenses is the",
+      "options": {
+        "A": "trading account",
+        "B": "manufacturing account",
+        "C": "profit and loss account",
+        "D": "general ledger"
+      },
+      "answer": "B",
+      "explanation": "The Manufacturing Account aggregates raw materials, direct labor, and overheads to determine the cost of finished goods."
+    },
+    {
+      "id": 36,
+      "question": "The primary objective of financial accounting is to",
+      "options": {
+        "A": "ascertain profit or loss and financial position",
+        "B": "facilitate managerial control",
+        "C": "determine tax liability",
+        "D": "monitor cash flow"
+      },
+      "answer": "A",
+      "explanation": "Financial accounting provides summarized information for decision-making and statutory purposes."
+    },
+    {
+      "id": 37,
+      "question": "An example of a source document is",
+      "options": {
+        "A": "cash book",
+        "B": "invoice",
+        "C": "trial balance",
+        "D": "ledger"
+      },
+      "answer": "B",
+      "explanation": "Invoices, receipts, and vouchers are source documents that record original transaction details."
+    },
+    {
+      "id": 38,
+      "question": "The type of account credited when a customer returns goods is",
+      "options": {
+        "A": "sales returns account",
+        "B": "purchases account",
+        "C": "cash account",
+        "D": "accounts receivable"
+      },
+      "answer": "D",
+      "explanation": "When a customer returns goods, the customer’s account (Accounts Receivable) is credited to reduce the amount owed."
+    },
+    {
+      "id": 39,
+      "question": "Depreciation is charged on fixed assets to",
+      "options": {
+        "A": "increase market value",
+        "B": "allocate cost over useful life",
+        "C": "show cash outflow",
+        "D": "replace asset immediately"
+      },
+      "answer": "B",
+      "explanation": "Depreciation spreads the cost of an asset over its useful life to match revenue with expense."
+    },
+    {
+      "id": 40,
+      "question": "The statement that shows cash receipts and payments of an organization is",
+      "options": {
+        "A": "income statement",
+        "B": "statement of financial position",
+        "C": "receipts and payments account",
+        "D": "profit and loss account"
+      },
+      "answer": "C",
+      "explanation": "The Receipts and Payments Account is a summary of all cash inflows and outflows."
+    },
+    {
+      "id": 41,
+      "question": "Partnership capital accounts are credited with",
+      "options": {
+        "A": "drawings",
+        "B": "partner's share of profit",
+        "C": "expenses paid by partner",
+        "D": "partner's salary"
+      },
+      "answer": "B",
+      "explanation": "In a partnership, the partner's capital account is increased by their share of profit."
+    },
+    {
+      "id": 42,
+      "question": "Overcasting of purchases will cause the",
+      "options": {
+        "A": "gross profit to be overstated",
+        "B": "gross profit to be understated",
+        "C": "net profit to be overstated",
+        "D": "stock value to increase"
+      },
+      "answer": "B",
+      "explanation": "COGS will be higher due to overstated purchases, reducing gross profit."
+    },
+    {
+      "id": 43,
+      "question": "Accounting for a limited liability company differs from that of a sole proprietorship because the company",
+      "options": {
+        "A": "has more owners",
+        "B": "is a separate legal entity",
+        "C": "does not pay tax",
+        "D": "does not maintain a capital account"
+      },
+      "answer": "B",
+      "explanation": "A company is legally distinct from its owners and can sue, be sued, and own assets in its name."
+    },
+    {
+      "id": 44,
+      "question": "The document used to authorize payment of cash is",
+      "options": {
+        "A": "voucher",
+        "B": "receipt",
+        "C": "invoice",
+        "D": "statement of account"
+      },
+      "answer": "A",
+      "explanation": "A payment voucher is prepared to authorize cash payment and record the transaction."
+    },
+    {
+      "id": 45,
+      "question": "The type of depreciation which charges a fixed amount on an asset each year is",
+      "options": {
+        "A": "reducing balance",
+        "B": "straight line",
+        "C": "revaluation",
+        "D": "accumulated"
+      },
+      "answer": "B",
+      "explanation": "The straight-line method allocates the same depreciation amount each year over the asset’s useful life."
+    },
+    {
+      "id": 46,
+      "question": "The main book of account in which all transactions are finally posted is the",
+      "options": {
+        "A": "journal",
+        "B": "ledger",
+        "C": "subsidiary book",
+        "D": "cash book"
+      },
+      "answer": "B",
+      "explanation": "The ledger contains all accounts after posting from journals or subsidiary books."
+    },
+    {
+      "id": 47,
+      "question": "A major source document for credit sales is",
+      "options": {
+        "A": "invoice",
+        "B": "receipt",
+        "C": "voucher",
+        "D": "pay-in slip"
+      },
+      "answer": "A",
+      "explanation": "Invoices are issued for credit sales and serve as evidence for recording the transaction."
+    },
+    {
+      "id": 48,
+      "question": "In a non-profit organization, surplus is transferred to",
+      "options": {
+        "A": "members' capital account",
+        "B": "income and expenditure account",
+        "C": "general fund",
+        "D": "profit and loss account"
+      },
+      "answer": "C",
+      "explanation": "Surplus in non-profits is usually added to the General Fund for future use by the organization."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a nominal account?",
+      "options": {
+        "A": "Cash",
+        "B": "Capital",
+        "C": "Salaries",
+        "D": "Debtors"
+      },
+      "answer": "C",
+      "explanation": "Nominal accounts record expenses, losses, incomes, and gains. Salaries is an expense."
+    },
+    {
+      "id": 50,
+      "question": "The trial balance of a business shows that total debits and total credits are equal. This means that",
+      "options": {
+        "A": "there are no errors in the books",
+        "B": "all transactions have been posted correctly",
+        "C": "debits equal credits but errors may still exist",
+        "D": "the accounts are ready for preparation of financial statements"
+      },
+      "answer": "C",
+      "explanation": "A balanced trial balance only confirms that total debits equal total credits; some errors like omission or misposting may still exist."
+    }
+  ]
+}

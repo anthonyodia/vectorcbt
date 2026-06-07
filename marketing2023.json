@@ -1,0 +1,484 @@
+[
+  {
+    "number": 1,
+    "instruction": "A source of primary data for marketing research is",
+    "options": {
+      "A": "Inventory report",
+      "B": "Customer’s feedback",
+      "C": "Marketing budget",
+      "D": "Sales report"
+    },
+    "answer": "B",
+    "explanation": "Customer feedback is collected firsthand for the specific research, making it primary data."
+  },
+  {
+    "number": 2,
+    "instruction": "The systematic process of obtaining and analysing data to provide information for marketing decision making is",
+    "options": {
+      "A": "Market forecasting",
+      "B": "Market segmentation",
+      "C": "Marketing planning",
+      "D": "Marketing research"
+    },
+    "answer": "D",
+    "explanation": "Marketing research involves collecting, analyzing, and interpreting data to inform marketing decisions."
+  },
+  {
+    "number": 3,
+    "instruction": "Use the information above to answer this question\n\nThe inscription V‑Cough on the product is an example of a",
+    "image": "marketing/image1.jpeg",
+    "options": {
+      "A": "Patent",
+      "B": "Brand name",
+      "C": "Copyright",
+      "D": "Trademark"
+    },
+    "answer": "B",
+    "explanation": "V‑Cough is a brand name—it identifies the product in the market."
+  },
+  {
+    "number": 4,
+    "instruction": "Use the information above to answer this question\n\nThe part represented by the letter Z is the",
+    "image": "marketing/image2.jpeg",
+    "options": {
+      "A": "Brand",
+      "B": "Copyright",
+      "C": "Package",
+      "D": "Label"
+    },
+    "answer": "D",
+    "explanation": "Letter Z refers to the label, which gives information about the product."
+  },
+  {
+    "number": 5,
+    "instruction": "Which of the following pricing strategies is used by wholesalers of industrial goods?",
+    "options": {
+      "A": "Penetration pricing",
+      "B": "Cost-plus pricing",
+      "C": "Demand-based pricing",
+      "D": "Haggling pricing"
+    },
+    "answer": "B",
+    "explanation": "Cost-plus pricing allows wholesalers to add a standard markup to cost, a common method in industrial trade."
+  },
+  {
+    "number": 6,
+    "instruction": "Which of the following factors would influence a company's decision to change its production process?",
+    "options": {
+      "A": "Demographic factor",
+      "B": "Social factor",
+      "C": "Political factor",
+      "D": "Technological factor"
+    },
+    "answer": "D",
+    "explanation": "Technological factor often drives changes in production process (automation, new methods)."
+  },
+  {
+    "number": 7,
+    "instruction": "The need for an item backed by the ability to pay by a consumer is",
+    "options": {
+      "A": "Utility",
+      "B": "Want",
+      "C": "Demand",
+      "D": "Exchange"
+    },
+    "answer": "C",
+    "explanation": "Demand exists when the want is backed by purchasing power."
+  },
+  {
+    "number": 8,
+    "instruction": "A specialised facility used for the storage of fruits and vegetables is",
+    "options": {
+      "A": "Silo",
+      "B": "Tank",
+      "C": "Refrigerator",
+      "D": "Barn"
+    },
+    "answer": "C",
+    "explanation": "Refrigeration is needed for perishable items like fruits and vegetables."
+  },
+  {
+    "number": 9,
+    "instruction": "Which of the following advertising media would be suitable for the company at a lower cost?",
+    "options": {
+      "A": "Radio",
+      "B": "Magazine",
+      "C": "Newspaper",
+      "D": "Television"
+    },
+    "answer": "A",
+    "explanation": "Radio tends to have lower cost and still wide reach compared to TV."
+  },
+  {
+    "number": 10,
+    "instruction": "A benefit the company would derive from advertising the product is",
+    "options": {
+      "A": "Increase in competition",
+      "B": "Increase in market share",
+      "C": "Decrease in tax liabilities",
+      "D": "Decrease in production cost"
+    },
+    "answer": "B",
+    "explanation": "Advertising increases awareness and can help grow the company’s market share."
+  },
+  {
+    "number": 11,
+    "instruction": "The process of bringing products to the attention of prospective customers is",
+    "options": {
+      "A": "Promotion",
+      "B": "Distribution",
+      "C": "Labelling",
+      "D": "Branding"
+    },
+    "answer": "A",
+    "explanation": "Promotion involves communication about a product to customers."
+  },
+  {
+    "number": 12,
+    "instruction": "The last stage in the buying decision process is the",
+    "options": {
+      "A": "Information search",
+      "B": "Purchase decision",
+      "C": "Post-purchase behaviour",
+      "D": "Evaluation of alternatives"
+    },
+    "answer": "C",
+    "explanation": "After purchase, the customer evaluates their satisfaction—post-purchase behavior."
+  },
+  {
+    "number": 13,
+    "instruction": "Which of the following factors is not a price determinant?",
+    "options": {
+      "A": "Consumer's culture",
+      "B": "Level of demand",
+      "C": "Cost of production",
+      "D": "Competitor's prices"
+    },
+    "answer": "A",
+    "explanation": "While culture affects demand, it is not a direct cost or competitor-based price determinant."
+  },
+  {
+    "number": 14,
+    "instruction": "An activity performed in a warehouse is",
+    "options": {
+      "A": "Production of goods",
+      "B": "Sorting and labelling",
+      "C": "Purchasing of raw materials",
+      "D": "Repairs and maintenance"
+    },
+    "answer": "B",
+    "explanation": "Warehouses sort and label goods before distribution."
+  },
+  {
+    "number": 15,
+    "instruction": "Which of the following items is an example of a primary product?",
+    "options": {
+      "A": "Cotton",
+      "B": "Head tie",
+      "C": "Shirt",
+      "D": "Handkerchief"
+    },
+    "answer": "A",
+    "explanation": "Cotton is unprocessed and raw, thus a primary product."
+  },
+  {
+    "number": 16,
+    "instruction": "Iron ore is classified as",
+    "options": {
+      "A": "Semi-finished product",
+      "B": "Primary product",
+      "C": "Consumer product",
+      "D": "Secondary product"
+    },
+    "answer": "B",
+    "explanation": "Iron ore is a raw material, hence primary."
+  },
+  {
+    "number": 17,
+    "instruction": "The factors that influence the performance of marketing activities of a firm is marketing",
+    "options": {
+      "A": "Orientation",
+      "B": "Environment",
+      "C": "Audit",
+      "D": "Intelligence"
+    },
+    "answer": "B",
+    "explanation": "Marketing environment includes all internal/external factors affecting marketing."
+  },
+  {
+    "number": 18,
+    "instruction": "Which of the following means would be used by the company to make the service available to the target market?",
+    "options": {
+      "A": "Mail order business",
+      "B": "Direct marketing",
+      "C": "Internet",
+      "D": "Merchandising"
+    },
+    "answer": "C",
+    "explanation": "The Internet is efficient for distributing digital services or applications."
+  },
+  {
+    "number": 19,
+    "instruction": "Which of the following illustrations would be used to distribute the application?",
+    "options": {
+      "A": "Producer → Agent → Retailer → Consumer",
+      "B": "Producer → Retailer → Consumer",
+      "C": "Producer → Consumer",
+      "D": "Producer → Wholesaler → Retailer → Consumer"
+    },
+    "answer": "C",
+    "explanation": "Digital products often go directly from producer to consumer without intermediaries."
+  },
+  {
+    "number": 20,
+    "instruction": "Which of the following institutions is not a marketing intermediary?",
+    "options": {
+      "A": "Financial firms",
+      "B": "Major distributors",
+      "C": "Wholesalers",
+      "D": "Retailers"
+    },
+    "answer": "A",
+    "explanation": "Financial firms don’t distribute goods—they provide capital or loans."
+  },
+  {
+    "number": 21,
+    "instruction": "An orientation that holds that a company's decision should include consumer satisfaction and community development is",
+    "options": {
+      "A": "Selling concept",
+      "B": "Societal marketing concept",
+      "C": "Production concept",
+      "D": "Product concept"
+    },
+    "answer": "B",
+    "explanation": "Societal marketing concept balances company profits, consumer wants, and society’s interests."
+  },
+  {
+    "number": 22,
+    "instruction": "A delivery note that accompanies goods to the buyer shows",
+    "options": {
+      "A": "Discount on goods bought",
+      "B": "Quality of goods bought",
+      "C": "Price of goods bought",
+      "D": "Quantity of goods bought"
+    },
+    "answer": "D",
+    "explanation": "A delivery note typically states quantities delivered, not prices or discounts."
+  },
+  {
+    "number": 23,
+    "instruction": "The concept applied by XYZ Ltd that uses aggressive promotional efforts to attract customers to buy its brand of cosmetics is",
+    "options": {
+      "A": "Production concept",
+      "B": "Product concept",
+      "C": "Societal concept",
+      "D": "Selling concept"
+    },
+    "answer": "D",
+    "explanation": "Selling concept emphasizes aggressive promotion to push sales."
+  },
+  {
+    "number": 24,
+    "instruction": "A form of sales promotion that rewards customers for consistently purchasing a company’s product is",
+    "options": {
+      "A": "Sales contest",
+      "B": "Quantity discount",
+      "C": "Loyalty scheme",
+      "D": "Promotional allowance"
+    },
+    "answer": "C",
+    "explanation": "Loyalty schemes encourage repeat purchase by offering rewards."
+  },
+  {
+    "number": 25,
+    "instruction": "OJ Ltd is a bakery that produces bread and confectioneries while Ernest Super Market buys its products. OJ Ltd is an example of",
+    "options": {
+      "A": "A reseller market",
+      "B": "A consumer market",
+      "C": "An industrial market",
+      "D": "A government market"
+    },
+    "answer": "C",
+    "explanation": "OJ Ltd sells to another business (Ernest), so its products are in the industrial market."
+  },
+  {
+    "number": 26,
+    "instruction": "Ernest Super Market is classified as",
+    "options": {
+      "A": "A producer",
+      "B": "A retailer",
+      "C": "An agent",
+      "D": "A wholesaler"
+    },
+    "answer": "B",
+    "explanation": "Ernest Super Market sells goods directly to consumers, so it's a retailer."
+  },
+  {
+    "number": 27,
+    "instruction": "Which pricing strategy is adopted by a company that sells its product for ₦200 when the prevailing market price for same product is ₦150?",
+    "options": {
+      "A": "Psychological pricing",
+      "B": "Skimming pricing",
+      "C": "Competitive pricing",
+      "D": "Penetration pricing"
+    },
+    "answer": "B",
+    "explanation": "Skimming pricing sets a high price above market average to maximize early margins."
+  },
+  {
+    "number": 28,
+    "instruction": "Air transport is preferred to other modes because it is",
+    "options": {
+      "A": "Faster in transporting goods for long distance",
+      "B": "Relatively cheaper than other modes",
+      "C": "Suitable for door-to-door services",
+      "D": "Affected by weather conditions"
+    },
+    "answer": "A",
+    "explanation": "Air transport is fastest, especially over long distances."
+  },
+  {
+    "number": 29,
+    "instruction": "The yam sellers in Alesinloye trading area in Kano formed an organization. What type of organization formed by the yam sellers is a",
+    "options": {
+      "A": "Market union",
+      "B": "Trade union",
+      "C": "Trade association",
+      "D": "Market operator"
+    },
+    "answer": "C",
+    "explanation": "Trade association groups people in the same trade to protect interests."
+  },
+  {
+    "number": 30,
+    "instruction": "Which of the following functions would be performed by the association?",
+    "options": {
+      "A": "Provision of overdraft to members",
+      "B": "Rendering security services to members",
+      "C": "Disseminating information to members",
+      "D": "Provision of employment to members"
+    },
+    "answer": "C",
+    "explanation": "Associations often share information and coordinate activities for members."
+  },
+  {
+    "number": 31,
+    "instruction": "Which of the following reasons might inform the formation of the association?",
+    "options": {
+      "A": "Provide warehouse facilities to producers",
+      "B": "Provide insurance services to members",
+      "C": "Advertise goods for producers",
+      "D": "Protect the interest of members"
+    },
+    "answer": "D",
+    "explanation": "One major purpose of an association is to protect members’ common interests."
+  },
+  {
+    "number": 32,
+    "instruction": "A person who carries out point-of-sales promotion is",
+    "options": {
+      "A": "A merchandiser",
+      "B": "A retailer",
+      "C": "A wholesaler",
+      "D": "An agent"
+    },
+    "answer": "A",
+    "explanation": "Merchandisers design and execute promotions in-store or at point of sale."
+  },
+  {
+    "number": 33,
+    "instruction": "An organizational factor that influences a manager's decision to buy raw materials from a particular source is company's",
+    "options": {
+      "A": "Structure",
+      "B": "Procedure",
+      "C": "Reward system",
+      "D": "Image"
+    },
+    "answer": "D",
+    "explanation": "A supplier’s reputation or image can influence procurement decisions."
+  },
+  {
+    "number": 34,
+    "instruction": "Which of the following factors would not be considered by a cement manufacturing firm in choosing the mode of transport?",
+    "options": {
+      "A": "Availability of the mode",
+      "B": "Government policy",
+      "C": "Quantity of the product",
+      "D": "Cost of the mode"
+    },
+    "answer": "B",
+    "explanation": "Government policy sometimes matters, but in choosing mode of transport the firm more often considers cost, mode availability, and quantity."
+  },
+  {
+    "number": 35,
+    "instruction": "A product that is bought frequently on impulse at lower price is",
+    "options": {
+      "A": "Convenience goods",
+      "B": "Speciality goods",
+      "C": "Unsought goods",
+      "D": "Industrial goods"
+    },
+    "answer": "A",
+    "explanation": "Convenience goods are cheap, bought frequently, often on impulse."
+  },
+  {
+    "number": 36,
+    "instruction": "A source of financing option available to a provision store owner is",
+    "options": {
+      "A": "Issue of debentures",
+      "B": "Leasing",
+      "C": "Sale of shares",
+      "D": "Personal savings"
+    },
+    "answer": "D",
+    "explanation": "Personal savings is a common and accessible source of finance for small business owners."
+  },
+  {
+    "number": 37,
+    "instruction": "Muyi sets up a poultry business at the outskirts of Oshogbo upon retirement. Muyi is regarded as",
+    "options": {
+      "A": "A broker",
+      "B": "A retailer",
+      "C": "An entrepreneur",
+      "D": "An agent"
+    },
+    "answer": "C",
+    "explanation": "By establishing and running a business, Muyi is an entrepreneur."
+  },
+  {
+    "number": 38,
+    "instruction": "Which of the following factors would influence the choice of the location of the poultry business?",
+    "options": {
+      "A": "Nearness to the market",
+      "B": "Nearness to financial institution",
+      "C": "Government policy",
+      "D": "Accessibility to good roads"
+    },
+    "answer": "A",
+    "explanation": "Being close to market reduces distribution cost and risk for perishable goods."
+  },
+  {
+    "number": 39,
+    "instruction": "Sales promotion is important because it enables a business to",
+    "options": {
+      "A": "Create competition between different products",
+      "B": "Fix prices for its products and services",
+      "C": "Locate customers in different areas",
+      "D": "Stimulate demand for its products"
+    },
+    "answer": "D",
+    "explanation": "Promotions help stimulate interest and demand for products."
+  },
+  {
+    "number": 40,
+    "instruction": "The set of variables a confectionery company uses to execute its marketing strategy is marketing",
+    "options": {
+      "A": "Mix",
+      "B": "Plan",
+      "C": "Policy",
+      "D": "Tactics"
+    },
+    "answer": "A",
+    "explanation": "The marketing mix (product, price, place, promotion) is used to execute strategy."
+  }
+]

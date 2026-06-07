@@ -1,0 +1,612 @@
+{
+  "subject": "Economics",
+  "year": "2021",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The study of economics is important to every society because it______",
+      "options": [
+        "Enables individuals to satisfy all their wants",
+        "Helps in the utilization of scarce resources.",
+        "Helps producers to know what to produce.",
+        "Restores equilibrium between producers and consumers"
+      ],
+      "answer": 1,
+      "explanation": "Economics is primarily the study of how society manages its scarce resources to satisfy unlimited wants."
+    },
+    {
+      "id": 2,
+      "question": "A consumer with $10 needs a dress, a pair of shoes, a handbag and jewelry costing $20, $10, $7 and $3 respectively. The opportunity cost of buying the pair of shoes is the________",
+      "options": [
+        "Dress.",
+        "Jewelry.",
+        "Handbag and Jewelry.",
+        "Dress and Jewelry"
+      ],
+      "answer": 2,
+      "explanation": "Opportunity cost is the next best alternative foregone. With $10, the consumer could have bought the Handbag ($7) and Jewelry ($3) together. By choosing the shoes, they give up both."
+    },
+    {
+      "id": 3,
+      "question": "The distinguishing function of an entrepreneur is_______",
+      "options": [
+        "Planning.",
+        "Control.",
+        "Risk-bearing.",
+        "Management."
+      ],
+      "answer": 2,
+      "explanation": "While managers plan and control, the unique role of the entrepreneur is bearing the non-insurable risks of the business."
+    },
+    {
+      "id": 4,
+      "question": "When a commodity market operates without government interference, commodities are distributed through_______",
+      "options": [
+        "Government distribution agencies.",
+        "The operation of price mechanism.",
+        "A central planning committee",
+        "Retailers only."
+      ],
+      "answer": 1,
+      "explanation": "In a free market, the price mechanism (interaction of demand and supply) determines the distribution of goods."
+    },
+    {
+      "id": 5,
+      "question": "One way of obtaining the median of a given data is to__________",
+      "options": [
+        "Sum the value and divide by the number of items.",
+        "Arrange the data in ascending order and subtract each item from the mean.",
+        "Arrange the data in descending order and add each item to the least.",
+        "Arrange the data in either ascending or descending order and find what item divides the set in two equal parts."
+      ],
+      "answer": 3,
+      "explanation": "The median is the middle value of a data set when it is arranged in order of magnitude."
+    },
+    {
+      "id": 6,
+      "question": "An increase in the rice harvest, all things being equal, may cause____________",
+      "options": [
+        "Price to increase substantially.",
+        "Price to fall substantially.",
+        "Demand to fall substantially.",
+        "Farmer's incomes to be more than doubled"
+      ],
+      "answer": 1,
+      "explanation": "A bumper harvest increases supply. According to the law of supply and demand, an increase in supply leads to a decrease in price."
+    },
+    {
+      "id": 7,
+      "question": "The demand for wood and labour is an example of______",
+      "options": [
+        "Effective demand.",
+        "Complementary demand",
+        "Derived demand",
+        "Competitive demand"
+      ],
+      "answer": 2,
+      "explanation": "Derived demand occurs when the demand for a factor of production depends on the demand for the final product."
+    },
+    {
+      "id": 8,
+      "question": "What will be the reaction of consumers in a market if there is a fall in the price of the substitute commodity X?",
+      "options": [
+        "Price of commodity X will increase",
+        "Demand for the substitute of commodity X will decrease",
+        "Demand for commodity X will decrease",
+        "Supply of both commodity X and its substitute will increase."
+      ],
+      "answer": 1,
+      "explanation": "If the price of a substitute falls, consumers will leave the original product to buy the cheaper substitute."
+    },
+    {
+      "id": 9,
+      "question": "An increase in market supply is caused by the following factors except_________",
+      "options": [
+        "An improvement in innovation and technology.",
+        "An increase in the price of the commodity",
+        "A reduction in the cost of raw materials.",
+        "A favourable weather condition."
+      ],
+      "answer": 1,
+      "explanation": "Price changes cause a movement along the supply curve (change in quantity supplied), not a shift in the supply curve itself."
+    },
+    {
+      "id": 10,
+      "question": "The coefficient of price elasticity of supply of land is usually____________",
+      "options": [
+        "One",
+        "Greater than one",
+        "Zero",
+        "Less than one"
+      ],
+      "answer": 2,
+      "explanation": "Land is fixed in supply (perfectly inelastic), meaning its supply does not change regardless of price. $E_s = 0$."
+    },
+    {
+      "id": 11,
+      "question": "The price of soap rose from $10 to $20 causing a trader to increase her supply from 50 to 120 boxes per week. This makes supply_________",
+      "options": [
+        "Unitary elastic.",
+        "Perfectly inelastic.",
+        "Fairly elastic.",
+        "Inelastic."
+      ],
+      "answer": 2,
+      "explanation": "% Change in Price = 100%. % Change in Quantity = 140%. Since % change in quantity > % change in price, it is elastic."
+    },
+    {
+      "id": 12,
+      "question": "The leftward shift in the supply curve for a commodity indicates_________",
+      "options": [
+        "An increase in quantity supplied",
+        "A decrease in supply.",
+        "A reduction in quantity supplied.",
+        "An increase in supply."
+      ],
+      "answer": 1,
+      "explanation": "A leftward shift represents a decrease in supply caused by non-price factors like higher production costs."
+    },
+    {
+      "id": 13,
+      "question": "Market supply may increase if there is an increase in the________",
+      "options": [
+        "Price of the product",
+        "Prices of factors of production.",
+        "Tax paid on raw materials",
+        "Subsidies on raw materials."
+      ],
+      "answer": 3,
+      "explanation": "Subsidies reduce production costs, making it cheaper for producers to supply more goods."
+    },
+    {
+      "id": 14,
+      "question": "Government can increase farmers' incomes by__________",
+      "options": [
+        "Fixing maximum prices.",
+        "Fixing minimum prices.",
+        "Encouraging them to produce surplus output.",
+        "Increasing taxes on inputs."
+      ],
+      "answer": 1,
+      "explanation": "Minimum prices (Price Floors) are set above equilibrium to guarantee a higher income for producers."
+    },
+    {
+      "id": 15,
+      "question": "When market supply increases, the equilibrium price_________",
+      "options": [
+        "Rises and quantity falls.",
+        "Falls and quantity rises.",
+        "And quantity increase",
+        "And quantity fall."
+      ],
+      "answer": 1,
+      "explanation": "An increase in supply (rightward shift) leads to a lower equilibrium price and a higher equilibrium quantity."
+    },
+    {
+      "id": 16,
+      "question": "The supply of mangoes is represented as P=0.3Q, where P is the price ($) and Q is the quantity. What is P when Q is 50?",
+      "options": [
+        "$1.50",
+        "$15.00",
+        "$150.03",
+        "$166.67"
+      ],
+      "answer": 1,
+      "explanation": "$P = 0.3 \times 50 = 15$. So, Price is $15.00."
+    },
+    {
+      "id": 17,
+      "question": "The output of an extra unit of an input is referred to as________",
+      "options": [
+        "Output of the input.",
+        "Marginal product of the input",
+        "Average product of the input",
+        "Utility of the input employed"
+      ],
+      "answer": 1,
+      "explanation": "Marginal Product is the additional output gained by using one additional unit of input."
+    },
+    {
+      "id": 18,
+      "question": "The law of diminishing returns is applicable to the__________",
+      "options": [
+        "fixed inputs of production.",
+        "variable factors of production.",
+        "plants and machinery of the firm.",
+        "equipment and other capital."
+      ],
+      "answer": 1,
+      "explanation": "The law states that adding more variable factors to fixed factors will eventually lead to smaller increases in output."
+    },
+    {
+      "id": 19,
+      "question": "Based on the table, the fixed cost of production is___________",
+      "instruction": "Output (Bags): 0, 10, 20, 30, 40, 50, 60 | Total Cost ($): 100, 200, 300, 380, 440, 520, 600",
+      "options": [
+        "$100.",
+        "$200.",
+        "$300.",
+        "$600"
+      ],
+      "answer": 0,
+      "explanation": "Fixed cost is the cost when output is zero. At 0 bags, Total Cost is $100."
+    },
+    {
+      "id": 20,
+      "question": "The average cost of producing 40 bags of rice is_____",
+      "instruction": "Output (Bags): 0, 10, 20, 30, 40, 50, 60 | Total Cost ($): 100, 200, 300, 380, 440, 520, 600",
+      "options": [
+        "$10",
+        "$11",
+        "$60.",
+        "$80"
+      ],
+      "answer": 1,
+      "explanation": "Average Cost = Total Cost / Output. $440 / 40 = 11$."
+    },
+    {
+      "id": 21,
+      "question": "The relationship between the marginal revenue (MR) and the average revenue (AR) of a monopolist is that the marginal revenue curve____",
+      "options": [
+        "is above the average revenue curve",
+        "slopes down to the right and is below the AR curve.",
+        "and the AR curve are downward sloping and are identical.",
+        "is vertical while the average revenue curve is horizontal."
+      ],
+      "answer": 1,
+      "explanation": "For a monopolist, the MR curve lies below the AR (demand) curve because to sell more, price must be lowered on all units."
+    },
+    {
+      "id": 22,
+      "question": "A major source of finance to the Railway Corporation in West African countries is_______",
+      "options": [
+        "sale of shares",
+        "government subvention",
+        "trade credit",
+        "surplus"
+      ],
+      "answer": 1,
+      "explanation": "Public corporations like railways are usually funded through government grants and subventions."
+    },
+    {
+      "id": 23,
+      "question": "Separation of ownership of resources and their control is mostly found in a __________",
+      "options": [
+        "sole proprietorship",
+        "partnership",
+        "joint stock company",
+        "consumer co-operative"
+      ],
+      "answer": 2,
+      "explanation": "In a Joint Stock Company, shareholders own the company but the Board of Directors controls it."
+    },
+    {
+      "id": 24,
+      "question": "Bypassing the middlemen in the chain of distribution can lead to _________",
+      "options": [
+        "a problem of unemployment of labour",
+        "the creation of artificial scarcity",
+        "high prices of goods and services",
+        "an increase in government tax revenue"
+      ],
+      "answer": 0,
+      "explanation": "Middlemen provide employment; removing them reduces the number of people employed in the distribution sector."
+    },
+    {
+      "id": 25,
+      "question": "Two factors which can improve the efficiency of labour are_________",
+      "options": [
+        "population size and age of retirement",
+        "school leaving age and number of disabled workers",
+        "work environment and health status of workers",
+        "school leaving age and number of part-time workers"
+      ],
+      "answer": 2,
+      "explanation": "A conducive environment and good health allow workers to produce more in less time."
+    },
+    {
+      "id": 26,
+      "question": "What is the percentage of the working population?",
+      "instruction": "Age Group: 0-15 (30%), 16-40 (45%), 41-60 (15%), Over 60 (10%)",
+      "options": [
+        "75%",
+        "60%",
+        "45%",
+        "15%"
+      ],
+      "answer": 1,
+      "explanation": "The working population is ages 16-60. $45% + 15% = 60%$."
+    },
+    {
+      "id": 27,
+      "question": "What is the dependency ratio?",
+      "instruction": "Age Group: 0-15 (30%), 16-40 (45%), 41-60 (15%), Over 60 (10%)",
+      "options": [
+        "2:3",
+        "3:2",
+        "1:2",
+        "6:1"
+      ],
+      "answer": 0,
+      "explanation": "Dependants are 0-15 (30%) and Over 60 (10%) = 40%. Workers = 60%. Ratio $40:60 = 2:3$."
+    },
+    {
+      "id": 28,
+      "question": "The supply of land for agricultural purpose can be increased through _______",
+      "options": [
+        "The introduction of mechanized farming",
+        "reclamation and irrigation",
+        "increase in prices of land",
+        "conversion of building sites to farmlands"
+      ],
+      "answer": 1,
+      "explanation": "Reclamation and irrigation turn unusable land into usable agricultural land."
+    },
+    {
+      "id": 29,
+      "question": "Non-economic factors that influence the location of firms include ________",
+      "options": [
+        "the existence of required materials for production",
+        "availability of population of buyers",
+        "adequate supply of power, good road and rail network",
+        "the activities of politicians in deciding location of firms"
+      ],
+      "answer": 3,
+      "explanation": "Political decisions are social or non-economic, unlike raw materials or power."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is not an argument for the policy of privatization in West Africa?",
+      "options": [
+        "To make businesses more profitable",
+        "Government is able to participate and control the operation of the privatized businesses",
+        "Members of the public are able to acquire shares",
+        "It encourages the inflow of capital and expertise from local and foreign sources"
+      ],
+      "answer": 1,
+      "explanation": "Privatization is the transfer of control from the government to the private sector, so government control is not an argument for it."
+    },
+    {
+      "id": 31,
+      "question": "What is the country's Gross National Product (GNP)?",
+      "instruction": "GDP = $2800, Net factor income from abroad = $250, Depreciation = $700, Indirect taxes = $120",
+      "options": [
+        "$3,050",
+        "$2,680",
+        "$2,350",
+        "$2,100"
+      ],
+      "answer": 0,
+      "explanation": "$GNP = GDP + \\text{Net factor income from abroad}$. $2800 + 250 = 3050$."
+    },
+    {
+      "id": 32,
+      "question": "What is the country's Net National Product (NNP) at factor cost?",
+      "instruction": "GDP = $2800, Net factor income from abroad = $250, Depreciation = $700, Indirect taxes = $120",
+      "options": [
+        "$3,050",
+        "$2,680",
+        "$2,230",
+        "$2,220"
+      ],
+      "answer": 2,
+      "explanation": "$NNP = GNP - \\text{Depreciation} - \\text{Indirect taxes}$. $3050 - 700 - 120 = 2230$."
+    },
+    {
+      "id": 33,
+      "question": "The standard of living in two countries can be compared using the___________",
+      "options": [
+        "number of industries in each country",
+        "size of their arms and ammunition",
+        "size of their national incomes only",
+        "gross national product per head"
+      ],
+      "answer": 3,
+      "explanation": "GNP per head (Per Capita Income) is the standard measure for comparing welfare between nations."
+    },
+    {
+      "id": 34,
+      "question": "Government can curb inflation by_________",
+      "options": [
+        "encouraging banks to lend for any purpose.",
+        "increasing her own expenditure.",
+        "buying treasury bills in the open market.",
+        "selling securities in the open market"
+      ],
+      "answer": 3,
+      "explanation": "Selling securities (OMO) reduces the amount of money in circulation."
+    },
+    {
+      "id": 35,
+      "question": "Functions of money does not include_______",
+      "options": [
+        "store of value.",
+        "medium of exchange",
+        "standard of deferred payment.",
+        "general acceptability."
+      ],
+      "answer": 3,
+      "explanation": "General acceptability is a characteristic of money, not a function."
+    },
+    {
+      "id": 36,
+      "question": "Demand-pull inflation can be as a result of___________",
+      "options": [
+        "increase in the cost of production.",
+        "excessive supply of foodstuff",
+        "deficit financing by the government.",
+        "increase in import duties."
+      ],
+      "answer": 2,
+      "explanation": "Deficit financing (printing more money to spend) increases demand, causing inflation."
+    },
+    {
+      "id": 37,
+      "question": "An increase in cash ratio by the central bank will_______",
+      "options": [
+        "Increase the supply of money.",
+        "Increase banks lending",
+        "Encourage borrowing.",
+        "Reduce the supply of money."
+      ],
+      "answer": 3,
+      "explanation": "A higher cash ratio means banks have less money to lend, reducing the money supply."
+    },
+    {
+      "id": 38,
+      "question": "When a government cuts down her expenditure to reduce inflation, she has embarked on___________",
+      "options": [
+        "A restrictive Fiscal policy.",
+        "An expansionary monetary policy.",
+        "Physical policy.",
+        "Implementing budget deficit"
+      ],
+      "answer": 0,
+      "explanation": "Fiscal policy involves government spending and tax. Reducing spending is 'restrictive'."
+    },
+    {
+      "id": 39,
+      "question": "To increase tax revenue, it is advisable for government to increase taxes on_______",
+      "options": [
+        "Textile materials with elastic demand",
+        "Alcoholic beverages with inelastic demand",
+        "Agricultural products with inelastic supply",
+        "Luxury goods with elastic supply"
+      ],
+      "answer": 1,
+      "explanation": "People will continue to buy inelastic goods like alcohol even if taxes make them more expensive."
+    },
+    {
+      "id": 40,
+      "question": "People who dispose of their assets are expected to pay ______________",
+      "options": [
+        "value added tax",
+        "capital gains tax",
+        "expenditure tax",
+        "sales tax"
+      ],
+      "answer": 1,
+      "explanation": "Capital gains tax is paid on the profit made from selling an asset."
+    },
+    {
+      "id": 41,
+      "question": "A floating exchange rate means that the exchange rate is fixed by the __________",
+      "options": [
+        "Central bank of the country",
+        "Forces of demand and supply",
+        "International monetary fund (IMF)",
+        "Ministry of Finance"
+      ],
+      "answer": 1,
+      "explanation": "Floating rates are determined by market forces of demand and supply."
+    },
+    {
+      "id": 42,
+      "question": "A measure that can be adopted to correct a country's balance of payments deficit is ____________",
+      "options": [
+        "Allow the currency to appreciate to encourage imports.",
+        "Allow the currency to depreciate to encourage imports",
+        "Adopt import substitution strategy",
+        "Restrict trade with all countries"
+      ],
+      "answer": 2,
+      "explanation": "Import substitution reduces the need for foreign goods, saving foreign exchange."
+    },
+    {
+      "id": 43,
+      "question": "Records of a country's invisible trade are recorded in her____________-",
+      "options": [
+        "Trade account.",
+        "Capital account.",
+        "Current account",
+        "Financial account."
+      ],
+      "answer": 2,
+      "explanation": "The Current Account records both visible (goods) and invisible (services) trade."
+    },
+    {
+      "id": 44,
+      "question": "If a country's import bill is high, she can encourage exports by___________",
+      "options": [
+        "Allowing her currency to depreciate",
+        "Allowing her currency to appreciate",
+        "Liberalizing importation",
+        "Increasing taxes on all locally produced goods"
+      ],
+      "answer": 0,
+      "explanation": "Depreciation makes exports cheaper for other countries to buy."
+    },
+    {
+      "id": 45,
+      "question": "If a country imposes a barrier on trade, the resultant effect will be _________",
+      "options": [
+        "a halt in buying and selling",
+        "high quality goods from local industries",
+        "an increase in the demand for locally produced goods",
+        "shutdown of infant industries"
+      ],
+      "answer": 2,
+      "explanation": "Barriers make foreign goods expensive, encouraging people to buy local goods."
+    },
+    {
+      "id": 46,
+      "question": "A country may be able to earn more from exports if she_____________",
+      "options": [
+        "increase her export duty",
+        "devalues her currency",
+        "increases her import duty",
+        "allows her currency to appreciate"
+      ],
+      "answer": 1,
+      "explanation": "Devaluation makes a country's goods more competitive abroad."
+    },
+    {
+      "id": 47,
+      "question": "A customs union is an economic grouping which has___________",
+      "options": [
+        "free movement of factors of production",
+        "common tariffs against non-Members.",
+        "common currency for trading",
+        "common military defence"
+      ],
+      "answer": 1,
+      "explanation": "A customs union has free trade internally and a common external tariff for outsiders."
+    },
+    {
+      "id": 48,
+      "question": "Balance of payments and trade problems that arose after the world wars were resolved by the____________",
+      "options": [
+        "International Bank tor Reconstruction and Development.",
+        "International Monetary Fund.",
+        "African Development Bank.",
+        "Organization of Petroleum Exporting Countries."
+      ],
+      "answer": 1,
+      "explanation": "The IMF was set up to ensure international monetary stability and handle BOP issues."
+    },
+    {
+      "id": 49,
+      "question": "Examples of land that are non-renewable include___________",
+      "options": [
+        "marshy and water-logged land.",
+        "farmland already used tor many years.",
+        "some natural resources such as natural gas.",
+        "oxygen and carbon dioxide in the atmosphere"
+      ],
+      "answer": 2,
+      "explanation": "Natural gas is a fossil fuel that cannot be replaced once consumed."
+    },
+    {
+      "id": 50,
+      "question": "Abundant natural resources do not contribute to economic growth in developing countries because of_________",
+      "options": [
+        "high rate of inflation",
+        "urban congestion.",
+        "over-reliance on multiple commodities.",
+        "mismanagement and corruption."
+      ],
+      "answer": 3,
+      "explanation": "Mismanagement and corruption prevent the wealth from resources from being invested in growth."
+    }
+  ]
+}

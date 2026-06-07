@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "The process of identifying needs, delivering, and exchanging products that have value for customers is",
+    "options": {
+      "A": "sales.",
+      "B": "distribution.",
+      "C": "marketing.",
+      "D": "advertising."
+    },
+    "answer": "C",
+    "explanation": "**Marketing** is the process of identifying customer needs, creating value, and exchanging products to satisfy those needs."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following activities is a function of marketing?",
+    "options": {
+      "A": "advertising.",
+      "B": "production.",
+      "C": "store keeping.",
+      "D": "maintenances."
+    },
+    "answer": "A",
+    "explanation": "**Advertising** is a core marketing function used to promote products and reach customers."
+  },
+  {
+    "id": 3,
+    "question": "The business concept that states consumers would buy any items once it is of high quality is",
+    "options": {
+      "A": "marketing concept.",
+      "B": "selling concept.",
+      "C": "production concept.",
+      "D": "product concept."
+    },
+    "answer": "D",
+    "explanation": "The **product concept** assumes that consumers prefer high-quality products and will buy them based on quality alone."
+  },
+  {
+    "id": 4,
+    "question": "A component of place as a marketing mix element is",
+    "options": {
+      "A": "warrantee.",
+      "B": "packaging.",
+      "C": "warehouse.",
+      "D": "discount."
+    },
+    "answer": "C",
+    "explanation": "**Warehouse** is a component of place (distribution), where products are stored before reaching customers."
+  },
+  {
+    "id": 5,
+    "question": "The concept applied by ABC Ltd, if it analyses its customers' needs before providing goods to satisfy them, is",
+    "options": {
+      "A": "production concept.",
+      "B": "product concept.",
+      "C": "selling concept.",
+      "D": "marketing concept."
+    },
+    "answer": "D",
+    "explanation": "The **marketing concept** focuses on understanding and satisfying customer needs before production."
+  },
+  {
+    "id": 6,
+    "question": "The environmental factor that can influence the relocation of a company from Lagos to Kano as a result of high taxes and levies is",
+    "options": {
+      "A": "religious factor.",
+      "B": "technological factors.",
+      "C": "political factors.",
+      "D": "social factors."
+    },
+    "answer": "C",
+    "explanation": "**Political factors** like taxes and government levies influence business location decisions."
+  },
+  {
+    "id": 7,
+    "question": "An element of marketing mix that deals with the storage of food is?",
+    "options": {
+      "A": "product.",
+      "B": "price.",
+      "C": "place.",
+      "D": "promotion."
+    },
+    "answer": "C",
+    "explanation": "**Place** (distribution) deals with storage and movement of products to customers."
+  },
+  {
+    "id": 8,
+    "question": "The part of the product with a primary function of protecting its content is the",
+    "options": {
+      "A": "brand name.",
+      "B": "trademark.",
+      "C": "container.",
+      "D": "label."
+    },
+    "answer": "C",
+    "explanation": "The **container** is the primary protective element of packaging that safeguards product content."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following categories of products is classified based on usage?",
+    "options": {
+      "A": "mineral and non-mineral product.",
+      "B": "consumers and industrial goods.",
+      "C": "oil and non-oil product.",
+      "D": "goods and services."
+    },
+    "answer": "B",
+    "explanation": "**Consumer and industrial goods** classification is based on how products are used (by individuals vs. businesses)."
+  },
+  {
+    "id": 10,
+    "question": "Lubricants purchased by a farmer and used up in their course of operations are classified as",
+    "options": {
+      "A": "consumer product.",
+      "B": "industrial product.",
+      "C": "specialty goods.",
+      "D": "unsought goods."
+    },
+    "answer": "B",
+    "explanation": "**Industrial products** are purchased by businesses for use in their operations, like the farmer's lubricants."
+  },
+  {
+    "id": 11,
+    "question": "The market is broadly classified as?",
+    "options": {
+      "A": "consumer and organisational market.",
+      "B": "retail and wholesale market.",
+      "C": "consumer and wholesale markets.",
+      "D": "industrial and government markets."
+    },
+    "answer": "A",
+    "explanation": "Markets are broadly classified into **consumer market** (individuals) and **organizational market** (businesses, government)."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following buyers of product is classified as a consumer markets?",
+    "options": {
+      "A": "industries.",
+      "B": "retailers.",
+      "C": "household.",
+      "D": "government."
+    },
+    "answer": "C",
+    "explanation": "**Households** represent consumer markets—individuals buying for personal use."
+  },
+  {
+    "id": 13,
+    "question": "Cognitive dissonance occurs when a consumer",
+    "options": {
+      "A": "is satisfied with a product.",
+      "B": "is dissatisfied with a product.",
+      "C": "rebuys a product.",
+      "D": "recommends a product."
+    },
+    "answer": "B",
+    "explanation": "**Cognitive dissonance** is the mental discomfort a consumer feels when dissatisfied after a purchase."
+  },
+  {
+    "id": 14,
+    "question": "A consumer's buying behavior is influenced by",
+    "options": {
+      "A": "professional options.",
+      "B": "reference group.",
+      "C": "company's strategy.",
+      "D": "company's plan."
+    },
+    "answer": "B",
+    "explanation": "A **reference group** (friends, family, colleagues) significantly influences consumer buying decisions."
+  },
+  {
+    "id": 15,
+    "question": "The first step in the marketing research process is",
+    "options": {
+      "A": "data analysis.",
+      "B": "problem definition.",
+      "C": "collection of data.",
+      "D": "reporting of findings."
+    },
+    "answer": "B",
+    "explanation": "**Problem definition** is the first step—clearly identifying what research question needs answering."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following information would be relevant in marketing research for industrial goods?",
+    "options": {
+      "A": "consumption pattern.",
+      "B": "lifestyle of consumers.",
+      "C": "product life cycle.",
+      "D": "size of the product."
+    },
+    "answer": "C",
+    "explanation": "**Product life cycle** information is relevant for industrial goods to understand market phases and timing."
+  },
+  {
+    "id": 17,
+    "question": "KPKC Ltd bought 60 packs of beverages at ₦150 each and sold them at a 20% mark-up. The pricing strategy adopted by KPKC Ltd is a?",
+    "options": {
+      "A": "demand based pricing.",
+      "B": "penetration pricing.",
+      "C": "skimming pricing.",
+      "D": "cost-plus pricing."
+    },
+    "answer": "D",
+    "explanation": "Adding a fixed percentage (20%) markup to cost is **cost-plus pricing**."
+  },
+  {
+    "id": 18,
+    "question": "KPKC Ltd bought 60 packs of beverages at ₦150 each and sold them at a 20% mark-up. What is the total cost of the beverage?",
+    "options": {
+      "A": "₦1,800.",
+      "B": "₦7,200.",
+      "C": "₦9,000.",
+      "D": "₦10,800."
+    },
+    "answer": "C",
+    "explanation": "Total cost = 60 packs × ₦150 = **₦9,000**."
+  },
+  {
+    "id": 19,
+    "question": "KPKC Ltd bought 60 packs of beverages at ₦150 each and sold them at a 20% mark-up. The selling price per pack is?",
+    "options": {
+      "A": "₦30.",
+      "B": "₦120.",
+      "C": "₦150.",
+      "D": "₦180."
+    },
+    "answer": "D",
+    "explanation": "Selling price = ₦150 + (20% × ₦150) = ₦150 + ₦30 = **₦180**."
+  },
+  {
+    "id": 20,
+    "question": "An advantage of using radio as a medium of advertising is that it has",
+    "options": {
+      "A": "wide geographical coverage.",
+      "B": "visual and motion effect.",
+      "C": "unlimited time availability.",
+      "D": "long lasting effect."
+    },
+    "answer": "A",
+    "explanation": "**Wide geographical coverage** is a key advantage of radio advertising—it reaches large areas quickly."
+  },
+  {
+    "id": 21,
+    "question": "Newspapers, magazines, and pamphlets are examples of",
+    "options": {
+      "A": "electronic media.",
+      "B": "print media.",
+      "C": "social media.",
+      "D": "broadcast media."
+    },
+    "answer": "B",
+    "explanation": "**Print media** includes newspapers, magazines, brochures, and pamphlets."
+  },
+  {
+    "id": 22,
+    "question": "ABC bakery has decided to implement an incentive scheme to encourage bulk buying due to low sales. The discount that is suitable for the company to achieve its objective?",
+    "options": {
+      "A": "seasonal discount.",
+      "B": "cash discount.",
+      "C": "functional discount.",
+      "D": "quantity discount."
+    },
+    "answer": "D",
+    "explanation": "**Quantity discount** rewards customers for buying in bulk, directly encouraging larger purchases."
+  },
+  {
+    "id": 23,
+    "question": "ABC bakery has decided to implement an incentive scheme to encourage bulk buying due to low sales. Another sales promotional incentive the company could adopt to stimulate sales is?",
+    "options": {
+      "A": "advertising.",
+      "B": "public relations.",
+      "C": "free samples.",
+      "D": "personal selling."
+    },
+    "answer": "C",
+    "explanation": "**Free samples** allow customers to try products, stimulating interest and encouraging purchases."
+  },
+  {
+    "id": 24,
+    "question": "The process of designing and producing containers and wrappers for a product is",
+    "options": {
+      "A": "package.",
+      "B": "branding.",
+      "C": "labelling.",
+      "D": "sorting."
+    },
+    "answer": "A",
+    "explanation": "**Packaging** is the design and production of containers and wrappers for product protection and appeal."
+  },
+  {
+    "id": 25,
+    "question": "A channel member responsible for bulk breaking is the",
+    "options": {
+      "A": "producer.",
+      "B": "agent.",
+      "C": "consumer.",
+      "D": "wholesaler."
+    },
+    "answer": "D",
+    "explanation": "**Wholesalers** buy in bulk from producers and break bulk by selling smaller quantities to retailers."
+  },
+  {
+    "id": 26,
+    "question": "A highly priced industrial product would be distributed using",
+    "options": {
+      "A": "indirect channel.",
+      "B": "intensive distribution.",
+      "C": "direct channel.",
+      "D": "selective distribution."
+    },
+    "answer": "C",
+    "explanation": "**Direct channel** (producer to buyer) is suitable for high-priced industrial products needing personal attention."
+  },
+  {
+    "id": 27,
+    "question": "The use of private retail outlets in the sales and distribution of petroleum products in Nigeria is an example of",
+    "options": {
+      "A": "direct distribution.",
+      "B": "selective distribution.",
+      "C": "indirect distribution.",
+      "D": "exclusive distribution."
+    },
+    "answer": "B",
+    "explanation": "**Selective distribution** chooses specific outlets; petroleum companies use selected private retailers."
+  },
+  {
+    "id": 28,
+    "question": "A document that contains information relating to goods being transported is",
+    "options": {
+      "A": "waybill.",
+      "B": "receipt.",
+      "C": "licence.",
+      "D": "invoice."
+    },
+    "answer": "A",
+    "explanation": "A **waybill** documents goods in transit, showing what is being transported and where."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is a distribution method used by a sachet water company that sells its product to households?",
+    "options": {
+      "A": "indirect distribution.",
+      "B": "exclusive distribution.",
+      "C": "direct distribution.",
+      "D": "intensive distribution."
+    },
+    "answer": "D",
+    "explanation": "**Intensive distribution** makes products available everywhere; sachet water uses many retail points for accessibility."
+  },
+  {
+    "id": 30,
+    "question": "The process of attaching or printing information about a product on the package is",
+    "options": {
+      "A": "branding.",
+      "B": "labeling.",
+      "C": "designing.",
+      "D": "cataloguing."
+    },
+    "answer": "B",
+    "explanation": "**Labeling** is printing/attaching product information like ingredients, usage, and brand details on packaging."
+  },
+  {
+    "id": 31,
+    "question": "The function of marketing that deals with the movement of goods and salesmen from one location to another is",
+    "options": {
+      "A": "warehouse.",
+      "B": "transportation.",
+      "C": "distribution.",
+      "D": "promotion."
+    },
+    "answer": "B",
+    "explanation": "**Transportation** is the marketing function that moves goods and sales personnel between locations."
+  },
+  {
+    "id": 32,
+    "question": "Saka Ltd has decided to engage in international marketing but wants to minimize the risk involved. Which of the following reasons would have influenced the company's decision?",
+    "options": {
+      "A": "increase regulation in the foreign market.",
+      "B": "high labour cost in the foreign market.",
+      "C": "low demand in the domestic market.",
+      "D": "availability of subsidies in the domestic market."
+    },
+    "answer": "C",
+    "explanation": "**Low domestic demand** motivates international expansion to find new markets for growth."
+  },
+  {
+    "id": 33,
+    "question": "Saka Ltd has decided to engage in the international market but wants to minimize the risk involved. What is the mode of entry that will be suitable for the company?",
+    "options": {
+      "A": "exporting.",
+      "B": "direct investment.",
+      "C": "joint venture.",
+      "D": "licensing."
+    },
+    "answer": "A",
+    "explanation": "**Exporting** is the lowest-risk international entry mode, requiring minimal investment compared to other options."
+  },
+  {
+    "id": 34,
+    "question": "An association of traders belonging to the same line of business is a",
+    "options": {
+      "A": "cooperative society.",
+      "B": "merchant association.",
+      "C": "market facilitator.",
+      "D": "market union."
+    },
+    "answer": "B",
+    "explanation": "A **merchant association** is an organized group of traders in the same business line."
+  },
+  {
+    "id": 35,
+    "question": "The process of entering a new market by paying a fee for using another company's brand name is",
+    "options": {
+      "A": "exporting.",
+      "B": "licensing.",
+      "C": "direct ownership.",
+      "D": "joint venture."
+    },
+    "answer": "B",
+    "explanation": "**Licensing** allows a company to enter a market by paying for the right to use another company's brand/technology."
+  },
+  {
+    "id": 36,
+    "question": "Ernest Ltd.'s effort to promote and sell its fruit juice through the company's website is an example of",
+    "options": {
+      "A": "e-payment.",
+      "B": "e-marketing.",
+      "C": "e-procurement.",
+      "D": "e-transaction."
+    },
+    "answer": "B",
+    "explanation": "**E-marketing** uses digital channels like websites to promote and sell products."
+  },
+  {
+    "id": 37,
+    "question": "Services offered to customers by a firm to encourage continuous patronage of company's product is",
+    "options": {
+      "A": "pre-sale services.",
+      "B": "after-sales services.",
+      "C": "self-services.",
+      "D": "merchandising services."
+    },
+    "answer": "B",
+    "explanation": "**After-sales services** (warranties, support, maintenance) encourage customer loyalty and repeat purchases."
+  },
+  {
+    "id": 38,
+    "question": "Mr John, who identifies people's need for popcorn and meets it at a profit, is a",
+    "options": {
+      "A": "researcher.",
+      "B": "factor.",
+      "C": "marketer.",
+      "D": "facilitator."
+    },
+    "answer": "C",
+    "explanation": "A **marketer** identifies customer needs and satisfies them profitably—exactly what Mr. John is doing."
+  },
+  {
+    "id": 39,
+    "question": "A factor that will be considered in the choice of transportation mode is",
+    "options": {
+      "A": "location of customer.",
+      "B": "product brand.",
+      "C": "government policy.",
+      "D": "reliability of the means."
+    },
+    "answer": "D",
+    "explanation": "**Reliability** of the transportation method is crucial for timely, safe delivery of products."
+  },
+  {
+    "id": 40,
+    "question": "One distinctive feature of a supermarket is",
+    "options": {
+      "A": "pre-packaging of goods.",
+      "B": "after-sale services.",
+      "C": "credit sales.",
+      "D": "self service."
+    },
+    "answer": "D",
+    "explanation": "**Self-service** is a distinctive feature of supermarkets—customers select items themselves without staff assistance."
+  }
+]

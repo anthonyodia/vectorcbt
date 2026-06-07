@@ -1,0 +1,616 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a non-renewable natural resources?",
+      "options": {
+        "A": "Rubber",
+        "B": "Oil palm",
+        "C": "Coal",
+        "D": "Cocoa"
+      },
+      "answer": "C",
+      "explanation": "Coal is a non-renewable resource because it cannot be replenished naturally within a short period."
+    },
+    {
+      "id": 2,
+      "question": "The demand for a factor input as a result of the demand for its output is known as",
+      "options": {
+        "A": "market demand",
+        "B": "complementary demand",
+        "C": "competitive demand",
+        "D": "derived demand"
+      },
+      "answer": "D",
+      "explanation": "Derived demand occurs when the demand for a factor is based on the demand for the final product."
+    },
+    {
+      "id": 3,
+      "question": "If the government stops subsidy on cocoa production, the supply curve of cocoa will",
+      "options": {
+        "A": "become vertical",
+        "B": "remain unchanged",
+        "C": "shift to the left",
+        "D": "shift to the right"
+      },
+      "answer": "C",
+      "explanation": "Removing subsidy increases production costs, shifting the supply curve to the left."
+    },
+    {
+      "id": 4,
+      "question": "A monopolist may enjoy abnormal profit only if its",
+      "options": {
+        "A": "marginal cost exceeds marginal revenue",
+        "B": "demand curve is perfectly elastic",
+        "C": "expenditure on advertisement increases",
+        "D": "price exceeds average total cost"
+      },
+      "answer": "D",
+      "explanation": "Abnormal profit occurs when price exceeds average total cost."
+    },
+    {
+      "id": 5,
+      "question": "The supply of light could be met using a candle, lantern and gas lamp. This is an example of a",
+      "options": {
+        "A": "complementary supply",
+        "B": "abnormal supply",
+        "C": "joint supply",
+        "D": "composite supply"
+      },
+      "answer": "C",
+      "explanation": "Different sources producing the same good are an example of joint supply."
+    },
+    {
+      "id": 6,
+      "question": "Industries are sometimes located in areas which are not profitable so as to",
+      "options": {
+        "A": "encourage rural-urban migration",
+        "B": "be able to even-out development",
+        "C": "bring about external economies of scale",
+        "D": "be able to reap internal economies of scale"
+      },
+      "answer": "B",
+      "explanation": "Locating industries in less profitable areas promotes balanced regional development."
+    },
+    {
+      "id": 7,
+      "question": "A government may cause a favourable change in her invisible trade account by",
+      "options": {
+        "A": "developing tourism and other services",
+        "B": "imposing high tariff on exports",
+        "C": "encouraging people to go for medical treatment abroad",
+        "D": "increasing the export of her primary products"
+      },
+      "answer": "A",
+      "explanation": "Developing services like tourism boosts invisible exports."
+    },
+    {
+      "id": 8,
+      "question": "To overcome the problem of double counting under the expenditure approach,",
+      "options": {
+        "A": "spending on intermediate goods and inputs are considered",
+        "B": "valued added method is used",
+        "C": "proper accounting standards must be used",
+        "D": "only spending on final goods are considered"
+      },
+      "answer": "D",
+      "explanation": "Counting only final goods prevents double counting."
+    },
+    {
+      "id": 9,
+      "question": "At what point on the total product curve shown above will marginal product be negative?",
+      "options": {
+        "A": "Q",
+        "B": "S",
+        "C": "R",
+        "D": "P"
+      },
+      "answer": "C",
+      "explanation": "Marginal product becomes negative after the point where total product starts to decline."
+    },
+    {
+      "id": 10,
+      "question": "National income is calculated mainly to",
+      "options": {
+        "A": "determine how income is to shared",
+        "B": "help firms generate more funds",
+        "C": "determine aid to be received from other nations",
+        "D": "determine the level of sectoral performance"
+      },
+      "answer": "D",
+      "explanation": "National income measures the overall economic performance."
+    },
+    {
+      "id": 11,
+      "question": "Assisting members to solve temporary balance of payments problems is the reason for the establishment of the",
+      "options": {
+        "A": "International Monetary Fund",
+        "B": "Economic Commission for Africa",
+        "C": "World Bank",
+        "D": "African Development Bank"
+      },
+      "answer": "A",
+      "explanation": "IMF provides financial assistance for balance of payments issues."
+    },
+    {
+      "id": 12,
+      "question": "Money is able to function more as a medium of exchange when",
+      "options": {
+        "A": "there is a fall in production",
+        "B": "more people engage in subsistence production",
+        "C": "individuals and nations are self-sufficient",
+        "D": "there is specialization of labour"
+      },
+      "answer": "D",
+      "explanation": "Specialization increases the need for money as a medium of exchange."
+    },
+    {
+      "id": 13,
+      "question": "An economy system is mainly concerned with",
+      "options": {
+        "A": "studying the relationship between ends and means",
+        "B": "the allocation of scarce resources between alternative ends",
+        "C": "handling situations of abundant resources",
+        "D": "the establishment of economic laws"
+      },
+      "answer": "B",
+      "explanation": "Economics deals with resource allocation."
+    },
+    {
+      "id": 14,
+      "question": "When the marginal utility from the consumption of commodity X (Mux) is greater than the price of commodity X (Px), a rational consumer should",
+      "options": {
+        "A": "strive to remain in disequilibrium",
+        "B": "consume the same quantity of commodity X",
+        "C": "consume more of commodity X",
+        "D": "reduce consumption of commodity X"
+      },
+      "answer": "C",
+      "explanation": "Consume more until marginal utility equals price."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following items is not classified as working capital?",
+      "options": {
+        "A": "Fuel",
+        "B": "Money to pay wages",
+        "C": "Semi-finished goods",
+        "D": "Equipment"
+      },
+      "answer": "D",
+      "explanation": "Equipment is a fixed asset, not working capital."
+    },
+    {
+      "id": 16,
+      "question": "If the demand for a commodity remains constant as price increases, the commodity is said to be",
+      "options": {
+        "A": "perfectly price inelastic",
+        "B": "unit price elastic",
+        "C": "price elastic",
+        "D": "price inelastic"
+      },
+      "answer": "A",
+      "explanation": "Price inelastic demand means quantity demanded does not change with price."
+    },
+    {
+      "id": 17,
+      "question": "Warehousing is an economic activity that falls under",
+      "options": {
+        "A": "secondary production",
+        "B": "primary production",
+        "C": "tertiary production",
+        "D": "intermediate production"
+      },
+      "answer": "C",
+      "explanation": "Warehousing is part of the tertiary sector."
+    },
+    {
+      "id": 18,
+      "question": "The study of economics is mainly concerned with how to",
+      "options": {
+        "A": "rank individuals' wants given the abundant resources",
+        "B": "make choice when resources are inadequate",
+        "C": "satisfy every member of all societies",
+        "D": "produce all the goods needed by everyone"
+      },
+      "answer": "B",
+      "explanation": "Economics is about making choices with limited resources."
+    },
+    {
+      "id": 19,
+      "question": "Use the graph above to answer the question. The curve labelled W shows the",
+      "options": {
+        "A": "regressive tax",
+        "B": "proportional tax",
+        "C": "specific tax",
+        "D": "progressive tax"
+      },
+      "answer": "D",
+      "explanation": "A progressive tax increases with income or wealth."
+    },
+    {
+      "id": 20,
+      "question": "Resources are pooled for the mutual benefit of its members mainly in a",
+      "options": {
+        "A": "cooperative society",
+        "B": "joint stock company",
+        "C": "private company",
+        "D": "partnership"
+      },
+      "answer": "A",
+      "explanation": "Cooperatives pool resources for mutual benefit."
+    },
+    {
+      "id": 21,
+      "question": "The total fixed cost curve is",
+      "options": {
+        "A": "horizontal",
+        "B": "upward sloping",
+        "C": "vertical",
+        "D": "downward sloping"
+      },
+      "answer": "A",
+      "explanation": "Fixed costs remain constant regardless of output, forming a horizontal curve."
+    },
+    {
+      "id": 22,
+      "question": "A small scale firm located within an industrial estate will enjoy",
+      "options": {
+        "A": "government protection and funding",
+        "B": "technological economies of scale",
+        "C": "financial economies of scale",
+        "D": "external economies of scale"
+      },
+      "answer": "D",
+      "explanation": "External economies come from the environment or location, like industrial estates."
+    },
+    {
+      "id": 23,
+      "question": "Country M enjoys absolute advantage over country N in the production of commodities X and Y, if country M",
+      "options": {
+        "A": "is inefficient in the production of both commodities X and Y",
+        "B": "is more efficient than country N in producing both commodities X and Y",
+        "C": "can produce only commodity Y cheaper than country N",
+        "D": "and country N are efficient in the production of both goods"
+      },
+      "answer": "B",
+      "explanation": "Absolute advantage means more efficient production in both goods."
+    },
+    {
+      "id": 24,
+      "question": "Commercial banks help in economic development mainly by",
+      "options": {
+        "A": "acting as trustees and executors of wills",
+        "B": "acting as intermediaries between government and borrowers",
+        "C": "serving as custodians of valuables",
+        "D": "giving financial advice to the government"
+      },
+      "answer": "B",
+      "explanation": "Banks facilitate investments and economic activities."
+    },
+    {
+      "id": 25,
+      "question": "When job vacancies are publicized, the government is mainly trying to solve the problem of",
+      "options": {
+        "A": "residual unemployment",
+        "B": "cyclical unemployment",
+        "C": "technological unemployment",
+        "D": "frictional unemployment"
+      },
+      "answer": "D",
+      "explanation": "Frictional unemployment relates to matching jobs and workers."
+    },
+    {
+      "id": 26,
+      "question": "An indication that there is inflation in a country is that",
+      "options": {
+        "A": "there is a decrease in the demand for goods and services",
+        "B": "there are too many goods in circulation",
+        "C": "the same amount of money buys lower quantity of goods",
+        "D": "people prefer to lend than to borrow"
+      },
+      "answer": "C",
+      "explanation": "Inflation reduces the purchasing power of money."
+    },
+    {
+      "id": 27,
+      "question": "An example of government's recurrent expenditure is",
+      "options": {
+        "A": "electrification projects in rural areas",
+        "B": "the cost of building a school",
+        "C": "purchase of new vehicles",
+        "D": "paying salaries of workers"
+      },
+      "answer": "D",
+      "explanation": "Salaries are recurring expenses."
+    },
+    {
+      "id": 28,
+      "question": "A fall in the price of a normal commodity which has elastic demand will result in",
+      "options": {
+        "A": "a fall in demand",
+        "B": "a fall in quantity demanded",
+        "C": "an increase in revenue",
+        "D": "a decrease in revenue"
+      },
+      "answer": "C",
+      "explanation": "For elastic demand, lowering price increases total revenue."
+    },
+    {
+      "id": 29,
+      "question": "The dependency ratio of a country is the",
+      "options": {
+        "A": "the children and aged who rely on the active population for support",
+        "B": "people who are cared for by their extended families",
+        "C": "total active population who depend on government for survival",
+        "D": "number of children who depend on their parents for survival"
+      },
+      "answer": "A",
+      "explanation": "Dependency ratio measures non-working dependents."
+    },
+    {
+      "id": 30,
+      "question": "When the demand for a commodity increases while supply remains unchanged, the equilibrium price and quantity will",
+      "options": {
+        "A": "increase",
+        "B": "remain constant",
+        "C": "decrease",
+        "D": "turn negative"
+      },
+      "answer": "A",
+      "explanation": "Demand increase pushes price and quantity up."
+    },
+    {
+      "id": 31,
+      "question": "Consumers have access to a variety of goods through the activities of the",
+      "options": {
+        "A": "retailers",
+        "B": "advertising agencies",
+        "C": "mass media",
+        "D": "wholesalers"
+      },
+      "answer": "A",
+      "explanation": "Retailers directly serve consumers."
+    },
+    {
+      "id": 32,
+      "question": "The Malthusian theory of population is best illustrated when",
+      "options": {
+        "A": "the size of the population and available resources are equal",
+        "B": "both population and food supply increase at the same rate",
+        "C": "food supply increases much faster than population growth",
+        "D": "population increases much faster than food supply"
+      },
+      "answer": "D",
+      "explanation": "Malthus predicted population growth exceeds food supply."
+    },
+    {
+      "id": 33,
+      "question": "The Net National Product (NNP) of a country is $50m while the depreciation allowance is $10m. The Gross National Product (GNP) is",
+      "options": {
+        "A": "$40m",
+        "B": "$60m",
+        "C": "$30m",
+        "D": "$500m"
+      },
+      "answer": "B",
+      "explanation": "GNP = NNP + depreciation = 50 + 10 = 60 million."
+    },
+    {
+      "id": 34,
+      "question": "The rate of growth of population is",
+      "options": {
+        "A": "initial population plus number of births and net migration",
+        "B": "the difference between birth rate and death rate",
+        "C": "birth rate less death rate plus net migration",
+        "D": "the number of immigrants plus number of births"
+      },
+      "answer": "C",
+      "explanation": "Population growth = (birth rate - death rate) + net migration."
+    },
+    {
+      "id": 35,
+      "question": "The price level and the value of money are",
+      "options": {
+        "A": "positively related",
+        "B": "directly related",
+        "C": "not related",
+        "D": "inversely related"
+      },
+      "answer": "D",
+      "explanation": "As price levels rise, money's value decreases."
+    },
+    {
+      "id": 36,
+      "question": "One of the factors that may not promote industrial development is",
+      "options": {
+        "A": "local firms entering into partnerships with foreign firms",
+        "B": "granting capital to firms at reasonable interest rates",
+        "C": "setting up industrial estates with modern amenities",
+        "D": "granting old firms tax exemptions"
+      },
+      "answer": "D",
+      "explanation": "Old firms' tax exemptions do not promote new industrial growth."
+    },
+    {
+      "id": 37,
+      "question": "If a firm retrenches some of its factory workers its",
+      "options": {
+        "A": "average fixed cost may increase",
+        "B": "variable cost will decline",
+        "C": "marginal cost may increase",
+        "D": "fixed cost is likely to increase"
+      },
+      "answer": "B",
+      "explanation": "Retrenchment reduces variable costs."
+    },
+    {
+      "id": 38,
+      "question": "Many workers are employed in the agricultural sector of developing countries because",
+      "options": {
+        "A": "labour intensive method is mostly adopted",
+        "B": "abnormal profits are made",
+        "C": "wages in the sector is high",
+        "D": "they practice mechanized system of farming"
+      },
+      "answer": "A",
+      "explanation": "Labour-intensive methods require more workers."
+    },
+    {
+      "id": 39,
+      "question": "Taxes levied on goods and services by government are called",
+      "options": {
+        "A": "indirect taxes",
+        "B": "direct taxes",
+        "C": "corporate taxes",
+        "D": "poll taxes"
+      },
+      "answer": "A",
+      "explanation": "Taxes on goods/services are indirect taxes."
+    },
+    {
+      "id": 40,
+      "question": "The average revenue curve of a firm in a perfect market is the same as the",
+      "options": {
+        "A": "supply curve of the firm",
+        "B": "average cost curve of the firm",
+        "C": "demand curve of the firm",
+        "D": "total revenue curve of the firm"
+      },
+      "answer": "C",
+      "explanation": "In perfect competition, AR equals the demand curve faced by the firm."
+    },
+    {
+      "id": 41,
+      "question": "The most liquid asset among the following is",
+      "options": {
+        "A": "bonds",
+        "B": "cheque",
+        "C": "cash",
+        "D": "shares"
+      },
+      "answer": "C",
+      "explanation": "Cash is the most liquid asset."
+    },
+    {
+      "id": 42,
+      "question": "Petrol and Kerosene are jointly obtained from crude oil. If the supply of petrol increases, the",
+      "options": {
+        "A": "cost of crude oil production has increased",
+        "B": "supply of kerosene will rise",
+        "C": "supply of kerosene will remain unchanged",
+        "D": "supply of kerosene will fall"
+      },
+      "answer": "B",
+      "explanation": "An increase in petrol supply can lead to increased kerosene supply if they are joint products."
+    },
+    {
+      "id": 43,
+      "question": "The fixing of maximum prices by government is mainly on",
+      "options": {
+        "A": "imported capital goods",
+        "B": "inferior goods",
+        "C": "selected essential goods",
+        "D": "luxury goods"
+      },
+      "answer": "C",
+      "explanation": "Price ceilings are often imposed on essential goods."
+    },
+    {
+      "id": 44,
+      "question": "When more of tax on a product is borne by the buyer than the seller, the commodity involved has",
+      "options": {
+        "A": "perfectly elastic demand",
+        "B": "perfectly inelastic demand",
+        "C": "fairly inelastic demand",
+        "D": "elastic demand"
+      },
+      "answer": "B",
+      "explanation": "Tax burden falls more on inelastic demand."
+    },
+    {
+      "id": 45,
+      "question": "The marks obtained by 9 students in a class test are recorded below: 9, 8, 7, 5,7, 6, 8, 9 and 7. What is the median mark?",
+      "options": {
+        "A": "7",
+        "B": "8.5",
+        "C": "8",
+        "D": "7.5"
+      },
+      "answer": "A",
+      "explanation": "Median is the middle value when data is ordered."
+    },
+    {
+      "id": 46,
+      "question": "Tariffs, quotas and embargoes are examples of",
+      "options": {
+        "A": "trade restriction policies",
+        "B": "monetary policies",
+        "C": "fiscal policies",
+        "D": "foreign exchange policies"
+      },
+      "answer": "A",
+      "explanation": "Trade restrictions are policies to limit imports/exports."
+    },
+    {
+      "id": 47,
+      "question": "Trade protection will assist economic growth in developing countries if it can",
+      "options": {
+        "A": "allow the importation of cheaper goods people want",
+        "B": "effectively safeguard newly established firms",
+        "C": "eliminate importation of all commodities",
+        "D": "generate enough revenue through export duties"
+      },
+      "answer": "B",
+      "explanation": "Protection helps new industries grow."
+    },
+    {
+      "id": 48,
+      "question": "A country is described as developing if",
+      "options": {
+        "A": "the income per head is low",
+        "B": "the contribution of tertiary sector to national income is high",
+        "C": "the population is decreasing",
+        "D": "there is low labour supply"
+      },
+      "answer": "A",
+      "explanation": "Low income per capita indicates a developing country."
+    },
+    {
+      "id": 49,
+      "question": "A joint stock company enjoys perpetual existence because",
+      "options": {
+        "A": "there is a higher degree of specialization",
+        "B": "it is a corporate entity",
+        "C": "it is formed by a minimum of seven members",
+        "D": "its shares are easily"
+      },
+      "answer": "B",
+      "explanation": "Legal incorporation gives perpetual existence."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is not a problem facing Economic Community of West African States (ECOWAS)?",
+      "options": {
+        "A": "Language barriers",
+        "B": "Inadequate supply of labour",
+        "C": "Production of the same commodities",
+        "D": "Poor transportation and communication"
+      },
+      "answer": "B",
+      "explanation": "Inadequate labor supply is not typically a problem for ECOWAS."
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "src": "economics2023/image1.jpeg",
+      "alt": "Graph showing total product curve with points P, Q, R, S"
+    },
+    {
+      "id": 2,
+      "src": "economics2023/image2.jpeg",
+      "alt": "Graph illustrating different tax types"
+    }
+  ]
+}

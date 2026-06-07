@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "The training of oneself in subjection to self-rules and self-control is achieved as a result of?",
+    "options": {
+      "A": "indiscipline",
+      "B": "self-discipline",
+      "C": "law enforcement",
+      "D": "punishment"
+    },
+    "answer": "B",
+    "explanation": "The training of oneself to obey rules and exercise self-control is known as self-discipline."
+  },
+  {
+    "id": 2,
+    "question": "A situation where people are encouraged to define their own values and respect other people's values is known as value?",
+    "options": {
+      "A": "orientation",
+      "B": "clarification",
+      "C": "re-orientation",
+      "D": "reform"
+    },
+    "answer": "B",
+    "explanation": "Value clarification encourages individuals to define and respect values."
+  },
+  {
+    "id": 3,
+    "question": "A Gambian who wishes to become a Nigerian citizen by naturalization must be?",
+    "options": {
+      "A": "a minor",
+      "B": "married to a Nigerian",
+      "C": "of good character",
+      "D": "born in Nigeria"
+    },
+    "answer": "C",
+    "explanation": "Citizenship by naturalization requires the applicant to be of good character and meet constitutional requirements."
+  },
+  {
+    "id": 4,
+    "question": "The major reason for studying Civic Education is that it?",
+    "options": {
+      "A": "promotes examination success",
+      "B": "prepares individuals for responsible citizenship",
+      "C": "encourages political rivalry",
+      "D": "creates job opportunities"
+    },
+    "answer": "B",
+    "explanation": "Civic Education prepares individuals to become responsible and active citizens."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is not a national symbol?",
+    "options": {
+      "A": "National Flag",
+      "B": "National Anthem",
+      "C": "National Constitution",
+      "D": "National Pledge"
+    },
+    "answer": "C",
+    "explanation": "The constitution is a legal document and not classified as a national symbol."
+  },
+  {
+    "id": 6,
+    "question": "The newspapers established by the nationalists helped in?",
+    "options": {
+      "A": "promoting colonial rule",
+      "B": "creating awareness and mobilizing people",
+      "C": "discouraging education",
+      "D": "supporting slavery"
+    },
+    "answer": "B",
+    "explanation": "Nationalist newspapers helped create political awareness and mobilize people against colonial rule."
+  },
+  {
+    "id": 7,
+    "question": "The main significance of nationalism to the development of a country is to?",
+    "options": {
+      "A": "promote division",
+      "B": "encourage foreign dominance",
+      "C": "promote unity and self-governance",
+      "D": "discourage participation"
+    },
+    "answer": "C",
+    "explanation": "Nationalism promotes unity and self-governance for national development."
+  },
+  {
+    "id": 8,
+    "question": "How many articles are contained in the Universal Declaration of Human Rights (UDHR) of 1948?",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "35"
+    },
+    "answer": "C",
+    "explanation": "The Universal Declaration of Human Rights (1948) contains 30 articles."
+  },
+  {
+    "id": 9,
+    "question": "A person who is found guilty of an offence and sentenced to prison by a competent court of law would forfeit his/her?",
+    "options": {
+      "A": "right to life",
+      "B": "right to dignity",
+      "C": "right to personal liberty",
+      "D": "right to education"
+    },
+    "answer": "C",
+    "explanation": "A convicted person may lose personal liberty through imprisonment."
+  },
+  {
+    "id": 10,
+    "question": "A person who writes false statements on social media that harms another person's reputation will be found guilty of?",
+    "options": {
+      "A": "libel",
+      "B": "assault",
+      "C": "theft",
+      "D": "treason"
+    },
+    "answer": "A",
+    "explanation": "Publishing false statements that damage reputation is libel."
+  },
+  {
+    "id": 11,
+    "question": "The notion that the law should apply to everyone irrespective of their status implies?",
+    "options": {
+      "A": "judicial review",
+      "B": "rule of law",
+      "C": "federalism",
+      "D": "immunity"
+    },
+    "answer": "B",
+    "explanation": "The rule of law means that everyone is equal before the law."
+  },
+  {
+    "id": 12,
+    "question": "Constituted authority is necessary in a society because it?",
+    "options": {
+      "A": "creates confusion",
+      "B": "maintains order and stability",
+      "C": "encourages lawlessness",
+      "D": "promotes favoritism"
+    },
+    "answer": "B",
+    "explanation": "Constituted authority maintains law, order, and stability."
+  },
+  {
+    "id": 13,
+    "question": "Responsible parenthood is important to national development because it?",
+    "options": {
+      "A": "increases poverty",
+      "B": "reduces population growth",
+      "C": "produces responsible citizens",
+      "D": "discourages education"
+    },
+    "answer": "C",
+    "explanation": "Responsible parenting helps raise responsible and productive citizens."
+  },
+  {
+    "id": 14,
+    "question": "Traffic regulations mean?",
+    "options": {
+      "A": "rules guiding road users",
+      "B": "punishment for drivers",
+      "C": "vehicle registration",
+      "D": "road construction"
+    },
+    "answer": "A",
+    "explanation": "Traffic regulations are rules guiding road users to ensure safety."
+  },
+  {
+    "id": 15,
+    "question": "Traffic wardens assist in?",
+    "options": {
+      "A": "collecting taxes",
+      "B": "controlling traffic",
+      "C": "building roads",
+      "D": "issuing passports"
+    },
+    "answer": "B",
+    "explanation": "Traffic wardens help in controlling and directing traffic."
+  },
+  {
+    "id": 16,
+    "question": "Conflict resolution mechanisms in inter-communal relationships include?",
+    "options": {
+      "A": "violence",
+      "B": "dialogue and negotiation",
+      "C": "war",
+      "D": "intimidation"
+    },
+    "answer": "B",
+    "explanation": "Dialogue and negotiation are peaceful conflict resolution methods."
+  },
+  {
+    "id": 17,
+    "question": "The phrase \"no man is an island\" means that?",
+    "options": {
+      "A": "people can live alone",
+      "B": "humans depend on one another",
+      "C": "islands are populated",
+      "D": "society is unnecessary"
+    },
+    "answer": "B",
+    "explanation": "It means humans depend on one another in society."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following cannot be identified as drug abuse?",
+    "options": {
+      "A": "taking drugs without prescription",
+      "B": "overdosing",
+      "C": "using prescribed drugs correctly",
+      "D": "taking hard drugs"
+    },
+    "answer": "C",
+    "explanation": "Using prescribed drugs correctly is not drug abuse."
+  },
+  {
+    "id": 19,
+    "question": "An aspect of human trafficking involves?",
+    "options": {
+      "A": "legal migration",
+      "B": "forced labor",
+      "C": "tourism",
+      "D": "education"
+    },
+    "answer": "B",
+    "explanation": "Human trafficking often involves forced labor."
+  },
+  {
+    "id": 20,
+    "question": "Women are trafficked mainly for?",
+    "options": {
+      "A": "education",
+      "B": "politics",
+      "C": "sexual exploitation",
+      "D": "sports"
+    },
+    "answer": "C",
+    "explanation": "Women are commonly trafficked for sexual exploitation."
+  },
+  {
+    "id": 21,
+    "question": "Human Immunodeficiency Virus (HIV) mainly leads to?",
+    "options": {
+      "A": "malaria",
+      "B": "AIDS",
+      "C": "tuberculosis",
+      "D": "diabetes"
+    },
+    "answer": "B",
+    "explanation": "HIV weakens the immune system and can lead to AIDS."
+  },
+  {
+    "id": 22,
+    "question": "The most common way for babies to contract Human Immunodeficiency Virus (HIV) is through?",
+    "options": {
+      "A": "mosquito bites",
+      "B": "mother-to-child transmission",
+      "C": "handshakes",
+      "D": "sharing food"
+    },
+    "answer": "B",
+    "explanation": "Babies commonly contract HIV from their mothers during pregnancy, birth, or breastfeeding."
+  },
+  {
+    "id": 23,
+    "question": "Youth empowerment can be enhanced through?",
+    "options": {
+      "A": "idleness",
+      "B": "skill acquisition",
+      "C": "dependency",
+      "D": "violence"
+    },
+    "answer": "B",
+    "explanation": "Skill acquisition enhances youth empowerment."
+  },
+  {
+    "id": 24,
+    "question": "One of the vital skills needed for youth empowerment is?",
+    "options": {
+      "A": "illiteracy",
+      "B": "leadership skill",
+      "C": "truancy",
+      "D": "intolerance"
+    },
+    "answer": "B",
+    "explanation": "Leadership skill is essential for youth empowerment."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is not a youth empowerment skill?",
+    "options": {
+      "A": "entrepreneurship",
+      "B": "vocational skill",
+      "C": "cybercrime",
+      "D": "communication skill"
+    },
+    "answer": "C",
+    "explanation": "Cybercrime is not a legitimate empowerment skill."
+  },
+  {
+    "id": 26,
+    "question": "The power to impeach the president of a country resides in the?",
+    "options": {
+      "A": "Judiciary",
+      "B": "Executive",
+      "C": "Legislature",
+      "D": "Police"
+    },
+    "answer": "C",
+    "explanation": "The legislature has the constitutional power to impeach the president."
+  },
+  {
+    "id": 27,
+    "question": "Laws made by both federal and state governments are contained in the?",
+    "options": {
+      "A": "Exclusive List",
+      "B": "Concurrent List",
+      "C": "Residual List",
+      "D": "Federal List"
+    },
+    "answer": "B",
+    "explanation": "The Concurrent List contains matters on which both federal and state governments can legislate."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following government functions is reserved to the exclusive list?",
+    "options": {
+      "A": "education",
+      "B": "health",
+      "C": "defence",
+      "D": "agriculture"
+    },
+    "answer": "C",
+    "explanation": "Defence is on the Exclusive List and handled only by the federal government."
+  },
+  {
+    "id": 29,
+    "question": "Which organ of government do ministers, commissioners and supervisory councillors belong to?",
+    "options": {
+      "A": "Judiciary",
+      "B": "Legislature",
+      "C": "Executive",
+      "D": "Electoral body"
+    },
+    "answer": "C",
+    "explanation": "Ministers and commissioners are members of the executive arm of government."
+  },
+  {
+    "id": 30,
+    "question": "A local government administration supports?",
+    "options": {
+      "A": "grassroots development",
+      "B": "foreign policy",
+      "C": "national defence",
+      "D": "currency printing"
+    },
+    "answer": "A",
+    "explanation": "Local governments promote development at the grassroots level."
+  },
+  {
+    "id": 31,
+    "question": "The adoption of a federal system of government is necessitated by fear of?",
+    "options": {
+      "A": "unity",
+      "B": "tyranny and domination",
+      "C": "cooperation",
+      "D": "development"
+    },
+    "answer": "B",
+    "explanation": "Federalism prevents domination by sharing power among levels of government."
+  },
+  {
+    "id": 32,
+    "question": "One feature of representative government is?",
+    "options": {
+      "A": "military rule",
+      "B": "appointment by force",
+      "C": "periodic elections",
+      "D": "hereditary leadership"
+    },
+    "answer": "C",
+    "explanation": "Representative government involves periodic elections."
+  },
+  {
+    "id": 33,
+    "question": "Direct democracy implies that the governance of a country involves?",
+    "options": {
+      "A": "elected representatives only",
+      "B": "military leaders",
+      "C": "citizens directly participating",
+      "D": "traditional rulers"
+    },
+    "answer": "C",
+    "explanation": "Direct democracy allows citizens to participate directly in decision-making."
+  },
+  {
+    "id": 34,
+    "question": "Individual freedom in a democratic country can be enhanced by?",
+    "options": {
+      "A": "rule of law",
+      "B": "dictatorship",
+      "C": "censorship",
+      "D": "oppression"
+    },
+    "answer": "A",
+    "explanation": "The rule of law protects individual freedom."
+  },
+  {
+    "id": 35,
+    "question": "Absence of one of the following pairs will spell doom for the society?",
+    "options": {
+      "A": "rights and responsibilities",
+      "B": "wealth and poverty",
+      "C": "leaders and followers",
+      "D": "men and women"
+    },
+    "answer": "A",
+    "explanation": "Rights must go with responsibilities for societal stability."
+  },
+  {
+    "id": 36,
+    "question": "The entitlements of every child in the society are?",
+    "options": {
+      "A": "privileges",
+      "B": "rights",
+      "C": "duties",
+      "D": "favors"
+    },
+    "answer": "B",
+    "explanation": "Children are entitled to fundamental rights."
+  },
+  {
+    "id": 37,
+    "question": "Trade unions, market women associations and student unions are examples of?",
+    "options": {
+      "A": "pressure groups",
+      "B": "political parties",
+      "C": "armed forces",
+      "D": "courts"
+    },
+    "answer": "A",
+    "explanation": "They are pressure groups that influence government policies."
+  },
+  {
+    "id": 38,
+    "question": "Inept and irresponsible governance can best be checked by?",
+    "options": {
+      "A": "violence",
+      "B": "free press and active opposition",
+      "C": "rumors",
+      "D": "silence"
+    },
+    "answer": "B",
+    "explanation": "A free press and opposition help ensure accountability."
+  },
+  {
+    "id": 39,
+    "question": "In order to avoid undue interference in the process of governance, there should be?",
+    "options": {
+      "A": "separation of powers",
+      "B": "military intervention",
+      "C": "one-party system",
+      "D": "absolute rule"
+    },
+    "answer": "A",
+    "explanation": "Separation of powers prevents undue interference."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is the implication of immunity clause?",
+    "options": {
+      "A": "leaders can be sued anytime",
+      "B": "certain officials cannot be prosecuted while in office",
+      "C": "all citizens are immune",
+      "D": "judges are above the law"
+    },
+    "answer": "B",
+    "explanation": "The immunity clause protects certain officials from prosecution while in office."
+  },
+  {
+    "id": 41,
+    "question": "Neutrality of civil servants implies that they should?",
+    "options": {
+      "A": "belong to political parties",
+      "B": "be politically impartial",
+      "C": "campaign openly",
+      "D": "criticize government publicly"
+    },
+    "answer": "B",
+    "explanation": "Civil servants must remain politically neutral."
+  },
+  {
+    "id": 42,
+    "question": "The following are forms of political apathy except?",
+    "options": {
+      "A": "refusal to vote",
+      "B": "political ignorance",
+      "C": "active political participation",
+      "D": "lack of interest"
+    },
+    "answer": "C",
+    "explanation": "Active participation is not political apathy."
+  },
+  {
+    "id": 43,
+    "question": "What does letter X in the diagram stand for?",
+    "options": {
+      "A": "legislature",
+      "B": "judiciary",
+      "C": "checks and balances",
+      "D": "executive"
+    },
+    "answer": "C",
+    "explanation": "The diagram likely represents separation of powers with checks and balances."
+  },
+  {
+    "id": 44,
+    "question": "The letter X as illustrated in the diagram is an integral feature of?",
+    "options": {
+      "A": "military rule",
+      "B": "democracy",
+      "C": "monarchy",
+      "D": "dictatorship"
+    },
+    "answer": "B",
+    "explanation": "Checks and balances are key features of democracy."
+  },
+  {
+    "id": 45,
+    "question": "Inadequate funding may force Civil Society Organizations (CSOs) to?",
+    "options": {
+      "A": "expand rapidly",
+      "B": "compromise their objectives",
+      "C": "become governments",
+      "D": "abolish laws"
+    },
+    "answer": "B",
+    "explanation": "Lack of funds may push CSOs to compromise their objectives."
+  },
+  {
+    "id": 46,
+    "question": "Civil Society Organizations (CSOs) assist government in alleviating poverty by?",
+    "options": {
+      "A": "creating conflict",
+      "B": "providing support services",
+      "C": "avoiding communities",
+      "D": "engaging in politics only"
+    },
+    "answer": "B",
+    "explanation": "CSOs provide services and empowerment programs to reduce poverty."
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is a major source of funding for civil societies?",
+    "options": {
+      "A": "donations and grants",
+      "B": "armed robbery",
+      "C": "tax evasion",
+      "D": "smuggling"
+    },
+    "answer": "A",
+    "explanation": "Civil societies are mainly funded through donations and grants."
+  },
+  {
+    "id": 48,
+    "question": "Civil Society Organizations (CSOs) are not characterized by?",
+    "options": {
+      "A": "voluntary participation",
+      "B": "profit-making motive",
+      "C": "independence from government",
+      "D": "advocacy roles"
+    },
+    "answer": "B",
+    "explanation": "CSOs are generally non-profit organizations."
+  },
+  {
+    "id": 49,
+    "question": "An established way public servants protest to protect their interests is by?",
+    "options": {
+      "A": "strike action",
+      "B": "violence",
+      "C": "treason",
+      "D": "vandalism"
+    },
+    "answer": "A",
+    "explanation": "Strike action is a lawful means of protest."
+  },
+  {
+    "id": 50,
+    "question": "Anonymity of civil servants implies that civil servants are?",
+    "options": {
+      "A": "unknown to the public in policy decisions",
+      "B": "above the law",
+      "C": "political appointees",
+      "D": "elected officials"
+    },
+    "answer": "A",
+    "explanation": "Anonymity means civil servants are not publicly credited or blamed for policies."
+  }
+]

@@ -1,0 +1,522 @@
+{
+  "0": {
+    "id": "WAEC21-01",
+    "question": "A short term tool used in boosting turnover is________",
+    "options": {
+      "A": "Sales promotion",
+      "B": "Mass media",
+      "C": "Personal selling",
+      "D": "E-marketing"
+    },
+    "answer": "A",
+    "explanation": "Sales promotion consists of short-term incentives to encourage the purchase or sale of a product or service.",
+    "sectionName": "WAEC 2021"
+  },
+  "1": {
+    "id": "WAEC21-02",
+    "question": "The part of an advertising leaflet that introduces the message of the advertisement is _________",
+    "options": {
+      "A": "Margin",
+      "B": "Headline",
+      "C": "Cut-out",
+      "D": "Photograph"
+    },
+    "answer": "B",
+    "explanation": "The headline is designed to capture attention and introduce the main message of the ad.",
+    "sectionName": "WAEC 2021"
+  },
+  "2": {
+    "id": "WAEC21-03",
+    "question": "The amount of money charged for a product or service is ________",
+    "options": {
+      "A": "Fare",
+      "B": "Price",
+      "C": "Revenue",
+      "D": "Cash"
+    },
+    "answer": "B",
+    "explanation": "Price is the value attached to a product or service in a marketing exchange.",
+    "sectionName": "WAEC 2021"
+  },
+  "3": {
+    "id": "WAEC21-04",
+    "question": "An advertising media with the highest coverage area is ____________",
+    "options": {
+      "A": "Billboard",
+      "B": "Catalogue",
+      "C": "Magazine",
+      "D": "Television"
+    },
+    "answer": "D",
+    "explanation": "Television reaches a wider and more diverse audience compared to print or outdoor media.",
+    "sectionName": "WAEC 2021"
+  },
+  "4": {
+    "id": "WAEC21-05",
+    "question": "A pricing strategy in which the buyer and seller bargain to reach an agreement on the price of a product is_______",
+    "options": {
+      "A": "Cost-plus",
+      "B": "Haggling",
+      "C": "Skimming pricing",
+      "D": "Penetration pricing"
+    },
+    "answer": "B",
+    "explanation": "Haggling is the process of negotiating a price until both parties agree.",
+    "sectionName": "WAEC 2021"
+  },
+  "5": {
+    "id": "WAEC21-06",
+    "question": "The elements that make up marketing planning are_________\ni. Situation analysis\nii. Market share\niii. Marketing objective\niv. Marketing strategy\nv. Action programme",
+    "options": {
+      "A": "i, ii, iii, iv only",
+      "B": "i, ii, iii, v, only",
+      "C": "i, ii, iv, v, only",
+      "D": "i, iii, iv, v, only"
+    },
+    "answer": "D",
+    "explanation": "Marketing planning includes situation analysis, objectives, strategy, and action programs. Market share (ii) is typically a target or result, not a structural element of the plan itself.",
+    "sectionName": "WAEC 2021"
+  },
+  "6": {
+    "id": "WAEC21-07",
+    "question": "The process of collecting and analyzing information about the external marketing environment is________",
+    "options": {
+      "A": "Environmental management",
+      "B": "Marketing research",
+      "C": "Market segmentation",
+      "D": "Marketing management"
+    },
+    "answer": "B",
+    "explanation": "Marketing research involves the systematic gathering and analysis of data regarding the marketing environment.",
+    "sectionName": "WAEC 2021"
+  },
+  "7": {
+    "id": "WAEC21-08",
+    "question": "Which of the following behaviors would satisfied customer exhibit? ",
+    "options": {
+      "A": "Buy similar products from other companies",
+      "B": "Pay attention to other companies' product advertisement",
+      "C": "Talk favorably about the purchased products",
+      "D": "Recommend competing products for buying"
+    },
+    "answer": "C",
+    "explanation": "Satisfaction leads to positive word-of-mouth and customer loyalty.",
+    "sectionName": "WAEC 2021"
+  },
+  "8": {
+    "id": "WAEC21-09",
+    "question": "Which of the following is not an example of institutional consumers?",
+    "options": {
+      "A": "Schools",
+      "B": "Hospitals",
+      "C": "Hotels",
+      "D": "Households"
+    },
+    "answer": "D",
+    "explanation": "Households are individual/private consumers, not institutional ones like schools or hospitals.",
+    "sectionName": "WAEC 2021"
+  },
+  "9": {
+    "id": "WAEC21-10",
+    "question": "Which of the following sales promotional tool is used to encourage wholesalers and retailers?",
+    "options": {
+      "A": "Sample pack",
+      "B": "Bonus pack",
+      "C": "Premium offer",
+      "D": "Price discount"
+    },
+    "answer": "D",
+    "explanation": "Price discounts (Trade allowances) are commonly used to motivate intermediaries to stock and sell more.",
+    "sectionName": "WAEC 2021"
+  },
+  "10": {
+    "id": "WAEC21-11",
+    "question": "Which of the following consumer buying behaviors requires the least efforts?",
+    "options": {
+      "A": "Impulse buying",
+      "B": "Routine buying",
+      "C": "New buying",
+      "D": "High buying"
+    },
+    "answer": "A",
+    "explanation": "Impulse buying happens on the spot without prior planning or research.",
+    "sectionName": "WAEC 2021"
+  },
+  "11": {
+    "id": "WAEC21-12",
+    "question": "An example of nondurable goods is ________",
+    "options": {
+      "A": "Shoe",
+      "B": "Bread",
+      "C": "Television",
+      "D": "Refrigerator"
+    },
+    "answer": "B",
+    "explanation": "Nondurable goods are consumed quickly or in a single use (e.g., food).",
+    "sectionName": "WAEC 2021"
+  },
+  "12": {
+    "id": "WAEC21-13",
+    "question": "E-marketing is also called ________",
+    "options": {
+      "A": "Direct purchasing",
+      "B": "Electronic banking",
+      "C": "E-mail order",
+      "D": "Internet business"
+    },
+    "answer": "D",
+    "explanation": "E-marketing refers to marketing via the internet and digital platforms.",
+    "sectionName": "WAEC 2021"
+  },
+  "13": {
+    "id": "WAEC21-14",
+    "question": "A product that has undergone processing is_______",
+    "options": {
+      "A": "An intangible product",
+      "B": "A primary product",
+      "C": "An extractive product",
+      "D": "A secondary product"
+    },
+    "answer": "D",
+    "explanation": "Secondary products are raw materials that have been processed or manufactured.",
+    "sectionName": "WAEC 2021"
+  },
+  "14": {
+    "id": "WAEC21-15",
+    "question": "Which of the following items is a primary product?",
+    "options": {
+      "A": "Sugar",
+      "B": "Noodles",
+      "C": "Fresh tomatoes",
+      "D": "Fresh bread"
+    },
+    "answer": "C",
+    "explanation": "Primary products are raw agricultural or extractive materials in their natural state.",
+    "sectionName": "WAEC 2021"
+  },
+  "15": {
+    "id": "WAEC21-16",
+    "question": "The formation of a strategy to attain established marketing objectives is __________",
+    "options": {
+      "A": "Marketing concept",
+      "B": "Market forecast",
+      "C": "Market demand",
+      "D": "Marketing planning"
+    },
+    "answer": "D",
+    "explanation": "Marketing planning is the systematic process of setting objectives and developing strategies to reach them.",
+    "sectionName": "WAEC 2021"
+  },
+  "16": {
+    "id": "WAEC21-17",
+    "question": "A reduction in general personal income which leads to a change in a company's pricing strategy is an element of the_______",
+    "options": {
+      "A": "Competitive environment",
+      "B": "Political environment",
+      "C": "Economic environment",
+      "D": "Technological environment"
+    },
+    "answer": "C",
+    "explanation": "Income levels and purchasing power are key components of the economic environment.",
+    "sectionName": "WAEC 2021"
+  },
+  "17": {
+    "id": "WAEC21-18",
+    "question": "Marketing activities carried out in more than one country is____________",
+    "options": {
+      "A": "International marketing",
+      "B": "National marketing",
+      "C": "Home trade",
+      "D": "Entrepot trade"
+    },
+    "answer": "A",
+    "explanation": "Marketing across national borders is defined as international marketing.",
+    "sectionName": "WAEC 2021"
+  },
+  "18": {
+    "id": "WAEC21-19",
+    "question": "Individual or films that enhance business activities but do not participate directly in the business are_______",
+    "options": {
+      "A": "Market unions",
+      "B": "Market facilitators",
+      "C": "Wholesalers",
+      "D": "Retailers"
+    },
+    "answer": "B",
+    "explanation": "Facilitators (like banks or transport firms) aid the marketing process without taking ownership of goods.",
+    "sectionName": "WAEC 2021"
+  },
+  "19": {
+    "id": "WAEC21-20",
+    "question": "The body formed by sellers of a common product in a local market is an example of ________",
+    "options": {
+      "A": "Market union",
+      "B": "Manufacturer's association",
+      "C": "Trade union",
+      "D": "Consumer's association"
+    },
+    "answer": "A",
+    "explanation": "Market unions are groups of traders in the same line of business within a specific market.",
+    "sectionName": "WAEC 2021"
+  },
+  "20": {
+    "id": "WAEC21-21",
+    "question": "The cheapest mode of transportating imported cars from America to Nigeria is by _______",
+    "options": {
+      "A": "Air",
+      "B": "Road",
+      "C": "Water",
+      "D": "Rail"
+    },
+    "answer": "C",
+    "explanation": "Water transport is the most economical way to move heavy/bulky goods across oceans.",
+    "sectionName": "WAEC 2021"
+  },
+  "21": {
+    "id": "WAEC21-22",
+    "question": "The middlemen that buys in bulk and sells in bit is ________",
+    "options": {
+      "A": "A retailer",
+      "B": "An agent",
+      "C": "A wholesaler",
+      "D": "A broker"
+    },
+    "answer": "A",
+    "explanation": "Retailers buy from producers or wholesalers and sell in small units to final consumers.",
+    "sectionName": "WAEC 2021"
+  },
+  "22": {
+    "id": "WAEC21-23",
+    "question": "Which of the following channels of distribution would a producer who wants to control its unit price use?",
+    "options": {
+      "A": "Producer / Consumer",
+      "B": "Producer / Retailer / Consumer",
+      "C": "Producer / Wholesaler / Retailer / Consumer",
+      "D": "Producer / Agent / Retailer / Consumer"
+    },
+    "answer": "A",
+    "explanation": "Direct distribution (Producer to Consumer) allows the producer full control over the final price.",
+    "sectionName": "WAEC 2021"
+  },
+  "23": {
+    "id": "WAEC21-24",
+    "question": "An example of transportation document that is used or local trade is_______",
+    "options": {
+      "A": "Waybill",
+      "B": "Certificate of origin",
+      "C": "Consular invoice",
+      "D": "Bill of lading"
+    },
+    "answer": "A",
+    "explanation": "A waybill is used to track goods being transported locally via road or rail.",
+    "sectionName": "WAEC 2021"
+  },
+  "24": {
+    "id": "WAEC21-25",
+    "question": "All individuals and units that buy goods for personal use constitute the_______",
+    "options": {
+      "A": "Industrial market",
+      "B": "Consumer market",
+      "C": "Government market",
+      "D": "Re-seller market"
+    },
+    "answer": "B",
+    "explanation": "The consumer market is made up of end-users who buy for personal, non-business use.",
+    "sectionName": "WAEC 2021"
+  },
+  "25": {
+    "id": "WAEC21-26",
+    "question": "Which of the following activities is not a function of a merchandiser?",
+    "options": {
+      "A": "Displaying products in the best location",
+      "B": "Identifying potential new accounts",
+      "C": "Maintaining and increasing shelf space",
+      "D": "Cleaning and displaying of products"
+    },
+    "answer": "B",
+    "explanation": "Identifying new accounts is usually a sales representative's job; merchandisers focus on product presentation at the point of sale.",
+    "sectionName": "WAEC 2021"
+  },
+  "26": {
+    "id": "WAEC21-27",
+    "question": "The differentiation of a firm's product from other competing goods is__________",
+    "options": {
+      "A": "Packaging",
+      "B": "Labelling",
+      "C": "Coding",
+      "D": "Branding"
+    },
+    "answer": "D",
+    "explanation": "Branding identifies and differentiates one seller's product from those of competitors.",
+    "sectionName": "WAEC 2021"
+  },
+  "27": {
+    "id": "WAEC21-28",
+    "question": "A disadvantages of warehousing is that it_____",
+    "options": {
+      "A": "Encourage hoarding of goods to create scarcity",
+      "B": "Ensure the availability of goods when needed",
+      "C": "Helps to protect goods from damages",
+      "D": "Ensures availability of storage facility for goods"
+    },
+    "answer": "A",
+    "explanation": "Hoarding is a negative practice associated with storing goods for later sale at inflated prices.",
+    "sectionName": "WAEC 2021"
+  },
+  "28": {
+    "id": "WAEC21-29",
+    "question": "An element of the external marketing environment is_____________",
+    "options": {
+      "A": "Organizational policy",
+      "B": "Company procedures",
+      "C": "Corporate culture",
+      "D": "Economic indices"
+    },
+    "answer": "D",
+    "explanation": "Economic indices (like GDP or inflation) are external factors that companies cannot control.",
+    "sectionName": "WAEC 2021"
+  },
+  "29": {
+    "id": "WAEC21-30",
+    "question": "An element of the marketing mix is________",
+    "options": {
+      "A": "Processes",
+      "B": "Place",
+      "C": "Packaging",
+      "D": "Production"
+    },
+    "answer": "B",
+    "explanation": "The 4 Ps of marketing are Product, Price, Place, and Promotion.",
+    "sectionName": "WAEC 2021"
+  },
+  "30": {
+    "id": "WAEC21-31",
+    "question": "Which of the following option is not a function of a warehouse?",
+    "options": {
+      "A": "To increase the price of goods",
+      "B": "Store goods for consumption purpose",
+      "C": "Store goods till when needed for supply",
+      "D": "Stabilization of price of goods"
+    },
+    "answer": "A",
+    "explanation": "Increasing prices is not a productive function of warehousing; rather, they help stabilize prices by managing supply.",
+    "sectionName": "WAEC 2021"
+  },
+  "31": {
+    "id": "WAEC21-32",
+    "question": "The willingness and ability to identify business opportunity, establish and operate it successfully is________",
+    "options": {
+      "A": "Distribution",
+      "B": "Wholesaling",
+      "C": "Entrepreneurship",
+      "D": "Purchasing"
+    },
+    "answer": "C",
+    "explanation": "Entrepreneurship is the capacity to organize and manage a business venture along with its risks.",
+    "sectionName": "WAEC 2021"
+  },
+  "32": {
+    "id": "WAEC21-33",
+    "question": "An internal source of fund for an entrepreneur is__________",
+    "options": {
+      "A": "Bank loan",
+      "B": "Overdraft",
+      "C": "Trade credit",
+      "D": "Retained earnings"
+    },
+    "answer": "D",
+    "explanation": "Retained earnings are profits kept within the business, making them an internal source of funding.",
+    "sectionName": "WAEC 2021"
+  },
+  "33": {
+    "id": "WAEC21-34",
+    "question": "An example of long-term source of fund for an entrepreneur is____________",
+    "options": {
+      "A": "Debenture",
+      "B": "Trade credits",
+      "C": "Overdraft",
+      "D": "Customer advances"
+    },
+    "answer": "A",
+    "explanation": "Debentures are long-term loans issued by a company to the public.",
+    "sectionName": "WAEC 2021"
+  },
+  "34": {
+    "id": "WAEC21-35",
+    "question": "The idea that consumers will prefer goods and services that are available and affordable is_____________",
+    "options": {
+      "A": "Selling concept",
+      "B": "Product concept",
+      "C": "Production concept",
+      "D": "Marketing concept"
+    },
+    "answer": "C",
+    "explanation": "The production concept focuses on efficiency and mass availability at low prices.",
+    "sectionName": "WAEC 2021"
+  },
+  "35": {
+    "id": "WAEC21-36",
+    "question": "Which of the following alternatives is a purpose of marketing concept?",
+    "options": {
+      "A": "Consumer satisfaction",
+      "B": "Product quality",
+      "C": "Sales volume",
+      "D": "Production volume"
+    },
+    "answer": "A",
+    "explanation": "The core of the marketing concept is satisfying customer needs.",
+    "sectionName": "WAEC 2021"
+  },
+  "36": {
+    "id": "WAEC21-37",
+    "question": "Marketers are involved in production process because____________",
+    "options": {
+      "A": "They also work in the factory floor",
+      "B": "Their ideas are developed into products",
+      "C": "They set product price",
+      "D": "They purchase raw materials for production"
+    },
+    "answer": "B",
+    "explanation": "Marketers provide customer insight which is used to design and develop the actual product.",
+    "sectionName": "WAEC 2021"
+  },
+  "37": {
+    "id": "WAEC21-38",
+    "question": "If the unit cost price of a product is #90 and sold at a profit margin of 50%, what is the selling price?",
+    "options": {
+      "A": "#45",
+      "B": "#90",
+      "C": "#135",
+      "D": "#180"
+    },
+    "answer": "C",
+    "explanation": "Profit = 50% of 90 = 45. Selling Price = 90 + 45 = 135.",
+    "sectionName": "WAEC 2021"
+  },
+  "38": {
+    "id": "WAEC21-39",
+    "question": "A company that sells its goods directly in foreign countries is engaging in________",
+    "options": {
+      "A": "Exportation",
+      "B": "Importation",
+      "C": "Franchising",
+      "D": "Licencing"
+    },
+    "answer": "A",
+    "explanation": "Exportation is selling domestic goods in foreign markets.",
+    "sectionName": "WAEC 2021"
+  },
+  "39": {
+    "id": "WAEC21-40",
+    "question": "A function of market union in a local market is to_____________",
+    "options": {
+      "A": "Defend members at law court",
+      "B": "Offer bank loan to members",
+      "C": "Transport products on behalf of members",
+      "D": "Establish common price for their products"
+    },
+    "answer": "D",
+    "explanation": "Market unions often set uniform prices to maintain order and profitability for members.",
+    "sectionName": "WAEC 2021"
+  }
+}

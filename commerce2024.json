@@ -1,0 +1,607 @@
+{
+  "WAEC_Commerce_Objective_Questions": {
+    "title": "WAEC Commerce Objective Questions and Answers (1–50)",
+    "questions": [
+      {
+        "id": 1,
+        "question": "The development of Commerce was promoted by:",
+        "options": {
+          "A": "Warehousing",
+          "B": "Transportation",
+          "C": "Specialization",
+          "D": "Manufacturing"
+        },
+        "answer": "C",
+        "explanation": "Commerce, the exchange of goods and services, arose historically due to **specialization** (where individuals or communities focus on what they are best at), which led to surpluses and the need for trade."
+      },
+      {
+        "id": 2,
+        "question": "A major setback of e-commerce in West Africa is:",
+        "options": {
+          "A": "Unbalanced economic growth",
+          "B": "Poor communication infrastructure",
+          "C": "Political interference",
+          "D": "Lack of industries"
+        },
+        "answer": "B",
+        "explanation": "E-commerce relies heavily on the internet and reliable logistics. **Poor communication and transportation infrastructure** (like slow internet, unreliable power, and poor road networks) are significant obstacles to its growth in the region."
+      },
+      {
+        "id": 3,
+        "question": "Conversion of raw materials into finished goods is:",
+        "options": {
+          "A": "Tertiary production",
+          "B": "Secondary production",
+          "C": "Primary production",
+          "D": "Batch production"
+        },
+        "answer": "B",
+        "explanation": "**Secondary production** (or manufacturing) involves taking the raw materials from primary production and turning them into finished or semi-finished goods (e.g., turning timber into furniture)."
+      },
+      {
+        "id": 4,
+        "question": "A source of finance peculiar to public companies is:",
+        "options": {
+          "A": "Sale of shares",
+          "B": "Personal savings",
+          "C": "Membership contribution",
+          "D": "Borrowing from friends"
+        },
+        "answer": "A",
+        "explanation": "Only **public limited companies (Plc)** can raise capital from the general public by issuing and selling **shares** on a stock exchange."
+      },
+      {
+        "id": 5,
+        "question": "An example of an entrepreneur is a:",
+        "options": {
+          "A": "Bank manager",
+          "B": "Board member",
+          "C": "Debenture holder",
+          "D": "Sole proprietor"
+        },
+        "answer": "D",
+        "explanation": "An **entrepreneur** is someone who organizes and manages a business, taking on the financial risk. A **sole proprietor** is the classic example, as they own and run the entire business and bear all the risk."
+      },
+      {
+        "id": 6,
+        "question": "A partner who loses only his capital in case of bankruptcy is a:",
+        "options": {
+          "A": "Nominal partner",
+          "B": "Limited partner",
+          "C": "General partner",
+          "D": "Active partner"
+        },
+        "answer": "B",
+        "explanation": "A **limited partner** has **limited liability**; their personal assets are protected, and their liability is restricted only to the amount of capital they invested in the business."
+      },
+      {
+        "id": 7,
+        "question": "Ship building is an activity under:",
+        "options": {
+          "A": "Commercial occupation",
+          "B": "Indirect service",
+          "C": "Industrial occupation",
+          "D": "Direct service"
+        },
+        "answer": "C",
+        "explanation": "**Industrial occupation** (or secondary production) involves the manufacturing and construction of goods and structures, such as building a ship."
+      },
+      {
+        "id": 8,
+        "question": "The process of making goods and providing services for consumption is:",
+        "options": {
+          "A": "Exchange",
+          "B": "Occupation",
+          "C": "Production",
+          "D": "Specialization"
+        },
+        "answer": "C",
+        "explanation": "**Production** is the overall process of creating goods and services that satisfy human wants."
+      },
+      {
+        "id": 9,
+        "question": "A disadvantage of a sole trader is that he:",
+        "options": {
+          "A": "Pays tax to government",
+          "B": "Has limited liability",
+          "C": "Has unlimited liability",
+          "D": "Does not share profit with others"
+        },
+        "answer": "C",
+        "explanation": "The main drawback of a sole proprietorship is **unlimited liability**, meaning the owner's personal assets can be seized to pay off business debts."
+      },
+      {
+        "id": 10,
+        "question": "An organization formed mainly by traders in the same line of business is a:",
+        "options": {
+          "A": "Trade association",
+          "B": "Trade union",
+          "C": "Chamber of commerce",
+          "D": "Cooperative society"
+        },
+        "answer": "A",
+        "explanation": "A **Trade association** is an organization founded and funded by businesses that operate in a specific trade or industry (e.g., a grocers' association)."
+      },
+      {
+        "id": 11,
+        "question": "Raw materials are classified as:",
+        "options": {
+          "A": "Capital employed",
+          "B": "Capital owned",
+          "C": "Circulating capital",
+          "D": "Fixed capital"
+        },
+        "answer": "C",
+        "explanation": "**Circulating capital** (or working capital) includes assets that are consumed or converted into cash quickly in the normal course of business, such as raw materials and stock."
+      },
+      {
+        "id": 12,
+        "question": "A factor that determines the occupation of people living along coastal areas is:",
+        "options": {
+          "A": "Availability of housing",
+          "B": "Good road network",
+          "C": "Natural resources available",
+          "D": "Size of the population"
+        },
+        "answer": "C",
+        "explanation": "The availability of **natural resources** (e.g., fish in coastal areas) primarily determines the type of primary occupations people in that area pursue (e.g., fishing, trading)."
+      },
+      {
+        "id": 13,
+        "question": "An advantage of self-service to customers is that it:",
+        "options": {
+          "A": "Encourages impulse buying",
+          "B": "Enables customers to inspect goods",
+          "C": "Enables customers to buy on credit",
+          "D": "Leads to a reduction in price"
+        },
+        "answer": "B",
+        "explanation": "In a self-service store (like a supermarket), customers can physically **inspect, compare, and select goods** at their leisure without the pressure of a shop assistant."
+      },
+      {
+        "id": 14,
+        "question": "Calculate average stock from: Opening stock = D22,000, Purchases = D20,000, Closing stock = D8,000",
+        "options": {
+          "A": "D15,000",
+          "B": "D14,000",
+          "C": "D13,000",
+          "D": "D10,000"
+        },
+        "answer": "A",
+        "explanation": "Average Stock is calculated as $(\\text{Opening Stock} + \\text{Closing Stock}) / 2$. \n$(D22,000 + D8,000) / 2 = D30,000 / 2 = \\mathbf{D15,000}$."
+      },
+      {
+        "id": 15,
+        "question": "The value of current liabilities from: Debtors = D12,000, Creditors = D8,000, Overdraft = D5,000",
+        "options": {
+          "A": "D10,000",
+          "B": "D13,000",
+          "C": "D14,000",
+          "D": "D15,000"
+        },
+        "answer": "B",
+        "explanation": "Current liabilities are debts payable within one year. From the list, **Creditors** ($D8,000$) and **Overdraft** ($D5,000$) are current liabilities. Debtors are current assets.\n$D8,000 + D5,000 = \\mathbf{D13,000}$."
+      },
+      {
+        "id": 16,
+        "question": "One aim of a consumers' association is to advocate for:",
+        "options": {
+          "A": "Low-income tax",
+          "B": "High wages",
+          "C": "High prices of products",
+          "D": "Good quality products"
+        },
+        "answer": "D",
+        "explanation": "A consumers' association aims to protect the rights of consumers, which includes advocating for **good quality products**, safety, fair pricing, and accurate information."
+      },
+      {
+        "id": 17,
+        "question": "Pre-financing production is a wholesaler's function to:",
+        "options": {
+          "A": "Manufacturers",
+          "B": "Retailers",
+          "C": "Distributors",
+          "D": "Consumers"
+        },
+        "answer": "A",
+        "explanation": "Wholesalers often buy in bulk and pay cash upfront to **manufacturers**. This advance payment helps the manufacturer finance continuous production."
+      },
+      {
+        "id": 18,
+        "question": "An adverse balance of payment could be corrected through:",
+        "options": {
+          "A": "Increase in imports",
+          "B": "Increase in exports",
+          "C": "Reduction of exports",
+          "D": "Removal of tariffs"
+        },
+        "answer": "B",
+        "explanation": "An adverse (deficit) balance of payment means a country is spending more on imports than it earns from exports. Correcting it requires increasing revenue, primarily through the **promotion and increase of exports**."
+      },
+      {
+        "id": 19,
+        "question": "A price quotation that includes the cost of delivery up to the ship but excludes loading is:",
+        "options": {
+          "A": "FAS",
+          "B": "FOB",
+          "C": "Franco",
+          "D": "CIF"
+        },
+        "answer": "A",
+        "explanation": "**FAS** ($\\text{Free Alongside Ship}$) means the seller delivers the goods alongside the ship, and the buyer assumes all costs and risks, including loading costs, from that point."
+      },
+      {
+        "id": 20,
+        "question": "To inform the buyer that goods are in transit, the seller sends:",
+        "options": {
+          "A": "Quotation",
+          "B": "Invoice",
+          "C": "Debit note",
+          "D": "Advice note"
+        },
+        "answer": "D",
+        "explanation": "An **Advice note** (or 'Advice of Dispatch') is a document sent by the seller to the buyer to notify them that the goods have been dispatched and are on their way."
+      },
+      {
+        "id": 21,
+        "question": "A financial institution established to raise funds for home builders is a:",
+        "options": {
+          "A": "Central bank",
+          "B": "Commercial bank",
+          "C": "Development bank",
+          "D": "Mortgage bank"
+        },
+        "answer": "D",
+        "explanation": "A **Mortgage bank** (or building society) specializes in providing long-term loans (mortgages) for the purchase or construction of real estate, like homes."
+      },
+      {
+        "id": 22,
+        "question": "A market where items are sold in lots or by description is a:",
+        "options": {
+          "A": "Supermarket",
+          "B": "Money market",
+          "C": "Commodity market",
+          "D": "Capital market"
+        },
+        "answer": "C",
+        "explanation": "A **Commodity market** deals with bulk raw materials or primary products (like cocoa, gold, or crude oil) which are often traded in standard lots and based on description or sample."
+      },
+      {
+        "id": 23,
+        "question": "The insurance policy covering cashier dishonesty is:",
+        "options": {
+          "A": "Consequential loss",
+          "B": "Employer’s liability",
+          "C": "Fidelity guarantee",
+          "D": "Third party"
+        },
+        "answer": "C",
+        "explanation": "A **Fidelity Guarantee** policy protects an employer against financial loss due to the dishonest acts (like fraud or theft) of their employees, such as a cashier."
+      },
+      {
+        "id": 24,
+        "question": "Which of the following is not a means of payment?",
+        "options": {
+          "A": "Debit notes",
+          "B": "Debit cards",
+          "C": "Credit cards",
+          "D": "Banknotes"
+        },
+        "answer": "A",
+        "explanation": "A **Debit note** is a document used to inform a buyer that their account has been overcharged or that they owe an extra amount; it is **not** a method of settling a debt (payment)."
+      },
+      {
+        "id": 25,
+        "question": "To correct an overcharge on an invoice, the seller sends the buyer:",
+        "options": {
+          "A": "Advice note",
+          "B": "Credit note",
+          "C": "Consignment note",
+          "D": "Delivery note"
+        },
+        "answer": "B",
+        "explanation": "A **Credit note** is issued by the seller to the buyer to acknowledge that the buyer has been granted a reduction in the amount owed (a 'credit'), often to correct an overcharge or for returned goods."
+      },
+      {
+        "id": 26,
+        "question": "The right of an unpaid seller includes the right to:",
+        "options": {
+          "A": "Sue the debtor",
+          "B": "Stop a debtor from purchasing elsewhere",
+          "C": "Publish the debtor’s name",
+          "D": "Seize debtor’s property"
+        },
+        "answer": "A",
+        "explanation": "An unpaid seller has the right to take legal action and **sue the buyer** for the price of the goods, or for damages for non-acceptance."
+      },
+      {
+        "id": 27,
+        "question": "A buyer of a faulty TV set can seek redress under the:",
+        "options": {
+          "A": "Food and Drugs Act",
+          "B": "Price Control Act",
+          "C": "Rent Control Act",
+          "D": "Standard Organization Act"
+        },
+        "answer": "D",
+        "explanation": "The **Standard Organization Act** (or similar consumer protection legislation like the Sale of Goods Act) is the relevant law that ensures that goods sold meet a certain standard of quality and fitness for purpose, allowing a buyer to seek redress for a faulty item."
+      },
+      {
+        "id": 28,
+        "question": "The process of providing cover for goods is:",
+        "options": {
+          "A": "Blending",
+          "B": "Branding",
+          "C": "Grading",
+          "D": "Packaging"
+        },
+        "answer": "D",
+        "explanation": "**Packaging** involves wrapping and containing goods to protect them from damage and spoilage during handling, storage, and transit."
+      },
+      {
+        "id": 29,
+        "question": "Which retail business sells without shop assistants?",
+        "options": {
+          "A": "Department store",
+          "B": "Mail order",
+          "C": "Multiple store",
+          "D": "Tied shop"
+        },
+        "answer": "B",
+        "explanation": "A **Mail Order** business sells goods via catalogue or website and delivers them to the buyer, meaning transactions are completed without the need for a physical shop or shop assistants."
+      },
+      {
+        "id": 30,
+        "question": "An advantage of personal selling is that it:",
+        "options": {
+          "A": "Appeals to many people",
+          "B": "Ensures market coverage",
+          "C": "Involves little cost",
+          "D": "Gives immediate feedback"
+        },
+        "answer": "D",
+        "explanation": "**Personal selling** (face-to-face interaction) allows the salesperson to directly gauge the customer's reaction, answer questions, and adjust the sales pitch, providing **immediate feedback**."
+      },
+      {
+        "id": 31,
+        "question": "Protection of an author’s work is called:",
+        "options": {
+          "A": "Copyright",
+          "B": "Patent",
+          "C": "Trademark",
+          "D": "Warranty"
+        },
+        "answer": "A",
+        "explanation": "**Copyright** is the legal right granted to an author, composer, or artist to publish and sell their original work for a fixed period."
+      },
+      {
+        "id": 32,
+        "question": "A consumer protection law is the:",
+        "options": {
+          "A": "Copyright Act",
+          "B": "Companies Act",
+          "C": "Partnership Act",
+          "D": "Sale of Goods Act"
+        },
+        "answer": "D",
+        "explanation": "The **Sale of Goods Act** (or similar consumer protection legislation) specifies the implied conditions and warranties in a contract of sale, protecting the buyer from faulty, misdescribed, or unfit goods."
+      },
+      {
+        "id": 33,
+        "question": "A hawker can promote sales by:",
+        "options": {
+          "A": "Window display",
+          "B": "Hoarding",
+          "C": "Free samples",
+          "D": "Cinema"
+        },
+        "answer": "C",
+        "explanation": "A **hawker** is an itinerant or mobile trader. A practical way for them to encourage immediate purchase and introduce a product is by offering **free samples**."
+      },
+      {
+        "id": 34,
+        "question": "Activity that ensures continuous production is:",
+        "options": {
+          "A": "Grading",
+          "B": "Packaging",
+          "C": "Transportation",
+          "D": "Warehousing"
+        },
+        "answer": "D",
+        "explanation": "**Warehousing** (storage) ensures that raw materials are available when needed and finished goods can be held until demand arises, thus ensuring a smooth and **continuous flow of production**."
+      },
+      {
+        "id": 35,
+        "question": "A financial market for long-term loans is:",
+        "options": {
+          "A": "Money market",
+          "B": "Foreign exchange market",
+          "C": "Capital market",
+          "D": "New issues market"
+        },
+        "answer": "C",
+        "explanation": "The **Capital market** deals with the raising of long-term finance (more than one year), such as through the buying and selling of shares, stocks, bonds, and long-term loans."
+      },
+      {
+        "id": 36,
+        "question": "A social responsibility of business to the community is:",
+        "options": {
+          "A": "After-sales service",
+          "B": "Payment of salaries",
+          "C": "Ensuring profitability",
+          "D": "Controlling pollution"
+        },
+        "answer": "D",
+        "explanation": "**Controlling pollution** (by managing waste, noise, and fumes) is a direct responsibility of a business to the wider society and environment (the community)."
+      },
+      {
+        "id": 37,
+        "question": "A disadvantage of commercialization is:",
+        "options": {
+          "A": "Promotes inefficiency",
+          "B": "Reduces worker loyalty",
+          "C": "Poor customer value",
+          "D": "High product prices"
+        },
+        "answer": "D",
+        "explanation": "**Commercialization** means public enterprises operate on a profit-making basis. This often leads to increased efficiency but also to **higher product prices** for consumers as subsidies are removed and the business seeks to cover its costs and make a profit."
+      },
+      {
+        "id": 38,
+        "question": "Reducing government role in business is called:",
+        "options": {
+          "A": "Commercialization",
+          "B": "Deregulation",
+          "C": "Merger",
+          "D": "Privatization"
+        },
+        "answer": "B",
+        "explanation": "**Deregulation** is the process of removing or reducing government restrictions, rules, and laws that restrict market activities and business operations."
+      },
+      {
+        "id": 39,
+        "question": "A document showing goods received on a ship is:",
+        "options": {
+          "A": "Dock receipt",
+          "B": "Bill of lading",
+          "C": "Mate’s receipt",
+          "D": "Ship’s manifest"
+        },
+        "answer": "C",
+        "explanation": "The **Mate's Receipt** is a document signed by the ship's mate or captain, acknowledging that the specified goods have been received on board the ship. It is later exchanged for the Bill of Lading."
+      },
+      {
+        "id": 40,
+        "question": "Government sale of public transport company is called:",
+        "options": {
+          "A": "Privatization",
+          "B": "Deregulation",
+          "C": "Commercialization",
+          "D": "Nationalization"
+        },
+        "answer": "A",
+        "explanation": "**Privatization** is the sale of government-owned assets, enterprises, or operations to private investors, transferring ownership and control from the public to the private sector."
+      },
+      {
+        "id": 41,
+        "question": "Factors affecting business operations are part of the:",
+        "options": {
+          "A": "Business environment",
+          "B": "Business structure",
+          "C": "Span of control",
+          "D": "Scalar chain"
+        },
+        "answer": "A",
+        "explanation": "The **Business environment** includes all the internal (e.g., staff) and external factors (e.g., economy, government policy, competition) that affect a business's operations."
+      },
+      {
+        "id": 42,
+        "question": "The management function involving guidance is:",
+        "options": {
+          "A": "Organizing",
+          "B": "Planning",
+          "C": "Directing",
+          "D": "Controlling"
+        },
+        "answer": "C",
+        "explanation": "**Directing** (or leading) is the managerial function of instructing, guiding, inspiring, and overseeing the actions of the staff to achieve organizational goals."
+      },
+      {
+        "id": 43,
+        "question": "A reason for privatizing petroleum industry is to:",
+        "options": {
+          "A": "Reduce production",
+          "B": "Remove private firms",
+          "C": "Encourage private sector",
+          "D": "Control prices"
+        },
+        "answer": "C",
+        "explanation": "A key reason for **privatization** is to shift the financial burden and efficiency focus from the government to private investors, which serves to **encourage private sector participation** and competition."
+      },
+      {
+        "id": 44,
+        "question": "A goal of the Niger Basin Commission is to:",
+        "options": {
+          "A": "Develop irrigation",
+          "B": "Promote common language",
+          "C": "Promote free trade",
+          "D": "Settle debts"
+        },
+        "answer": "A",
+        "explanation": "The **Niger Basin Commission (NBC)** is an international organization that manages and promotes cooperation for the development of the resources of the Niger River, including for purposes like **irrigation**, navigation, and power generation."
+      },
+      {
+        "id": 45,
+        "question": "Not a problem of ECOWAS:",
+        "options": {
+          "A": "Different ideologies",
+          "B": "Meagre resources",
+          "C": "Colonial history",
+          "D": "Currency stability"
+        },
+        "answer": "D",
+        "explanation": "Currency instability and convertibility issues (**lack of currency stability**) is actually a major **problem** of ECOWAS, hindering intra-regional trade. The other options are also problems."
+      },
+      {
+        "id": 46,
+        "question": "A disadvantage of commercialization to consumers is:",
+        "options": {
+          "A": "Inefficiency",
+          "B": "Reduced loyalty",
+          "C": "Poor value for money",
+          "D": "Price increase"
+        },
+        "answer": "D",
+        "explanation": "As noted in Q37, commercialization (operating for profit) often leads to the removal of government subsidies, resulting in a **price increase** for the services or products offered to consumers."
+      },
+      {
+        "id": 47,
+        "question": "A company’s social responsibility to its community is:",
+        "options": {
+          "A": "After-sales service",
+          "B": "Payment of salaries",
+          "C": "Ensuring profit",
+          "D": "Controlling pollution"
+        },
+        "answer": "D",
+        "explanation": "A duplicate of Q36. **Controlling pollution** is a direct responsibility a company has to the public health and environment of the surrounding community."
+      },
+      {
+        "id": 48,
+        "question": "An objective of the Niger Basin Commission is to:",
+        "options": {
+          "A": "Enhance irrigation",
+          "B": "Promote a common language",
+          "C": "Encourage free trade",
+          "D": "Settle indebtedness"
+        },
+        "answer": "A",
+        "explanation": "A duplicate of Q44. The NBC's objectives include the joint management and development of the Niger River's water resources for purposes like **enhancing irrigation**."
+      },
+      {
+        "id": 49,
+        "question": "The act of reducing government intervention is:",
+        "options": {
+          "A": "Commercialization",
+          "B": "Deregulation",
+          "C": "Merger",
+          "D": "Privatization"
+        },
+        "answer": "B",
+        "explanation": "A duplicate of Q38. **Deregulation** is specifically the reduction of government rules and restrictions on the private sector."
+      },
+      {
+        "id": 50,
+        "question": "Which is not a problem of ECOWAS?",
+        "options": {
+          "A": "Different political ideologies",
+          "B": "Meagre resources",
+          "C": "Colonial history differences",
+          "D": "Effective integration"
+        },
+        "answer": "D",
+        "explanation": "**Effective integration** would be a **goal** of ECOWAS, not a problem. The difficulty in achieving it is the problem, but the term itself is not a challenge."
+      }
+    ]
+  }
+}

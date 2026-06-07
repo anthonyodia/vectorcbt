@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "The dominant theme of an epic is:",
+    "options": {
+      "A": "cowardice",
+      "B": "heroism",
+      "C": "sorrow",
+      "D": "victory"
+    },
+    "answer": "B",
+    "explanation": "An epic is a long narrative poem typically detailing the extraordinary feats and adventures of hero figures.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 2,
+    "question": "“The cat attempted to kill the mouse by stepping on my mouse” is an example of:",
+    "options": {
+      "A": "chiasmus",
+      "B": "pun",
+      "C": "rhyme",
+      "D": "zeugma"
+    },
+    "answer": "B",
+    "explanation": "A pun is a play on words; here, 'mouse' refers to both the animal and the computer peripheral.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 3,
+    "question": "In a literary work, the speaker's attitude towards the subject is inferred from the:",
+    "options": {
+      "A": "plot",
+      "B": "rhythm",
+      "C": "setting",
+      "D": "tone"
+    },
+    "answer": "D",
+    "explanation": "Tone reflects the writer's or speaker's attitude toward the subject matter or audience.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 4,
+    "question": "The repetition of vowel sounds in poetry is called:",
+    "options": {
+      "A": "alliteration",
+      "B": "assonance",
+      "C": "onomatopoeia",
+      "D": "pun"
+    },
+    "answer": "B",
+    "explanation": "Assonance is the repetition of similar vowel sounds within nearby words.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 5,
+    "question": "The part of the theatre in front of the curtain is the:",
+    "options": {
+      "A": "backstage",
+      "B": "balcony",
+      "C": "centre stage",
+      "D": "proscenium"
+    },
+    "answer": "D",
+    "explanation": "The proscenium is the metaphorical vertical plane of space in a theatre, usually surrounded by an arch.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 6,
+    "question": "“When the king was murdered, the wind rose with great violence” exemplifies:",
+    "options": {
+      "A": "hyperbole",
+      "B": "pathetic fallacy",
+      "C": "synecdoche",
+      "D": "transferred epithet"
+    },
+    "answer": "B",
+    "explanation": "Pathetic fallacy attributes human emotions or responses to nature/inanimate objects to reflect the mood of the story.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 7,
+    "question": "In the extract: Kwaku: Amponsah's residence… Amponsah's residence is the:",
+    "options": {
+      "A": "curtain raiser",
+      "B": "dramatic monologue",
+      "C": "interlude",
+      "D": "setting"
+    },
+    "answer": "D",
+    "explanation": "The physical location where an action takes place in a play is the setting.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 8,
+    "question": "Kwaku and Adwoa are:",
+    "options": {
+      "A": "actors",
+      "B": "characters",
+      "C": "directors",
+      "D": "props"
+    },
+    "answer": "B",
+    "explanation": "The people depicted in a literary work are referred to as characters.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 9,
+    "question": "“I wonder why the man doesn't drop dead” exemplifies a/an:",
+    "options": {
+      "A": "aside",
+      "B": "dialogue",
+      "C": "ode",
+      "D": "soliloquy"
+    },
+    "answer": "A",
+    "explanation": "An aside is a short remark by a character to the audience or themselves that other characters on stage are not supposed to hear.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 10,
+    "question": "“Muttering to herself” is a:",
+    "options": {
+      "A": "curtain call",
+      "B": "dress rehearsal",
+      "C": "musical interlude",
+      "D": "stage direction"
+    },
+    "answer": "D",
+    "explanation": "Instructions in the script describing the actions or physical state of characters are stage directions.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 11,
+    "question": "A character who serves as a contrast to another character is known as the:",
+    "options": {
+      "A": "antagonist",
+      "B": "clown",
+      "C": "foil",
+      "D": "protagonist"
+    },
+    "answer": "C",
+    "explanation": "A foil is a character whose qualities contrast with another character to highlight specific traits.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 12,
+    "question": "“The weather is not pleasant” illustrates:",
+    "options": {
+      "A": "limerick",
+      "B": "litotes",
+      "C": "paradox",
+      "D": "parody"
+    },
+    "answer": "B",
+    "explanation": "Litotes is an understatement using a negative to express a positive (not pleasant = unpleasant).",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 13,
+    "question": "A collection of literary works widely accepted is considered a:",
+    "options": {
+      "A": "canon",
+      "B": "compilation",
+      "C": "database",
+      "D": "period"
+    },
+    "answer": "A",
+    "explanation": "A literary canon is the body of books and other texts accepted as the most important and influential.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 14,
+    "question": "In the poem (Phenomenal Woman style context): The speaker:",
+    "options": {
+      "A": "adores men",
+      "B": "disrespects men",
+      "C": "exhibits impunity",
+      "D": "exudes self-confidence"
+    },
+    "answer": "D",
+    "explanation": "The imagery of walking into a room and men standing suggests high self-esteem and confidence.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 15,
+    "question": "“Just as cool as you please” illustrates:",
+    "options": {
+      "A": "exaggeration",
+      "B": "metaphor",
+      "C": "personification",
+      "D": "simile"
+    },
+    "answer": "D",
+    "explanation": "A simile uses 'as' or 'like' to compare two things.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 16,
+    "question": "“The fellows stand or fall down on their knees” exemplifies:",
+    "options": {
+      "A": "apostrophe",
+      "B": "contrast",
+      "C": "metonymy",
+      "D": "parallelism"
+    },
+    "answer": "B",
+    "explanation": "The line contrasts the physical actions of 'standing' and 'falling'.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 17,
+    "question": "Chapter is to prose as _____ is to poetry:",
+    "options": {
+      "A": "act",
+      "B": "line",
+      "C": "scene",
+      "D": "stanza"
+    },
+    "answer": "D",
+    "explanation": "Just as prose is divided into chapters, poetry is typically divided into stanzas.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 18,
+    "question": "The poem: *Nor when again of your softness…* is best described as:",
+    "options": {
+      "A": "a dirge",
+      "B": "an epic",
+      "C": "a lyric",
+      "D": "an ode"
+    },
+    "answer": "C",
+    "explanation": "Lyric poetry expresses personal emotions or feelings, typically spoken in the first person.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 19,
+    "question": "The intense emotion in the poem (referring to the lyric extract) is:",
+    "options": {
+      "A": "anger",
+      "B": "desire",
+      "C": "devotion",
+      "D": "gratitude"
+    },
+    "answer": "C",
+    "explanation": "The context of 'softness' and 'eyes resting' indicates a theme of love and devotion.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 20,
+    "question": "“My eyes will rest” lines exemplify:",
+    "options": {
+      "A": "apostrophe",
+      "B": "ballad",
+      "C": "epistle",
+      "D": "panegyric"
+    },
+    "answer": "D",
+    "explanation": "A panegyric is a public speech or text in praise of someone or something.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 21,
+    "question": "The extract evokes the feeling of:",
+    "options": {
+      "A": "excitement",
+      "B": "hope",
+      "C": "inspiration",
+      "D": "sorrow"
+    },
+    "answer": "C",
+    "explanation": "The praise and emotional depth in the lyric tend to inspire the reader.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 22,
+    "question": "“The Sea Eats the Land at Home” illustrates:",
+    "options": {
+      "A": "chiasmus",
+      "B": "epithet",
+      "C": "fallacy",
+      "D": "personification"
+    },
+    "answer": "D",
+    "explanation": "Giving the sea the human action of 'eating' is personification.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 23,
+    "question": "Tone of the passage: *Our lives are miserable, laborious and short…* (Animal Farm context) is:",
+    "options": {
+      "A": "abusive",
+      "B": "angry",
+      "C": "moralistic",
+      "D": "guilty"
+    },
+    "answer": "B",
+    "explanation": "The description of suffering and misery often reflects an angry or indignant tone towards oppression.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 24,
+    "question": "“To work to the tatom of our strength” illustrates:",
+    "options": {
+      "A": "antithesis",
+      "B": "hyperbole",
+      "C": "irony",
+      "D": "metonymy"
+    },
+    "answer": "B",
+    "explanation": "This is an exaggeration of the physical limit of effort.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 25,
+    "question": "“Why then do we continue in these miserable conditions?” is:",
+    "options": {
+      "A": "an adage",
+      "B": "an inference question",
+      "C": "a rhetorical question",
+      "D": "sarcasm"
+    },
+    "answer": "C",
+    "explanation": "A rhetorical question is asked to make a point rather than to get an answer.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 26,
+    "question": "The narrator's speaking voice (Old Major style) is:",
+    "options": {
+      "A": "colloquial",
+      "B": "comical",
+      "C": "didactic",
+      "D": "metaphoric"
+    },
+    "answer": "C",
+    "explanation": "Didactic means intended to teach or provide moral instruction; typical of revolutionary speeches.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 27,
+    "question": "“Remove man from the scene and the root cause of hunger and overwork is abolished forever” evokes feelings of:",
+    "options": {
+      "A": "expectancy",
+      "B": "fear",
+      "C": "hopelessness",
+      "D": "spite"
+    },
+    "answer": "A",
+    "explanation": "It creates a sense of hope or expectation for a better future without 'Man'.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 28,
+    "question": "In the poem: *I know not, my Alberta…* “My ears will…” illustrates:",
+    "options": {
+      "A": "alliteration",
+      "B": "metaphor",
+      "C": "parallelism",
+      "D": "simile"
+    },
+    "answer": "C",
+    "explanation": "Parallelism involves similar structures in successive phrases or lines.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 29,
+    "question": "The poem is dominated by images associated with:",
+    "options": {
+      "A": "hearing",
+      "B": "sight",
+      "C": "smell",
+      "D": "taste"
+    },
+    "answer": "A",
+    "explanation": "The mention of 'ears' and 'knowing not' (hearing news) points to auditory imagery.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 30,
+    "question": "The poem’s tone is:",
+    "options": {
+      "A": "didactic",
+      "B": "rage",
+      "C": "dramatic",
+      "D": "pessimistic"
+    },
+    "answer": "D",
+    "explanation": "Uncertainty and negative projections ('I know not') suggest a pessimistic tone.",
+    "sectionName": "GENERAL KNOWLEDGE OF LITERATURE",
+    "sectionId": 1
+  },
+  {
+    "id": 31,
+    "question": "In the extract: *I am, my lord, as well derived as he…* The speaker and the addresses are:",
+    "options": {
+      "A": "Demetrius and Hermia",
+      "B": "Egeus and Helena",
+      "C": "Lysander and Theseus",
+      "D": "Theseus and Egeus"
+    },
+    "answer": "C",
+    "explanation": "Lysander is defending his status to Duke Theseus in Act 1.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 32,
+    "question": "“I am, my lord, as well derived as he” – “he” refers to:",
+    "options": {
+      "A": "Demetrius",
+      "B": "Egeus",
+      "C": "Lysander",
+      "D": "Theseus"
+    },
+    "answer": "A",
+    "explanation": "Lysander is comparing his noble birth to Demetrius's.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 33,
+    "question": "The setting is:",
+    "options": {
+      "A": "another part of the wood",
+      "B": "Athens",
+      "C": "a wood near Athens",
+      "D": "the wood"
+    },
+    "answer": "B",
+    "explanation": "The opening act takes place in the Palace of Theseus in Athens.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 34,
+    "question": "In the speech, the speaker is:",
+    "options": {
+      "A": "accepting blame",
+      "B": "defending his right",
+      "C": "resisting arrest",
+      "D": "seeking reconciliation"
+    },
+    "answer": "B",
+    "explanation": "Lysander is arguing that he is just as worthy of Hermia as Demetrius is.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 35,
+    "question": "Nedar’s daughter is:",
+    "options": {
+      "A": "Helena",
+      "B": "Hermia",
+      "C": "Hippolyta",
+      "D": "Titania"
+    },
+    "answer": "A",
+    "explanation": "Helena is identified as the daughter of Nedar in the play.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 36,
+    "question": "In the extract: *Pard, or boar with bristled hair…* The speaker is:",
+    "options": {
+      "A": "first fairy",
+      "B": "Oberon",
+      "C": "Puck",
+      "D": "second fairy"
+    },
+    "answer": "B",
+    "explanation": "Oberon says this while applying the nectar to Titania's eyes.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 37,
+    "question": "The speaker is in the act of:",
+    "options": {
+      "A": "picking herba",
+      "B": "pouring the potion",
+      "C": "proposing to Helena",
+      "D": "reversing his mistake"
+    },
+    "answer": "B",
+    "explanation": "Oberon is applying the 'love-in-idleness' flower juice to the sleeper's eyelids.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 38,
+    "question": "The speaker is motivated by:",
+    "options": {
+      "A": "the desire to please",
+      "B": "the desire to punish",
+      "C": "the need to forgive",
+      "D": "the need to love"
+    },
+    "answer": "B",
+    "explanation": "Oberon wants to humiliate and punish Titania for her refusal to give up the changeling boy.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 39,
+    "question": "The action of the speaker is directed at:",
+    "options": {
+      "A": "Demetrius",
+      "B": "Helena",
+      "C": "Lysander",
+      "D": "Titania"
+    },
+    "answer": "D",
+    "explanation": "In this specific 'bristled hair' passage, Oberon is targeting Titania.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 40,
+    "question": "The speaker and addresses are:",
+    "options": {
+      "A": "courtiers",
+      "B": "enemies",
+      "C": "friends",
+      "D": "lovers"
+    },
+    "answer": "D",
+    "explanation": "The relationship between Oberon and Titania is that of husband and wife/lovers.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 41,
+    "question": "In the extract: *Out, dog! cur! Thou drivest me past the bounds…* The speaker is:",
+    "options": {
+      "A": "Helena",
+      "B": "Hermia",
+      "C": "Oberon",
+      "D": "Titania"
+    },
+    "answer": "B",
+    "explanation": "Hermia lashes out at Demetrius when she cannot find Lysander.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 42,
+    "question": "The addresses in the extract is:",
+    "options": {
+      "A": "Demetrius",
+      "B": "Egeus",
+      "C": "Oberon",
+      "D": "Lysander"
+    },
+    "answer": "A",
+    "explanation": "Hermia is accusing Demetrius of harming Lysander.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 43,
+    "question": "The character supposedly slain is:",
+    "options": {
+      "A": "Bottom",
+      "B": "Demetrius",
+      "C": "Lysander",
+      "D": "Thisby"
+    },
+    "answer": "C",
+    "explanation": "Hermia fears Demetrius has killed the missing Lysander.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 44,
+    "question": "“Thou serpent, never adder stung” illustrates:",
+    "options": {
+      "A": "apostrophe",
+      "B": "conceit",
+      "C": "metaphor",
+      "D": "synecdoche"
+    },
+    "answer": "C",
+    "explanation": "Hermia directly compares Demetrius to a serpent (metaphor).",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 45,
+    "question": "The speaker accuses the addresses of:",
+    "options": {
+      "A": "being unfair",
+      "B": "being unfaithful",
+      "C": "killing Bottom",
+      "D": "killing Lysander"
+    },
+    "answer": "D",
+    "explanation": "Hermia believes Demetrius is responsible for Lysander's disappearance.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 46,
+    "question": "In the extract: *QUINCE: But wonder on, till truth make all things plain…* Quince acts as:",
+    "options": {
+      "A": "Wall",
+      "B": "Lion",
+      "C": "Moonshine",
+      "D": "Prologue"
+    },
+    "answer": "D",
+    "explanation": "Peter Quince delivers the Prologue for the play-within-a-play.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 47,
+    "question": "Who speaks after Quince’s speech?",
+    "options": {
+      "A": "Demetrius",
+      "B": "Lysander",
+      "C": "Snout",
+      "D": "Theseus"
+    },
+    "answer": "D",
+    "explanation": "Theseus often makes commentary during the performance of Pyramus and Thisbe.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 48,
+    "question": "Pyramus is acted by:",
+    "options": {
+      "A": "Bottom",
+      "B": "Flute",
+      "C": "Snout",
+      "D": "Starveling"
+    },
+    "answer": "A",
+    "explanation": "Nick Bottom plays the lead role of Pyramus.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 49,
+    "question": "“This man with lime and rough-cast” refers to:",
+    "options": {
+      "A": "Bottom",
+      "B": "Flute",
+      "C": "Snout",
+      "D": "Starveling"
+    },
+    "answer": "C",
+    "explanation": "Tom Snout plays the part of the Wall, covered in lime and plaster.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  },
+  {
+    "id": 50,
+    "question": "The extract emphasizes which theatrical element?",
+    "options": {
+      "A": "Dialogue",
+      "B": "Stage props",
+      "C": "Character roles",
+      "D": "Scene description"
+    },
+    "answer": "C",
+    "explanation": "The prologue is specifically introducing the characters and their respective roles in the play.",
+    "sectionName": "WILLIAM SHAKESPEARE: A Midsummer Night’s Dream",
+    "sectionId": 2
+  }
+]

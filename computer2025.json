@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "The Difference Engine was developed by",
+    "options": {
+      "A": "Blaise Pascal",
+      "B": "Charles Babbage",
+      "C": "Herman Hollerith",
+      "D": "John Von Neumann"
+    },
+    "answer": "B",
+    "explanation": "**Charles Babbage** is credited with designing the Difference Engine, a revolutionary mechanical calculator."
+  },
+  {
+    "id": 2,
+    "question": "Convert A0BHEX to a number in binary.",
+    "options": {
+      "A": "1010010112",
+      "B": "1011010102",
+      "C": "1010000010112",
+      "D": "1011000010102"
+    },
+    "answer": "C",
+    "explanation": "To convert Hex to Binary: $A=1010$, $0=0000$, $B=1011$. Combining them gives **101000001011**."
+  },
+  {
+    "id": 3,
+    "question": "Audio data are produced from",
+    "options": {
+      "A": "animations",
+      "B": "graphics",
+      "C": "pictures",
+      "D": "sounds"
+    },
+    "answer": "D",
+    "explanation": "**Audio data** refers specifically to digital representations of **sounds**."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following variables is an example of numeric data?",
+    "options": {
+      "A": "568",
+      "B": "B2",
+      "C": "#10.00",
+      "D": "Twenty-five"
+    },
+    "answer": "A",
+    "explanation": "**568** consists purely of digits and can be used in mathematical calculations, unlike alphanumeric strings or currency symbols."
+  },
+  {
+    "id": 5,
+    "question": "The generation of computers in which transistor was first introduced is the",
+    "options": {
+      "A": "fifth generation",
+      "B": "fourth generation",
+      "C": "second generation",
+      "D": "third generation"
+    },
+    "answer": "C",
+    "explanation": "The **second generation** replaced vacuum tubes with **transistors**, making computers smaller and faster."
+  },
+  {
+    "id": 6,
+    "question": "One application of ICT in medicine is",
+    "options": {
+      "A": "Computer Aided Learning",
+      "B": "Computer Aided Manufacturing",
+      "C": "Computerized Axial Tomography",
+      "D": "Optical Character Recognition"
+    },
+    "answer": "C",
+    "explanation": "**Computerized Axial Tomography (CAT)**, often called a CT scan, is a vital medical imaging technique."
+  },
+  {
+    "id": 7,
+    "question": "Which one of the following reasons justifies the prevalence of Personal Digital Assistance (PDA) devices?",
+    "options": {
+      "A": "are light weight and are very expensive",
+      "B": "are very portable and can be used everywhere",
+      "C": "have limited capabilities when compared to desktop and laptop computers",
+      "D": "have small keyboard for input operation"
+    },
+    "answer": "B",
+    "explanation": "The primary advantage of **PDAs** (and modern smartphones) is their **portability** and ease of use on the go."
+  },
+  {
+    "id": 8,
+    "question": "Which one of the following actions can be achieved by right-clicking a computer mouse?",
+    "options": {
+      "A": "Closing of the current windows",
+      "B": "Display of dialog box",
+      "C": "Minimizing of active windows",
+      "D": "Opening of contextual menus"
+    },
+    "answer": "D",
+    "explanation": "Right-clicking typically triggers a **contextual menu** (or shortcut menu) relevant to the item clicked."
+  },
+  {
+    "id": 9,
+    "question": "The manipulation of digitized information by computer or other digital electronic equipment is known as",
+    "options": {
+      "A": "data collation",
+      "B": "data mining",
+      "C": "information gathering",
+      "D": "information processing"
+    },
+    "answer": "D",
+    "explanation": "**Information processing** is the general term for the transformation and manipulation of data into useful information."
+  },
+  {
+    "id": 10,
+    "question": "Which one of the following statements does not explain information processing?",
+    "options": {
+      "A": "Act of saving document",
+      "B": "Changing of information detectable by an observer",
+      "C": "Conversion of raw data into information",
+      "D": "Process that describes everything that happens to a piece of information"
+    },
+    "answer": "A",
+    "explanation": "**Saving a document** is a storage function, whereas processing involves active conversion or transformation of data."
+  },
+  {
+    "id": 11,
+    "question": "The part labelled X in Figure 1 (Information Cycle) is called",
+    "options": {
+      "A": "analysis",
+      "B": "evaluation",
+      "C": "feedback",
+      "D": "retreat"
+    },
+    "answer": "C",
+    "explanation": "In the standard information cycle (Input-Processing-Output), the loop returning to the start is known as **feedback**."
+  },
+  {
+    "id": 12,
+    "question": "Which one of the following gadgets allows the transmission of both visual and audio information?",
+    "options": {
+      "A": "Facsimile",
+      "B": "Radio",
+      "C": "Television",
+      "D": "Walkie-Talkie"
+    },
+    "answer": "C",
+    "explanation": "**Television** transmits both moving images (visual) and sound (audio)."
+  },
+  {
+    "id": 13,
+    "question": "The underlying technology in the network connection in Figure 2 (Bluetooth/Wireless) is called",
+    "options": {
+      "A": "Bluetooth",
+      "B": "Ethernet",
+      "C": "Laser jet",
+      "D": "Optical Fibre"
+    },
+    "answer": "A",
+    "explanation": "Figure 2 depicts a wireless connection between a laptop and a headset, which typically utilizes **Bluetooth** technology."
+  },
+  {
+    "id": 14,
+    "question": "One limitation of the network type in Figure 2 is that",
+    "options": {
+      "A": "cost of maintenance is high",
+      "B": "distance covered is short",
+      "C": "resources that can be shared are selective",
+      "D": "weather can affect the rate of data sharing"
+    },
+    "answer": "B",
+    "explanation": "Bluetooth is a Personal Area Network (PAN) technology with a very **short range** (usually around 10 meters)."
+  },
+  {
+    "id": 15,
+    "question": "The interface in Figure 3 (Email Client) is used for",
+    "options": {
+      "A": "creating new sites",
+      "B": "creating portable documents",
+      "C": "sending and receiving e-mails",
+      "D": "sending and receiving SMS"
+    },
+    "answer": "C",
+    "explanation": "The interface shows folders like 'Inbox', 'Sent Items', and 'Drafts', which are standard for **e-mail** clients."
+  },
+  {
+    "id": 16,
+    "question": "The part labelled III in Figure 3 is used for",
+    "options": {
+      "A": "keeping draft portable documents",
+      "B": "keeping unfinished sites",
+      "C": "saving unsent e-mails",
+      "D": "saving unsent SMS"
+    },
+    "answer": "C",
+    "explanation": "Label III points to 'Drafts', where **unsent e-mails** are automatically or manually saved."
+  },
+  {
+    "id": 17,
+    "question": "What happens when the Shift key is pressed down while deleting a file from the computer in windows?",
+    "options": {
+      "A": "uninstalled from the computer",
+      "B": "permanently deleted from the computer",
+      "C": "deleted and sent to the Recycle bin",
+      "D": "selected and kept in the clipboard"
+    },
+    "answer": "B",
+    "explanation": "**Shift + Delete** is the shortcut to bypass the Recycle Bin and **permanently delete** a file."
+  },
+  {
+    "id": 18,
+    "question": "Which one of the following options illustrates the correct order of steps to change from portrait to landscape using the MS Word Figure 4?",
+    "options": {
+      "A": "I, III and V",
+      "B": "I, IV and V",
+      "C": "II, III and V",
+      "D": "II, IV and V"
+    },
+    "answer": "B",
+    "explanation": "Step I (Layout/Page Setup), IV (Orientation), and V (Landscape) is the correct workflow for changing page orientation."
+  },
+  {
+    "id": 19,
+    "question": "Which one of these options gives the correct order of steps to revert to portrait orientation after typing in landscape?",
+    "options": {
+      "A": "I, III and V",
+      "B": "I, IV and V",
+      "C": "II, III and V",
+      "D": "II, IV and V"
+    },
+    "answer": "A",
+    "explanation": "To revert, you select Step I (Layout), IV (Orientation), and III (Portrait)."
+  },
+  {
+    "id": 20,
+    "question": "What happens when a user clicks on the Microsoft Excel menu bar icon shown in Figure 5 (Merge & Center)?",
+    "options": {
+      "A": "A copy of the selection is put on the clipboard",
+      "B": "A label that spans multiple columns is created",
+      "C": "Content on the clipboard is added to the insertion point",
+      "D": "Selected range of cells is quickly converted to a table with its own style"
+    },
+    "answer": "B",
+    "explanation": "Figure 5 shows the **Merge & Center** icon, which combines cells into one, often used for **labels spanning multiple columns**."
+  },
+  {
+    "id": 21,
+    "question": "To add a new row above EKITI on the MS Excel interface (Row 6) shown in Figure 6, the user would",
+    "options": {
+      "A": "right-click on cell A5 and then click on insert",
+      "B": "right-click on cell A6 and then click on insert",
+      "C": "right-click on row 5 and then click on insert",
+      "D": "right-click on row 6 and then click on insert"
+    },
+    "answer": "D",
+    "explanation": "In Excel, right-clicking a **row header (6)** and selecting 'Insert' places the new row **above** the selected row."
+  },
+  {
+    "id": 22,
+    "question": "Which one of the following points is not considered when designing a database in Microsoft Access?",
+    "options": {
+      "A": "how forms will be used",
+      "B": "how tables will be related",
+      "C": "the data needed",
+      "D": "the purpose of the database"
+    },
+    "answer": "A",
+    "explanation": "While forms are important for UI, the **logical design** (purpose, data, and relationships) must be established first; forms are secondary."
+  },
+  {
+    "id": 23,
+    "question": "Tables in Microsoft Access are created using the following methods except",
+    "options": {
+      "A": "Datasheet view",
+      "B": "Design View",
+      "C": "Table insertion",
+      "D": "Table wizard"
+    },
+    "answer": "C",
+    "explanation": "MS Access uses Datasheet, Design View, and Wizards, but **'Table insertion'** is not a standard creation method term in Access."
+  },
+  {
+    "id": 24,
+    "question": "The keyboard shortcut for adding a new slide to Microsoft PowerPoint application is",
+    "options": {
+      "A": "Ctrl + H",
+      "B": "Ctrl + M",
+      "C": "Alt + H",
+      "D": "Alt + M"
+    },
+    "answer": "B",
+    "explanation": "**Ctrl + M** is the standard shortcut to insert a **New Slide** in PowerPoint."
+  },
+  {
+    "id": 25,
+    "question": "An example of web design software is",
+    "options": {
+      "A": "CSS",
+      "B": "MS Outlook",
+      "C": "MS Publisher",
+      "D": "SPSS"
+    },
+    "answer": "A",
+    "explanation": "**CSS** (Cascading Style Sheets) is a core technology used for the design and layout of web pages."
+  },
+  {
+    "id": 26,
+    "question": "The part labelled VII in Figure 7 (CorelDraw Toolbox) is used to",
+    "options": {
+      "A": "shape objects",
+      "B": "select and transform objects",
+      "C": "draw lines and curves",
+      "D": "create texts"
+    },
+    "answer": "D",
+    "explanation": "Label VII points to the 'A' icon, which is the **Text Tool** used to **create texts** in CorelDraw."
+  },
+  {
+    "id": 27,
+    "question": "The erratic movement of the mouse pointer is usually caused by",
+    "options": {
+      "A": "bad connection",
+      "B": "dirty mouse ball",
+      "C": "driver error",
+      "D": "hardware failure"
+    },
+    "answer": "B",
+    "explanation": "A **dirty mouse ball** or sensor interference is the most common cause of jumping or **erratic pointer movement**."
+  },
+  {
+    "id": 28,
+    "question": "The suitable method of removing particles from the keyboard is by",
+    "options": {
+      "A": "cleaning with dripping wet cloth",
+      "B": "cleaning with iron brush",
+      "C": "using compressed air",
+      "D": "using hot air"
+    },
+    "answer": "C",
+    "explanation": "**Compressed air** effectively blows out dust and particles from under keys without damaging electronics."
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following statements is true about preventing phishing?",
+    "options": {
+      "A": "Ensure that antivirus is updated regularly",
+      "B": "Do not click on links in e-mails from unknown sources",
+      "C": "Do not download from untrusted sites",
+      "D": "Use a strong password at all times"
+    },
+    "answer": "B",
+    "explanation": "**Phishing** relies on trickery; the best defense is **not clicking suspicious links** that lead to fake login pages."
+  },
+  {
+    "id": 30,
+    "question": "Preventive maintenance measures in the computer room include the following except",
+    "options": {
+      "A": "good ventilation",
+      "B": "maintaining dust-free environment",
+      "C": "proper illumination",
+      "D": "the use of rugs on the floor"
+    },
+    "answer": "D",
+    "explanation": "**Rugs** generate static electricity and trap dust, both of which are harmful to computer hardware."
+  },
+  {
+    "id": 31,
+    "question": "When cleaning the computer system, it is advisable to",
+    "options": {
+      "A": "restart the computer first",
+      "B": "turn off the computer and disconnect from power source",
+      "C": "use antiglare cover to protect the screen",
+      "D": "use multimeter tester for earthing"
+    },
+    "answer": "B",
+    "explanation": "Safety first: always **disconnect power** before cleaning hardware to prevent electrical shorts or shocks."
+  },
+  {
+    "id": 32,
+    "question": "A system analyst is a professional who",
+    "options": {
+      "A": "designs flowcharts",
+      "B": "designs and implements new computer-based solutions",
+      "C": "trains computer users on new solutions",
+      "D": "writes complex computer programs"
+    },
+    "answer": "B",
+    "explanation": "A **System Analyst** bridges the gap between business needs and IT by **designing and implementing solutions**."
+  },
+  {
+    "id": 33,
+    "question": "Which one of the following programs is not a type of virus?",
+    "options": {
+      "A": "Boot sector virus",
+      "B": "Logic bomb",
+      "C": "Polymorphic virus",
+      "D": "Trojan horse"
+    },
+    "answer": "B",
+    "explanation": "A **Logic Bomb** is a malicious script triggered by an event, whereas the others are specific classifications of replicating viruses."
+  },
+  {
+    "id": 34,
+    "question": "The computer virus accesses the user's computer and waits for a trigger during the",
+    "options": {
+      "A": "dormant phase",
+      "B": "execution phase",
+      "C": "propagation phase",
+      "D": "trigger phase"
+    },
+    "answer": "A",
+    "explanation": "In the **dormant phase**, the virus is present on the system but inactive, waiting for a specific condition to be met."
+  },
+  {
+    "id": 35,
+    "question": "The SQL constraint used to ensure the accuracy and consistency of data in a relational database is called",
+    "options": {
+      "A": "default constraint",
+      "B": "index constraint",
+      "C": "integrity constraint",
+      "D": "unique constraint"
+    },
+    "answer": "C",
+    "explanation": "**Integrity constraints** (like Referential Integrity) ensure data remains consistent across related tables."
+  },
+  {
+    "id": 36,
+    "question": "To create a one-to-one relationship in database, it is necessary that",
+    "options": {
+      "A": "both primary and foreign key fields should have multiple key index",
+      "B": "both primary and foreign key fields should have unique key index",
+      "C": "only the foreign key field should have a unique index",
+      "D": "only the primary key field should have a unique index"
+    },
+    "answer": "B",
+    "explanation": "For a **1:1 relationship**, the joining field in the second table must also be **unique** to prevent multiple matches."
+  },
+  {
+    "id": 37,
+    "question": "An advantage of manual file over computer file is that",
+    "options": {
+      "A": "it is more efficient",
+      "B": "it requires less storage space",
+      "C": "risk of corrupted data is much less",
+      "D": "speed of processing is high"
+    },
+    "answer": "C",
+    "explanation": "Manual files cannot suffer from **digital corruption**, file system errors, or hard drive crashes."
+  },
+  {
+    "id": 38,
+    "question": "A user observed that a certain file in a removable storage device changed to a shortcut icon. This implies that",
+    "options": {
+      "A": "the file is corrupt",
+      "B": "the file is shared",
+      "C": "the removable storage device is corrupt",
+      "D": "there is a link to the file"
+    },
+    "answer": "D",
+    "explanation": "A **shortcut** is not the actual file but a **link** pointing to the original location of the file."
+  },
+  {
+    "id": 39,
+    "question": "The objectives to consider while designing a secure database application include the following except",
+    "options": {
+      "A": "simplicity",
+      "B": "secrecy",
+      "C": "integrity",
+      "D": "availability"
+    },
+    "answer": "A",
+    "explanation": "The CIA triad of security includes Confidentiality (**Secrecy**), **Integrity**, and **Availability**. Simplicity is a design preference, not a core security objective."
+  },
+  {
+    "id": 40,
+    "question": "Which one of the following features is not an advantage of distributed database?",
+    "options": {
+      "A": "Better response",
+      "B": "Lower communication cost",
+      "C": "Improved reliability",
+      "D": "Need for complex software"
+    },
+    "answer": "D",
+    "explanation": "The **need for complex software** to manage data across locations is a **disadvantage/challenge**, not an advantage."
+  }
+]

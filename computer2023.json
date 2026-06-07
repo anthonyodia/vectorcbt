@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "An advantage of bus topology over star topology is that",
+      "options": {
+        "A": "it is stronger than star topology.",
+        "B": "it is more expensive than star topology.",
+        "C": "its component are easily removed compared to star topology.",
+        "D": "it requires less cable length than star topology"
+      },
+      "answer": "D",
+      "explanation": "Bus topology uses less cable compared to star topology because all devices share the same communication line."
+    },
+    {
+      "id": 2,
+      "question": "The transmission method that allows data transmission to multiple computers on a network without addressing all the computers is called",
+      "options": {
+        "A": "unicast",
+        "B": "broadcast",
+        "C": "multicast",
+        "D": "switch"
+      },
+      "answer": "C",
+      "explanation": "Multicast allows data transmission to multiple specific computers without broadcasting to all."
+    },
+    {
+      "id": 3,
+      "question": "The main distinguishing feature of fifth generation computers is",
+      "options": {
+        "A": "artificial intelligence.",
+        "B": "versatility.",
+        "C": "extremely low cost.",
+        "D": "liberal use of microprocessors."
+      },
+      "answer": "A",
+      "explanation": "Fifth-generation computers are characterized by artificial intelligence capabilities."
+    },
+    {
+      "id": 4,
+      "question": "Machine language instruction codes are expressed in",
+      "options": {
+        "A": "hexadecimal",
+        "B": "EBCDIC",
+        "C": "ASCII",
+        "D": "binary"
+      },
+      "answer": "D",
+      "explanation": "Machine language is represented in binary code."
+    },
+    {
+      "id": 5,
+      "question": "A wait state of zero in hardware means the",
+      "options": {
+        "A": "memory is faster than the processor in terms of speed.",
+        "B": "processor speed is higher than that of the memory.",
+        "C": "processor speed is lower than that of the memory.",
+        "D": "processor and the memory are equally matched in speed."
+      },
+      "answer": "A",
+      "explanation": "A wait state of zero indicates no delay, meaning memory is faster than the processor."
+    },
+    {
+      "id": 6,
+      "question": "The following are effects of file insecurities except",
+      "options": {
+        "A": "file corruption.",
+        "B": "data use.",
+        "C": "data loss.",
+        "D": "data overwriting."
+      },
+      "answer": "B",
+      "explanation": "Data use is not an insecurity effect; the others are security risks."
+    },
+    {
+      "id": 7,
+      "question": "The commands used for adding comments in QBASIC programming is",
+      "options": {
+        "A": "PRINT",
+        "B": "REM",
+        "C": "CLS.",
+        "D": "INPUT"
+      },
+      "answer": "B",
+      "explanation": "REM is used for comments in QBASIC."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following IP addresses can be used to access a locally running website on a user's computer?",
+      "options": {
+        "A": "127.1.0.1",
+        "B": "127.0.0.1",
+        "C": "1.172.0.0",
+        "D": "172.0.0.0"
+      },
+      "answer": "B",
+      "explanation": "127.0.0.1 is the localhost IP address."
+    },
+    {
+      "id": 9,
+      "question": "The BCD equivalent of 135 is",
+      "options": {
+        "A": "100110101",
+        "B": "001011101",
+        "C": "000100110101",
+        "D": "111101"
+      },
+      "answer": "C",
+      "explanation": "BCD of 135 is 0001 0011 0101, which is 000100110101."
+    },
+    {
+      "id": 10,
+      "question": "A good algorithm must be",
+      "options": {
+        "A": "detailed and verbose.",
+        "B": "sequential and lengthy.",
+        "C": "consistent and continuous.",
+        "D": "concise and finite."
+      },
+      "answer": "D",
+      "explanation": "A good algorithm is concise, clear, and finite."
+    },
+    {
+      "id": 11,
+      "question": "The central processing unit consists of",
+      "options": {
+        "A": "control unit, primary storage and secondary storage.",
+        "B": "input, output and processing.",
+        "C": "control unit, arithmetic logic unit and primary storage.",
+        "D": "control unit, processing and primary storage."
+      },
+      "answer": "C",
+      "explanation": "CPU includes control unit, ALU, and primary storage."
+    },
+    {
+      "id": 12,
+      "question": "The technology used for first generation computers was",
+      "options": {
+        "A": "integrated circuit.",
+        "B": "microprocessors",
+        "C": "transistors.",
+        "D": "vacuum tubes."
+      },
+      "answer": "D",
+      "explanation": "First-generation computers used vacuum tubes."
+    },
+    {
+      "id": 13,
+      "question": "The LET statement in QBASIC",
+      "options": {
+        "A": "allows users to assign a value to a variable.",
+        "B": "allows the users to enter data into the computer during program execution.",
+        "C": "checks the errors within the code.",
+        "D": "allows the users to enter data into the computer from"
+      },
+      "answer": "A",
+      "explanation": "LET is used to assign values to variables."
+    },
+    {
+      "id": 14,
+      "question": "The first attempt at using the punch card principle to do mathematical calculations led to the invention of",
+      "options": {
+        "A": "Napier’s bone",
+        "B": "Charles Babbage Analytical Engine",
+        "C": "Charles Babbage Difference Engine",
+        "D": "Abacus"
+      },
+      "answer": "B",
+      "explanation": "Babbage's Analytical Engine was inspired by punch card calculations."
+    },
+    {
+      "id": 15,
+      "question": "The radix of hexadecimal number system is",
+      "options": {
+        "A": "10",
+        "B": "2",
+        "C": "16",
+        "D": "8"
+      },
+      "answer": "C",
+      "explanation": "Hexadecimal is base 16."
+    },
+    {
+      "id": 16,
+      "question": "A file organization in which the records are stored in the order in which they occur is called",
+      "options": {
+        "A": "indexed file.",
+        "B": "serial file.",
+        "C": "sequential file.",
+        "D": "random file."
+      },
+      "answer": "C",
+      "explanation": "Sequential files store records in order."
+    },
+    {
+      "id": 17,
+      "question": "The process of converting data into information is known as data",
+      "options": {
+        "A": "collation",
+        "B": "processing",
+        "C": "analysis",
+        "D": "collection"
+      },
+      "answer": "B",
+      "explanation": "Data processing converts raw data into useful information."
+    },
+    {
+      "id": 18,
+      "question": "A BIOS configuration program that allows a Windows user to configure attributes such as password, time and date is called",
+      "options": {
+        "A": "GRUB",
+        "B": "Bootstrap",
+        "C": "CMOS setup.",
+        "D": "BIOS drivers."
+      },
+      "answer": "C",
+      "explanation": "CMOS setup allows BIOS configuration."
+    },
+    {
+      "id": 19,
+      "question": "The software responsible for allocating and managing system resources is called",
+      "options": {
+        "A": "utility software.",
+        "B": "driver",
+        "C": "translator.",
+        "D": "operating system."
+      },
+      "answer": "D",
+      "explanation": "The OS manages system resources."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following commands can be used to switch between open window?",
+      "options": {
+        "A": "Alt + F4",
+        "B": "Alt + Tab",
+        "C": "Ctrl + F",
+        "D": "Ctrl + D"
+      },
+      "answer": "B",
+      "explanation": "Alt + Tab switches between open windows."
+    },
+    {
+      "id": 21,
+      "question": "During the booting process in Windows, the Master Boot Record is loaded by the",
+      "options": {
+        "A": "BIOS .",
+        "B": "Init.",
+        "C": "Kernel",
+        "D": "GRUB"
+      },
+      "answer": "A",
+      "explanation": "BIOS loads the MBR during boot."
+    },
+    {
+      "id": 22,
+      "question": "The set of instructions used to solve specific user tasks is called",
+      "options": {
+        "A": "editor",
+        "B": "utility software.",
+        "C": "system software",
+        "D": "application software."
+      },
+      "answer": "D",
+      "explanation": "Application software performs specific user tasks."
+    },
+    {
+      "id": 23,
+      "question": "Personalized form of letters which can be sent to many people can be achieved using",
+      "options": {
+        "A": "template.",
+        "B": "mail merge.",
+        "C": "query",
+        "D": "macros"
+      },
+      "answer": "B",
+      "explanation": "Mail merge personalizes bulk letters."
+    },
+    {
+      "id": 24,
+      "question": "An input device that converts an image into a text is known as",
+      "options": {
+        "A": "scanner.",
+        "B": "optical mark reader.",
+        "C": "barcode reader.",
+        "D": "optical character reader."
+      },
+      "answer": "D",
+      "explanation": "Optical character readers convert images to text."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following QBASIC arithmetic operations is the last in order of precedence?",
+      "options": {
+        "A": "Subtraction",
+        "B": "Addition",
+        "C": "Division",
+        "D": "Exponentiation"
+      },
+      "answer": "D",
+      "explanation": "Exponentiation has the highest precedence."
+    },
+    {
+      "id": 26,
+      "question": "The command used to seek for assistance in Microsoft disk operating system is",
+      "options": {
+        "A": "Attrib",
+        "B": "/S",
+        "C": "/?",
+        "D": "Helper."
+      },
+      "answer": "C",
+      "explanation": "/? displays help in DOS."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is an example of information?",
+      "options": {
+        "A": "Recorded observation",
+        "B": "Average score of students in a test",
+        "C": "List of items",
+        "D": "Student’s score in a test"
+      },
+      "answer": "B",
+      "explanation": "Average scores are processed data, i.e., information."
+    },
+    {
+      "id": 28,
+      "question": "The usage of the keys CTRL + W in Ms Word",
+      "options": {
+        "A": "closes the current window.",
+        "B": "updates the current web page.",
+        "C": "opens the print dialogue box.",
+        "D": "saves the current file."
+      },
+      "answer": "A",
+      "explanation": "CTRL + W closes the current window."
+    },
+    {
+      "id": 29,
+      "question": "The speed of data transfer can be affected by the following factors except",
+      "options": {
+        "A": "address bus width.",
+        "B": "broadband status.",
+        "C": "data bus width.",
+        "D": "clock speed."
+      },
+      "answer": "B",
+      "explanation": "Broadband status doesn't affect transfer speed directly."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following data is alpha-numeric?",
+      "options": {
+        "A": "568",
+        "B": "10.00",
+        "C": "SS3",
+        "D": "Twenty-five"
+      },
+      "answer": "C",
+      "explanation": "SS3 contains alphabetic characters and numbers."
+    },
+    {
+      "id": 31,
+      "question": "The unit of the computer system that directs and supervises other units is called the",
+      "options": {
+        "A": "memory unit.",
+        "B": "control unit.",
+        "C": "arithmetic logic unit.",
+        "D": "accumulator"
+      },
+      "answer": "B",
+      "explanation": "Control unit supervises other parts of the CPU."
+    },
+    {
+      "id": 32,
+      "question": "An opening on the motherboard of a system unit where expansion cards can be inserted is known as",
+      "options": {
+        "A": "expansion port.",
+        "B": "extension box.",
+        "C": "extension board.",
+        "D": "expansion slot."
+      },
+      "answer": "D",
+      "explanation": "Expansion slot is where cards are inserted."
+    },
+    {
+      "id": 33,
+      "question": "Headers and footers are used in Microsoft Word documents to",
+      "options": {
+        "A": "enhance the overall appearance of the document.",
+        "B": "allow text to appear at the top and bottom of every page.",
+        "C": "make large document more readable.",
+        "D": "allow text to appear at the top of the first page."
+      },
+      "answer": "B",
+      "explanation": "Headers and footers appear on every page."
+    },
+    {
+      "id": 34,
+      "question": "If today's date is 02/02/2008, what will be the result of typing \"=today() - 1\" in a cell of a spreadsheet?",
+      "options": {
+        "A": "02/01/2008",
+        "B": "01/02/2009",
+        "C": "01/02/2008",
+        "D": "02/02/2007"
+      },
+      "answer": "A",
+      "explanation": "Subtracting one day gives 01/02/2008."
+    },
+    {
+      "id": 35,
+      "question": "The act of translating data into a secret code is known as",
+      "options": {
+        "A": "piracy.",
+        "B": "encryption.",
+        "C": "authentication.",
+        "D": "authorization."
+      },
+      "answer": "B",
+      "explanation": "Encryption encodes data for security."
+    },
+    {
+      "id": 36,
+      "question": "The https in the web address, https://waec.org.ng, is called a",
+      "options": {
+        "A": "web page.",
+        "B": "protocol.",
+        "C": "hostname.",
+        "D": "file path."
+      },
+      "answer": "B",
+      "explanation": "HTTPS is a protocol for secure communication."
+    },
+    {
+      "id": 37,
+      "question": "The process of transferring a file from a server to a computer is called",
+      "options": {
+        "A": "pinging",
+        "B": "browsing.",
+        "C": "downloading.",
+        "D": "uploading."
+      },
+      "answer": "C",
+      "explanation": "Downloading transfers files from server to local machine."
+    },
+    {
+      "id": 38,
+      "question": "The following are functions of database management system except",
+      "options": {
+        "A": "format operation.",
+        "B": "rule enforcement.",
+        "C": "security of data.",
+        "D": "backup and replication."
+      },
+      "answer": "A",
+      "explanation": "Formatting is usually done outside DBMS functions."
+    },
+    {
+      "id": 39,
+      "question": "Input devices are computer devices that can",
+      "options": {
+        "A": "send data and instructions into the computer memory.",
+        "B": "be used to get data from the computer.",
+        "C": "send results to the memory of the computer.",
+        "D": "receive data and instructions from the computer memory."
+      },
+      "answer": "A",
+      "explanation": "Input devices send data to the computer."
+    },
+    {
+      "id": 40,
+      "question": "Viruses, worms and Trojan horses are regarded as",
+      "options": {
+        "A": "system software.",
+        "B": "malicious software.",
+        "C": "application software.",
+        "D": "utility software."
+      },
+      "answer": "B",
+      "explanation": "They are malicious software or malware."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following actions is not an animation in Microsoft PowerPoint?",
+      "options": {
+        "A": "Entrance",
+        "B": "Emphasis",
+        "C": "Motion paths",
+        "D": "Dancing"
+      },
+      "answer": "D",
+      "explanation": "Dancing is not a standard PowerPoint animation effect."
+    },
+    {
+      "id": 42,
+      "question": "The database model that uses tables with columns and rows is called",
+      "options": {
+        "A": "hierarchical database.",
+        "B": "relational database.",
+        "C": "network database.",
+        "D": "linear database."
+      },
+      "answer": "B",
+      "explanation": "Relational databases are based on tables with rows and columns."
+    },
+    {
+      "id": 43,
+      "question": "Datatypes in QBASIC programming language include the following except",
+      "options": {
+        "A": "double",
+        "B": "short",
+        "C": "float.",
+        "D": "long."
+      },
+      "answer": "C",
+      "explanation": "QBASIC does not have a 'float' datatype; it uses 'Single' and 'Double'."
+    },
+    {
+      "id": 44,
+      "question": "A program that converts source code instructions in high-level programming language to object codes line by line is known as",
+      "options": {
+        "A": "interpreter.",
+        "B": "compiler.",
+        "C": "editor",
+        "D": "assembler."
+      },
+      "answer": "A",
+      "explanation": "Interpreter translates line by line at runtime."
+    },
+    {
+      "id": 45,
+      "question": "Stored instructions and data in digital computer consist of",
+      "options": {
+        "A": "bits.",
+        "B": "numerals.",
+        "C": "alphabets",
+        "D": "characters."
+      },
+      "answer": "A",
+      "explanation": "Data in computers is stored as bits."
+    },
+    {
+      "id": 46,
+      "question": "The process of making copies of files which can be used to restore the original copy in the event of data loss is called file",
+      "options": {
+        "A": "restoration.",
+        "B": "retrieval.",
+        "C": "organization",
+        "D": "backup"
+      },
+      "answer": "D",
+      "explanation": "Backing up files allows restoration after data loss."
+    },
+    {
+      "id": 47,
+      "question": "The primary purpose of an operating system is to",
+      "options": {
+        "A": "process data.",
+        "B": "control hardware and software resources.",
+        "C": "design applications.",
+        "D": "connect to the internet."
+      },
+      "answer": "B",
+      "explanation": "OS manages hardware and software resources."
+    },
+    {
+      "id": 48,
+      "question": "Which device is used to output sound from a computer?",
+      "options": {
+        "A": "Monitor",
+        "B": "Speaker",
+        "C": "Keyboard",
+        "D": "Scanner"
+      },
+      "answer": "B",
+      "explanation": "Speakers output sound."
+    },
+    {
+      "id": 49,
+      "question": "In a relational database, data is stored in",
+      "options": {
+        "A": "tables with rows and columns.",
+        "B": "hierarchical structures.",
+        "C": "sequential files.",
+        "D": "binary files."
+      },
+      "answer": "A",
+      "explanation": "Relational databases use tables with rows and columns."
+    },
+    {
+      "id": 50,
+      "question": "The main function of the ALU (Arithmetic Logic Unit) is to",
+      "options": {
+        "A": "store data temporarily.",
+        "B": "perform arithmetic and logical operations.",
+        "C": "control the input and output devices.",
+        "D": "manage memory addresses."
+      },
+      "answer": "B",
+      "explanation": "ALU performs arithmetic and logic operations."
+    }
+  ]
+}

@@ -1,0 +1,1286 @@
+{
+  "exam": "WAEC 2024 - English Literature",
+  "totalQuestions": 52,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "Literary Devices & Concepts",
+      "questions": [
+        {
+          "questionId": 1,
+          "question": "A poem that is shaped in the image of the object it talks about is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "concrete"
+            },
+            {
+              "optionId": "B",
+              "text": "lyrical"
+            },
+            {
+              "optionId": "C",
+              "text": "metaphysical"
+            },
+            {
+              "optionId": "D",
+              "text": "romantic"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Concrete poetry is a poem arranged on the page so that the shape or appearance reinforces the meaning of the words."
+        },
+        {
+          "questionId": 2,
+          "question": "The choir is on wheels to a convention illustrates",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Hyperbole"
+            },
+            {
+              "optionId": "B",
+              "text": "Allusion"
+            },
+            {
+              "optionId": "C",
+              "text": "Metonymy"
+            },
+            {
+              "optionId": "D",
+              "text": "Personification"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Metonymy is the substitution of the name of one thing for another thing associated with it. Here, 'the choir' represents the members of the choir."
+        },
+        {
+          "questionId": 3,
+          "question": "Which of the following helps best to create and sustain interest in a literary work?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "plot"
+            },
+            {
+              "optionId": "B",
+              "text": "rhyme"
+            },
+            {
+              "optionId": "C",
+              "text": "rhythm"
+            },
+            {
+              "optionId": "D",
+              "text": "suspense"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "The plot is the sequence of events in a narrative that creates interest and drives the story forward, making it the most crucial element for maintaining reader interest."
+        },
+        {
+          "questionId": 4,
+          "question": "The dominant device used in 'Macbeth doth murdered sleep; the innocent sleep' is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "alliteration"
+            },
+            {
+              "optionId": "B",
+              "text": "conceit"
+            },
+            {
+              "optionId": "C",
+              "text": "metonymy"
+            },
+            {
+              "optionId": "D",
+              "text": "personification"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Personification gives human qualities to non-human things. Here, 'sleep' is treated as something that can be 'murdered' as if it were alive."
+        },
+        {
+          "questionId": 5,
+          "question": "A narrative that extols the deeds of a heroic figure is a",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "ballad"
+            },
+            {
+              "optionId": "B",
+              "text": "folktale"
+            },
+            {
+              "optionId": "C",
+              "text": "panegyric"
+            },
+            {
+              "optionId": "D",
+              "text": "pastoral"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "A panegyric is a formal expression of praise or a speech that celebrates or commends the achievements of a heroic figure."
+        },
+        {
+          "questionId": 6,
+          "question": "Ife is a woman of great virtue / She is a woman of great vice illustrates",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "antithesis"
+            },
+            {
+              "optionId": "B",
+              "text": "alliteration"
+            },
+            {
+              "optionId": "C",
+              "text": "paradox"
+            },
+            {
+              "optionId": "D",
+              "text": "pathos"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Antithesis is the contrast of ideas expressed through parallel sentence structure. Here, 'virtue' and 'vice' are opposites presented in similar structures."
+        },
+        {
+          "questionId": 7,
+          "question": "The overwhelming confidence and pride that lead to the fall of the protagonist is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "catharsis"
+            },
+            {
+              "optionId": "B",
+              "text": "ego"
+            },
+            {
+              "optionId": "C",
+              "text": "harmatia"
+            },
+            {
+              "optionId": "D",
+              "text": "hubris"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Hubris refers to excessive pride or self-confidence that leads to a character's downfall, a key concept in tragic literature."
+        },
+        {
+          "questionId": 8,
+          "question": "The major divisions in a play are",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "acts"
+            },
+            {
+              "optionId": "B",
+              "text": "chapters"
+            },
+            {
+              "optionId": "C",
+              "text": "scenes"
+            },
+            {
+              "optionId": "D",
+              "text": "stanzas"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Acts are the major structural divisions of a play. Scenes are subdivisions within acts. Chapters are for prose, and stanzas are for poetry."
+        },
+        {
+          "questionId": 51,
+          "question": "The use of words that imitate the sound they represent is known as",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "alliteration"
+            },
+            {
+              "optionId": "B",
+              "text": "assonance"
+            },
+            {
+              "optionId": "C",
+              "text": "onomatopoeia"
+            },
+            {
+              "optionId": "D",
+              "text": "consonance"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Onomatopoeia is the use of words that imitate the sounds they represent, such as 'buzz', 'hiss', or 'crash'."
+        },
+        {
+          "questionId": 52,
+          "question": "A brief story that teaches a moral lesson is known as a",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "fable"
+            },
+            {
+              "optionId": "B",
+              "text": "myth"
+            },
+            {
+              "optionId": "C",
+              "text": "legend"
+            },
+            {
+              "optionId": "D",
+              "text": "saga"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "A fable is a brief fictional story that typically features animals as characters and conveys a moral lesson or practical wisdom to the reader."
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "Poetry Analysis - 'My heart aches, and a drowsy numbness pains'",
+      "passage": "My heart aches, and a drowsy numbness pains\nMy sense, as though of hemlock I have drunk",
+      "questions": [
+        {
+          "questionId": 9,
+          "question": "The metrical pattern is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "anapestic"
+            },
+            {
+              "optionId": "B",
+              "text": "dactylic"
+            },
+            {
+              "optionId": "C",
+              "text": "iambic"
+            },
+            {
+              "optionId": "D",
+              "text": "trochaic"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Iambic meter consists of unstressed-stressed syllables. The pattern in these lines follows the iambic pentameter (ten syllables per line with five iambs)."
+        },
+        {
+          "questionId": 10,
+          "question": "The mood of the poet is that of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "anger"
+            },
+            {
+              "optionId": "B",
+              "text": "apathy"
+            },
+            {
+              "optionId": "C",
+              "text": "drunkenness"
+            },
+            {
+              "optionId": "D",
+              "text": "sadness"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "The poet expresses sadness through images of pain, numbness, and drowsiness. The comparison to drinking hemlock (a poison) reinforces the melancholic mood."
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "Literary Forms & Techniques",
+      "questions": [
+        {
+          "questionId": 12,
+          "question": "A narrative composed in the form of a letter is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "an eponymous novel"
+            },
+            {
+              "optionId": "B",
+              "text": "an epistolary novel"
+            },
+            {
+              "optionId": "C",
+              "text": "a novella"
+            },
+            {
+              "optionId": "D",
+              "text": "a panegyric"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "An epistolary novel is a narrative told through letters or written correspondence between characters."
+        },
+        {
+          "questionId": 13,
+          "question": "The device used in 'She gave him lots of cash and tender attention' is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "bathos"
+            },
+            {
+              "optionId": "B",
+              "text": "pathos"
+            },
+            {
+              "optionId": "C",
+              "text": "suspense"
+            },
+            {
+              "optionId": "D",
+              "text": "zeugma"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Zeugma uses a single word in two different senses. Here 'gave' applies literally to 'cash' and figuratively to 'tender attention'."
+        },
+        {
+          "questionId": 14,
+          "question": "The Shakespearean sonnet differs from the Petrachan sonnet by ending with a",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "couplet"
+            },
+            {
+              "optionId": "B",
+              "text": "quatrain"
+            },
+            {
+              "optionId": "C",
+              "text": "sestet"
+            },
+            {
+              "optionId": "D",
+              "text": "tercet"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "A Shakespearean (English) sonnet ends with a rhyming couplet (two lines with the same rhyme). The Petrarchan sonnet ends with a sestet."
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "Poetry Analysis - Line Interpretation",
+      "questions": [
+        {
+          "questionId": 15,
+          "question": "The closing of the day / Is the beginning of the day - The lines",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "are alliterated"
+            },
+            {
+              "optionId": "B",
+              "text": "are repeated"
+            },
+            {
+              "optionId": "C",
+              "text": "end stop"
+            },
+            {
+              "optionId": "D",
+              "text": "run on"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "End stop refers to a pause or full stop at the end of a line. Each line here is a complete thought with terminal punctuation."
+        },
+        {
+          "questionId": 16,
+          "question": "One of the important means available to a writer of a literary work is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "diction"
+            },
+            {
+              "optionId": "B",
+              "text": "fiction"
+            },
+            {
+              "optionId": "C",
+              "text": "stage"
+            },
+            {
+              "optionId": "D",
+              "text": "stanza"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Diction refers to a writer's choice of words and their arrangement. It is a fundamental technique in creating literary works."
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "Poetry Analysis - 'The curl of my lips...'",
+      "passage": "The curl of my lips, the swing of my waist, the\nThe ride of my breast, the stride of my steps, the\nFlash of my tech and the palm of my hand",
+      "questions": [
+        {
+          "questionId": 17,
+          "question": "The line is an example of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "euphemism"
+            },
+            {
+              "optionId": "B",
+              "text": "parallelism"
+            },
+            {
+              "optionId": "C",
+              "text": "personification"
+            },
+            {
+              "optionId": "D",
+              "text": "synecdoche"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Parallelism is the repetition of similar grammatical structures. The repeated pattern 'the [noun], the [noun]' creates parallel structure throughout the lines."
+        },
+        {
+          "questionId": 18,
+          "question": "The image created in the line appeals to the sense of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "sight"
+            },
+            {
+              "optionId": "B",
+              "text": "taste"
+            },
+            {
+              "optionId": "C",
+              "text": "smell"
+            },
+            {
+              "optionId": "D",
+              "text": "touch"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "The imagery appeals primarily to sight, as it describes visual elements like the curl of lips, swing of waist, and stride of steps."
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "Drama - Characters & Functions",
+      "questions": [
+        {
+          "questionId": 19,
+          "question": "Characters in a play that the author uses as a vehicle for commentary is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "chorus"
+            },
+            {
+              "optionId": "B",
+              "text": "dancers"
+            },
+            {
+              "optionId": "C",
+              "text": "drummers"
+            },
+            {
+              "optionId": "D",
+              "text": "singers"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "The chorus is a group of characters who often provide commentary, explain events, and express the author's views in a play."
+        },
+        {
+          "questionId": 20,
+          "question": "The _______ comes after the loose ends of the plot have been tied up.",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "climax"
+            },
+            {
+              "optionId": "B",
+              "text": "denouncement"
+            },
+            {
+              "optionId": "C",
+              "text": "epilogue"
+            },
+            {
+              "optionId": "D",
+              "text": "resolution"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The epilogue is a concluding section that appears after the main plot is resolved, often providing final comments or closure."
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionName": "Unseen Prose - Jenny's Story",
+      "passage": "The message was unambiguous: her John was on his way back. For how long had he been gone? Jenny wondered.\n\nShe wrung her hands in silent expectation. She stood, turned about, and sat, motionless. She was listening in the silence of the room and looking into the gloom of the unlit room.\n\nShe seemed to pull herself together as she rose to her full height, switched on the light and turned on the TV, to no station in particular, selecting no programme at all. She sat in front of the TV, not watching. Her heart was pounding, slowly, she hoisted herself from the armchair and moved towards the kitchen, like one sleepwalking.\n\nShe must get some food ready for the sojourner. Her rapid heartbeat did not show in her slow-motion actions. Her cooking done, Jenny was carrying the dish on a tray to the dining table when the doorbell rang. Jenny dropped the tray.",
+      "questions": [
+        {
+          "questionId": 21,
+          "question": "The passage is about",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "a meeting place"
+            },
+            {
+              "optionId": "B",
+              "text": "jenny's expert cooking"
+            },
+            {
+              "optionId": "C",
+              "text": "the disappointment of love"
+            },
+            {
+              "optionId": "D",
+              "text": "the passion of love"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "The passage depicts Jenny's emotional turmoil and anticipation at her beloved's return, demonstrating the passion and intensity of her feelings."
+        },
+        {
+          "questionId": 22,
+          "question": "The figure of speech used in 'she was listening to the silence of the room' is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "conceit"
+            },
+            {
+              "optionId": "B",
+              "text": "irony"
+            },
+            {
+              "optionId": "C",
+              "text": "oxymoron"
+            },
+            {
+              "optionId": "D",
+              "text": "zeugma"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Oxymoron is a contradiction in terms. 'Listening to silence' is contradictory because silence cannot literally be heard."
+        },
+        {
+          "questionId": 23,
+          "question": "The technique of narration is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "First person"
+            },
+            {
+              "optionId": "B",
+              "text": "Second person"
+            },
+            {
+              "optionId": "C",
+              "text": "Third person"
+            },
+            {
+              "optionId": "D",
+              "text": "stream of consciousness"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The passage uses third-person narration, referring to the protagonist as 'she' and 'Jenny' throughout."
+        },
+        {
+          "questionId": 24,
+          "question": "In 'and moved inwards the kitchen, like one sleepwalking', the simile portrays one who is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "absent minded"
+            },
+            {
+              "optionId": "B",
+              "text": "disappointed"
+            },
+            {
+              "optionId": "C",
+              "text": "passion driven"
+            },
+            {
+              "optionId": "D",
+              "text": "morose"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "The simile compares Jenny's movements to sleepwalking, suggesting she is absent-minded, lost in thought, and unaware of her surroundings."
+        },
+        {
+          "questionId": 25,
+          "question": "The mood is one of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "anxiety"
+            },
+            {
+              "optionId": "B",
+              "text": "despondency"
+            },
+            {
+              "optionId": "C",
+              "text": "sorrow"
+            },
+            {
+              "optionId": "D",
+              "text": "regret"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "The passage conveys Jenny's anxiety through descriptions of her restless behavior, pounding heart, and nervous anticipation about her John's arrival."
+        }
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionName": "Unseen Poetry - 'My heart was in fearful flight'",
+      "passage": "My heart was in fearful flight\nPursued by Cupid, arrow poised\nWaiting for my flight's end\nWhen I'd turn about\nOr I'd fall supine\nMy fleeing heart to pierce\nEnslave or enthrall and ravish hopeless\nSo, I'm pining and pining away\nFor you high up there have perched\nOut of reach of my now yearning\nWhich was why my heart'd been fleeing\nFrom cupid's poised arrow",
+      "questions": [
+        {
+          "questionId": 27,
+          "question": "The poem is about",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "unforgettable"
+            },
+            {
+              "optionId": "B",
+              "text": "sacrificial"
+            },
+            {
+              "optionId": "C",
+              "text": "unrequited"
+            },
+            {
+              "optionId": "D",
+              "text": "selfish"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The poem is about unrequited love, where the speaker pines for someone who is 'out of reach' and unattainable, using Cupid's arrow as a metaphor for love's pain."
+        },
+        {
+          "questionId": 28,
+          "question": "The lines that provide evidence for what the poem is about are _____",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "2 and 3"
+            },
+            {
+              "optionId": "B",
+              "text": "7 and 8"
+            },
+            {
+              "optionId": "C",
+              "text": "9 and 10"
+            },
+            {
+              "optionId": "D",
+              "text": "11 and 12"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Lines 9-10 ('For you high up there have perched / Out of reach of my now yearning') clearly show the unrequited nature of the love, with the beloved being unreachable."
+        },
+        {
+          "questionId": 29,
+          "question": "The poem is a",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "haiku"
+            },
+            {
+              "optionId": "B",
+              "text": "kenning"
+            },
+            {
+              "optionId": "C",
+              "text": "limerick"
+            },
+            {
+              "optionId": "D",
+              "text": "lyric"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "A lyric poem expresses personal emotions and feelings, which this poem does through its expression of unrequited love and longing."
+        },
+        {
+          "questionId": 30,
+          "question": "The dominant image is one of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "beginning"
+            },
+            {
+              "optionId": "B",
+              "text": "flying"
+            },
+            {
+              "optionId": "C",
+              "text": "running"
+            },
+            {
+              "optionId": "D",
+              "text": "waiting"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "The dominant image throughout the poem is of flying and fleeing, as the speaker's heart is in 'fearful flight' pursued by Cupid."
+        },
+        {
+          "questionId": 31,
+          "question": "In the poem, cupid is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "an allusion"
+            },
+            {
+              "optionId": "B",
+              "text": "a metonymy"
+            },
+            {
+              "optionId": "C",
+              "text": "the persona's mistress"
+            },
+            {
+              "optionId": "D",
+              "text": "the persona's rival"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Cupid is an allusion to the Roman god of love, a classical reference used to represent the force or pain of love."
+        }
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionName": "Shakespeare - A Midsummer Night's Dream (Extract 1: Theseus's Welcome)",
+      "passage": "Where I have come, great clerks have purposed\nTo greet me with premeditated welcomes;\nWhere I have seen them shiver and look pale,\nMake periods in the midst of sentences,\nThrottle their practised accent I their fears,\nAnd in conclusion, dumbly have broken off,\nNot paying me a welcome...",
+      "questions": [
+        {
+          "questionId": 32,
+          "question": "The speaker is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Helena"
+            },
+            {
+              "optionId": "B",
+              "text": "Hermia"
+            },
+            {
+              "optionId": "C",
+              "text": "Philostrate"
+            },
+            {
+              "optionId": "D",
+              "text": "Theseus"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "The speaker is Theseus, the Duke of Athens, based on the content describing his experience with great scholars and his position of authority."
+        },
+        {
+          "questionId": 33,
+          "question": "The speaker is addressing",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Hippolyta"
+            },
+            {
+              "optionId": "B",
+              "text": "Lysander"
+            },
+            {
+              "optionId": "C",
+              "text": "Philostrate"
+            },
+            {
+              "optionId": "D",
+              "text": "Quince"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Theseus is addressing Hippolyta, his bride-to-be, commenting on his reception by the citizens of Athens."
+        },
+        {
+          "questionId": 34,
+          "question": "The speech is in reaction to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Hippolyta's rejection of the burden the poor bear"
+            },
+            {
+              "optionId": "B",
+              "text": "Philostrate's rejection of the play-within-the play"
+            },
+            {
+              "optionId": "C",
+              "text": "the address of the chorus"
+            },
+            {
+              "optionId": "D",
+              "text": "the arrival of the players"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Theseus makes this observation as the players (laborers who have prepared entertainment) arrive at the court."
+        },
+        {
+          "questionId": 35,
+          "question": "The speaker's experience is that",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "the poor are eloquent"
+            },
+            {
+              "optionId": "B",
+              "text": "even the eloquent can falter in their speech"
+            },
+            {
+              "optionId": "C",
+              "text": "the poor are inhibited"
+            },
+            {
+              "optionId": "D",
+              "text": "even the poor can be tongue-tied"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Theseus observes that even great scholars (eloquent people) become nervous and lose their speech when meeting him, showing that eloquence can fail."
+        },
+        {
+          "questionId": 36,
+          "question": "At the end of the speech",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Hippolyta storms out of the place"
+            },
+            {
+              "optionId": "B",
+              "text": "Philostrate announces the prologue"
+            },
+            {
+              "optionId": "C",
+              "text": "the ladies settle down"
+            },
+            {
+              "optionId": "D",
+              "text": "the curtain is drawn"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Following this speech, Philostrate presents and announces the prologue to the play-within-the-play."
+        }
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionName": "Shakespeare - A Midsummer Night's Dream (Extract 2: Hermia's Accusation)",
+      "passage": "So should the murdered look, and so should I,\nPierced through the heart with your stern cruelty;\nYes you the murdered look so bright in clear\nAs yonder, Venus in her, glimmering sphere",
+      "questions": [
+        {
+          "questionId": 37,
+          "question": "The speaker and the addressee are",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Demetrius and Lysander"
+            },
+            {
+              "optionId": "B",
+              "text": "Hermia and Lysander"
+            },
+            {
+              "optionId": "C",
+              "text": "Demetrius and Hermia"
+            },
+            {
+              "optionId": "D",
+              "text": "Lysander and Helena"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Based on the content and context of the play, this is Hermia accusing Demetrius of cruelty and murder (metaphorically)."
+        },
+        {
+          "questionId": 38,
+          "question": "Earlier the addressee has accused the speaker of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "disloyalty"
+            },
+            {
+              "optionId": "B",
+              "text": "infidelity"
+            },
+            {
+              "optionId": "C",
+              "text": "murder"
+            },
+            {
+              "optionId": "D",
+              "text": "theft"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Demetrius has accused Hermia of infidelity or betrayal regarding her love."
+        },
+        {
+          "questionId": 39,
+          "question": "In turn, the speaker accuses the addressee of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "cruelty"
+            },
+            {
+              "optionId": "B",
+              "text": "discrimination"
+            },
+            {
+              "optionId": "C",
+              "text": "deceit"
+            },
+            {
+              "optionId": "D",
+              "text": "indiscretion"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Hermia accuses Demetrius of cruelty, as expressed in the line 'Pierced through the heart with your stern cruelty'."
+        },
+        {
+          "questionId": 40,
+          "question": "The underlined lines portray the addressee as a",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "coward"
+            },
+            {
+              "optionId": "B",
+              "text": "hunter"
+            },
+            {
+              "optionId": "C",
+              "text": "painter"
+            },
+            {
+              "optionId": "D",
+              "text": "traitor"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "The reference to Venus and the imagery of piercing the heart portrays Demetrius as a skilled and beautiful figure, but also as a hunter pursuing his prey."
+        },
+        {
+          "questionId": 41,
+          "question": "The setting of the extract is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "another part of the wood"
+            },
+            {
+              "optionId": "B",
+              "text": "Helena's place"
+            },
+            {
+              "optionId": "C",
+              "text": "the wood"
+            },
+            {
+              "optionId": "D",
+              "text": "Theseus' palace"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "This exchange between Hermia and Demetrius takes place in the enchanted wood outside Athens, where much of the play's action occurs."
+        }
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionName": "Shakespeare - A Midsummer Night's Dream (Extract 3: Helena's Pursuit)",
+      "passage": "The wildest hath not such a heart as you\nRun when you will, the story shall be change;\nApollo flies, and Daphne holds the chase;\nThe dove pursues the griffin, the mild hind\nMakes speed to catch the tiger, bootless speed,\nWhen cowardice pursues, and valour flies.",
+      "questions": [
+        {
+          "questionId": 42,
+          "question": "The speaker is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Egeus"
+            },
+            {
+              "optionId": "B",
+              "text": "Helena"
+            },
+            {
+              "optionId": "C",
+              "text": "Lysander"
+            },
+            {
+              "optionId": "D",
+              "text": "Titania"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Helena is speaking these lines as she pursues Demetrius through the woods, comparing the natural order to her reversed pursuit."
+        },
+        {
+          "questionId": 43,
+          "question": "The addressee is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Demetrius"
+            },
+            {
+              "optionId": "B",
+              "text": "Hermia"
+            },
+            {
+              "optionId": "C",
+              "text": "Oberon"
+            },
+            {
+              "optionId": "D",
+              "text": "Puck"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Helena is addressing Demetrius, whom she is pursuing relentlessly throughout the play."
+        },
+        {
+          "questionId": 44,
+          "question": "The wildest refers to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "good people"
+            },
+            {
+              "optionId": "B",
+              "text": "the least cruel man"
+            },
+            {
+              "optionId": "C",
+              "text": "wild beasts"
+            },
+            {
+              "optionId": "D",
+              "text": "the most deceptive"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "'The wildest' refers to wild beasts or the most savage creatures, implying that Demetrius has a crueler heart than even the wildest animals."
+        },
+        {
+          "questionId": 45,
+          "question": "The speech is intended to ____ the addressee.",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "confuse"
+            },
+            {
+              "optionId": "B",
+              "text": "pacify"
+            },
+            {
+              "optionId": "C",
+              "text": "provoke"
+            },
+            {
+              "optionId": "D",
+              "text": "reclaim"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Helena's speech is intended to reclaim Demetrius's affection and loyalty by pointing out the natural order reversed by his cruelty."
+        },
+        {
+          "questionId": 46,
+          "question": "Another character present at the scene is",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Egeus"
+            },
+            {
+              "optionId": "B",
+              "text": "Lysander"
+            },
+            {
+              "optionId": "C",
+              "text": "Oberon"
+            },
+            {
+              "optionId": "D",
+              "text": "Theseus"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Oberon, the fairy king, is present in the woods observing the mortals' romantic entanglements and orchestrating the magical interventions."
+        }
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionName": "Shakespeare - A Midsummer Night's Dream (Extract 4: Hermia & Lysander's Escape)",
+      "passage": "And in the wood, when often you and I\nUpon faint primrose-beds were women lie,\nEmptying our bosoms of their counsel sweet,\nThere, my Lysander and myself shall meet,\nAnd these from Athens turn away our eyes\nTo see new friends and stranger companies\nFarewell, sweet playfellow;...",
+      "questions": [
+        {
+          "questionId": 47,
+          "question": "'...you and I' in the first line refers to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Demetrius and Helena"
+            },
+            {
+              "optionId": "B",
+              "text": "Hermia and Helena"
+            },
+            {
+              "optionId": "C",
+              "text": "Hippolyta and Lysander"
+            },
+            {
+              "optionId": "D",
+              "text": "Oberon and Titania"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Hermia is speaking to Helena, recalling their past friendship and intimate conversations on primrose beds in the woods."
+        },
+        {
+          "questionId": 48,
+          "question": "The couple are going to the wood because",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "it is their favourite spot"
+            },
+            {
+              "optionId": "B",
+              "text": "they are running away from the Athenian law"
+            },
+            {
+              "optionId": "C",
+              "text": "they want to have their peace"
+            },
+            {
+              "optionId": "D",
+              "text": "the wood is romantic"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Hermia and Lysander are fleeing to the woods to escape Athenian law, which demands she either marry Demetrius, enter a convent, or face death."
+        },
+        {
+          "questionId": 49,
+          "question": "The underlined expression means being",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "careful"
+            },
+            {
+              "optionId": "B",
+              "text": "faithful"
+            },
+            {
+              "optionId": "C",
+              "text": "flirtatious"
+            },
+            {
+              "optionId": "D",
+              "text": "reckless"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "'Turning away their eyes from Athens' and eloping suggests reckless behavior that disregards the law and social conventions."
+        },
+        {
+          "questionId": 50,
+          "question": "'Farewell, sweet playfellow' refers to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Demetrius"
+            },
+            {
+              "optionId": "B",
+              "text": "Hermia"
+            },
+            {
+              "optionId": "C",
+              "text": "Helena"
+            },
+            {
+              "optionId": "D",
+              "text": "Lysander"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Hermia is bidding farewell to Helena, her childhood friend, as she leaves Athens with Lysander to elope in the woods."
+        }
+      ]
+    }
+  ]
+}

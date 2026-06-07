@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Democratic societies are run and governed by:",
+    "options": {
+      "A": "laws",
+      "B": "monarchs",
+      "C": "passion",
+      "D": "charisma"
+    },
+    "answer": "A",
+    "explanation": "Democratic societies are governed by **laws**, not by monarchs, passion, or charisma."
+  },
+  {
+    "id": 2,
+    "question": "To guarantee the rights and freedom of citizens, the powers of the organs of government must be:",
+    "options": {
+      "A": "rotated",
+      "B": "separated",
+      "C": "fused",
+      "D": "incorporated"
+    },
+    "answer": "B",
+    "explanation": "The powers of government organs must be **separated** to prevent abuse and protect citizens' rights."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an example of an inalienable right?",
+    "options": {
+      "A": "Right to life",
+      "B": "Right to vote",
+      "C": "Right to social security",
+      "D": "Right to adequate wages"
+    },
+    "answer": "A",
+    "explanation": "The **right to life** is an inalienable right that cannot be taken away."
+  },
+  {
+    "id": 4,
+    "question": "Citizenship can be acquired through:",
+    "options": {
+      "A": "naturalization",
+      "B": "registration",
+      "C": "negotiation",
+      "D": "decree"
+    },
+    "answer": "A",
+    "explanation": "Citizenship is usually acquired through **naturalization**."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following rights cannot be enjoyed by an Italian citizen residing in a West African country?",
+    "options": {
+      "A": "Freedom of expression",
+      "B": "Ownership of properties",
+      "C": "Right to worship",
+      "D": "Right to vote"
+    },
+    "answer": "D",
+    "explanation": "Foreign citizens generally do not have the **right to vote** in another country's elections."
+  },
+  {
+    "id": 6,
+    "question": "One outstanding feature of citizenship by birth is that:",
+    "options": {
+      "A": "it can be withdrawn",
+      "B": "it can never be forfeited",
+      "C": "special requirements are attached",
+      "D": "it can be reverted to alien status"
+    },
+    "answer": "B",
+    "explanation": "Citizenship by birth is generally permanent and **cannot be forfeited**."
+  },
+  {
+    "id": 7,
+    "question": "In order to reduce over-reliance on foreign grants, civil society organizations need to:",
+    "options": {
+      "A": "create revenue generation activities",
+      "B": "become more national in their spread and membership",
+      "C": "engage in more pragmatic methods like lobbying",
+      "D": "engage the state for funding"
+    },
+    "answer": "A",
+    "explanation": "Creating **revenue generation activities** helps reduce dependency on foreign grants."
+  },
+  {
+    "id": 8,
+    "question": "The major constraint to national development is:",
+    "options": {
+      "A": "improper assessment of policies",
+      "B": "overdependence on natural resources",
+      "C": "high level of nepotism",
+      "D": "absence of modern technology"
+    },
+    "answer": "B",
+    "explanation": "Overdependence on **natural resources** can hinder diversification and sustainable development."
+  },
+  {
+    "id": 9,
+    "question": "The conduct of an election in a democracy is the responsibility of:",
+    "options": {
+      "A": "electoral commission",
+      "B": "security agencies",
+      "C": "election stakeholders",
+      "D": "civil society"
+    },
+    "answer": "A",
+    "explanation": "The **electoral commission** is responsible for organizing elections."
+  },
+  {
+    "id": 10,
+    "question": "Accepting other people's opinions and preferences, even when one does not agree with them, defines:",
+    "options": {
+      "A": "honesty",
+      "B": "tolerance",
+      "C": "cooperation",
+      "D": "courage"
+    },
+    "answer": "B",
+    "explanation": "This defines **tolerance**, the acceptance of differing opinions."
+  },
+  {
+    "id": 11,
+    "question": "Civil society organizations fight poverty by:",
+    "options": {
+      "A": "checking the emergence of dictatorship",
+      "B": "strengthening good governance",
+      "C": "providing arena for the expression of diverse interests",
+      "D": "supporting the ruling political party"
+    },
+    "answer": "B",
+    "explanation": "Civil society organizations promote **good governance** which helps in poverty reduction."
+  },
+  {
+    "id": 12,
+    "question": "The constitution is important because it:",
+    "options": {
+      "A": "allows government institutions to act anyhow",
+      "B": "enables a particular ethnic group to control the government",
+      "C": "is applicable to the president only",
+      "D": "regulates all citizens"
+    },
+    "answer": "D",
+    "explanation": "The constitution **regulates all citizens** and provides the framework for governance."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following does a civil society advocate for?",
+    "options": {
+      "A": "Subjective criticism of government policies and programmes",
+      "B": "Emergence of dictatorship and political extremism",
+      "C": "Violent demonstrations to express views or positions",
+      "D": "Objectivity and respect for opposing views"
+    },
+    "answer": "D",
+    "explanation": "Civil society advocates for **objectivity and respect** for opposing views."
+  },
+  {
+    "id": 14,
+    "question": "A responsible citizen can show loyalty and devotion to his country by:",
+    "options": {
+      "A": "involving in jungle justice",
+      "B": "reporting any act of sabotage",
+      "C": "prosecuting criminals",
+      "D": "arresting criminals"
+    },
+    "answer": "B",
+    "explanation": "Reporting sabotage is a responsible way to show loyalty without breaking laws."
+  },
+  {
+    "id": 15,
+    "question": "Violations of traffic codes are often dealt with by:",
+    "options": {
+      "A": "loss of driving privileges",
+      "B": "criminal court",
+      "C": "payment of damages",
+      "D": "forfeiting a fine"
+    },
+    "answer": "A",
+    "explanation": "Traffic violations usually lead to **loss of driving privileges** or fines."
+  },
+  {
+    "id": 16,
+    "question": "Civil society is regarded as an important organ of society because it:",
+    "options": {
+      "A": "involves the operation of government",
+      "B": "takes position on important policy questions",
+      "C": "represents the interests of powerful groups",
+      "D": "improves the general well-being of citizens"
+    },
+    "answer": "D",
+    "explanation": "Civil society organizations work to **improve the well-being** of the general population."
+  },
+  {
+    "id": 17,
+    "question": "Building national values and ethical cultures can be hindered by:",
+    "options": {
+      "A": "celebrating right people by media or society",
+      "B": "punishing influential individuals for misdeeds",
+      "C": "poor citizenship or followership",
+      "D": "strengthening societal worth or morals"
+    },
+    "answer": "C",
+    "explanation": "Poor citizenship or followership **undermines** national values and ethics."
+  },
+  {
+    "id": 18,
+    "question": "Establishment, maintenance and regulation of slaughterhouses and slabs is the statutory role of:",
+    "options": {
+      "A": "federal government",
+      "B": "state government",
+      "C": "regional government",
+      "D": "local government"
+    },
+    "answer": "B",
+    "explanation": "This responsibility typically falls under the **state government**."
+  },
+  {
+    "id": 19,
+    "question": "Public servants are directly responsible for poor quality of service delivery due to:",
+    "options": {
+      "A": "poor working mindsets",
+      "B": "misallocation of resources",
+      "C": "poor conditions of service",
+      "D": "overbearing external influence"
+    },
+    "answer": "A",
+    "explanation": "Poor attitudes or **working mindsets** reduce the quality of service delivery."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following defines a legal member of a state?",
+    "options": {
+      "A": "Follower",
+      "B": "Alien",
+      "C": "Citizen",
+      "D": "Leader"
+    },
+    "answer": "C",
+    "explanation": "A **citizen** is a legal member of a state."
+  },
+  {
+    "id": 21,
+    "question": "The reason the Universal Declaration of Human Rights (UDHR) exists is because:",
+    "options": {
+      "A": "they concern and influence the existence of human beings",
+      "B": "violation of one right often leads to violation of another",
+      "C": "key values and rights of humans must be protected",
+      "D": "they enable individuals to challenge poor treatment by authorities"
+    },
+    "answer": "C",
+    "explanation": "The UDHR protects **key human rights and values**."
+  },
+  {
+    "id": 22,
+    "question": "Constant appreciation of children by parents:",
+    "options": {
+      "A": "makes children arrogant",
+      "B": "promotes withdrawal syndrome in children",
+      "C": "makes children secretive and selfish",
+      "D": "builds strong and confident children"
+    },
+    "answer": "D",
+    "explanation": "Appreciation **builds confidence and strength** in children."
+  },
+  {
+    "id": 23,
+    "question": "An individual who abuses drugs will experience all of the following except:",
+    "options": {
+      "A": "healthy immune system",
+      "B": "withdrawal",
+      "C": "depression",
+      "D": "traces of insanity"
+    },
+    "answer": "A",
+    "explanation": "Drug abuse weakens the immune system, so a **healthy immune system** is not expected."
+  },
+  {
+    "id": 24,
+    "question": "The right to rule based on the recognition of personal qualities is known as:",
+    "options": {
+      "A": "traditional authority",
+      "B": "charismatic authority",
+      "C": "legal authority",
+      "D": "rational authority"
+    },
+    "answer": "B",
+    "explanation": "This is called **charismatic authority**."
+  },
+  {
+    "id": 25,
+    "question": "The Universal Declaration of Human Rights (UDHR) was proclaimed by the United Nations:",
+    "options": {
+      "A": "Security Council",
+      "B": "General Assembly",
+      "C": "International Court of Justice",
+      "D": "Economic and Social Council"
+    },
+    "answer": "B",
+    "explanation": "UDHR was proclaimed by the **UN General Assembly**."
+  },
+  {
+    "id": 26,
+    "question": "Dependency on foreign donors by civil society organizations primarily:",
+    "options": {
+      "A": "promotes a long-term strategy of chasing funds",
+      "B": "distracts the organizations from their missions",
+      "C": "promotes sustainability",
+      "D": "increases scope of activities"
+    },
+    "answer": "B",
+    "explanation": "Dependency on donors often **distracts organizations from their core missions**."
+  },
+  {
+    "id": 27,
+    "question": "Youth empowerment aims at giving the youth the opportunity to:",
+    "options": {
+      "A": "become wealthy",
+      "B": "be self-reliant",
+      "C": "own properties",
+      "D": "work under supervision"
+    },
+    "answer": "B",
+    "explanation": "Empowerment focuses on helping youth **be self-reliant**."
+  },
+  {
+    "id": 28,
+    "question": "An example of a social service provided by local governments is:",
+    "options": {
+      "A": "construction of highways",
+      "B": "establishment of schools",
+      "C": "building of airports",
+      "D": "management of national parks"
+    },
+    "answer": "B",
+    "explanation": "Local governments commonly establish **schools** and health centers."
+  },
+  {
+    "id": 29,
+    "question": "The best way to resolve ethnic conflicts is through:",
+    "options": {
+      "A": "mediation",
+      "B": "violence",
+      "C": "segregation",
+      "D": "displacement"
+    },
+    "answer": "A",
+    "explanation": "Mediation fosters dialogue and peaceful conflict resolution."
+  },
+  {
+    "id": 30,
+    "question": "The function of the Judiciary is to:",
+    "options": {
+      "A": "make laws",
+      "B": "interpret laws",
+      "C": "execute laws",
+      "D": "amend laws"
+    },
+    "answer": "B",
+    "explanation": "The judiciary **interprets laws**."
+  },
+  {
+    "id": 31,
+    "question": "The separation of powers in government is important to:",
+    "options": {
+      "A": "limit the power of the executive",
+      "B": "empower the legislature",
+      "C": "prevent abuse of power",
+      "D": "help the judiciary"
+    },
+    "answer": "C",
+    "explanation": "Separation of powers **prevents abuse of power**."
+  },
+  {
+    "id": 32,
+    "question": "The main aim of education in a democracy is to:",
+    "options": {
+      "A": "produce obedient citizens",
+      "B": "promote patriotism and civic responsibility",
+      "C": "create a workforce",
+      "D": "build physical fitness"
+    },
+    "answer": "B",
+    "explanation": "Education promotes **patriotism and civic responsibility**."
+  },
+  {
+    "id": 33,
+    "question": "Which of the following best defines ‘civil rights’?",
+    "options": {
+      "A": "Rights to own property",
+      "B": "Rights to participate in political activities",
+      "C": "Rights that protect individuals from discrimination",
+      "D": "Rights to freedom of religion"
+    },
+    "answer": "C",
+    "explanation": "Civil rights protect individuals from **discrimination**."
+  },
+  {
+    "id": 34,
+    "question": "A constitution that can be changed or amended by the legislature is called:",
+    "options": {
+      "A": "rigid constitution",
+      "B": "flexible constitution",
+      "C": "unwritten constitution",
+      "D": "written constitution"
+    },
+    "answer": "B",
+    "explanation": "A **flexible constitution** can be amended by the legislature."
+  },
+  {
+    "id": 35,
+    "question": "The fundamental aim of the United Nations (UN) is to:",
+    "options": {
+      "A": "control the economies of member states",
+      "B": "maintain international peace and security",
+      "C": "govern international trade",
+      "D": "promote individual countries’ interests"
+    },
+    "answer": "B",
+    "explanation": "The UN primarily aims to **maintain international peace and security**."
+  },
+  {
+    "id": 36,
+    "question": "One of the main causes of political instability in Africa is:",
+    "options": {
+      "A": "frequent elections",
+      "B": "ethnic rivalry and conflicts",
+      "C": "presence of democracy",
+      "D": "good governance"
+    },
+    "answer": "B",
+    "explanation": "Ethnic rivalry and conflicts contribute significantly to **political instability**."
+  },
+  {
+    "id": 37,
+    "question": "The power to veto legislation belongs to the:",
+    "options": {
+      "A": "legislature",
+      "B": "executive",
+      "C": "judiciary",
+      "D": "civil society"
+    },
+    "answer": "B",
+    "explanation": "The **executive** branch usually holds the veto power."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is not a function of the judicial arm of government?",
+    "options": {
+      "A": "Interpretation of law",
+      "B": "Judicial review",
+      "C": "Checking of arbitrariness",
+      "D": "Initiation of bills"
+    },
+    "answer": "D",
+    "explanation": "The **Initiation of bills** is a function of the Legislature (or Executive), not the Judiciary."
+  },
+  {
+    "id": 39,
+    "question": "The officials of the administrative agency of the state that are most active in governance belong to the…?",
+    "options": {
+      "A": "legislative organ",
+      "B": "judicial organ",
+      "C": "executive organ",
+      "D": "civil societies"
+    },
+    "answer": "C",
+    "explanation": "The administrative agencies, which carry out and enforce laws, belong to the **executive organ**."
+  },
+  {
+    "id": 40,
+    "question": "One major reason some Nigerian youths join cult groups is…?",
+    "options": {
+      "A": "inadequate religious and moral instruction",
+      "B": "poor welfare programme for students",
+      "C": "inadequate support from guardians and parents",
+      "D": "prevalence of corruption among political elites"
+    },
+    "answer": "A",
+    "explanation": "While several factors play a role, a lack of **inadequate religious and moral instruction** is often cited as a root cause for social deviance."
+  },
+  {
+    "id": 41,
+    "question": "All the following are aims of youth empowerment schemes except…?",
+    "options": {
+      "A": "reduction of youth delinquency",
+      "B": "promotion of self-reliance",
+      "C": "maximization of profit",
+      "D": "building of self-esteem"
+    },
+    "answer": "C",
+    "explanation": "Youth empowerment focuses on social goals like self-reliance and self-esteem, not on the corporate goal of **maximization of profit**."
+  },
+  {
+    "id": 42,
+    "question": "A situation where only 35% of over 80 million registered voters participated in a general election is an indication of political…?",
+    "options": {
+      "A": "instability",
+      "B": "exclusiveness",
+      "C": "apathy",
+      "D": "socialization"
+    },
+    "answer": "C",
+    "explanation": "Low voter turnout is an indication of political **apathy**, which is a lack of interest in politics."
+  },
+  {
+    "id": 43,
+    "question": "The organizations working against dictatorship and mounting of campaigns against election rigging is an example of…?",
+    "options": {
+      "A": "civil society organizations",
+      "B": "youth empowerment schemes",
+      "C": "gender-based organizations",
+      "D": "popular participation"
+    },
+    "answer": "A",
+    "explanation": "Groups that monitor governance and elections are known as **civil society organizations**."
+  },
+  {
+    "id": 44,
+    "question": "The attitude of a police officer who collects a bribe from a driver to evade justice is an example of…?",
+    "options": {
+      "A": "civic duty",
+      "B": "civic responsibility",
+      "C": "civic neglect",
+      "D": "civic participation"
+    },
+    "answer": "C",
+    "explanation": "Collecting a bribe to evade justice is an act of corruption and a severe form of **civic neglect** (failure to uphold public trust/duty)."
+  },
+  {
+    "id": 45,
+    "question": "Separation of ownership from control is more pronounced in a",
+    "options": {
+      "A": "partnership",
+      "B": "joint-stock company",
+      "C": "sole proprietorship",
+      "D": "consumer co-operative society"
+    },
+    "answer": "B",
+    "explanation": "In **joint-stock companies** (public corporations), owners (shareholders) are typically separate from managers (controllers)."
+  },
+  {
+    "id": 46,
+    "question": "The government policy that encourages public corporations to operate profitably is",
+    "options": {
+      "A": "liberalization",
+      "B": "nationalization",
+      "C": "commercialization",
+      "D": "indigenization"
+    },
+    "answer": "C",
+    "explanation": "**Commercialization** encourages public corporations to run profitably."
+  },
+  {
+    "id": 47,
+    "question": "Locating firms in urban areas may",
+    "options": {
+      "A": "reduce rural-urban migration",
+      "B": "ensure balanced development of rural areas",
+      "C": "make a firm enjoy the benefits of the existence of other firms",
+      "D": "increase the cost of production significantly"
+    },
+    "answer": "C",
+    "explanation": "Firms in urban areas benefit from proximity to other firms through **economies of agglomeration**."
+  },
+  {
+    "id": 48,
+    "question": "From which of the following are Constitutional sources derived?",
+    "options": {
+      "A": "Statutory sources",
+      "B": "Customary sources",
+      "C": "Political precedents",
+      "D": "Story books"
+    },
+    "answer": "A",
+    "explanation": "Constitutions are primarily derived from formal, **statutory sources** (written laws/acts of parliament)."
+  },
+  {
+    "id": 49,
+    "question": "The head of the judicial arm of government in Nigeria is the…?",
+    "options": {
+      "A": "Chief Justice",
+      "B": "Supreme Leader",
+      "C": "Chief of Staff",
+      "D": "Chief Magistrate"
+    },
+    "answer": "A",
+    "explanation": "The head of the Judiciary in Nigeria (and many similar systems) is the **Chief Justice**."
+  },
+  {
+    "id": 50,
+    "question": "The composition of the National Assembly of the Federal Republic of Nigeria could be termed…?",
+    "options": {
+      "A": "unicameral",
+      "B": "legial (assumed meant legislative)",
+      "C": "bicameral",
+      "D": "hierarchica"
+    },
+    "answer": "C",
+    "explanation": "Nigeria's National Assembly is composed of two houses (Senate and House of Representatives), making it **bicameral**."
+  }
+]

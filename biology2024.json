@@ -1,0 +1,623 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following organisms contains Chlorophyll in its cells?",
+      "options": {
+        "A": "Caterpillar",
+        "B": "Paramecium",
+        "C": "Euglena",
+        "D": "Grasshopper"
+      },
+      "answer": "C",
+      "explanation": "Euglena contains chlorophyll and can perform photosynthesis, unlike the other organisms listed.",
+      "image": null
+    },
+    {
+      "id": 2,
+      "question": "Species are groups of organisms that",
+      "options": {
+        "A": "are of different origins and are always found together",
+        "B": "are of common origin but cannot interbreed freely",
+        "C": "have similar features and can interbreed freely",
+        "D": "resemble each other and occupy different niches"
+      },
+      "answer": "C",
+      "explanation": "Species are groups of organisms that have similar features and can interbreed to produce fertile offspring.",
+      "image": null
+    },
+    {
+      "id": 3,
+      "question": "A plant with short, vertical underground stem is a",
+      "options": {
+        "A": "bulb",
+        "B": "corm",
+        "C": "rhizome",
+        "D": "tuber"
+      },
+      "answer": "B",
+      "explanation": "A corm is a short, vertical, underground stem that stores nutrients.",
+      "image": null
+    },
+    {
+      "id": 4,
+      "question": "The diagram above is an illustration of a reproductive process in an organism. Study it and answer questions 4 and 5.",
+      "image": "biology2024/image1.jpeg",
+      "options": {
+        "A": "budding",
+        "B": "binary fission",
+        "C": "grafting",
+        "D": "vegetative propagation"
+      },
+      "answer": "B",
+      "explanation": "The diagram depicts binary fission, a form of asexual reproduction common in unicellular organisms."
+    },
+    {
+      "id": 5,
+      "question": "The illustrated organism is capable of reproducing by",
+      "image": "biology2024/image2.jpeg",
+      "options": {
+        "A": "sexual means only",
+        "B": "asexual means only",
+        "C": "vegetative propagation only",
+        "D": "sexual and asexual means"
+      },
+      "answer": "D",
+      "explanation": "Many organisms can reproduce both sexually and asexually, depending on conditions."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following organisms consists of unicellular cells joined to form a filament?",
+      "options": {
+        "A": "Amoeba",
+        "B": "Spirogyra",
+        "C": "Euglena",
+        "D": "Chlamydomonas"
+      },
+      "answer": "B",
+      "explanation": "Spirogyra is a filamentous green alga made up of unicellular cells joined in a chain.",
+      "image": null
+    },
+    {
+      "id": 7,
+      "question": "The structure in the cell that controls the movement of substances in and out of the cell is the",
+      "options": {
+        "A": "cytoplasmic membrane",
+        "B": "nuclear membrane",
+        "C": "protoplasm",
+        "D": "endoplasm"
+      },
+      "answer": "A",
+      "explanation": "The cytoplasmic (cell) membrane regulates substances entering and leaving the cell.",
+      "image": null
+    },
+    {
+      "id": 8,
+      "question": "The bursting of a red blood cell placed in a hypotonic solution is called",
+      "options": {
+        "A": "crenation",
+        "B": "haemolysis",
+        "C": "plasmolysis",
+        "D": "cytolysis"
+      },
+      "answer": "B",
+      "explanation": "Haemolysis is the rupture of red blood cells due to osmotic imbalance in hypotonic solutions.",
+      "image": null
+    },
+    {
+      "id": 9,
+      "question": "The function of the root hair in plants is to",
+      "options": {
+        "A": "absorb soil water by the process of osmosis",
+        "B": "excrete water and mineral salts by simple diffusion",
+        "C": "purify the soil for the plant",
+        "D": "translocate manufactured food"
+      },
+      "answer": "A",
+      "explanation": "Root hairs increase the surface area for water absorption from soil."
+    },
+    {
+      "id": 10,
+      "question": "If a germinating seed is attached horizontally to a revolving klinostat, what would be the effect on the seedling after three days?",
+      "options": {
+        "A": "plumule will curve vertically upward while the radicle will not show any curvature",
+        "B": "radicle will curve towards the ground while the plumule will not show any curvature",
+        "C": "plumule and radicle will not show any curvature",
+        "D": "plumule will curve vertically upwards while the radicle will curve towards the ground"
+      },
+      "answer": "D",
+      "explanation": "The klinostat causes the plant to grow with a tendency to curve away from gravity, resulting in upward and downward curvature."
+    },
+    {
+      "id": 11,
+      "question": "The lumbar vertebra differs from the thoracic vertebra because it possesses a",
+      "options": {
+        "A": "longer neural spine",
+        "B": "wider neural canal",
+        "C": "thicker centrum",
+        "D": "shorter transverse process"
+      },
+      "answer": "C",
+      "explanation": "Lumbar vertebrae have thicker, larger centra to support more weight."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following blood vessels carries oxygenated blood into the heart?",
+      "options": {
+        "A": "Pulmonary artery",
+        "B": "Anterior vena cava",
+        "C": "Pulmonary vein",
+        "D": "Posterior vena cava"
+      },
+      "answer": "C",
+      "explanation": "Pulmonary veins carry oxygenated blood from the lungs to the heart."
+    },
+    {
+      "id": 13,
+      "question": "Filtrates in the Bowman's capsule contain vitamins because",
+      "options": {
+        "A": "they have low molecular weight",
+        "B": "most of them are fat soluble",
+        "C": "they cannot be reabsorbed into the blood",
+        "D": "little amount is required by the blood"
+      },
+      "answer": "A",
+      "explanation": "Vitamins are small molecules with low molecular weight, allowing them to be filtered into the capsule."
+    },
+    {
+      "id": 14,
+      "question": "The structures that contain grey matter and white matter are found in the",
+      "options": {
+        "A": "reproductive system",
+        "B": "nervous system",
+        "C": "respiratory system",
+        "D": "digestive system"
+      },
+      "answer": "B",
+      "explanation": "Grey and white matter are found in the brain and spinal cord, parts of the nervous system."
+    },
+    {
+      "id": 15,
+      "question": "The diagram above is an illustration of sense organ in humans. Study it and answer questions 15 and 16.",
+      "image": "biology2024/image3.jpeg",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "A",
+      "explanation": "The labelled part I is the protective outer layer, which is the sclera."
+    },
+    {
+      "id": 16,
+      "question": "The part labelled III is the",
+      "image": "biology2024/image4.jpeg",
+      "options": {
+        "A": "iris",
+        "B": "pupil",
+        "C": "sclera",
+        "D": "cornea"
+      },
+      "answer": "B",
+      "explanation": "Part III is the pupil, the opening in the iris controlling light entry."
+    },
+    {
+      "id": 17,
+      "question": "The diagram above is an illustration of two plants P and Q. Arrows I, II and III illustrate the transfer of pollen grains among flowers of plants P and Q. Study it and answer questions 17 and 18.",
+      "image": "biology2024/image5.jpeg",
+      "options": {
+        "A": "cross, self and cross",
+        "B": "self, self and cross",
+        "C": "self, cross and self",
+        "D": "self, cross and cross"
+      },
+      "answer": "D",
+      "explanation": "The arrows indicate types of pollination: self-pollination (I), cross-pollination (II and III)."
+    },
+    {
+      "id": 18,
+      "question": "The condition necessary for reproduction to occur between plants P and Q after pollination is that plants P and Q should be",
+      "options": {
+        "A": "of the same species",
+        "B": "brightly coloured",
+        "C": "well scented",
+        "D": "of different species"
+      },
+      "answer": "A",
+      "explanation": "Reproduction typically occurs between plants of the same species."
+    },
+    {
+      "id": 19,
+      "question": "The diagram above illustrates a dry dehiscent fruit. Use it to answer questions 19 and 20.",
+      "image": "biology2024/image6.jpeg",
+      "options": {
+        "A": "animal",
+        "B": "explosive mechanism",
+        "C": "water",
+        "D": "wind"
+      },
+      "answer": "B",
+      "explanation": "Many dry dehiscent fruits disperse seeds explosively."
+    },
+    {
+      "id": 20,
+      "question": "The Parachute-like tuft of hairs developed from the",
+      "options": {
+        "A": "pedicel",
+        "B": "petals",
+        "C": "receptacle",
+        "D": "sepals"
+      },
+      "answer": "A",
+      "explanation": "The tuft of hairs aiding dispersal is derived from the pedicel."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following events does not occur in the light reaction stage of photosynthesis?",
+      "options": {
+        "A": "Chlorophyll absorbs sunlight",
+        "B": "Carbon (IV) oxide combines with hydrogen",
+        "C": "Photolysis of water occurs",
+        "D": "Hydroxyl ions are produced"
+      },
+      "answer": "B",
+      "explanation": "Carbon dioxide does not participate in the light-dependent reactions; it is involved in the Calvin cycle."
+    },
+    {
+      "id": 22,
+      "question": "The rate of photosynthesis decreases in a wilted herbaceous plant because the",
+      "options": {
+        "A": "enzymes in the leaf were denatured",
+        "B": "chlorophyll in the leaves was not broken down",
+        "C": "amount of light reaching the plant was reduced",
+        "D": "amount of carbon dioxide entering the leaf decrease"
+      },
+      "answer": "A",
+      "explanation": "Wilted plants have damaged enzymes affecting photosynthesis."
+    },
+    {
+      "id": 23,
+      "question": "The element required for chlorophyll formation in plants is",
+      "options": {
+        "A": "Iron",
+        "B": "Calcium",
+        "C": "Phosphorus",
+        "D": "Sulphur"
+      },
+      "answer": "A",
+      "explanation": "Iron is a key component of chlorophyll molecules."
+    },
+    {
+      "id": 24,
+      "question": "The process of food digestion in mammals would",
+      "options": {
+        "A": "make energy immediately available to the body",
+        "B": "promote growth and repair of tissues",
+        "C": "provide sufficient food materials within the body",
+        "D": "render food substances soluble and absorbable"
+      },
+      "answer": "D",
+      "explanation": "Digestion breaks down food into soluble forms that can be absorbed."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following food substances would give a negative reaction with Benedict's reagent?",
+      "options": {
+        "A": "Fructose",
+        "B": "Glucose",
+        "C": "Galactose",
+        "D": "Sucrose"
+      },
+      "answer": "D",
+      "explanation": "Sucrose does not react with Benedict's reagent unless broken down into monosaccharides."
+    },
+    {
+      "id": 26,
+      "question": "Sunlight is the major source of",
+      "options": {
+        "A": "Vitamin D",
+        "B": "vitamin C",
+        "C": "vitamin B",
+        "D": "vitamin A"
+      },
+      "answer": "A",
+      "explanation": "Sunlight catalyzes the production of Vitamin D in human skin."
+    },
+    {
+      "id": 27,
+      "question": "Discouraging the use of poison to kill fish in a large water body is a way of",
+      "options": {
+        "A": "impoverishing the people",
+        "B": "conserving the fish species",
+        "C": "allowing the fittest organism to survive",
+        "D": "making the fish adapt to their environment"
+      },
+      "answer": "B",
+      "explanation": "Using poison harms the ecosystem; discouraging it helps conserve fish populations."
+    },
+    {
+      "id": 28,
+      "question": "The pathway through which nutrients are replenished and circulated in an ecosystem is called a",
+      "options": {
+        "A": "cycle",
+        "B": "pyramid of energy",
+        "C": "pyramid of numbers",
+        "D": "Food chain"
+      },
+      "answer": "A",
+      "explanation": "Nutrient cycles (like the nitrogen or carbon cycle) circulate essential elements."
+    },
+    {
+      "id": 29,
+      "question": "The illustration below is a food chain. Study it and answer questions 29 and 30. \n\n             Grasses → Grasshoppers → Lizards → Hawks",
+      "image": null,
+      "options": {
+        "A": "the grasses eaten by grasshoppers is greater than the number of grasshoppers",
+        "B": "the grasses eaten by grasshoppers is fewer than the number of grasshoppers",
+        "C": "grasshoppers eaten by lizards is greater than the number of lizards",
+        "D": "lizards eaten by hawks is greater than the number of hawks"
+      },
+      "answer": "B",
+      "explanation": "In a food chain, the number of prey (grass) is typically greater than the number of predators (grasshoppers)."
+    },
+    {
+      "id": 30,
+      "question": "If the individual species of organisms in the food chain are counted and arranged as a pyramid, the result would be a pyramid of",
+      "options": {
+        "A": "numbers",
+        "B": "energy",
+        "C": "biomass",
+        "D": "biomes"
+      },
+      "answer": "A",
+      "explanation": "Number pyramids represent the count of individuals at each level."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following gases is released during the decomposition of organic matter?",
+      "options": {
+        "A": "Carbon(II) oxide",
+        "B": "Sulphur (IV) oxide",
+        "C": "Hydrogen Sulphide",
+        "D": "Nitrous oxide"
+      },
+      "answer": "C",
+      "explanation": "Hydrogen sulphide is a gas released during the decay of organic matter containing sulfur."
+    },
+    {
+      "id": 32,
+      "question": "The diagrams above are illustrations of organisms from different habitats. Study them and answer questions 32 and 33.",
+      "image": "biology2024/image7.jpeg",
+      "options": {
+        "A": "Camouflage",
+        "B": "Chemical offence",
+        "C": "Physical defence",
+        "D": "Mimicry"
+      },
+      "answer": "B",
+      "explanation": "The labelled structures are likely for chemical defence mechanisms."
+    },
+    {
+      "id": 33,
+      "question": "Habitats of the organisms respectively are",
+      "image": "biology2024/image8.jpeg",
+      "options": {
+        "A": "river and stream",
+        "B": "rainforest and stream",
+        "C": "pond and leaf litter",
+        "D": "garden and desert"
+      },
+      "answer": "C",
+      "explanation": "Based on the images, the habitats are pond and leaf litter."
+    },
+    {
+      "id": 34,
+      "question": "An environmental problem caused by Sulphur (IV) oxide is",
+      "options": {
+        "A": "acid rain",
+        "B": "deforestation",
+        "C": "global warming",
+        "D": "Erosion"
+      },
+      "answer": "A",
+      "explanation": "Sulphur oxides react with water vapor to form acid rain."
+    },
+    {
+      "id": 35,
+      "question": "The phenomenon by which a farmland that is left to fallow for several years develops into a forest is called",
+      "options": {
+        "A": "Succession",
+        "B": "afforestation",
+        "C": "population",
+        "D": "colonization"
+      },
+      "answer": "A",
+      "explanation": "Ecological succession describes natural changes in ecosystems over time."
+    },
+    {
+      "id": 36,
+      "question": "The plants shown above are germinated on a small piece of land. Which of the following effects would not be observed?",
+      "image": "biology2024/image9.png",
+      "options": {
+        "A": "Rise in disease condition",
+        "B": "Death",
+        "C": "Mutualistic relationship",
+        "D": "Competition"
+      },
+      "answer": "C",
+      "explanation": "Mutualism is unlikely among identical plants competing for resources."
+    },
+    {
+      "id": 37,
+      "question": "The bar chart above shows data of sources of energy used for cooking. The source most used in the community is",
+      "image": "biology2024/image10.jpeg",
+      "options": {
+        "A": "solar",
+        "B": "Kerosene",
+        "C": "coal",
+        "D": "wind"
+      },
+      "answer": "B",
+      "explanation": "Kerosene appears to be the most used energy source in the chart."
+    },
+    {
+      "id": 38,
+      "question": "The two sources of energy that would mostly lead to pollution in the community are",
+      "image": "biology2024/image11.jpeg",
+      "options": {
+        "A": "solar and kerosene",
+        "B": "coal and wind",
+        "C": "kerosene and coal",
+        "D": "solar and wind"
+      },
+      "answer": "C",
+      "explanation": "Coal combustion and kerosene use produce significant pollutants."
+    },
+    {
+      "id": 39,
+      "question": "An individual found a strange bird tagged as an endangered species. What should the individual do?",
+      "options": {
+        "A": "Kill it",
+        "B": "Take it to an aquatic environment",
+        "C": "Return it to its natural habitat",
+        "D": "Sell it at a very high price"
+      },
+      "answer": "C",
+      "explanation": "Endangered species should be protected and returned to their habitat."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following traits is not inheritable? Ability to",
+      "options": {
+        "A": "taste P.T.C",
+        "B": "roll the tongue",
+        "C": "move the ear",
+        "D": "roll the eyeball"
+      },
+      "answer": "A",
+      "explanation": "Taste P.T.C (phenylthiocarbamide) is a learned, not inherited, trait."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following statements is correct about the ABO blood group system?",
+      "options": {
+        "A": "Antigens are located on the surface of white blood cells",
+        "B": "Antibodies are located in the blood plasma",
+        "C": "Antibodies are located on the surface of the red blood cells",
+        "D": "Antigens are located in the blood plasma"
+      },
+      "answer": "B",
+      "explanation": "Antibodies circulate in plasma, while antigens are on red blood cell surfaces."
+    },
+    {
+      "id": 42,
+      "question": "A woman with blood group A gives birth to a child with blood group O. Which of the following blood groups cannot belong to the father?",
+      "options": {
+        "A": "B",
+        "B": "A",
+        "C": "AB",
+        "D": "O"
+      },
+      "answer": "C",
+      "explanation": "A child with blood group O must inherit O alleles; father cannot be AB."
+    },
+    {
+      "id": 43,
+      "question": "The diagram above illustrates a genetic cross between two parents. The parental gametes I, II, III and IV gave rise to the offspring below. Study it and answer questions 43 and 44.",
+      "image": "biology2024/image13.jpeg",
+      "options": {
+        "A": "T, T, T and t",
+        "B": "T, t, t, and t",
+        "C": "T, T, t and t",
+        "D": "T, t, T and t"
+      },
+      "answer": "C",
+      "explanation": "The gametes show heterozygous and homozygous combinations."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following statements is correct about the cross?",
+      "options": {
+        "A": "Both parents are heterozygous",
+        "B": "The male is not heterozygous",
+        "C": "The female is homozygous",
+        "D": "Both parents are homozygous"
+      },
+      "answer": "A",
+      "explanation": "The cross indicates heterozygous parents producing a typical Mendelian ratio."
+    },
+    {
+      "id": 45,
+      "question": "The physical appearance of an organism is described as its",
+      "options": {
+        "A": "phenotype",
+        "B": "genotype",
+        "C": "allele",
+        "D": "chromosome"
+      },
+      "answer": "A",
+      "explanation": "Phenotype refers to observable traits."
+    },
+    {
+      "id": 46,
+      "question": "Mutation leads to evolution because it",
+      "options": {
+        "A": "kills all organisms where it has occurred",
+        "B": "gives rise to offspring having same characteristics as the parents",
+        "C": "does not confer adaptability to the offspring",
+        "D": "gives rise to new individuals that differ from their parents"
+      },
+      "answer": "D",
+      "explanation": "Mutations introduce genetic variation, essential for evolution."
+    },
+    {
+      "id": 47,
+      "question": "The male and female gametes which bear genes for inheritance in plants are located in the",
+      "options": {
+        "A": "anthers and petals",
+        "B": "sepals and petals",
+        "C": "stamens and pistils",
+        "D": "stamens and petals"
+      },
+      "answer": "C",
+      "explanation": "Stamens produce male gametes; pistils produce female gametes."
+    },
+    {
+      "id": 48,
+      "question": "Which type of breeding is represented by industrial melanism in peppered moths?",
+      "options": {
+        "A": "Artificial selection",
+        "B": "Natural selection",
+        "C": "Inbreeding",
+        "D": "Outbreeding"
+      },
+      "answer": "B",
+      "explanation": "Industrial melanism is an example of natural selection favoring dark moths in polluted environments."
+    },
+    {
+      "id": 49,
+      "question": "In a matching exercise, a student paired scientists with their famous work. The scientists that are not correctly paired are",
+      "options": {
+        "A": "I and II only",
+        "B": "II and III only",
+        "C": "I, II and IV",
+        "D": "II, III and IV"
+      },
+      "answer": "C",
+      "explanation": "Charles Darwin is known for evolution, Mendel for inheritance, Lamarck for acquired traits, Pasteur for germ theory."
+    },
+    {
+      "id": 50,
+      "question": "Which of the scientists were involved in the study of evolution?",
+      "options": {
+        "A": "I and III",
+        "B": "II and III",
+        "C": "I, II and IV",
+        "D": "II, III and IV"
+      },
+      "answer": "A",
+      "explanation": "Charles Darwin and Lamarck contributed significantly to evolutionary theory."
+    }
+  ]
+}

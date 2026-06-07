@@ -1,0 +1,566 @@
+1.Which of the following statements about the properties of the electric field produced by charged parallel plates is not correct?
+
+    A. The electric field in the region outside the parallel plate is zero, except for the edge effects
+    B. The magnitude of the electric field strength at any point between the plates, except near the edges, depends on the magnitude of the charge on each plate.
+    C. The magnitude of the electric field strength at any point between the plates is directly proportional to the magnitude of the charge on each plate.
+    D. The electric field is uniform everywhere in the space between the parallel plates
+
+
+
+physic2023/image1.png
+
+2.The diagram above illustrates a mode of vibration of a wire of length 125 cm. The speed of the waves along the wire is 120 ms-1. Use the diagram to answer questions 2 and 3. Determine the wavelength of the waves.
+ 
+
+    A. 1.00m
+    B. 0.75m
+    C. 0.25m
+    D. 0.50m
+
+
+3
+
+physic2023/image2.png
+
+The diagram above illustrates a mode of vibration of a wire of length 125 cm. The speed of the waves along the wire is 120 ms-1. Use the diagram to answer questions 2 and 3.
+Determine the frequency of the waves
+
+    A. 240Hz
+    B. 24Hz
+    C. 192Hz
+    D. 286Hz
+
+4
+physic2023/image3.jpg
+
+Which of the following diagrams correctly illustrates the mode of oscillation of air in a tube for the first overtone?
+
+( The diagrams above are meant to help you in answering this question)
+
+ 
+
+    A. A
+    B. B
+    C. C
+    D. D
+
+5
+
+The process of producing electric current by a changing magnetic field is referred to as
+
+    A. magnet induction
+    B. electromagnetic induction
+    C. flux linkage
+    D. electrostatic induction.
+
+In a controlled thermal fission reactor, the use of control rods will not affect the
+
+    A. energy generated in the nuclear reactor
+    B. rate of production of the neutrons.
+    C. speed of the neutrons released on fission.
+    D. amount of radiation produced in the nuclear reactor.
+
+WAEC 2023
+7
+
+A body starts with an initial velocity of 20 m/s and moves with a uniform acceleration, a, for 15 seconds. Which of the following equations represents the distance, S, traveled?
+
+    A. 300 + 56a2
+
+B. 300 + 225a2
+C. 300 + 2252a
+D. 300a + 2252
+
+WAEC 2023
+8
+
+In a mass spectrometer, an ion of charge, q, and mass, m, moving in a path of radius, r, in a field of flux density, B, has a speed of
+
+    A. qBrm
+
+B. mrqB
+C. qmBr
+D. mqr
+
+WAEC 2023
+WAEC CBT Simulator is now on the Myschool App - Upgrade to Version 8.1.0v to start using it
+WAEC offline past questions - with all answers and explanations in one app - Download for free
+WAEC and NECO CBT Software for Computers and Laptops - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+9
+
+Increasing the frequency of a sound wave produces a sound with
+
+    A. higher pitch
+    B. longer wavelength
+    C. more overtones
+    D. reduced loudness
+
+WAEC 2023
+10
+
+A planet has mass, M, and radius R, If the universal gravitational constant is G, what is the expression for the escape velocity of an object on the planet?
+
+    A. GR√2
+
+B. 2GM√R
+C. 2G√R
+D. GM√R
+
+Myschool CBT Challenge Season 10 – Over N1,000,000 Worth of Prizes to Be Won!
+11
+
+An atom in an excited state is one whose
+
+    A. electrons are in the conduction band.
+    B. potential energy is minimum.
+    C. potential energy is maximum.
+    D. electrons have moved to a higher energy level.
+
+WAEC 2023
+12
+
+The most appropriate value of fuse for a kettle rated 220 V, 1.06 kW is
+
+    A. 3A
+    B. 6A
+    C. 5A
+    D. 4A
+
+WAEC 2023
+13
+
+A 100 kg device is pulled up a plane inclined at 30° to the horizontal with a force of 1000 N. If the coefficient of friction between the device and the surface is 0.25, determine the total force opposing the motion.
+[ g = 10 ms-2]
+
+    A. 283.5N
+    B. 975.0N
+    C. 216.5N
+    D. 716.5N
+
+WAEC 2023
+WAEC offline past questions - with all answers and explanations in one app - Download for free
+WAEC and NECO CBT Software for Computers and Laptops - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+WAEC and NECO CBT App for Mobile Devices - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+14
+
+A solenoid is constructed by winding an insulated copper on a long test tube. A constant direct current is passed through the solenoid. Which of the following actions will not increase the strength of the magnetic field of the solenoid? Inserting a
+
+    A. steel rod in the test tube
+    B. Nickel rod in the test tube
+    C. Brass rod in the test tube
+    D. Soft iron rod in the test tube
+
+WAEC 2023
+15
+
+The following statements are advantages of a solid dielectric material between the plates of a capacitor except that
+
+    A. the maximum potential difference the capacitor can withstand is increased.
+    B. it increases the electrical conduction of the capacitor.
+    C. the capacitance of the capacitor of given dimensions is much greater than that of the plates in a vacuum.
+    D. it keeps the plates at a fixed separation.
+
+
+16
+
+Which of the following devices is used to compare the relative magnitudes of charges on two given bodies?
+
+    A. Ebonite rod
+    B. Proof Plane
+    C. Gold Leaf Electroscope
+    D. Electrophorus
+
+WAEC 2023
+17
+
+The instrument used to measure relative humidity is a
+
+    A. Hygrometer
+    B. Barometer
+    C. Hydrometer
+    D. Manometer
+
+WAEC 2023
+18
+
+A ball of mass 0.8 kg is dropped from a height, H. Just before hitting the ground, its velocity is 5.0 m/s. Determine H.
+[g = 10 ms-2]
+
+    A. 1.25m
+    B. 4.00m
+    C. 6.25m
+    D. 1.60m
+
+WAEC 2023
+WAEC offline past questions - with all answers and explanations in one app - Download for free
+WAEC CBT Simulator is now on the Myschool App - Upgrade to Version 8.1.0v to start using it
+Download WAEC Nov/Dec App - Get all past questions and answers, 100% offline - 252180
+19
+
+The following statements are observations made about a towing vehicle and a bus that is being towed
+I. The force exerted on the bus by the towing vehicle is of the same magnitude as the force that the bus exerts on the road.
+II. The force exerted on the bus by the towing vehicle is of the same magnitude as the force exerted on the towing vehicle by the bus.
+III. The towing vehicle exerts a force on the bus greater than the force exerted by the bus on the towing vehicle.
+IV. The towing vehicle exerts a force on the bus that is the same as the force the road exerts on the towing vehicle.
+Which of the following statements is/are correct?
+
+    A. II, III and IV
+    B. II only
+    C. I, II and III only
+    D. I only
+
+WAEC 2023
+20
+
+Which of the following statements about a ferromagnetic material is correct? It
+
+    A. has a high susceptibility.
+    B. attracts non-magnetic materials.
+    C. has low relative permeability.
+    D. repels other magnetic materials.
+
+
+21
+
+The type of mirror used by dentists to inspect the teeth of patients is a
+
+    A. Plane mirror
+    B. cylindrical mirror
+    C. concave mirror
+    D. convex mirror
+
+WAEC 2023
+22
+
+In an RLC series circuit at resonance, the voltages across the resistor and the inductor are 30 V and 40 V respectively. Determine the voltage across the capacitor.
+
+    A. 50V
+    B. 30V
+    C. 70V
+    D. 40V
+
+WAEC 2023
+23
+
+physic2023/image4.png
+
+The diagram above illustrates a velocity-time graph. Determine the distance between X and Y.
+
+    A. 80.0m
+    B. 160.0m
+    C. 40.0m
+    D. 10.0m
+
+WAEC 2023
+WAEC offline past questions - with all answers and explanations in one app - Download for free
+WAEC CBT Simulator is now on the Myschool App - Upgrade to Version 8.1.0v to start using it
+WAEC and NECO CBT App for Mobile Devices - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+24
+
+A sound of frequency 512 Hz reaches a listener 100 m away. If the sound travels in air at s.t.p., what is its wavelength?
+[speed of sound in air = 331 m/s]
+
+    A. 1.550m
+    B. 0,646m
+    C. 5.120m
+    D. 0.195m
+
+WAEC 2023
+25
+
+A charge of 10 C is transferred across a potential difference of 220 V. Determine the work done.
+
+    A. 22J
+    B. 2200J
+    C. 210J
+    D. 230J
+
+WAEC 2023
+
+26
+
+The ratio of maximum range to maximum height of a projectile is 4. Determine the angle of projection.
+
+    A. 300
+
+B. 600
+C. 450
+D. 00
+
+WAEC 2023
+27
+
+The range of wavelengths of the infrared waves in an electromagnetic spectrum is 10−3
+m  to 10−6
+
+m. The wavelength of the radiation is
+
+    A. longer than 10−6m
+
+.
+B. shorter than 10−6m
+.
+C. shorter than 103m
+.
+D. longer than 103m
+
+    .
+
+WAEC 2023
+28
+
+An electron moves from an energy level of -8.6 eV to another level of -3.5 eV. Determine the frequency of the absorbed radiation. [1 eV = 1.6 × 1019
+J, h = 6.6 × 1034
+
+Js]
+
+    A. 2.93×1015
+
+Hz
+B. 3.59×1016
+Hz
+C. 5.39×1015
+Hz
+D. 1.24×1015
+
+    Hz
+
+WAEC 2023
+Myschool CBT Challenge Season 10 – Over N1,000,000 Worth of Prizes to Be Won!
+WAEC and NECO CBT App for Mobile Devices - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+WAEC CBT Simulator is now on the Myschool App - Upgrade to Version 8.1.0v to start using it
+29
+
+A liquid is left in an open dish. After several days, there is less liquid in the dish. Which of the following statements explains this observation? The
+
+    A. most energetic molecules leave the surface and escape into the air.
+    B. least energetic molecules leave the surface and escape into air.
+    C. most energetic molecules leave the surface and return.
+    D. least energetic molecules leave the surface and return.
+
+WAEC 2023
+30
+
+The specific latent heat of vapourization of lead is 8.7 × 105Jkg1
+. This means that 8.7 × 105
+
+J of thermal energy is required to change
+
+    A. a given mass of molten lead to vapour at constant temperature and pressure.
+    B. 1 kg of molten lead to vapour at constant temperature and pressure.
+    C. 1 kg of solid lead to vapour at constant temperature and pressure.
+    D. 1 kg of molten lead to vapour for every degree rise in temperature.
+
+31
+
+A car, P, with a velocity of 30 m/s is traveling in the same direction as a car, Q, with a velocity of 20 m/s. The velocity of P relative to Q is
+
+    A. 50ms1
+
+B. 45ms1
+C. 20ms1
+D. 10ms1
+
+WAEC 2023
+32
+
+When a light-weight body and a massive body are acted upon by the same force for the same period of time, the
+
+    A. massive body has a higher momentum.
+    B. massive body builds up a higher velocity.
+    C. lighter body has a higher momentum.
+    D. momenta of both bodies remain the same.
+
+WAEC 2023
+33
+
+A cell of emf 2 V has an internal resistance of 0.5 Ω. A current of 0.4 A passes through an external resistor, P. Determine the resistance of P.
+
+    A. 4.5Ω
+    B. 5Ω
+    C. 1Ω
+    D. 4Ω
+
+WAEC 2023
+WAEC and NECO CBT App for Mobile Devices - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+WAEC CBT Simulator is now on the Myschool App - Upgrade to Version 8.1.0v to start using it
+WAEC offline past questions - with all answers and explanations in one app - Download for free
+34
+
+The diagram above illustrates a hot metal suspended at the centre of a closed uniform box. Thermometers E, F, G and H are placed in contact with four sides of the box. Which of the thermometers would register the highest temperature?
+
+    A. G
+    B. F
+    C. H
+    D. E
+
+WAEC 2023
+35
+physic2023/image4.png
+
+A direct current cannot pass through a parallel plate capacitor because
+
+    A. the plates are non-conducting.
+    B. the dielectric between the plates is non-conducting.
+    C. there is a leakage of charge from the plates.
+    D. the plates have equal but opposite charges.
+
+36
+
+The sagging of overhead electrical wires is caused by
+
+    A. radiation of heat.
+    B. rough handling.
+    C. gravitational attraction
+    D. Linear expansion
+
+WAEC 2023
+37
+
+The property of a body that determines the direction of heat flow when the body is in contact with another body is the
+
+    A. Heat capacity
+    B. mass
+    C. Power
+    D. Temperature
+
+WAEC 2023
+38
+
+The colours of the visible light region of the electromagnetic spectrum that have the shortest and longest wavelengths respectively are
+
+    A. red and blue.
+    B. indigo and violet
+    C. violet and red.
+    D. yellow and blue.
+
+WAEC 2023
+WAEC CBT Simulator is now on the Myschool App - Upgrade to Version 8.1.0v to start using it
+Myschool CBT Challenge Season 10 – Over N1,000,000 Worth of Prizes to Be Won!
+WAEC and NECO CBT App for Mobile Devices - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+39
+
+A ball, P, is released from the roof of a building at the same time as another ball, Q, is thrown vertically upward from the base of the building. Which of the following statements is correct?
+
+    A. The acceleration of P is greater than that of Q and both are in the same direction.
+    B. The acceleration of P is less than that of Q and both are in the same direction.
+    C. The acceleration of P is equal to that of Q and both are in the same direction.
+    D. The acceleration of P is equal to that of Q and are in opposite directions.
+
+WAEC 2023
+40
+
+A lead bullet of mass 0.05 kg is fired with a speed of 200 m/s into a lead block of mass 0.95 kg at rest. Given that the lead block moves after the impact, determine its kinetic energy.
+
+    A. 150J
+    B. 200J
+    C. 50J 
+    D.100J
+
+41
+
+In the Rutherford scattering experiment, a beam of alpha particles was fired at a thin gold film and few of the particles were deflected considerably. This shows that the nucleus of an atom
+
+    A. is positively charged and is concentrated in a tiny volume
+    B. contains protons and electrons distributed in a tiny volume.
+    C. is concentrated in a tiny volume and contains alpha particles.
+    D. is distributed in a tiny volume and emits alpha particles.
+
+WAEC 2023
+42
+
+What is the name given to the force of attraction between the nucleons in the nucleus of an atom?
+
+    A. Gravitational force.
+    B. Electrostatic force.
+    C. Magnetic force.
+    D. Nuclear force.
+
+WAEC 2023
+43
+
+When an electron jumps directly from an orbit of n = 4 to n = 2,
+
+    A. a photon is absorbed
+    B. a photon is emitted
+    C. two photons are emitted.
+    D. two photons are absorbed
+
+WAEC 2023
+WAEC and NECO CBT App for Mobile Devices - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+WAEC and NECO CBT Software for Computers and Laptops - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+Download WAEC Nov/Dec App - Get all past questions and answers, 100% offline - 252180
+44
+
+Two objects, A and B, accelerate from rest at uniform rates. B accelerates twice as much as Compared to A, B travels
+
+    A. at the same distance as A
+    B. six times as far.
+    C. two times as far
+    D. three times as far
+
+WAEC 2023
+45
+
+Two objects, A and B, accelerate from rest at uniform rates. B accelerates twice as much as Compared to A, B travels
+
+    A. at the same distance as A.
+    B. six times as far.
+    C. two times as far.
+    D. three times as far.
+
+46
+
+Which part of the human eye performs the same function as the diaphragm in a lens camera?
+
+    A. Choroid
+    B. Retina
+    C. Iris
+    D. Cornea
+
+WAEC 2023
+47
+
+Which of the following equations is not a correct mirror formula? [The symbols have their usual meanings]
+
+    A. N = 360θ
+
+- 1
+B. 1f=1u+1v
+C. m = vu
+D. f = 1D
+
+WAEC 2023
+48
+
+Which of the following devices is associated with alternating currents only?
+
+    A. Step-up transformer
+    B. Induction coil
+    C. Moving coil galvanometer
+    D. Lead-acid accumulator
+
+WAEC 2023
+Myschool CBT Challenge Season 10 – Over N1,000,000 Worth of Prizes to Be Won!
+WAEC offline past questions - with all answers and explanations in one app - Download for free
+WAEC and NECO CBT Software for Computers and Laptops - Candidates, Schools, Centres, Resellers - 100% Offline -Download Now
+49
+
+The conclusive test for magnetism in a steel bar suspended horizontally at its midpoint is when the bar
+
+    A. always settles in the magnetic N-S direction.
+    B. is repelled by a magnet.
+    C. always settles in the magnetic E-W direction
+    D. is attracted by a magnet.
+
+WAEC 2023
+50
+
+The purpose of commutators in a direct current motor is to
+
+    A. reverse the direction of the current after every half rotation
+    B. increase the number of rotations per second
+    C. enable a uniform couple to act on the coil.
+    D. increase the efficiency of the motor.
+
+

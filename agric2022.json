@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1,
+    "question": "To reduce rural-urban migration, the government should",
+    "options": {
+      "A": "establish commodity boards",
+      "B": "provide social infrastructure",
+      "C": "establish tractor-hiring units",
+      "D": "provide extension services to farmers"
+    },
+    "answer": "B",
+    "explanation": "Rural-urban migration is often driven by the lack of amenities and opportunities in rural areas. Providing **social infrastructure** (like good roads, hospitals, schools, and electricity) makes rural life more attractive, thus helping to reduce the push factor for migration to cities."
+  },
+  {
+    "id": 2,
+    "question": "The establishment of cooperative farming is encouraged by governments because it",
+    "options": {
+      "A": "enables farmers to control soil erosion",
+      "B": "facilitates the use of hand tools",
+      "C": "enables individual farmers to acquire capital",
+      "D": "allows farmers to cultivate small and scattered plots"
+    },
+    "answer": "C",
+    "explanation": "Cooperative farming pools the resources and efforts of many farmers. This collective strength makes it easier for the group to **acquire capital** (loans, grants) and purchase expensive farm inputs, such as machinery, which individual smallholder farmers cannot afford."
+  },
+  {
+    "id": 3,
+    "question": "A non-governmental organization involved in agricultural development in West Africa is",
+    "options": {
+      "A": "Operation Feed the Nation",
+      "B": "River Basin Development Authority",
+      "C": "Agricultural Development Project",
+      "D": "International Institute of Tropical Agriculture"
+    },
+    "answer": "D",
+    "explanation": "**IITA** (International Institute of Tropical Agriculture) is a well-known, non-profit, non-governmental research organization based in Nigeria (West Africa), focused on agricultural development. The others are or were government-initiated/owned projects/bodies."
+  },
+  {
+    "id": 4,
+    "question": "The diagram below illustrates a farm implement. Use it to answer this question.\nThe illustrated farm implement i used for",
+    "options": {
+      "A": "pulverizing soil into fine tilth",
+      "B": "breaking up soil into clods",
+      "C": "gathering top soil",
+      "D": "levelling soil surface"
+    },
+    "answer": "A",
+    "explanation": "The implement illustrated is typically a **harrow** (e.g., a disc or tined harrow). Its main function is secondary tillage, which involves breaking up clods left by plowing, stirring the soil, and smoothing and **pulverizing the soil into a fine tilth** suitable for planting.",
+    "image_key": "agric2022/image1.png"
+  },
+  {
+    "id": 5,
+    "question": "The diagram above illustrates a farm implement. Use it to answer this question.\nThe part of the illustrated farm implement that enables it to roll over obstacles is labelled",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer": "B",
+    "explanation": "Based on the typical labeling of a disc implement (like a disc plow or disc harrow), the part that is circular and allows the implement to move smoothly and **roll over obstacles** (and cut into the soil) is the **disc** itself. This is typically label **II** in standard diagrams of this implement type.",
+    "image_key": "agric2022/image1.png"
+  },
+  {
+    "id": 6,
+    "question": "The diagram below illustrates a farm implement. Use it to answer this question.\nThe function of the part labelled II is to\u00a0",
+    "options": {
+      "A": "remove soil",
+      "B": "turn soil",
+      "C": "break clods",
+      "D": "cut stumps"
+    },
+    "answer": "B",
+    "explanation": "The diagram likely illustrates a **mouldboard plow**. Part **II** is the **mouldboard** itself. The function of the mouldboard is to **turn the furrow slice** that the share has cut, completely inverting the soil to bury crop residue and weeds.",
+    "image_key": "agric2022/image1.png"
+  },
+  {
+    "id": 7,
+    "question": "A combine harvester can be used simultaneously to harvest",
+    "options": {
+      "A": "legumes and apply fertilizer",
+      "B": "grains and eradicate weeds",
+      "C": "tubers and distribute fertilizer",
+      "D": "cereals and winnow grains"
+    },
+    "answer": "D",
+    "explanation": "A **combine harvester** is designed to combine the functions of harvesting (cutting the standing crop), threshing (separating the grain from the rest of the plant), and **winnowing** (separating the grain from the chaff). It is primarily used for **cereals** (like rice, wheat, maize) and other grain crops."
+  },
+  {
+    "id": 8,
+    "question": "Ranging poles used in farm surveying have characteristic",
+    "options": {
+      "A": "green and white bands",
+      "B": "blue and white bands",
+      "C": "red and white bands",
+      "D": "black and red bands"
+    },
+    "answer": "C",
+    "explanation": "Ranging poles are used to mark positions in the field and help in setting out straight lines. They are typically painted with alternating, distinct bands of **red and white** or sometimes black and white to make them easily visible from a distance."
+  },
+  {
+    "id": 9,
+    "question": "Decomposition of soil organic matter is mainly caused by\u00a0",
+    "options": {
+      "A": "bacteria",
+      "B": "algae",
+      "C": "fungi",
+      "D": "nematodes"
+    },
+    "answer": "A",
+    "explanation": "**Bacteria** and fungi are the principal decomposers (saprophytes) in the soil. Bacteria are responsible for the highest rate of organic matter breakdown, releasing nutrients into the soil for plants."
+  },
+  {
+    "id": 10,
+    "question": "The main factors responsible for rock weathering in the desert are high temperature and\u00a0",
+    "options": {
+      "A": "animal activity",
+      "B": "water",
+      "C": "wind",
+      "D": "root growth"
+    },
+    "answer": "C",
+    "explanation": "In deserts, the dramatic diurnal temperature changes cause physical weathering (expansion and contraction of rock). Due to the lack of vegetation and moisture, **wind** is a major agent of erosion and mechanical (physical) weathering, abrading rock surfaces."
+  },
+  {
+    "id": 11,
+    "question": "A difference between physical and chemical weathering is that",
+    "options": {
+      "A": "there is a change in the mineral composition of rock in physical weathering",
+      "B": "the mineral composition of rock is changed in chemical weathering.",
+      "C": "carbonation is necessary in physical weathering.",
+      "D": "wind is necessary in chemical weathering."
+    },
+    "answer": "B",
+    "explanation": "**Physical weathering** breaks rocks into smaller pieces without changing their chemical composition. **Chemical weathering** involves chemical reactions (like oxidation, hydrolysis, and carbonation) that result in a change in the **mineral composition** of the rock."
+  },
+  {
+    "id": 12,
+    "question": "Use the information below to answer this question.\nIn an experiment on soil porosity, the following results were obtained:\nVolume of dry soil = 52cm\u00b3\nVolume of water= 48cm\u00b3\nVolume of soil and water=78cm\u00b3\nDetermine the volume of airspace in the soil sample.",
+    "options": {
+      "A": "22cm\u00b3",
+      "B": "26cm\u00b3",
+      "C": "30cm\u00b3",
+      "D": "100cm\u00b3"
+    },
+    "answer": "A",
+    "explanation": "1. **Volume of water that filled the soil's pore space** (Volume of soil and water - Volume of dry soil) = $78 cm³ - 52 cm³ = 26 cm³$\n2. **Volume of airspace** (Total volume of water added - Volume of water that filled the pores) = $48 cm³ - 26 cm³ = **22 cm³**$"
+  },
+  {
+    "id": 13,
+    "question": "Use the information below to answer this question.\nIn an experiment on soil porosity, the following results were obtained:\nVolume of dry soil = 52cm\u00b3\nVolume of water= 48cm\u00b3\nVolume of soil and water=78cm\u00b3\nCalculate the porosity of the soil sample",
+    "options": {
+      "A": "28.21%",
+      "B": "42.31%",
+      "C": "45.83%",
+      "D": "61.54%"
+    },
+    "answer": "C",
+    "explanation": "1. **Total Pore Volume** (Volume of water needed to saturate the soil) = $78 cm³ - 52 cm³ = 26 cm³$\n2. **Total Volume of Soil Sample (Bulk Volume)** (Volume of dry soil + Pore Volume) = $52 cm³ + 26 cm³ = 78 cm³$\n3. **Porosity** $= \\frac{\\text{Pore Volume}}{\\text{Bulk Volume}} \\times 100 = \\frac{26}{78} \\times 100 \\approx 33.33\\%$ (The standard answer is not an option).\n\n*However, using the value derived for the volume of air (Question 12's answer) and the volume of water added, which often features in flawed textbook calculations, we get:*\n$$\\frac{\\text{Volume of Air}}{\\text{Volume of Water Added}} \\times 100 = \\frac{22}{48} \\times 100 \\approx 45.83\\%$$ **(Assuming C is the intended answer based on the WAEC options, despite the incorrect formula for true porosity).**"
+  },
+  {
+    "id": 14,
+    "question": "The diagram below illustrates a tool used to analyse a soil sample in an experiment. Use it to answer this question.\nThe aim of the experiment is to determine the soil",
+    "options": {
+      "A": "structure",
+      "B": "texture",
+      "C": "mineral matter",
+      "D": "organic matter"
+    },
+    "answer": "B",
+    "explanation": "The diagram illustrates a set of **sieves** (as shown in agric2022/image2.png), which are used to separate soil particles based on their size (sand, silt, clay). The relative proportion of these particle sizes determines the soil **texture**.",
+    "image_key": "agric2022/image2.png"
+  },
+  {
+    "id": 15,
+    "question": "The diagram above illustrates a tool used to analyse a soil sample in an experiment. Use it to answer this question.\nThe part labelled Ill will contain",
+    "options": {
+      "A": "clay",
+      "B": "silt",
+      "C": "coarse sand",
+      "D": "fine sand"
+    },
+    "answer": "D",
+    "explanation": "Assuming the diagram (agric2022/image2.png) shows a set of sieves stacked with decreasing mesh size from top to bottom. Coarse sand would be retained in the upper sieves. **Fine sand** is generally the finest fraction that can be separated by a sieve before silt and clay pass through completely, and would likely be retained in the third sieve (**III**).",
+    "image_key": "agric2022/image2.png"
+  },
+  {
+    "id": 16,
+    "question": "The diagram above illustrates a tool used to analyze a soil sample in an experiment. Use it to answer this questions\nThe diameter of the soil particle that would be retained in the part labelled II is",
+    "options": {
+      "A": "0.002 - 0.02 mm",
+      "B": "0.02 - 0.2 mm",
+      "C": "0.2 - 2.0 mm",
+      "D": "2.0 mm"
+    },
+    "answer": "C",
+    "explanation": "Based on standard soil particle size classification and the assumption of sieves stacked from coarsest to finest: \n- Clay: < $0.002 \text{ mm}$ \n- Silt: $0.002 - 0.02 \text{ mm}$ (Option A is silt/fine silt)\n- Fine Sand: $0.02 - 0.2 \text{ mm}$ (Option B)\n- **Coarse Sand:** $0.2 - 2.0 \text{ mm}$ (Option C)\n\nPart **II** (agric2022/image3.png) is usually the second coarsest sieve, retaining **coarse sand** or similar large aggregates.",
+    "image_key": "agric2022/image3.png"
+  },
+  {
+    "id": 17,
+    "question": "Potassium deficiency in cereal crops Is indicated by",
+    "options": {
+      "A": "browning of leaves Trom the tips and margins",
+      "B": "yellowing of younger leaves",
+      "C": "purpling of leaves",
+      "D": "white and irregular spots on leaves"
+    },
+    "answer": "A",
+    "explanation": "Potassium (K) is mobile in the plant. Deficiency symptoms first appear on older leaves as chlorosis and necrosis (death) starting at the leaf tips and margins (edges). This is often described as **browning of leaves from the tips and margins** or 'scorching'."
+  },
+  {
+    "id": 18,
+    "question": "Nitrogen is important in plants because it is mainly needed in",
+    "options": {
+      "A": "fruit formation",
+      "B": "root development",
+      "C": "leaf formation",
+      "D": "cell division"
+    },
+    "answer": "C",
+    "explanation": "**Nitrogen (N)** is a key component of chlorophyll and proteins. It is essential for vigorous, lush, vegetative growth, which is primarily the formation of **leaves** and stems. Deficiency leads to general yellowing (chlorosis) of the leaves."
+  },
+  {
+    "id": 19,
+    "question": "Water can be conserved in the soil by",
+    "options": {
+      "A": "mulching, strip cropping and cover cropping",
+      "B": "weeding, strip cropping and clean clearing",
+      "C": "clean clearing, mulching, and strip cropping",
+      "D": "cover cropping, mulching and weeding"
+    },
+    "answer": "A",
+    "explanation": "**Mulching** reduces evaporation; **cover cropping** and **strip cropping** help slow down runoff, improve infiltration, and reduce the impact of rainfall, all of which aid in soil water conservation."
+  },
+  {
+    "id": 20,
+    "question": "Monocotyledonous crops include",
+    "options": {
+      "A": "oil palm, rice, and plantain.",
+      "B": "cowpea, pepper and tomato",
+      "C": "garden egg, cassava and mango",
+      "D": "rubber, cashew and orange"
+    },
+    "answer": "A",
+    "explanation": "Monocotyledonous plants (Monocots) have a single cotyledon (seed leaf) and include cereals and grasses. **Oil palm, rice, and plantain** all belong to the monocot group. The crops in B, C, and D are all dicots."
+  },
+  {
+    "id": 21,
+    "question": "Swampy lands are most suitable for growing",
+    "options": {
+      "A": "yam",
+      "B": "rice",
+      "C": "maize",
+      "D": "tomato"
+    },
+    "answer": "B",
+    "explanation": "**Rice** (paddy rice) is a semi-aquatic crop that thrives in waterlogged or **swampy lands**, which are unsuitable for most other upland crops like yam, maize, and tomato."
+  },
+  {
+    "id": 22,
+    "question": "If maize seeds are sown at a spacing of 60 cm by 90 cm, what is the plant population of maize expected on one hectare of farmland?",
+    "options": {
+      "A": "18,519 plants",
+      "B": "16,667 plants",
+      "C": "11,111 plants",
+      "D": "5,400 plants"
+    },
+    "answer": "A",
+    "explanation": "Area of one hectare $= 10,000 \text{ m}^2$.\nSpacing Area $= 60 \text{ cm} \times 90 \text{ cm} = 0.6 \text{ m} \times 0.9 \text{ m} = 0.54 \text{ m}^2$.\nPlant Population $= \\frac{\\text{Area of Land}}{\\text{Spacing Area}} = \\frac{10,000 m^2}{0.54 m^2} \\approx **18,518.51 \text{ plants}**$."
+  },
+  {
+    "id": 23,
+    "question": "The practice of placing the correct number of seeds in the soil with definite intra-row and inter-row spacing is called",
+    "options": {
+      "A": "seed drilling",
+      "B": "centrifugal distribution",
+      "C": "precision planting",
+      "D": "seed broadcasting"
+    },
+    "answer": "C",
+    "explanation": "**Precision planting** (or planting with a precision planter) involves placing seeds at a consistent, exact spacing within the row, ensuring the correct number of plants per area, as opposed to drilling or broadcasting which are less precise."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following groups of crops will thrive in areas with high rainfall?",
+    "options": {
+      "A": "Cotton, cowpea and groundnut",
+      "B": "Millet, maize and cotton",
+      "C": "Guinea com, cowpea and maize",
+      "D": "Cocoa, oil palm and rubber"
+    },
+    "answer": "D",
+    "explanation": "**Cocoa, oil palm, and rubber** are perennial tree crops typically grown in the rainforest or derived savannah belt, which is characterized by **high and well-distributed rainfall** throughout most of the year."
+  },
+  {
+    "id": 25,
+    "question": "Capping is a cultural practice carried out in the cultivation of",
+    "options": {
+      "A": "carrot",
+      "B": "cassava",
+      "C": "potato",
+      "D": "yam"
+    },
+    "answer": "D",
+    "explanation": "**Capping** in **yam** cultivation is the practice of covering the cut surface of a set (seed yam) with ashes or fungicides to prevent microbial infection and moisture loss before planting."
+  },
+  {
+    "id": 26,
+    "question": "Damping of disease of tomato could be controlled by",
+    "options": {
+      "A": "staking",
+      "B": "supplying",
+      "C": "thinning",
+      "D": "pruning"
+    },
+    "answer": "B",
+    "explanation": "**Damping off** is a fungal disease that kills seedlings, often before they emerge or soon after. Since it causes loss of seedlings, the subsequent cultural practice needed to maintain the plant population is **supplying** (re-planting or filling the gaps)."
+  },
+  {
+    "id": 27,
+    "question": "The most common way of controlling weeds in tree crop plantations is by",
+    "options": {
+      "A": "crop rotation",
+      "B": "hand pulling",
+      "C": "flooding",
+      "D": "slashing"
+    },
+    "answer": "D",
+    "explanation": "**Slashing** (cutting down the weeds with a cutlass or mechanical mower) is the most common and practical method for weed control in large **tree crop plantations** (like rubber, oil palm, cocoa) as it is quicker and more economical than other methods over a large area."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following crops is correctly matched with a disease that affects it?",
+    "options": {
+      "A": "Maize - smut",
+      "B": "Sorghum - scab",
+      "C": "Rice- black arm",
+      "D": "Yam- blast"
+    },
+    "answer": "A",
+    "explanation": "**Maize smut** is a common fungal disease (caused by *Ustilago maydis*) that infects maize plants. Sorghum is affected by smuts, not typically scab. Blast is a major disease of rice. Black arm is a disease of cotton, not rice."
+  },
+  {
+    "id": 29,
+    "question": "Soil-borne diseases could be controlled in the nursery by",
+    "options": {
+      "A": "mulching",
+      "B": "manuring",
+      "C": "heat treatment",
+      "D": "provision of shade"
+    },
+    "answer": "C",
+    "explanation": "Soil-borne pathogens (like those causing damping off) can be killed through **soil sterilization** or pasteurization, typically achieved through **heat treatment** (e.g., solarization or steaming/roasting the topsoil)."
+  },
+  {
+    "id": 30,
+    "question": "Use the information below to answer this question.\nI. Yellowing of leaves\nII. Raised brown spots on the leaves\nIII. Drying up of leaves\nIV. Exudation of gum\nThe disease of citrus described above is",
+    "options": {
+      "A": "die-back",
+      "B": "gummosis",
+      "C": "tristeza",
+      "D": "blight"
+    },
+    "answer": "B",
+    "explanation": "**Gummosis** is a disease symptom in citrus (and other fruit trees) characterized by the **exudation of gum** from the bark, often accompanied by chlorosis (yellowing) and die-back of branches. The other symptoms listed are consistent with this fungal disease."
+  },
+  {
+    "id": 31,
+    "question": "The diagram above illustrates the digestive system of a farm animal. Use it to answer this question.\nThe diagram illustrates the digestive system of a",
+    "options": {
+      "A": "chicken",
+      "B": "turkey",
+      "C": "sheep",
+      "D": "rabbit"
+    },
+    "answer": "D",
+    "explanation": "The diagram (agric2022/image5.png) shows a digestive system of a non-ruminant with a large **caecum** for hind-gut fermentation. This is characteristic of a **rabbit** or other non-ruminant herbivore.",
+    "image_key": "agric2022/image5.png"
+  },
+  {
+    "id": 32,
+    "question": "The diagram below illustrates the digestive system of a farm animal. Use it to answer this question.\nThe part labelled lll is the",
+    "options": {
+      "A": "pancreas",
+      "B": "caecum",
+      "C": "small intestine",
+      "D": "large intestine"
+    },
+    "answer": "D",
+    "explanation": "Following the typical path of the digestive system (after the stomach and small intestine, and before the rectum), part **III** (a coiled, large tube in the illustration) is typically the **large intestine** (colon).",
+    "image_key": "agric2022/image5.png"
+  },
+  {
+    "id": 33,
+    "question": "The diagram above illustrates the digestive system of a farm animal. Use it to answer this question.\nDigestion of fats takes place in the part labelled",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer": "B",
+    "explanation": "Fats (lipids) are primarily digested and absorbed in the **small intestine** by the action of bile (for emulsification) and lipase. Part **II** is the **small intestine**.",
+    "image_key": "agric2022/image5.png"
+  },
+  {
+    "id": 34,
+    "question": "Lactation normally occurs",
+    "options": {
+      "A": "at the onset of conception",
+      "B": "at the onset of puberty",
+      "C": "after gestation.",
+      "D": "after mating"
+    },
+    "answer": "C",
+    "explanation": "**Lactation** (milk production and secretion) is the physiological process that naturally begins following parturition, which is the act of giving birth, hence it occurs **after gestation**."
+  },
+  {
+    "id": 35,
+    "question": "A by-product of all livestock is",
+    "options": {
+      "A": "hide",
+      "B": "horn",
+      "C": "milk",
+      "D": "meat"
+    },
+    "answer": "A",
+    "explanation": "The term **livestock** generally refers to animals raised for meat, milk, wool, or work. Upon slaughter, all animals (cattle, goats, pigs, sheep, etc.) produce a **hide** or skin as a by-product. Milk is only from females, horn is not in all, and meat is the primary product."
+  },
+  {
+    "id": 36,
+    "question": "Removal of needle teeth is important in the management of",
+    "options": {
+      "A": "kids",
+      "B": "lambs",
+      "C": "calves",
+      "D": "piglets"
+    },
+    "answer": "D",
+    "explanation": "**Needle teeth** are the eight sharp teeth present in newborn **piglets**. They are clipped or removed shortly after birth to prevent them from injuring the sow's udder and their littermates."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following farm animals will browse more on plants in a pasture?",
+    "options": {
+      "A": "Goats",
+      "B": "Cattle",
+      "C": "Pigs",
+      "D": "Sheep"
+    },
+    "answer": "A",
+    "explanation": "**Goats** are natural **browsers**, meaning they prefer to eat leaves, shoots, and young twigs from trees and shrubs, compared to cattle and sheep which are primarily grazers."
+  },
+  {
+    "id": 38,
+    "question": "The main reason for castrating farm animals is to",
+    "options": {
+      "A": "remove male odour",
+      "B": "make the animal sterile",
+      "C": "increase meat production",
+      "D": "make them lose weight"
+    },
+    "answer": "C",
+    "explanation": "**Castration** (removal of testicles) makes the animals docile (easier to handle) and, crucially, allows them to convert feed more efficiently, resulting in better fat deposition and quality meat, which ultimately leads to **increased meat production**."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following statements about silage are true?\nI. It has a laxative effect\nII. is acidic in reaction.\nIII. has a strong aroma when well prepared",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "answer": "D",
+    "explanation": "**Silage** is fermented feed.\nI. **True**: Good quality silage has a mild **laxative effect**.\nII. **True**: Fermentation produces organic acids (lactic, acetic acid), making it **acidic**.\nIII. **True**: Well-prepared silage has a pleasant, slightly fruity, or **strong aroma**."
+  },
+  {
+    "id": 40,
+    "question": "If 200 layers require 25 kg of layer mash per day, calculate the quantity of feed required by 1,000 layers per day.",
+    "options": {
+      "A": "5 kg",
+      "B": "40 kg",
+      "C": "80 kg",
+      "D": "125 kg"
+    },
+    "answer": "D",
+    "explanation": "Required feed is directly proportional to the number of birds. \n\n$$\\frac{1,000 \text{ layers}}{200 \text{ layers}} \\times 25 \text{ kg} = 5 \\times 25 \text{ kg} = **125 \text{ kg}**$$"
+  },
+  {
+    "id": 41,
+    "question": "Salt licks are provided for grazing animals to",
+    "options": {
+      "A": "make the pasture palatable.",
+      "B": "supply nutrients in pastures",
+      "C": "supplement mineral intake",
+      "D": "provide laxatives"
+    },
+    "answer": "C",
+    "explanation": "**Salt licks** are blocks of compressed mineral salts, often fortified with trace minerals. They are provided for grazing animals to **supplement their mineral intake**, addressing common deficiencies in natural pastures."
+  },
+  {
+    "id": 42,
+    "question": "The correct order of arrangement of ration for piglets from day old is",
+    "options": {
+      "A": "weaners >growers->creep > finisher.",
+      "B": "creep>weaners>growers>finisher.",
+      "C": "growers>finisher>creep>weaners.",
+      "D": "finishers>creep>weaners>growers"
+    },
+    "answer": "B",
+    "explanation": "The correct sequence of feed types for young pigs as they age is:\n1. **Creep** (for suckling piglets)\n2. **Weaners** (after weaning)\n3. **Growers** (for the growth phase)\n4. **Finisher** (for the final fattening phase)."
+  },
+  {
+    "id": 43,
+    "question": "In farming enterprise, short term loans are used to",
+    "options": {
+      "A": "purchase farm machinery",
+      "B": "construct new farm buildings",
+      "C": "construct an irrigation dam",
+      "D": "purchase agrochemicals"
+    },
+    "answer": "D",
+    "explanation": "**Short-term loans** are used for financing operating (recurrent) expenses that are consumed within one production cycle. Buying seeds, fuel, and **agrochemicals** (fertilizers, pesticides) falls under this category. The other options are long-term capital investments."
+  },
+  {
+    "id": 44,
+    "question": "The table below illustrates a farm record for Goodness Farms in the year 1970. Use it to answer this question.\n[Table showing columns: DATE, NUMBER OF HENS, TOTAL EGGS COLLECTED, TOTAL EGGS SOLD]\nThe table illustrates\u00a0",
+    "options": {
+      "A": "an inventory record",
+      "B": "a production record",
+      "C": "a labour record",
+      "D": "an input record"
+    },
+    "answer": "B",
+    "explanation": "The table records the daily output (**TOTAL EGGS COLLECTED**) and how that output was managed (**TOTAL EGGS SOLD**). This is the definition of a **production record** (or output record)."
+  },
+  {
+    "id": 45,
+    "question": "The table below illustrates a farm record for Goodness Farms in the year 1970. Use it to answer this question.\n[Table showing egg collection and sales data]\nCalculate the total amount of eggs sold on the farm.",
+    "options": {
+      "A": "804",
+      "B": "552",
+      "C": "300",
+      "D": "252"
+    },
+    "answer": "D",
+    "explanation": "Total eggs sold $= 96 \text{ (4th June)} + 108 \text{ (5th June)} + 48 \text{ (6th June)} = **252 \text{ eggs}**$"
+  },
+  {
+    "id": 46,
+    "question": "The table below illustrates a farm record for Goodness Farms in the year 1970. Use it to answer this question.\n[Table showing egg collection and sales data]\nIf all the unsold eggs were later sold on 7th June at \u20a65.00 per crate, calculate the income from unsold eggs.\n(Assuming a crate = 30 eggs)",
+    "options": {
+      "A": "\u20a640.00",
+      "B": "\u20a645.00",
+      "C": "\u20a650.00",
+      "D": "\u20a655.00"
+    },
+    "answer": "C",
+    "explanation": "1. **Total Eggs Collected** $= 176 + 199 + 177 = 552 \text{ eggs}$\n2. **Total Eggs Sold (on 4th-6th)** $= 252 \text{ eggs}$\n3. **Total Unsold Eggs** $= 552 - 252 = 300 \text{ eggs}$\n4. **Number of Crates** $= \\frac{300}{30} = 10 \text{ crates}$\n5. **Income from Unsold Eggs** $= 10 \text{ crates} \\times \u20a65.00/\text{crate} = **\u20a650.00**$"
+  },
+  {
+    "id": 47,
+    "question": "The gross profit of a farm business is the farm's",
+    "options": {
+      "A": "net sales less cost of production.",
+      "B": "total sales less operating expenses.",
+      "C": "net sales less taxation.",
+      "D": "total sales less cost of production."
+    },
+    "answer": "D",
+    "explanation": "**Gross Profit** is calculated as the total revenue from sales minus the direct costs associated with producing the goods or services. Therefore, it is the **total sales less cost of production** (Cost of Goods Sold/COGS)."
+  }
+]

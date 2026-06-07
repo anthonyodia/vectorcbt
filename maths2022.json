@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "question": "Evaluate, correct to four significant figures, (573.06 x 184.25).",
+        "options": ["105600.00", "105622.00", "105500.00", "105632.00"],
+        "answer": "A",
+        "explanation": "573.06 × 184.25 = 105622.005. Correct to four significant figures is $105,600$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 2,
+        "question": "Change $432_{\\text{five}}$ to a number in base three.",
+        "options": ["$10100_{\\text{three}}$", "$11100_{\\text{three}}$", "$11101_{\\text{three}}$", "$10110_{\\text{three}}$"],
+        "answer": "B",
+        "explanation": "1. $432_{\\text{five}} = 117_{\\text{ten}}$.\n2. $117_{\\text{ten}} = 11100_{\\text{three}}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 3,
+        "question": "Given that $A$ and $B$ are sets such that $n(A) = 8$, $n(B)=12$ and $n(A \\cap B) =3$, find $n(A \\cup B)$.",
+        "options": ["15", "17", "20", "23"],
+        "answer": "B",
+        "explanation": "$n(A \\cup B) = n(A) + n(B) - n(A \\cap B) = 8 + 12 - 3 = 17$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 4,
+        "question": "If $\\sqrt{24} + \\sqrt{96} - \\sqrt{600} = y\\sqrt{6}$, find the value of $y$.",
+        "options": ["4", "2", "-2", "-4"],
+        "answer": "D",
+        "explanation": "$2\\sqrt{6} + 4\\sqrt{6} - 10\\sqrt{6} = -4\\sqrt{6}$. Thus, $y = -4$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 5,
+        "question": "Evaluate $2^3 \\times 5^4 \\pmod{7}$.",
+        "options": ["2", "3", "5", "6"],
+        "answer": "A",
+        "explanation": "$2^3 \\equiv 1 \\pmod{7}$ and $5^4 \\equiv 2 \\pmod{7}$. $1 \\times 2 \\equiv 2 \\pmod{7}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 6,
+        "question": "If $4^{3x} = 16^{x+1}$, find the value of $x$.",
+        "options": ["2", "3", "4", "5"],
+        "answer": "A",
+        "explanation": "$4^{3x} = 4^{2(x+1)} \\implies 3x = 2x + 2 \\implies x = 2$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 7,
+        "question": "A weaver bought a bundle of grass for $50.00 from which he made 8 mats. If each mat was sold for $15.00, find the percentage profit.",
+        "options": ["240%", "140%", "120%", "40%"],
+        "answer": "B",
+        "explanation": "Total SP = $120.00$. Profit = $70.00$. Percentage Profit $= (70 / 50) \\times 100\\% = 140\\%.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 8,
+        "question": "Find the $17^{\\text{th}}$ term of the Arithmetic Progression (A.P): -6, -1, 4, ...",
+        "options": ["-91", "-86", "74", "79"],
+        "answer": "C",
+        "explanation": "$T_{17} = a + 16d = -6 + 16(5) = 74$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 9,
+        "question": "M varies directly as $n$ and inversely as the square of $p$. If $M=3$ when $n = 2$ and $p = 1$, find $M$ in terms of $n$ and $p$.",
+        "options": ["$M = \\frac{3n}{2p^2}$", "$M = \\frac{2n}{3p^2}$", "$M = \\frac{2n}{3p}$", "$M = \\frac{3n}{2p}$"],
+        "answer": "A",
+        "explanation": "$M = \\frac{kn}{p^2}$. $3 = \\frac{k(2)}{1} \\implies k = 3/2$. $M = \\frac{3n}{2p^2}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 10,
+        "question": "If $a = 3$ and $b = -7$, find the value of $\\frac{5b + (a+b)^2}{(a-b)^2}$.",
+        "options": ["0.51", "0.91", "-0.19", "-0.51"],
+        "answer": "C",
+        "explanation": "Numerator: $-35 + (-4)^2 = -19$. Denominator: $(10)^2 = 100$. Value $= -0.19$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 11,
+        "question": "Three boys shared $\\text{D}10,500.00$ in the ratio $6:7:8$. Find the largest share.",
+        "options": ["4000", "5000", "4500", "3500"],
+        "answer": "A",
+        "explanation": "Total ratio $= 21$. Largest share $= \\frac{8}{21} \\times 10500 = 4000$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 12,
+        "question": "The length of a piece of stick is $1.75\\text{ m}$. A boy measured it as $1.80\\text{ m}$. Find the percentage error.",
+        "options": ["$\\frac{4}{47}\\%$", "$\\frac{2}{67}\\%$", "$\\frac{20}{7}\\%$", "$\\frac{4}{79}\\%$"],
+        "answer": "C",
+        "explanation": "Error $= 0.05$. Percentage Error $= \\left(\\frac{0.05}{1.75}\\right) \\times 100\\% = \\frac{20}{7}\\%$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 13,
+        "question": "If $5x + 3y = 4$ and $5x - 3y = 2$, what is the value of $(25x^2 - 9y^2)$?",
+        "options": ["20", "16", "2", "8"],
+        "answer": "D",
+        "explanation": "$25x^2 - 9y^2 = (5x + 3y)(5x - 3y) = 4 \\times 2 = 8$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 14,
+        "question": "Mary has $3.00 more than Ben but $5.00 less than Jane. If Mary has $x, how much does Jane and Ben have altogether?",
+        "options": ["\\$(2x-8)", "\\$(2x+8)", "\\$(2x-2)", "\\$(2x+2)"],
+        "answer": "D",
+        "explanation": "Ben: $x - 3$. Jane: $x + 5$. Total $= (x-3) + (x+5) = 2x + 2$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 15,
+        "question": "Consider the statements: $p$: Stephen is intelligent; $q$: Stephen is good at Mathematics. If $p \\implies q$, which of the following is a valid conclusion?",
+        "options": ["If Stephen is good at Mathematics, then he is intelligent", "If Stephen is not good at Mathematics, then he is not intelligent", "If Stephen is not intelligent, then he is not good at Mathematics", "If Stephen is not good at Mathematics, then he is intelligent"],
+        "answer": "B",
+        "explanation": "The contrapositive $\\neg q \\implies \\neg p$ is logically equivalent to the original statement $p \\implies q$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 16,
+        "question": "What value of $p$ will make $(x^2 - 4x + p)$ a perfect square?",
+        "options": ["-2", "16", "4", "-8"],
+        "answer": "C",
+        "explanation": "The constant term is $(\\frac{-4}{2})^2 = 4$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 17,
+        "question": "Find the value of $x$ such that $\\frac{1}{x} + \\frac{4}{3x} - \\frac{5}{6x} + 1 = 0$.",
+        "options": ["$\\frac{1}{6}$", "$\\frac{1}{4}$", "$-\\frac{3}{2}$", "$-\\frac{7}{6}$"],
+        "answer": "C",
+        "explanation": "Combine fractions: $\\frac{9}{6x} = -1$. $x = -3/2$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 18,
+        "question": "Make $t$ the subject of $k = \\sqrt{\\frac{mt-p}{r}}$.",
+        "options": ["$t = \\frac{k^2r+p}{m}$", "$t = \\frac{k^2r+pm^2}{m^2}$", "$t = \\frac{k^2r-p}{m^2}$", "$t = \\frac{k^2r+p^2}{m^2}$"],
+        "answer": "A",
+        "explanation": "$k^2r = mt - p \\implies t = \\frac{k^2r + p}{m}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 19,
+        "question": "An exterior angle of a regular polygon is $22.5^\\circ$. Find the number of sides.",
+        "options": ["13", "14", "15", "16"],
+        "answer": "D",
+        "explanation": "Number of sides $n = 360^\\circ / 22.5^\\circ = 16$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 20,
+        "question": "In the diagram, $\\angle POQ = 150^\\circ$ and the radius of the circle $PSQR$ is $4.2\\text{ cm}$. [take $\\pi = 22/7$]. What is the length of the minor arc?",
+        "options": ["$11\\text{ cm}$", "$15.4\\text{ cm}$", "$17.64\\text{ cm}$", "$23.10\\text{ cm}$"],
+        "answer": "A",
+        "explanation": "Arc length $L = \\frac{150}{360} \\times 2\\pi r = 11\\text{ cm}$.",
+        "source": "WAEC 2022",
+        "image_path": "maths2022/image1.jpg"
+    },
+    {
+        "id": 21,
+        "question": "Using the diagram from Q20, find the area of the sector $OPSQ$.",
+        "options": ["$15.40\\text{ cm}^2$", "$17.64\\text{ cm}^2$", "$23.10\\text{ cm}^2$", "$32.34\\text{ cm}^2$"],
+        "answer": "C",
+        "explanation": "Area of sector $A = \\frac{150}{360} \\times \\pi r^2 = 23.10\\text{ cm}^2$.",
+        "source": "WAEC 2022",
+        "image_path": "maths2022/image1.jpg"
+    },
+    {
+        "id": 22,
+        "question": "A ladder $6\\text{ m}$ long leans against a vertical wall at an angle $53^\\circ$ to the horizontal. How high up the wall does the ladder reach?",
+        "options": ["$3.611\\text{ m}$", "$4.521\\text{ m}$", "$4.792\\text{ m}$", "$3.962\\text{ m}$"],
+        "answer": "C",
+        "explanation": "$h = 6 \\times \\sin(53^\\circ) \\approx 4.792\\text{ m}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 23,
+        "question": "A cylinder, opened at one end, has a radius of $3.5\\text{ cm}$ and height $8\\text{ cm}$. Calculate the total surface area.",
+        "options": ["$126.5\\text{ cm}^2$", "$165.0\\text{ cm}^2$", "$212.0\\text{ cm}^2$", "$214.5\\text{ cm}^2$"],
+        "answer": "D",
+        "explanation": "TSA $= 2\\pi rh + \\pi r^2 = 214.5\\text{ cm}^2$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 24,
+        "question": "In the diagram, $\\angle WZY$ and $\\angle WYX$ are right angles. $WZ=5, ZY=12, YX=8, WX=10$. Find the perimeter of $WXYZ$.",
+        "options": ["$30\\text{ cm}$", "$32\\text{ cm}$", "$35\\text{ cm}$", "$37\\text{ cm}$"],
+        "answer": "C",
+        "explanation": "Perimeter $= 5 + 12 + 8 + 10 = 35\\text{ cm}$.",
+        "source": "WAEC 2022",
+        "image_path": "maths2022/image3.jpg"
+    },
+    {
+        "id": 25,
+        "question": "The length of a rectangle is $10\\text{ cm}$. If its perimeter is $28\\text{ cm}$, find the area.",
+        "options": ["$30\\text{ cm}^2$", "$40\\text{ cm}^2$", "$60\\text{ cm}^2$", "$80\\text{ cm}^2$"],
+        "answer": "B",
+        "explanation": "Width $W = 4\\text{ cm}$. Area $= 10 \\times 4 = 40\\text{ cm}^2$.",
+        "source": "WAEC 2022",
+        "image_path": "maths2022/image3.jpg"
+    },
+    {
+        "id": 26,
+        "question": "A boy $1.4\\text{ m}$ tall, stood $10\\text{ m}$ away from a tree of height $12\\text{ m}$. Calculate, correct to the nearest degree, the angle of elevation of the top of the tree from the boy's eyes.",
+        "options": ["$70^\\circ$", "$47^\\circ$", "$19^\\circ$", "$8^\\circ$"],
+        "answer": "B",
+        "explanation": "Opposite $= 10.6\\text{ m}$. $\\tan(\\theta) = 1.06$. $\\theta \\approx 47^\\circ$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 27,
+        "question": "Given that $\\sin (5x-28)^\\circ = \\cos (3x-50)^\\circ$, $0^\\circ \\leq x \\leq 90^\\circ$, find the value of $x$.",
+        "options": ["39", "32", "21", "14"],
+        "answer": "C",
+        "explanation": "The angles must sum to $90^\\circ$. $8x - 78 = 90$. $x = 21$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 28,
+        "question": "In the diagram, $MNR$ is a tangent to the circle centre $O$ at $N$ and $\\angle NOS = 108^\\circ$. Find $\\angle OSN$.",
+        "options": ["$72^\\circ$", "$32^\\circ$", "$36^\\circ$", "$18^\\circ$"],
+        "answer": "C",
+        "explanation": "$\\triangle NOS$ is isosceles. $\\angle OSN = (180^\\circ - 108^\\circ)/2 = 36^\\circ$.",
+        "source": "WAEC 2022",
+        "image_path": "maths2022/image28.jpg"
+    },
+    {
+        "id": 29,
+        "question": "Using the diagram from Q28, find $\\angle RNS$.",
+        "options": ["$36^\\circ$", "$42^\\circ$", "$54^\\circ$", "$72^\\circ$"],
+        "answer": "C",
+        "explanation": "$\\angle ONR = 90^\\circ$. $\\angle RNS = 90^\\circ - \\angle ONS = 90^\\circ - 36^\\circ = 54^\\circ$.",
+        "source": "WAEC 2022",
+        "image_path": "maths2022/image29.jpg"
+    },
+    {
+        "id": 30,
+        "question": "Mrs Gabriel is pregnant. The probability that she will give birth to a girl is $1/2$ and with blue eyes is $1/4$. What is the probability that she will give birth to a girl with blue eyes?",
+        "options": ["1", "$\\frac{3}{4}$", "$\\frac{1}{8}$", "$\\frac{1}{4}$"],
+        "answer": "C",
+        "explanation": "$P(\\text{Girl and Blue Eyes}) = \\frac{1}{2} \\times \\frac{1}{4} = \\frac{1}{8}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 31,
+        "question": "The mean of a set of 10 numbers is 56. If the mean of the first nine numbers is 55, find the $10^{\\text{th}}$ number.",
+        "options": ["75", "65", "55", "45"],
+        "answer": "B",
+        "explanation": "$10^{\\text{th}}$ number $= (10 \\times 56) - (9 \\times 55) = 560 - 495 = 65$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 32,
+        "question": "Simplify $\\frac{2 - 18m^2}{1 + 3m}$.",
+        "options": ["$2(1+3m)$", "$2(1-3m)$", "$2(1-3m^2)$", "$2(1+3m^2)$"],
+        "answer": "B",
+        "explanation": "Factor the numerator using difference of squares: $\\frac{2(1 - 3m)(1 + 3m)}{1 + 3m} = 2(1 - 3m)$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 33,
+        "question": "In the diagram, $\\triangle MNR$ is inscribed in circle $MNR$, and line $PQ$ is a straight line. $\\angle MRN = 41^\\circ$ and $\\text{arc } MN = 141^\\circ$, find $\\angle QNR$.",
+        "options": ["$39^\\circ$", "$80^\\circ$", "$110^\\circ$", "$141^\\circ$"],
+        "answer": "C",
+        "explanation": "Using $\\angle QNM = \\angle MRN = 41^\\circ$ and the likely intended $\\angle R N M = 69^\\circ$, $\\angle Q N R = 41^\\circ + 69^\\circ = 110^\\circ$.",
+        "source": "WAEC 2022",
+        "image_path": "maths2022/image5.png"
+    },
+    {
+        "id": 34,
+        "question": "Solve $\\frac{y+2}{4} - \\frac{y-1}{3} > 1$.",
+        "options": ["$y < -10$", "$y < -2$", "$y < 2$", "$y < 10$"],
+        "answer": "B",
+        "explanation": "$3y + 6 - 4y + 4 > 12$. $-y + 10 > 12$. $y < -2$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 35,
+        "question": "The age (years) of some members in a singing group are: 12, 47, 49, 15, 43, 41, 13, 39, 43, 41 and 36. Find the lower quartile.",
+        "options": ["12", "13", "15", "20"],
+        "answer": "C",
+        "explanation": "Sorted data: 12, 13, **15**, 36, 39, 41, 41, 43, 43, 47, 49. $Q_1 = 15$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 36,
+        "question": "The age (years) of some members in a singing group are: 12, 47, 49, 15, 43, 41, 13, 39, 43, 41 and 36. Find the mean.",
+        "options": ["33.35", "35.54", "34.45", "36.44"],
+        "answer": "D",
+        "explanation": "Mean $= 399 / 11 \\approx 36.27$. $36.44$ is the closest option.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 37,
+        "question": "Find the correct to two decimal places, the volume of a sphere whose radius is $3\\text{ cm}$. [Take $\\pi = 22/7$]",
+        "options": ["$72.57\\text{ cm}^3$", "$88.12\\text{ cm}^3$", "$105.29\\text{ cm}^3$", "$113.14\\text{ cm}^3$"],
+        "answer": "D",
+        "explanation": "Volume $V = \\frac{4}{3}\\pi r^3 \\approx 113.14\\text{ cm}^3$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 38,
+        "question": "The lengths of the parallel sides of a trapezium are $9\\text{ cm}$ and $12\\text{ cm}$. If the area of the trapezium is $105\\text{ cm}^2$, find the perpendicular distance between the parallel sides.",
+        "options": ["$5\\text{ cm}$", "$7\\text{ cm}$", "$10\\text{ cm}$", "$15\\text{ cm}$"],
+        "answer": "C",
+        "explanation": "Area $A = \\frac{1}{2}(a+b)h$. $105 = \\frac{1}{2}(21)h$. $h = 10\\text{ cm}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 39,
+        "question": "Find the volume of a cone of radius $3.5\\text{ cm}$ and vertical height $12\\text{ cm}$. [Take $\\pi = 22/7$]",
+        "options": ["$15.5\\text{ cm}^3$", "$21.0\\text{ cm}^3$", "$142\\text{ cm}^3$", "$154\\text{ cm}^3$"],
+        "answer": "D",
+        "explanation": "Volume $V = \\frac{1}{3}\\pi r^2 h = 154\\text{ cm}^3$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 40,
+        "question": "A local community has two newspapers: the Morning Times ($M$) and the Evening Dispatch ($E$). $P(M) = 0.45$, $P(E) = 0.60$, and $P(M \\cap E) = 0.20$. What is the probability that a particular household reads at least one paper?",
+        "options": ["0.45", "0.65", "0.85", "0.95"],
+        "answer": "C",
+        "explanation": "$P(M \\cup E) = 0.45 + 0.60 - 0.20 = 0.85$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 41,
+        "question": "A rectangle with width $\\frac{3}{4}\\text{ cm}$ and area $3 \\frac{3}{8}\\text{ cm}^2$. Find the length.",
+        "options": ["$6\\text{ cm}$", "$4 \\frac{1}{2}\\text{ cm}$", "$2 \\frac{5}{8}\\text{ cm}$", "$12\\text{ cm}$"],
+        "answer": "B",
+        "explanation": "Length $= \\frac{27}{8} \\div \\frac{3}{4} = 4 \\frac{1}{2}\\text{ cm}$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 42,
+        "question": "The mean of two numbers $x$ and $y$ is 4. Find the mean of four numbers $x, 2x, y$ and $2y$.",
+        "options": ["2", "4", "6", "8"],
+        "answer": "C",
+        "explanation": "New mean $= \\frac{3(x+y)}{4}$. Since $x+y=8$, the new mean is $3(8)/4 = 6$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 43,
+        "question": "The straight line $y = mx - 4$ passes through the point $(-4, 16)$. Calculate the gradient of the line.",
+        "options": ["-5", "-3", "3", "5"],
+        "answer": "A",
+        "explanation": "Substitute: $16 = m(-4) - 4$. $4m = -20$. $m = -5$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 44,
+        "question": "If the equations $x^2 - 5x + 6 = 0$ and $x^2 + px + 6 = 0$ have the same roots, find the value of $p$.",
+        "options": ["5", "6", "-5", "-6"],
+        "answer": "C",
+        "explanation": "For identical roots, coefficients must be the same: $p = -5$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 45,
+        "question": "A trader made a loss of 15% when an article was sold. Find the ratio of the selling price : cost price.",
+        "options": ["3:20", "3:17", "17:20", "20:23"],
+        "answer": "C",
+        "explanation": "SP : CP $= 85 : 100 = 17 : 20$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 46,
+        "question": "Given that $\\log_3 27 = 2x + 1$, find the value of $x$.",
+        "options": ["0", "1", "2", "3"],
+        "answer": "B",
+        "explanation": "$3 = 2x + 1$. $x = 1$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 47,
+        "question": "Solve $6x^2 = 5x - 1$.",
+        "options": ["$x = 2, 3$", "$x = 0, 3$", "$x = \\frac{1}{2}, \\frac{1}{3}$", "$x = \\frac{1}{2}, -\\frac{1}{3}$"],
+        "answer": "C",
+        "explanation": "$6x^2 - 5x + 1 = 0 \\implies x = 1/2, 1/3$.",
+        "source": "WAEC 2022",
+        "image_path": ""
+    },
+    {
+        "id": 48,
+        "question": "Solve the simultaneous equations: $3x - y = 7$ and $x + y = 5$. Find the value of $x$ and $y$.",
+        "options": ["$x=2, y=3$", "$x=3, y=2$", "$x=4, y=1$", "$x=1, y=4$"],
+        "answer": "B",
+        "explanation": "Add equations: $4x = 12 \\implies x = 3$. Then $3 + y = 5 \\implies y = 2$.",
+        "source": "Custom",
+        "image_path": ""
+    },
+    {
+        "id": 49,
+        "question": "Find the standard deviation of the data set: 4, 6, 8, 10, 12.",
+        "options": ["$\\sqrt{8}$", "$2$", "$2\\sqrt{2}$", "$3.5$"],
+        "answer": "C",
+        "explanation": "Mean $= 8$. Variance $= 8$. Standard Deviation $\\sigma = \\sqrt{8} = 2\\sqrt{2}$.",
+        "source": "Custom",
+        "image_path": ""
+    },
+    {
+        "id": 50,
+        "question": "An aircraft flies from point A to point B on a bearing of $110^\\circ$ for a distance of $400\\text{ km}$. How far East of A is B? (Give your answer to the nearest kilometer).",
+        "options": ["$137\\text{ km}$", "$376\\text{ km}$", "$214\\text{ km}$", "$400\\text{ km}$"],
+        "answer": "B",
+        "explanation": "East distance $= 400 \\times \\sin(110^\\circ) \\approx 376\\text{ km}$.",
+        "source": "Custom",
+        "image_path": ""
+    }
+]

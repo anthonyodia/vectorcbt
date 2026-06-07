@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following items is an example of industrial goods?",
+    "options": {
+      "A": "Cassava tuber",
+      "B": "Toothpaste",
+      "C": "Bread",
+      "D": "Cake"
+    },
+    "answer": "A",
+    "explanation": "Industrial goods are those purchased for use in producing other products or for use in a business's operations. Cassava tuber can be processed into other goods like flour or garri by a company, making it an industrial good. Toothpaste, Bread, and Cake are typically bought by final consumers, making them consumer goods."
+  },
+  {
+    "id": 2,
+    "question": "The first institution to introduce a degree programme in marketing in Nigeria is University of",
+    "options": {
+      "A": "Ibadan",
+      "B": "Nigeria, Nsukka",
+      "C": "Lagos",
+      "D": "Jos"
+    },
+    "answer": "B",
+    "explanation": "The University of Nigeria, Nsukka (UNN) is recognized as the first institution in Nigeria to introduce a degree programme in Marketing, starting in the Department of Marketing."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following marketing terms is applied to a buyer that obtains a desired product by offering something in return?",
+    "options": {
+      "A": "Needs",
+      "B": "Wants",
+      "C": "Demand",
+      "D": "Exchange"
+    },
+    "answer": "D",
+    "explanation": "Exchange is the act of obtaining a desired object from someone by offering something in return. It is a core concept of marketing. Needs, Wants, and Demand relate to the state of deprivation and desire, not the actual transaction."
+  },
+  {
+    "id": 4,
+    "question": "A company's orientation that concentrates on mass distribution and low cost of its products is a",
+    "options": {
+      "A": "product concept",
+      "B": "production concept",
+      "C": "marketing concept",
+      "D": "selling concept"
+    },
+    "answer": "B",
+    "explanation": "The production concept holds that consumers will favor products that are widely available and highly affordable. Management should focus on improving production and distribution efficiency."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following business orientations stresses that promotional efforts are necessary before customers buy a product?",
+    "options": {
+      "A": "production concept",
+      "B": "product concept",
+      "C": "selling concept",
+      "D": "marketing concept"
+    },
+    "answer": "C",
+    "explanation": "The selling concept focuses on generating transactions through aggressive sales and promotional efforts, believing that customers will not buy enough of the firm's products unless it undertakes a large-scale selling and promotion effort."
+  },
+  {
+    "id": 6,
+    "question": "A set of controllable variables that a firm uses to pursue its objectives is",
+    "options": {
+      "A": "product mix",
+      "B": "product concept",
+      "C": "selling concept",
+      "D": "marketing mix"
+    },
+    "answer": "D",
+    "explanation": "The marketing mix, often referred to as the 4 Ps: Product, Price, Place, and Promotion, is the set of tactical marketing tools that the firm blends to produce the response it wants in the target market."
+  },
+  {
+    "id": 7,
+    "question": "A feature of product as a marketing mix element is",
+    "options": {
+      "A": "credit terms",
+      "B": "warranty",
+      "C": "cash discount",
+      "D": "allowances"
+    },
+    "answer": "B",
+    "explanation": "Warranty is a guarantee provided by the seller concerning the quality and nature of the product, making it a feature of the product itself. Credit terms, cash discount, and allowances are aspects of the Price element."
+  },
+  {
+    "id": 8,
+    "question": "Which marketing mix element is applicable when a firm provides parking space for its customers?",
+    "options": {
+      "A": "process",
+      "B": "people",
+      "C": "price",
+      "D": "promotion"
+    },
+    "answer": "A",
+    "explanation": "In the extended 7 Ps of marketing, Process refers to the procedures, mechanisms, and flow of activities by which a service is delivered to the customer, which includes the entire customer experience such as ease of access, speed, and support facilities like parking space."
+  },
+  {
+    "id": 9,
+    "question": "In marketing, the term product refers to",
+    "options": {
+      "A": "any item that can be seen or touched",
+      "B": "anything that can be offered for consumption",
+      "C": "goods and ideas",
+      "D": "packages' design and warranty"
+    },
+    "answer": "B",
+    "explanation": "The marketing definition of a product is broad, encompassing anything that can be offered to a market for attention, acquisition, use, or consumption that might satisfy a need or want. This includes physical goods, services, experiences, places, organizations, ideas, and people."
+  },
+  {
+    "id": 10,
+    "question": "Milk, sugar and bread bought by Amaka for her children's breakfast is an example of",
+    "options": {
+      "A": "shopping goods",
+      "B": "convenience goods",
+      "C": "specialty goods",
+      "D": "unsought goods"
+    },
+    "answer": "B",
+    "explanation": "Convenience goods are consumer products and services that customers usually buy frequently, immediately, and with minimal comparison and buying effort, e.g., milk, bread, sugar. They are essential, low-cost items."
+  },
+  {
+    "id": 11,
+    "question": "Companies that purchase goods for further processing is an example of",
+    "options": {
+      "A": "a consumer market",
+      "B": "an industrial market",
+      "C": "a reseller market",
+      "D": "a government market"
+    },
+    "answer": "B",
+    "explanation": "The industrial market (also called the producer or business market) consists of organizations that buy goods and services that are used in the production of other products or services that are sold, rented, or supplied to others."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following statements explains an organizational market",
+    "options": {
+      "A": "Buyers are widespread",
+      "B": "Buyers are price conscious",
+      "C": "Purchasing is on first-come, first-serve basis",
+      "D": "Purchasing is done by trained personnel"
+    },
+    "answer": "D",
+    "explanation": "In an organizational market (business-to-business or B2B), purchasing is often done by professional, trained procurement managers or buying committees, making the process more formalized and professional than in consumer markets."
+  },
+  {
+    "id": 13,
+    "question": "At what stage in the buying process does a consumer consider product attributes of valuable brands?",
+    "options": {
+      "A": "Alternative search",
+      "B": "Alternative evaluation",
+      "C": "Purchase decision",
+      "D": "Post-purchase decision"
+    },
+    "answer": "B",
+    "explanation": "In the alternative evaluation stage, the consumer uses information to evaluate alternative brands in the choice set. They compare the attributes of the different valuable brands they have considered."
+  },
+  {
+    "id": 14,
+    "question": "The last stage in the consumer buying decision process is",
+    "options": {
+      "A": "information search",
+      "B": "evaluation of alternatives",
+      "C": "problem recognition",
+      "D": "post-purchase decision"
+    },
+    "answer": "D",
+    "explanation": "The stages are: 1. Problem Recognition, 2. Information Search, 3. Evaluation of Alternatives, 4. Purchase Decision, and finally, 5. Post-purchase Decision (or behavior), where the customer evaluates their satisfaction or dissatisfaction."
+  },
+  {
+    "id": 15,
+    "question": "The process of collecting and analyzing relevant information to solve a marketing problem is marketing",
+    "options": {
+      "A": "intelligence",
+      "B": "research",
+      "C": "audit",
+      "D": "planning"
+    },
+    "answer": "B",
+    "explanation": "Marketing research is the systematic design, collection, analysis, and reporting of data relevant to a specific marketing situation facing an organization."
+  },
+  {
+    "id": 16,
+    "question": "An information required for marketing planning is",
+    "options": {
+      "A": "product quality control mechanism",
+      "B": "company's recruitment policy",
+      "C": "previous year's sales volume",
+      "D": "company's financial policy"
+    },
+    "answer": "C",
+    "explanation": "Previous year's sales volume is crucial for marketing planning as it forms the basis for setting sales forecasts, budgets, and marketing objectives for the current period. It helps assess past performance."
+  },
+  {
+    "id": 17,
+    "question": "The purpose of feedback from customers who use a company's product is to",
+    "options": {
+      "A": "train marketing staff",
+      "B": "improve the quality of products",
+      "C": "determine distribution channel to adopt",
+      "D": "determine the promotional tool to adopt"
+    },
+    "answer": "B",
+    "explanation": "Customer feedback provides direct insights into what is working well and what needs improvement in the product's design, features, and performance. This data is primarily used to improve the quality of products."
+  },
+  {
+    "id": 18,
+    "question": "A retailer's cost and selling price for a bag of rice are N10,000 and N14,000 respectively. What is the company's mark-up on cost?",
+    "options": {
+      "A": "28.6%",
+      "B": "35%",
+      "C": "40%",
+      "D": "71.4%"
+    },
+    "answer": "C",
+    "explanation": "Mark-up on Cost is calculated as: Profit divided by Cost Price times 100. Profit = Selling Price - Cost Price = N14,000 - N10,000 = N4,000. Mark-up on Cost (%) = (4000 / 10000) x 100 = 40%."
+  },
+  {
+    "id": 19,
+    "question": "A retailer's cost and selling price for a bag of rice are N10,000 and N14,000 respectively. What is the retailer's profit per bag of rice if he incurs an additional cost of N500 on each bag of rice?",
+    "options": {
+      "A": "N3,000",
+      "B": "N3,500",
+      "C": "N4,000",
+      "D": "N4,500"
+    },
+    "answer": "B",
+    "explanation": "Profit is calculated as: Selling Price - (Original Cost + Additional Cost). Total Cost = N10,000 + N500 = N10,500. Profit = N14,000 - N10,500 = N3,500."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following activities is not a function of advertising?",
+    "options": {
+      "A": "informs the audience about a product",
+      "B": "reminds the audience about a product",
+      "C": "is used in place of personal selling",
+      "D": "encourages middlemen to stock a product desired"
+    },
+    "answer": "C",
+    "explanation": "Advertising and personal selling are distinct promotional tools. While advertising creates awareness and interest, it cannot fully replace personal selling because personal selling involves direct, two-way communication and often the ability to close a sale."
+  },
+  {
+    "id": 21,
+    "question": "An example of a non-personal means of reaching the target audience by an identified sponsor is",
+    "options": {
+      "A": "personal selling",
+      "B": "coupon",
+      "C": "sales promotion",
+      "D": "billboard"
+    },
+    "answer": "D",
+    "explanation": "Advertising is a non-personal presentation of ideas, goods, or services by an identified sponsor. A billboard is a form of outdoor advertising."
+  },
+  {
+    "id": 22,
+    "question": "A reason for granting quantity discount is to",
+    "options": {
+      "A": "encourage prompt payment",
+      "B": "encourage bulk purchases",
+      "C": "make sales outlet popular",
+      "D": "encourage competitions"
+    },
+    "answer": "B",
+    "explanation": "Quantity discounts are price reductions offered to buyers who purchase large volumes. Their main purpose is to encourage bulk purchases."
+  },
+  {
+    "id": 23,
+    "question": "Coupon is used as a sale promotional tool targeted at",
+    "options": {
+      "A": "wholesalers",
+      "B": "consumers",
+      "C": "retailers",
+      "D": "salesmen"
+    },
+    "answer": "B",
+    "explanation": "Coupons offer a saving off the regular price of a product and are typically distributed directly to final consumers to encourage immediate purchase."
+  },
+  {
+    "id": 24,
+    "question": "The creation of awareness for product at the point of sale is",
+    "options": {
+      "A": "sales promotion",
+      "B": "sampling",
+      "C": "personal selling",
+      "D": "merchandising"
+    },
+    "answer": "D",
+    "explanation": "Merchandising involves all the activities that contribute to the presentation of a product at the point of sale, including display, store layout, and signage."
+  },
+  {
+    "id": 25,
+    "question": "An example of merchandising activity is",
+    "options": {
+      "A": "canvassing for customers by salesmen",
+      "B": "displaying product at the retail store",
+      "C": "distribution of goods to customers",
+      "D": "sales call by salesmen"
+    },
+    "answer": "B",
+    "explanation": "Displaying product at the retail store is a key merchandising activity, which involves arranging products appealingly to attract customer attention and stimulate sales at the point of purchase."
+  },
+  {
+    "id": 26,
+    "question": "The channel member who does not take title to goods is the",
+    "options": {
+      "A": "retailer",
+      "B": "wholesaler",
+      "C": "agent",
+      "D": "distributor"
+    },
+    "answer": "C",
+    "explanation": "An agent (or broker) assists in the transfer of ownership of the goods but does not take legal title to the goods themselves. They work on commission. Wholesalers and retailers take title (own the goods) before reselling them."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following distribution channels would be used to sell tractors and cranes?",
+    "options": {
+      "A": "Producer>Agent>Consumer",
+      "B": "Producer>Agent>Retailer>Consumers",
+      "C": "Producer>Agent>Wholesaler>Retailer>Consumer",
+      "D": "Producer>Agent>Wholesaler>Consumer"
+    },
+    "answer": "A",
+    "explanation": "Heavy industrial equipment like tractors and cranes are high-cost, high-service specialty industrial products. They are typically sold directly or through a very short channel to the final industrial buyer, often using an agent. The shortest channel is Producer > Agent > Consumer."
+  },
+  {
+    "id": 28,
+    "question": "The document that shows the details of goods being transported is the",
+    "options": {
+      "A": "bill of exchange",
+      "B": "invoice",
+      "C": "waybill",
+      "D": "Certificate or Origin"
+    },
+    "answer": "C",
+    "explanation": "A waybill (or consignment note) is a document issued by a carrier detailing the shipment of goods, including the sender, recipient, origin, destination, and product details. It essentially acts as a receipt and contract for carriage."
+  },
+  {
+    "id": 29,
+    "question": "One of the reasons transportation is important is that it",
+    "options": {
+      "A": "ensures customers' satisfaction",
+      "B": "ensures profit maximization",
+      "C": "facilitates the distribution of goods",
+      "D": "ensures stabilization of product price"
+    },
+    "answer": "C",
+    "explanation": "Transportation is the physical movement of goods from the point of production to the point of consumption. Its primary role in the distribution process is to facilitate the distribution of goods by overcoming the spatial gap."
+  },
+  {
+    "id": 30,
+    "question": "An example of a government warehouse is",
+    "options": {
+      "A": "co-operative warehouse",
+      "B": "bonded warehouse",
+      "C": "manufacturer's warehouse",
+      "D": "private warehouse"
+    },
+    "answer": "B",
+    "explanation": "A bonded warehouse is a secure area where imported goods subject to excise or customs duties can be stored, manipulated, or undergo manufacturing operations without payment of duty. They are controlled by government authorities."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following goods are kept in bonded warehouse?",
+    "options": {
+      "A": "Semi-finished goods",
+      "B": "Dutiable goods",
+      "C": "Consumer goods",
+      "D": "Finished goods"
+    },
+    "answer": "B",
+    "explanation": "Dutiable goods (imported goods on which customs duty must be paid) are stored in a bonded warehouse until the duty is paid, hence the government control."
+  },
+  {
+    "id": 32,
+    "question": "A body that comprises sellers of onions in an area is an example of a",
+    "options": {
+      "A": "labour union",
+      "B": "traders' union",
+      "C": "co-operative society",
+      "D": "political union"
+    },
+    "answer": "B",
+    "explanation": "A traders' union is an organization of traders or sellers of particular goods or services in a locality, formed to protect their business interests and regulate market practices."
+  },
+  {
+    "id": 33,
+    "question": "An organization formed by a group of people to achieve economic objectives jointly is a",
+    "options": {
+      "A": "labour union",
+      "B": "traders' union",
+      "C": "co-operative society",
+      "D": "political union"
+    },
+    "answer": "C",
+    "explanation": "A co-operative society is an autonomous association of persons united voluntarily to meet common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise."
+  },
+  {
+    "id": 34,
+    "question": "The main aim of a co-operative society is to",
+    "options": {
+      "A": "increase members' profit",
+      "B": "ensure collective bargaining",
+      "C": "help members obtain goods at low cost",
+      "D": "reduce members' responsibilities"
+    },
+    "answer": "C",
+    "explanation": "Co-operative societies help members obtain goods or services at lower costs through collective purchasing power, thereby providing economic benefits to members."
+  },
+  {
+    "id": 35,
+    "question": "Goods sold in large quantities at low prices to retailers and consumers are called",
+    "options": {
+      "A": "industrial goods",
+      "B": "consumer goods",
+      "C": "wholesale goods",
+      "D": "retail goods"
+    },
+    "answer": "C",
+    "explanation": "Wholesale goods are sold in large quantities, usually to retailers or other businesses, at lower prices per unit. Retail goods are sold in small quantities directly to consumers."
+  },
+  {
+    "id": 36,
+    "question": "Goods sold to end-users for consumption are called",
+    "options": {
+      "A": "industrial goods",
+      "B": "consumer goods",
+      "C": "wholesale goods",
+      "D": "retail goods"
+    },
+    "answer": "B",
+    "explanation": "Consumer goods are products purchased by the final consumer for personal use or household consumption, as opposed to industrial or wholesale goods used in production or resale."
+  },
+  {
+    "id": 37,
+    "question": "Goods sold in small quantities directly to consumers are called",
+    "options": {
+      "A": "industrial goods",
+      "B": "consumer goods",
+      "C": "wholesale goods",
+      "D": "retail goods"
+    },
+    "answer": "D",
+    "explanation": "Retail goods are products sold directly to the final consumer in relatively small quantities. Retailers buy from wholesalers or producers and sell to the public."
+  },
+  {
+    "id": 38,
+    "question": "Goods bought to be used in producing other goods or services are called",
+    "options": {
+      "A": "industrial goods",
+      "B": "consumer goods",
+      "C": "wholesale goods",
+      "D": "retail goods"
+    },
+    "answer": "A",
+    "explanation": "Industrial goods are purchased by businesses to be used in the production of other goods and services. They are not purchased for direct consumption."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following are consumer goods?",
+    "options": {
+      "A": "Furniture, raw materials, machinery",
+      "B": "Bread, toothpaste, soap",
+      "C": "Fertilizers, machine tools, chemicals",
+      "D": "Plastic containers, ropes, thread"
+    },
+    "answer": "B",
+    "explanation": "Consumer goods are final goods purchased by the consumer for personal use. Bread, toothpaste, and soap are bought directly for consumption."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is not a function of packaging?",
+    "options": {
+      "A": "protects the contents",
+      "B": "informs consumers about the product",
+      "C": "facilitates handling and transport",
+      "D": "guarantees high sales volume"
+    },
+    "answer": "D",
+    "explanation": "Packaging serves to protect the product, facilitate handling, transport, and display, and provide information to consumers. It cannot guarantee sales volume."
+  }
+]

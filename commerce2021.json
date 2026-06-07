@@ -1,0 +1,605 @@
+{
+  "subject": "Commerce 2021",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Commerce started as a result of _______",
+      "options": {
+        "A": "competition",
+        "B": "distribution",
+        "C": "privatization",
+        "D": "Specialization"
+      },
+      "answer": "D",
+      "explanation": "Commerce evolved when people began to specialize in producing specific goods and needed to exchange their surplus for things they couldn't produce themselves."
+    },
+    {
+      "id": 2,
+      "question": "The process of changing raw materials into finished goods is ________",
+      "options": {
+        "A": "construction",
+        "B": "extraction",
+        "C": "manufacturing",
+        "D": "marketing"
+      },
+      "answer": "C",
+      "explanation": "Manufacturing is the secondary level of production where raw materials are processed into finished or semi-finished products."
+    },
+    {
+      "id": 3,
+      "question": "An example of a primary product is _____",
+      "options": {
+        "A": "textile",
+        "B": "palm oil",
+        "C": "flour",
+        "D": "cocoa"
+      },
+      "answer": "D",
+      "explanation": "Cocoa is a primary product because it is obtained directly from the earth (extraction/agriculture) before processing."
+    },
+    {
+      "id": 4,
+      "question": "All activities geared towards the distribution and exchange of goods and services is _______",
+      "options": {
+        "A": "commerce",
+        "B": "market survey",
+        "C": "personal selling",
+        "D": "trade"
+      },
+      "answer": "A",
+      "explanation": "Commerce is defined as the sum total of all activities involved in the distribution and exchange of goods and services from the producer to the consumer."
+    },
+    {
+      "id": 5,
+      "question": "The word ''limited\" written after the name of a company means that ",
+      "options": {
+        "A": "it has a democratic system of management",
+        "B": "members are liable to the extent of their shareholdings only",
+        "C": "the company is a going concern",
+        "D": "profit is determined by management"
+      },
+      "answer": "B",
+      "explanation": "Limited Liability means that in the event of company failure, a shareholder's loss is restricted to the amount they invested in shares."
+    },
+    {
+      "id": 6,
+      "question": "Which type of occupation is a carpenter engaged in?",
+      "options": {
+        "A": "Commercial",
+        "B": "Construction",
+        "C": "Extraction",
+        "D": "Manufacturing"
+      },
+      "answer": "B",
+      "explanation": "Carpentry is part of constructive industry, which involves putting together processed materials to create finished structures."
+    },
+    {
+      "id": 7,
+      "question": "The reward for land as a factor of production is",
+      "options": {
+        "A": "wage",
+        "B": "rent",
+        "C": "profit",
+        "D": "interest"
+      },
+      "answer": "B",
+      "explanation": "The four factors of production have specific rewards: Land (Rent), Labour (Wages/Salaries), Capital (Interest), and Entrepreneur (Profit)."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following businesses can raise capital through the stock exchange?",
+      "options": {
+        "A": "Sole proprietorship",
+        "B": "Private company",
+        "C": "Public company",
+        "D": "Cooperative society"
+      },
+      "answer": "C",
+      "explanation": "Only Public Limited Companies (Plc) are allowed to offer shares to the general public via the Stock Exchange."
+    },
+    {
+      "id": 9,
+      "question": "One of the disadvantages of selling on credit is",
+      "options": {
+        "A": "reduction in turnover",
+        "B": "reduction in profit",
+        "C": "increase in liquidity",
+        "D": "bad debts"
+      },
+      "answer": "D",
+      "explanation": "Bad debt occurs when customers are unable or unwilling to pay back the money they owe for goods bought on credit."
+    },
+    {
+      "id": 10,
+      "question": "A number of shops under one roof is a ",
+      "options": {
+        "A": "chain store",
+        "B": "department store",
+        "C": "discount store",
+        "D": "unit store"
+      },
+      "answer": "B",
+      "explanation": "A department store is a large retail establishment divided into several departments, each selling a specific type of product, all under one roof."
+    },
+    {
+      "id": 11,
+      "question": "An organization of producers of similar produces, which controls output with the intention to fix price is a ",
+      "options": {
+        "A": "trust",
+        "B": "syndicate",
+        "C": "consortium",
+        "D": "cartel"
+      },
+      "answer": "D",
+      "explanation": "A cartel is a formal agreement between producers to regulate supply in order to manipulate prices."
+    },
+    {
+      "id": 12,
+      "question": "One of the functions of a trade association is to ",
+      "options": {
+        "A": "provide infrastructure for members",
+        "B": "provide employment for members",
+        "C": "promote members' welfare",
+        "D": "pay members' salaries"
+      },
+      "answer": "C",
+      "explanation": "Trade associations exist primarily to protect and promote the mutual interests and welfare of businesses in a specific industry."
+    },
+    {
+      "id": 13,
+      "question": "The practice of selling goods to a foreign country at lower prices than obtainable in the exporting country is ",
+      "options": {
+        "A": "speculation",
+        "B": "skimming",
+        "C": "hedging",
+        "D": "dumping"
+      },
+      "answer": "D",
+      "explanation": "Dumping is an international trade practice where a country exports goods at a price lower than its domestic price to gain market share."
+    },
+    {
+      "id": 14,
+      "question": "A foreign order which instructs an agent to buy certain goods from a particular supplier is",
+      "options": {
+        "A": "closed indent",
+        "B": "open indent",
+        "C": "letter of credit",
+        "D": "letter of enquiry"
+      },
+      "answer": "A",
+      "explanation": "A closed indent specifies the exact manufacturer or supplier the agent must use."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is not a condition for dissolution of a partnership? ",
+      "options": {
+        "A": "Continuous disagreement among partners",
+        "B": "Expiration of a business year",
+        "C": "Mutual consent of the patners",
+        "D": "Termination of the venture"
+      },
+      "answer": "B",
+      "explanation": "The end of a financial year does not dissolve a partnership; however, disagreement, completion of the project, or mutual agreement can."
+    },
+    {
+      "id": 16,
+      "question": "A country's balance of trade of -$20 million shows that its ",
+      "options": {
+        "A": "import volume is greater than export",
+        "B": "import and export volumes are equal",
+        "C": "export volume is greater than imports",
+        "D": "exports are mainly primary products"
+      },
+      "answer": "A",
+      "explanation": "A negative balance of trade (deficit) indicates that the value of visible imports exceeds the value of visible exports."
+    },
+    {
+      "id": 17,
+      "question": "The collection of import duty is a function of the",
+      "options": {
+        "A": "ports authority",
+        "B": "marketing boards",
+        "C": "clearing and forwarding agents",
+        "D": "customs and excise authority"
+      },
+      "answer": "D",
+      "explanation": "The Customs and Excise Authority is responsible for collecting taxes on imported and exported goods."
+    },
+    {
+      "id": 18,
+      "question": "An error on an invoice may be rectified by issuing",
+      "options": {
+        "A": "an advice note",
+        "B": "a consignment note",
+        "C": "a credit note",
+        "D": "a delivery note"
+      },
+      "answer": "C",
+      "explanation": "A credit note is issued by a seller to a buyer to correct an overcharge on an invoice."
+    },
+    {
+      "id": 19,
+      "question": "Use the information below to answer the question:<br><table><tr><td>Opening stock</td><td>4000</td></tr><tr><td>Closing stock</td><td>12000</td></tr><tr><td>Purchases</td><td>17000</td></tr></table><br>What is the average stock?",
+      "options": {
+        "A": "N10,500",
+        "B": "N8,500",
+        "C": "N8,000",
+        "D": "N6,000"
+      },
+      "answer": "C",
+      "explanation": "Average Stock = (Opening Stock + Closing Stock) / 2. Here: (4,000 + 12,000) / 2 = 8,000."
+    },
+    {
+      "id": 20,
+      "question": "Use the information below to answer the question:<br><table><tr><td>Opening stock</td><td>4000</td></tr><tr><td>Closing stock</td><td>12000</td></tr><tr><td>Purchases</td><td>17000</td></tr></table><br>The cost of goods sold is ",
+      "options": {
+        "A": "N4,000",
+        "B": "N9,000",
+        "C": "N16,000",
+        "D": "N21,000"
+      },
+      "answer": "B",
+      "explanation": "Cost of Goods Sold = Opening Stock + Purchases - Closing Stock. Here: 4,000 + 17,000 - 12,000 = 9,000."
+    },
+    {
+      "id": 21,
+      "question": "The expected response from the recipient of a quotation is to send",
+      "options": {
+        "A": "an advice note",
+        "B": "a cheque for payment",
+        "C": "an invoice",
+        "D": "an order"
+      },
+      "answer": "D",
+      "explanation": "After reviewing a quotation (price list), the buyer places an 'order' to request the specific goods."
+    },
+    {
+      "id": 22,
+      "question": "The main function of a bureau-de-change is ",
+      "options": {
+        "A": "buying and selling foreign currency",
+        "B": "buying and selling securities information",
+        "C": "providing trade information",
+        "D": "selling goods and services"
+      },
+      "answer": "A",
+      "explanation": "A bureau-de-change is an establishment where people can exchange one currency for another."
+    },
+    {
+      "id": 23,
+      "question": "The right of a seller to make corrections on invoices is expressed by the term",
+      "options": {
+        "A": "errors and omissions excepted",
+        "B": "errors omissions excluded",
+        "C": "errors and omissions exempted",
+        "D": "errors and omissions expected"
+      },
+      "answer": "A",
+      "explanation": "E & OE (Errors and Omissions Excepted) is a legal disclaimer used on invoices to indicate the seller reserves the right to correct clerical errors."
+    },
+    {
+      "id": 24,
+      "question": "Speed is an important factor to be considered for the choice of means of transport where goods are",
+      "options": {
+        "A": "perishable",
+        "B": "interior",
+        "C": "fragile",
+        "D": "bulky"
+      },
+      "answer": "A",
+      "explanation": "Perishable goods (like milk or fresh flowers) require rapid transport (air) to reach consumers before they spoil."
+    },
+    {
+      "id": 25,
+      "question": "The practice by which insurance companies share risks with other insurance companies is ",
+      "options": {
+        "A": "contribution",
+        "B": "re-insurance",
+        "C": "insurance",
+        "D": "underwriting"
+      },
+      "answer": "B",
+      "explanation": "Re-insurance occurs when an insurance company passes on part of a risk to another insurance company to avoid a massive single loss."
+    },
+    {
+      "id": 26,
+      "question": "One of the functions of the ports authority is",
+      "options": {
+        "A": "checking the activities of smugglers.",
+        "B": "collecting import duties",
+        "C": "enforcing law and order in harbours",
+        "D": "providing warehousing services."
+      },
+      "answer": "D",
+      "explanation": "While they manage the harbor, a major commercial function is providing berthing and warehousing for cargo."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following means of payment requires acceptance by the debtor to make it valuable? ",
+      "options": {
+        "A": "Bearer's cheque",
+        "B": "Bill of exchange",
+        "C": "Postal order",
+        "D": "Promissory note"
+      },
+      "answer": "B",
+      "explanation": "A bill of exchange must be 'accepted' (signed) by the debtor to acknowledge the obligation to pay on a specific date."
+    },
+    {
+      "id": 28,
+      "question": "The purpose for which the Central Bank sells securities is to ",
+      "options": {
+        "A": "reduce the interest rate",
+        "B": "reduce cash in the economy",
+        "C": "increase cash in the economy",
+        "D": "increase the interest rate"
+      },
+      "answer": "B",
+      "explanation": "This is part of Open Market Operations (OMO). Selling securities mops up excess liquidity (cash) from the banking system."
+    },
+    {
+      "id": 29,
+      "question": "The amount a current account holder is allowed to withdraw in excess of the balance in his account is _______",
+      "options": {
+        "A": "standing order",
+        "B": "overdraft",
+        "C": "interest",
+        "D": "credit transfer"
+      },
+      "answer": "B",
+      "explanation": "An overdraft is a short-term bank credit facility given only to current account holders."
+    },
+    {
+      "id": 30,
+      "question": "One of the qualities of tradable goods is ",
+      "options": {
+        "A": "divisibility",
+        "B": "heterogeneity",
+        "C": "homogeneity",
+        "D": "perishability"
+      },
+      "answer": "C",
+      "explanation": "In large-scale trade, homogeneity (uniformity in grade/standard) allows buyers to order goods without physical inspection."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following instruments of payment could be used in international trade? ",
+      "options": {
+        "A": "Promissory note",
+        "B": "Postal order",
+        "C": "I. O. U",
+        "D": "Bill of exchange"
+      },
+      "answer": "D",
+      "explanation": "Bills of Exchange are widely used in international trade to facilitate payment across borders."
+    },
+    {
+      "id": 32,
+      "question": "Bonded warehouses are supervised by ",
+      "options": {
+        "A": "clearing and forwarding agents",
+        "B": "customs and excise authorities",
+        "C": "immigration officers",
+        "D": "posts Authorities"
+      },
+      "answer": "B",
+      "explanation": "Bonded warehouses store dutiable goods. Customs authorities ensure they aren't released until duties are paid."
+    },
+    {
+      "id": 33,
+      "question": "An advertising campaign by a chicken seller designed to sell his products at the expense of a beef seller is ",
+      "options": {
+        "A": "competitive",
+        "B": "direct",
+        "C": "informative",
+        "D": "persuasive"
+      },
+      "answer": "A",
+      "explanation": "Competitive advertising aims to persuade consumers to buy one brand or product over its rivals."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following business risks would an insurance firm not cover for an entrepreneur? ",
+      "options": {
+        "A": "Theft",
+        "B": "Fire",
+        "C": "Loss of goods in transit",
+        "D": "Change in consumers' taste"
+      },
+      "answer": "D",
+      "explanation": "Changes in consumer taste are 'non-insurable risks' because they are part of normal business competition and cannot be statistically calculated."
+    },
+    {
+      "id": 35,
+      "question": "The main idea of the marketing concept is that all the firm's plans and operations should be ",
+      "options": {
+        "A": "product oriented",
+        "B": "price oriented",
+        "C": "consumer oriented",
+        "D": "company oriented."
+      },
+      "answer": "C",
+      "explanation": "The marketing concept focuses on identifying and satisfying consumer needs more effectively than competitors."
+    },
+    {
+      "id": 36,
+      "question": "A person who is for the purpose of bringing his principal into contractual relationship with third parties is ",
+      "options": {
+        "A": "a merchant",
+        "B": "a consignee",
+        "C": "a consignor",
+        "D": "an agent"
+      },
+      "answer": "D",
+      "explanation": "An agent is a person employed to represent another (the Principal) in dealings with third parties."
+    },
+    {
+      "id": 37,
+      "question": "The transfer of a government company to the public is ",
+      "options": {
+        "A": "commercialization",
+        "B": "localization",
+        "C": "deregulation",
+        "D": "privatization"
+      },
+      "answer": "D",
+      "explanation": "Privatization is the transfer of ownership and control of a government-owned enterprise to private individuals."
+    },
+    {
+      "id": 38,
+      "question": "One of the roles performed by middle managers is",
+      "options": {
+        "A": "formulation of objectives and strategies",
+        "B": "implementation of organizational plans",
+        "C": "review and appraisal of operational results",
+        "D": "review of master plans, programmes, and budgets"
+      },
+      "answer": "B",
+      "explanation": "Middle management acts as the bridge between top management (strategy) and lower management (execution), focusing on implementing plans."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is responsible for protecting consumers against poor quality goods ",
+      "options": {
+        "A": "Industrial tribunal",
+        "B": "Manufacturers associations",
+        "C": "Standard organization of Nigeria",
+        "D": "Trade associations"
+      },
+      "answer": "C",
+      "explanation": "The Standards Organisation of Nigeria (SON) ensures that manufactured products meet specific quality and safety standards."
+    },
+    {
+      "id": 40,
+      "question": "The saying that the 'consumer is always right' describes the doctrine of",
+      "options": {
+        "A": "caveat emptor",
+        "B": "consumer sovereignty",
+        "C": "consumer protection",
+        "D": "proximate cause"
+      },
+      "answer": "B",
+      "explanation": "Consumer sovereignty means that consumers have the power to decide what is produced based on their spending choices."
+    },
+    {
+      "id": 41,
+      "question": "A disadvantage of privatization is that ",
+      "options": {
+        "A": "there is reduction in the quality of goods",
+        "B": "there is incipiency in the supply of goods",
+        "C": "the existence of monopoly is high",
+        "D": "the profit motive outweighs public interest"
+      },
+      "answer": "D",
+      "explanation": "Private companies focus on profit, which may lead to higher prices or neglect of low-income areas compared to state-run services."
+    },
+    {
+      "id": 42,
+      "question": "The practice of making a state firm more profit-oriented is",
+      "options": {
+        "A": "privatization",
+        "B": "nationalization",
+        "C": "deregulation",
+        "D": "commercialization"
+      },
+      "answer": "D",
+      "explanation": "Commercialization makes a government enterprise run as a profit-making business without necessarily selling ownership."
+    },
+    {
+      "id": 43,
+      "question": "Trade fairs and exhibitions are media of",
+      "options": {
+        "A": "sales promotion",
+        "B": "market segmentation",
+        "C": "market research",
+        "D": "Customer service."
+      },
+      "answer": "A",
+      "explanation": "Trade fairs are short-term promotional activities used to display products and attract buyers."
+    },
+    {
+      "id": 44,
+      "question": "The income generated from tourism forms part of the country's ",
+      "options": {
+        "A": "visible imports",
+        "B": "visible exports",
+        "C": "invisible imports",
+        "D": "invisible exports"
+      },
+      "answer": "D",
+      "explanation": "Invisible exports refer to income earned from providing services (like tourism, banking, or shipping) to foreigners."
+    },
+    {
+      "id": 45,
+      "question": "An objective of the European Union is to",
+      "options": {
+        "A": "eliminate drug addiction in member countries",
+        "B": "eliminate tariffs and quotas among member countries",
+        "C": "encourage migrant workers from developing countries",
+        "D": "fight against child abuse in developing countries."
+      },
+      "answer": "B",
+      "explanation": "The EU is a common market designed to allow free trade by removing trade barriers like tariffs between member states."
+    },
+    {
+      "id": 46,
+      "question": "An inventor of a new machine for canning tomatoes can protect his product by ",
+      "options": {
+        "A": "obtaining a trademark",
+        "B": "obtaining a patent",
+        "C": "labelling the product",
+        "D": "choosing a brand name"
+      },
+      "answer": "B",
+      "explanation": "A Patent is a legal right granted to an inventor to exclude others from making or selling an invention for a set period."
+    },
+    {
+      "id": 47,
+      "question": "The concept of determining the objectives of a business and stating how they can be actualized is ",
+      "options": {
+        "A": "directing",
+        "B": "motivating",
+        "C": "organizing",
+        "D": "planning"
+      },
+      "answer": "D",
+      "explanation": "Planning is the primary management function that involves setting goals and choosing the means to achieve them."
+    },
+    {
+      "id": 48,
+      "question": "One of the aims of ECOWAS is to",
+      "options": {
+        "A": "provide a market for stocks and shares",
+        "B": "have a common political system",
+        "C": "foster exchange of goods and services",
+        "D": "create a common transport policy"
+      },
+      "answer": "C",
+      "explanation": "ECOWAS (Economic Community of West African States) aims to promote economic integration and trade among member countries."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following documents is used when a seller sends goods to a buyer on trial?",
+      "options": {
+        "A": "Credit note",
+        "B": "Pro-forma invoice",
+        "C": "Debit note",
+        "D": "Consignment note"
+      },
+      "answer": "B",
+      "explanation": "A pro-forma invoice is sent when goods are sent on 'approval' or 'trial' to show the value of goods if the sale were to be completed."
+    },
+    {
+      "id": 50,
+      "question": "Small scale retail outlets that are found in residential areas are",
+      "options": {
+        "A": "supermarkets",
+        "B": "corner shops",
+        "C": "mobile shops",
+        "D": "multiple shops"
+      },
+      "answer": "B",
+      "explanation": "Corner shops are small neighborhood retailers that provide convenience by being located close to consumers' homes."
+    }
+  ]
+}

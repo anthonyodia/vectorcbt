@@ -1,0 +1,623 @@
+{
+  "exam": "WAEC 2023 Literature",
+  "questions": [
+    {
+      "number": 1,
+      "question": "The moon looked on the massacre in horror ! illustrates",
+      "options": {
+        "A": "pathetic fallacy",
+        "B": "prologue",
+        "C": "epilogue",
+        "D": "transferred epithet"
+      },
+      "answer": "A",
+      "explanation": "Pathetic fallacy attributes human emotions to nature, as the moon 'looking on' shows."
+    },
+    {
+      "number": 2,
+      "question": "A dead metaphor is",
+      "options": {
+        "A": "overused and ineffective",
+        "B": "implied and not funny",
+        "C": "implied and underused",
+        "D": "overused and funny"
+      },
+      "answer": "A",
+      "explanation": "Dead metaphors are so overused they lose their original meaning."
+    },
+    {
+      "number": 3,
+      "question": "The third stanza of the Shakespearean sonnet is",
+      "options": {
+        "A": "couplet",
+        "B": "sextet",
+        "C": "octave",
+        "D": "quatrain"
+      },
+      "answer": "D",
+      "explanation": "Shakespearean sonnets have three quatrains and a concluding couplet."
+    },
+    {
+      "number": 4,
+      "passage": "Miniver Cheevy, child of scorn, Grew lean while he assailed the seasons He wept that he was ever born, And he had reasons. Miniver loved the days of old When swords were bright and steeds prancing The vision of a warrior bold Would set him dancing.",
+      "question": "child of scorn illustrates",
+      "options": {
+        "A": "euphemism",
+        "B": "contrast",
+        "C": "metaphor",
+        "D": "metonymy"
+      },
+      "answer": "C",
+      "explanation": "The phrase 'child of scorn' metaphorically refers to someone despised."
+    },
+    {
+      "number": 5,
+      "passage": "Miniver Cheevy, child of scorn, Grew lean while he assailed the seasons He wept that he was ever born, And he had reasons. Miniver loved the days of old When swords were bright and steeds prancing The vision of a warrior bold Would set him dancing.",
+      "question": "The metrical structure is predominantly",
+      "options": {
+        "A": "trochaic",
+        "B": "dactyllic",
+        "C": "iambic",
+        "D": "spondaic"
+      },
+      "answer": "C",
+      "explanation": "The poem uses iambic meter—unstressed followed by stressed syllables."
+    },
+    {
+      "number": 6,
+      "passage": "Miniver Cheevy, child of scorn, Grew lean while he assailed the seasons He wept that he was ever born, And he had reasons. Miniver loved the days of old When swords were bright and steeds prancing The vision of a warrior bold Would set him dancing.",
+      "question": "Reading the poem, one notices that the poet is being",
+      "options": {
+        "A": "hyperbolic",
+        "B": "euphemistic",
+        "C": "ironic",
+        "D": "sarcastic"
+      },
+      "answer": "C",
+      "explanation": "The poet uses irony to portray Miniver's unrealistic nostalgia."
+    },
+    {
+      "number": 7,
+      "passage": "Miniver Cheevy, child of scorn, Grew lean while he assailed the seasons He wept that he was ever born, And he had reasons. Miniver loved the days of old When swords were bright and steeds prancing The vision of a warrior bold Would set him dancing.",
+      "question": "In the last stanza, the persona is",
+      "options": {
+        "A": "fantasizing",
+        "B": "angry",
+        "C": "malnourished",
+        "D": "pretending"
+      },
+      "answer": "A",
+      "explanation": "The persona is fantasizing about the heroic past he never lived."
+    },
+    {
+      "number": 8,
+      "passage": "Miniver Cheevy, child of scorn, Grew lean while he assailed the seasons He wept that he was ever born, And he had reasons. Miniver loved the days of old When swords were bright and steeds prancing The vision of a warrior bold Would set him dancing.",
+      "question": "The two stanzas are built on",
+      "options": {
+        "A": "alternate rhyme",
+        "B": "identical rhymes",
+        "C": "couplets",
+        "D": "run-on lines"
+      },
+      "answer": "A",
+      "explanation": "The poem uses alternate rhyme schemes."
+    },
+    {
+      "number": 9,
+      "passage": "Along marched the crowd, determined not to be distracted from its cause and the course it had charted. If anyone could intimidate the chief, it was Sasu, who led the crowd. The chief nurtured unruffled restraint. He knew Sasu, knew that Sasu would not waste the trust between them on renegades. One way to divert a mob from its goal is to join in with it, lead it on, but, finally, veer it from the course of its cause. Onward, towards the chief's palace marched the crowd, singing war songs. The sun frowned as the palace guards, rattling like leaves in a storm - fear branded on their faces, came out to survey the threatening crowd and prepare for a siege. Just then, Sasu turned about, heading away from the palace - with the crowd, and the war songs.",
+      "question": "The prevailing atmosphere is",
+      "options": {
+        "A": "pleasant",
+        "B": "drab",
+        "C": "tense",
+        "D": "serene"
+      },
+      "answer": "C",
+      "explanation": "The tense mood is shown by the crowd's determination and the fearful guards."
+    },
+    {
+      "number": 10,
+      "passage": "One way to divert a mob from its goal is to join in with it, lead it on, but, finally, veer it from the course of its cause.",
+      "question": "join in with it, lead it on, but, finally,veer it from illustrates",
+      "options": {
+        "A": "allusion",
+        "B": "simile",
+        "C": "parallelism",
+        "D": "personification"
+      },
+      "answer": "C",
+      "explanation": "The repeated structure demonstrates parallelism."
+    },
+    {
+      "number": 11,
+      "passage": "Along marched the crowd... Just then, Sasu turned about, heading away from the palace - with the crowd, and the war songs.",
+      "question": "The attitude of the writer towards Sasu is one of",
+      "options": {
+        "A": "surprise",
+        "B": "anger",
+        "C": "approval",
+        "D": "disdain"
+      },
+      "answer": "C",
+      "explanation": "The writer admires Sasu’s restraint and leadership."
+    },
+    {
+      "number": 12,
+      "passage": "The sun frowned as the palace guards, rattling like leaves in a storm - fear branded on their faces...",
+      "question": "rattling like leaves in a storm, fear branded on their faces illustrates",
+      "options": {
+        "A": "personification and simile",
+        "B": "personification and metaphor",
+        "C": "simile and metaphor",
+        "D": "assonance and simile"
+      },
+      "answer": "A",
+      "explanation": "The sun 'frowning' is personification; 'rattling like leaves' is a simile."
+    },
+    {
+      "number": 13,
+      "passage": "Just then, Sasu turned about, heading away from the palace - with the crowd, and the war songs.",
+      "question": "The last paragraph illustrates",
+      "options": {
+        "A": "anti-climax",
+        "B": "rising action",
+        "C": "suspense",
+        "D": "foreshadow"
+      },
+      "answer": "A",
+      "explanation": "The sudden turning away is an anti-climax to the tension built."
+    },
+    {
+      "number": 14,
+      "question": "Letters, journals and diaries are examples of",
+      "options": {
+        "A": "faction",
+        "B": "meta-fiction",
+        "C": "fiction",
+        "D": "non-fiction"
+      },
+      "answer": "D",
+      "explanation": "Letters and diaries are non-fictional personal writings."
+    },
+    {
+      "number": 15,
+      "question": "A dramatic performance with scenes played by body movements or gestures without words known as",
+      "options": {
+        "A": "comedy",
+        "B": "pantomime",
+        "C": "panegyric",
+        "D": "melodrama"
+      },
+      "answer": "B",
+      "explanation": "Pantomime is acting using gestures without speech."
+    },
+    {
+      "number": 16,
+      "passage": "Use the following extract to answer the question that follows: Lie bath rid his prologue like a rough colt: he knows not the stop. A good moral, my lord: it is not enough to speak, but to speak true.",
+      "question": "The speaker is",
+      "options": {
+        "A": "Hippolyta",
+        "B": "Lysander",
+        "C": "Pyramus",
+        "D": "Bottom"
+      },
+      "answer": "D",
+      "explanation": "Bottom is the character who delivers the prologue in the play."
+    },
+    {
+      "number": 17,
+      "question": "The character that speaks before the speaker",
+      "options": {
+        "A": "Demetrius",
+        "B": "Theseus",
+        "C": "Pyramus",
+        "D": "Hippolyta"
+      },
+      "answer": "C",
+      "explanation": "Pyramus speaks before Bottom in the play."
+    },
+    {
+      "number": 18,
+      "question": "it is not enough to speak, but to speak true illustrates",
+      "options": {
+        "A": "parable",
+        "B": "epitaph",
+        "C": "wisecrack",
+        "D": "epigram"
+      },
+      "answer": "D",
+      "explanation": "The statement is a concise, clever epigram."
+    },
+    {
+      "number": 19,
+      "question": "The mood in the statement 'Lie bath rid his prologue like a rough colt: he knows not the stop' is",
+      "options": {
+        "A": "humorous",
+        "B": "serious",
+        "C": "solemn",
+        "D": "tragic"
+      },
+      "answer": "A",
+      "explanation": "The metaphor comparing prologue to a 'rough colt' creates a humorous effect."
+    },
+    {
+      "number": 20,
+      "question": "The main theme of the extract with Bottom’s prologue is",
+      "options": {
+        "A": "love and passion",
+        "B": "truth and appearance",
+        "C": "courage and bravery",
+        "D": "betrayal and revenge"
+      },
+      "answer": "B",
+      "explanation": "The extract focuses on speaking truth versus mere appearance."
+    },
+    {
+      "number": 21,
+      "passage": "I will roar you as gently as any sucking dove; I will roar you an ‘twere any nightingale.",
+      "question": "The use of the words ‘roar’ and ‘gently’ illustrates",
+      "options": {
+        "A": "oxymoron",
+        "B": "alliteration",
+        "C": "simile",
+        "D": "metaphor"
+      },
+      "answer": "A",
+      "explanation": "‘Roar’ and ‘gently’ are contradictory terms placed together, forming an oxymoron."
+    },
+    {
+      "number": 22,
+      "passage": "I will roar you as gently as any sucking dove; I will roar you an ‘twere any nightingale.",
+      "question": "The speaker’s intention in these lines is to",
+      "options": {
+        "A": "threaten",
+        "B": "express love",
+        "C": "show humor",
+        "D": "mock"
+      },
+      "answer": "C",
+      "explanation": "The exaggeration and contradiction create humor."
+    },
+    {
+      "number": 23,
+      "question": "The word ‘prologue’ in the play refers to",
+      "options": {
+        "A": "opening speech",
+        "B": "a song",
+        "C": "a play within a play",
+        "D": "a scene"
+      },
+      "answer": "A",
+      "explanation": "A prologue is the opening speech setting the stage."
+    },
+    {
+      "number": 24,
+      "question": "The phrase ‘he knows not the stop’ means",
+      "options": {
+        "A": "he doesn’t know when to stop",
+        "B": "he knows how to pause",
+        "C": "he refuses to start",
+        "D": "he ends the prologue well"
+      },
+      "answer": "A",
+      "explanation": "‘He knows not the stop’ implies he doesn’t know when to pause."
+    },
+    {
+      "number": 25,
+      "question": "In the statement ‘A good moral, my lord: it is not enough to speak, but to speak true,’ the message is",
+      "options": {
+        "A": "Speak often",
+        "B": "Speak with purpose",
+        "C": "Speak loud",
+        "D": "Speak softly"
+      },
+      "answer": "B",
+      "explanation": "The statement emphasizes the importance of truth in speech."
+    },
+    {
+      "number": 26,
+      "passage": "I met a lady in the meads, Full beautiful, a fairy's child, Her hair was long, her foot was light, And her eyes were wild.",
+      "question": "The lady described in the poem is",
+      "options": {
+        "A": "a mortal woman",
+        "B": "a fairy",
+        "C": "a goddess",
+        "D": "a queen"
+      },
+      "answer": "B",
+      "explanation": "The poem refers to a ‘fairy’s child’, indicating supernatural being."
+    },
+    {
+      "number": 27,
+      "passage": "Her hair was long, her foot was light, And her eyes were wild.",
+      "question": "The description creates an image of",
+      "options": {
+        "A": "beauty and wildness",
+        "B": "ugliness and fear",
+        "C": "calmness and peace",
+        "D": "weakness and frailty"
+      },
+      "answer": "A",
+      "explanation": "The imagery evokes a wild but beautiful figure."
+    },
+    {
+      "number": 28,
+      "passage": "I made a garland for her head, And bracelets too, and fragrant zone; She looked at me as she did love, And made sweet moan.",
+      "question": "The mood in this stanza is",
+      "options": {
+        "A": "joyful",
+        "B": "tender and romantic",
+        "C": "angry",
+        "D": "indifferent"
+      },
+      "answer": "B",
+      "explanation": "The gestures and reaction suggest romance and tenderness."
+    },
+    {
+      "number": 29,
+      "question": "The phrase ‘made sweet moan’ is an example of",
+      "options": {
+        "A": "alliteration",
+        "B": "onomatopoeia",
+        "C": "metaphor",
+        "D": "simile"
+      },
+      "answer": "B",
+      "explanation": "‘Moan’ is a sound word representing emotion."
+    },
+    {
+      "number": 30,
+      "passage": "But then she passed, and left me blind, And faded through the brightening air, And nothing else saw all day long, But fairyland.",
+      "question": "The phrase ‘left me blind’ implies",
+      "options": {
+        "A": "she was cruel",
+        "B": "he was heartbroken",
+        "C": "he lost his sight",
+        "D": "he was joyful"
+      },
+      "answer": "B",
+      "explanation": "‘Left me blind’ metaphorically shows his heartbreak and loss."
+    },
+    {
+      "number": 31,
+      "question": "The theme of the poem is",
+      "options": {
+        "A": "love and loss",
+        "B": "power and authority",
+        "C": "nature and wilderness",
+        "D": "death and mourning"
+      },
+      "answer": "A",
+      "explanation": "The poem deals with a romantic encounter and loss."
+    },
+    {
+      "number": 32,
+      "question": "The poem’s setting is",
+      "options": {
+        "A": "a forest",
+        "B": "a meadow",
+        "C": "a city",
+        "D": "a palace"
+      },
+      "answer": "B",
+      "explanation": "‘Meads’ refers to meadows or grassy fields."
+    },
+    {
+      "number": 33,
+      "question": "‘Her eyes were wild’ is an example of",
+      "options": {
+        "A": "personification",
+        "B": "simile",
+        "C": "metaphor",
+        "D": "imagery"
+      },
+      "answer": "D",
+      "explanation": "This phrase uses imagery to evoke a picture."
+    },
+    {
+      "number": 34,
+      "passage": "But then she passed, and left me blind, And faded through the brightening air, And nothing else saw all day long, But fairyland.",
+      "question": "The last line indicates",
+      "options": {
+        "A": "the speaker saw the fairyland physically",
+        "B": "the speaker's mind remained with the fairy",
+        "C": "the speaker lost direction",
+        "D": "the speaker was angry"
+      },
+      "answer": "B",
+      "explanation": "The speaker’s thoughts linger on the fairy and the magical place."
+    },
+    {
+      "number": 35,
+      "question": "The poetic device used in ‘And faded through the brightening air’ is",
+      "options": {
+        "A": "personification",
+        "B": "hyperbole",
+        "C": "alliteration",
+        "D": "assonance"
+      },
+      "answer": "A",
+      "explanation": "‘Faded’ implies a human action given to the fairy."
+    },
+    {
+      "number": 36,
+      "question": "In drama, the point at which the main conflict reaches the highest intensity is called",
+      "options": {
+        "A": "resolution",
+        "B": "denouement",
+        "C": "climax",
+        "D": "exposition"
+      },
+      "answer": "C",
+      "explanation": "The climax is the peak of conflict."
+    },
+    {
+      "number": 37,
+      "question": "The primary function of a prologue in a play is to",
+      "options": {
+        "A": "introduce the theme and setting",
+        "B": "introduce the actors",
+        "C": "show the climax",
+        "D": "end the play"
+      },
+      "answer": "A",
+      "explanation": "A prologue sets up context and themes."
+    },
+    {
+      "number": 38,
+      "question": "A soliloquy in drama is",
+      "options": {
+        "A": "a speech to other characters",
+        "B": "a speech revealing inner thoughts to the audience",
+        "C": "a dialogue between characters",
+        "D": "a short song"
+      },
+      "answer": "B",
+      "explanation": "Soliloquy exposes a character’s inner thoughts."
+    },
+    {
+      "number": 39,
+      "question": "The term ‘tragicomedy’ refers to a play that",
+      "options": {
+        "A": "is serious with a sad ending",
+        "B": "combines elements of tragedy and comedy",
+        "C": "is purely humorous",
+        "D": "has no dialogue"
+      },
+      "answer": "B",
+      "explanation": "Tragicomedy mixes tragedy and comedy."
+    },
+    {
+      "number": 40,
+      "question": "In poetry, the repetition of consonant sounds at the beginning of words is called",
+      "options": {
+        "A": "assonance",
+        "B": "alliteration",
+        "C": "rhyme",
+        "D": "onomatopoeia"
+      },
+      "answer": "B",
+      "explanation": "Alliteration is initial consonant repetition."
+    },
+    {
+      "number": 41,
+      "question": "The figure of speech that involves exaggeration for emphasis is",
+      "options": {
+        "A": "metaphor",
+        "B": "hyperbole",
+        "C": "personification",
+        "D": "allusion"
+      },
+      "answer": "B",
+      "explanation": "Hyperbole is deliberate exaggeration."
+    },
+    {
+      "number": 42,
+      "question": "The term ‘free verse’ refers to poetry that",
+      "options": {
+        "A": "has regular rhyme and rhythm",
+        "B": "has no fixed rhyme or rhythm",
+        "C": "is written in prose",
+        "D": "is always narrative"
+      },
+      "answer": "B",
+      "explanation": "Free verse lacks fixed patterns."
+    },
+    {
+      "number": 43,
+      "question": "The mood created by a writer is",
+      "options": {
+        "A": "the story's theme",
+        "B": "the emotional atmosphere",
+        "C": "the narrator's tone",
+        "D": "the characters' dialogue"
+      },
+      "answer": "B",
+      "explanation": "Mood is the feeling evoked in the reader."
+    },
+    {
+      "number": 44,
+      "question": "The difference between simile and metaphor is that",
+      "options": {
+        "A": "simile uses ‘like’ or ‘as’, metaphor does not",
+        "B": "metaphor uses ‘like’ or ‘as’, simile does not",
+        "C": "both are exactly the same",
+        "D": "simile is only in poetry"
+      },
+      "answer": "A",
+      "explanation": "Similes explicitly compare using ‘like’ or ‘as’."
+    },
+    {
+      "number": 45,
+      "question": "‘He is a lion in battle’ is an example of",
+      "options": {
+        "A": "simile",
+        "B": "metaphor",
+        "C": "personification",
+        "D": "hyperbole"
+      },
+      "answer": "B",
+      "explanation": "Direct comparison without ‘like’ or ‘as’ is metaphor."
+    },
+    {
+      "number": 46,
+      "question": "The author’s attitude toward a subject is known as",
+      "options": {
+        "A": "theme",
+        "B": "tone",
+        "C": "mood",
+        "D": "plot"
+      },
+      "answer": "B",
+      "explanation": "Tone reflects the author’s feelings."
+    },
+    {
+      "number": 47,
+      "question": "The use of hints or clues to suggest what will happen later in a story is",
+      "options": {
+        "A": "foreshadowing",
+        "B": "flashback",
+        "C": "suspense",
+        "D": "irony"
+      },
+      "answer": "A",
+      "explanation": "Foreshadowing prepares readers for future events."
+    },
+    {
+      "number": 48,
+      "question": "Which of the following is an example of onomatopoeia?",
+      "options": {
+        "A": "buzz",
+        "B": "bright",
+        "C": "quick",
+        "D": "strong"
+      },
+      "answer": "A",
+      "explanation": "Onomatopoeia imitates sounds."
+    },
+    {
+      "number": 49,
+      "question": "A narrative poem that tells a story is called a",
+      "options": {
+        "A": "lyric",
+        "B": "ballad",
+        "C": "ode",
+        "D": "epigram"
+      },
+      "answer": "B",
+      "explanation": "Ballads are story poems."
+    },
+    {
+      "number": 50,
+      "question": "The conclusion or resolution of a story is often called the",
+      "options": {
+        "A": "climax",
+        "B": "denouement",
+        "C": "exposition",
+        "D": "rising action"
+      },
+      "answer": "B",
+      "explanation": "Denouement is the final resolution."
+    }
+  ]
+}

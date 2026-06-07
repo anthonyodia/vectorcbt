@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "question": "The caravan of Ishmaelites that bought Joseph traded in",
+    "options": ["balm, gum and myrrh", "oil, balm and gum", "myrrh, maize and wheat", "gum, frankincense and oil"],
+    "answer": "balm, gum and myrrh",
+    "explanation": "According to Genesis 37:25, the Ishmaelites were coming from Gilead with their camels bearing gum, balm, and myrrh."
+  },
+  {
+    "id": 2,
+    "question": "Before Joseph came to Pharaoh after his release from prison, Joseph",
+    "options": ["ate some food", "prayed fervently", "shaved and ate", "shaved and changed his clothes"],
+    "answer": "shaved and changed his clothes",
+    "explanation": "Genesis 41:14 states that when Pharaoh sent for Joseph, he shaved himself and changed his clothes before appearing."
+  },
+  {
+    "id": 3,
+    "question": "How long was the famine before Joseph reconciled with his brother?",
+    "options": ["1 year", "2 years", "4 years", "5 years"],
+    "answer": "2 years",
+    "explanation": "In Genesis 45:6, Joseph tells his brothers that the famine had been in the land for two years, with five more years to come."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following was not an excuse Moses gave when he was called to deliver the Israelites?",
+    "options": ["The Israelites would not believe him", "He was slow to speak", "He was a murderer", "He doubted his own ability"],
+    "answer": "He was a murderer",
+    "explanation": "Moses cited his lack of eloquence (slow of speech) and the people's potential unbelief, but he never used his past crime as an excuse to God."
+  },
+  {
+    "id": 5,
+    "question": "Regardless of the Egyptians' suffering, Pharaoh refused to let the Israelites go because",
+    "options": ["the Israelites gave them cheap labour", "Pharaoh wanted to challenge God", "God allowed the Israelites to suffer", "the Israelites refused to pray to God"],
+    "answer": "the Israelites gave them cheap labour",
+    "explanation": "Economic interest and the loss of a massive slave labor force were primary reasons for Pharaoh's resistance."
+  },
+  {
+    "id": 6,
+    "question": "As soon as the Egyptians caught up with the Israelites at the Red sea, the pillar of clouds",
+    "options": ["vanished from the sight of the Israelites", "stood on the left side of the Israelites", "stood between the Israelites and the Egyptians", "moved ahead of the Israelites"],
+    "answer": "stood between the Israelites and the Egyptians",
+    "explanation": "Exodus 14:19-20 notes that the pillar of cloud moved from before them and stood behind them, separating the two camps."
+  },
+  {
+    "id": 7,
+    "question": "One of the spies Moses sent to the land of Canaan from the tribe of Reuben was",
+    "options": ["Shaphat", "Shammua", "Igal", "Gaddiel"],
+    "answer": "Shammua",
+    "explanation": "Numbers 13:4 lists Shammua the son of Zaccur as the representative of the tribe of Reuben."
+  },
+  {
+    "id": 8,
+    "question": "'Why does the Lord bring us into this land, to fall by the sword? our wives and our little ones will become a prey...' On which occasion was this statement made?",
+    "options": ["Israelites got to the Red sea", "Israelites had no water to drink", "Spies gave adverse report", "Egyptians caught up with the Israelites"],
+    "answer": "Spies gave adverse report",
+    "explanation": "This was the congregation's complaint in Numbers 14:3 after the ten spies brought back a discouraging report about the giants in Canaan."
+  },
+  {
+    "id": 9,
+    "question": "Barak who was asked by Deborah to organise troops to fight the Canaanites was the son of",
+    "options": ["Joab", "Jehoahaz", "Abijah", "Abinoam"],
+    "answer": "Abinoam",
+    "explanation": "Judges 4:6 identifies him as Barak the son of Abinoam from Kedesh-naphtali."
+  },
+  {
+    "id": 10,
+    "question": "'You shall invest him with some of your authority, that all the congregation of the people of Israel may obey.' This instruction was given in connection with the",
+    "options": ["appointment of Joshua to succeed Moses", "appointment of Eleazar as priest to succeed Aaron", "appointment of Aaron as Moses' spokesman", "election of Eleazar by Aaron to succeed him"],
+    "answer": "appointment of Joshua to succeed Moses",
+    "explanation": "Numbers 27:20 contains God's command to Moses regarding the commissioning of Joshua as the new leader."
+  },
+  {
+    "id": 11,
+    "question": "'Why do you do such things? For I hear of your evil dealings from all the people...' The sons being addressed were children of",
+    "options": ["Joshua", "Samuel", "Elkannah", "Eli"],
+    "answer": "Eli",
+    "explanation": "Eli was rebuking his sons, Hophni and Phinehas, for their wicked behavior at the Tabernacle (1 Samuel 2:23)."
+  },
+  {
+    "id": 12,
+    "question": "At the time Samuel was ministering to the Lord under Eli",
+    "options": ["there were many prophets in Israel", "the word of God was rare with no frequent vision", "idolatry was common in Israel", "visions were used by God to give directions"],
+    "answer": "the word of God was rare with no frequent vision",
+    "explanation": "1 Samuel 3:1 explicitly states that 'the word of the Lord was rare in those days; there was no frequent vision.'"
+  },
+  {
+    "id": 13,
+    "question": "Through meditation, the book of the law became Joshua's source of",
+    "options": ["Justice and freedom", "peace and harmony", "prosperity and success", "courage and strength"],
+    "answer": "prosperity and success",
+    "explanation": "Joshua 1:8 says meditating on the law day and night would make his way prosperous and give him good success."
+  },
+  {
+    "id": 14,
+    "question": "The man who died because he touched the Ark of God when the oxen stumbled was",
+    "options": ["Abinadab", "Uzzah", "Ahio", "Obed-edom"],
+    "answer": "Uzzah",
+    "explanation": "2 Samuel 6:6-7 states that Uzzah reached out and took hold of the ark of God because the oxen stumbled, and God struck him down."
+  },
+  {
+    "id": 15,
+    "question": "Israel lost 30,000 soldiers in a battle with the Philistines because",
+    "options": ["the Ark of God was captured", "the soldiers disobeyed God", "of the sins of Eli's sons", "of the absence of Eli at the battle field"],
+    "answer": "of the sins of Eli's sons",
+    "explanation": "The defeat was a divine judgment on the house of Eli due to the wickedness of Hophni and Phinehas (1 Samuel 4)."
+  },
+  {
+    "id": 16,
+    "question": "The reaction of Saul's armour-bearer after the death of his master amounted to",
+    "options": ["faithlessness", "bravery", "disappointment", "loyalty"],
+    "answer": "loyalty",
+    "explanation": "When he saw Saul was dead, he also fell on his sword and died with him, showing ultimate loyalty (1 Samuel 31:5)."
+  },
+  {
+    "id": 17,
+    "question": "When David and Abishai went to the camp of Saul at Ziph, Saul and his men were fast asleep because",
+    "options": ["they were tired due to hard day's work", "they wanted David to kill Saul and his men", "they were afraid of their enermies so they slept in cave", "the Lord allowed a deep sleep to fall on them"],
+    "answer": "the Lord allowed a deep sleep to fall on them",
+    "explanation": "1 Samuel 26:12 notes that 'a deep sleep from the Lord had fallen upon them.'"
+  },
+  {
+    "id": 18,
+    "question": "The child David had with Uri'ah's wife fell sick and died within",
+    "options": ["seven days", "eight days", "nine days", "ten days"],
+    "answer": "seven days",
+    "explanation": "2 Samuel 12:18 states, 'On the seventh day the child died.'"
+  },
+  {
+    "id": 19,
+    "question": "After Solomon had the dream at Gibeon, the Lord promised to lengthen his days on condition that he would",
+    "options": ["sacrifice to him", "pray daily", "offer burnt offering", "walk in his ways"],
+    "answer": "walk in his ways",
+    "explanation": "1 Kings 3:14: 'And if you will walk in my ways, keeping my statutes and my commandments... then I will lengthen your days.'"
+  },
+  {
+    "id": 20,
+    "question": "The king of Tyre who supported King Solomon with timber for the building of the temple was",
+    "options": ["Hiram", "Neco", "Dairus", "Cyrus"],
+    "answer": "Hiram",
+    "explanation": "Hiram, king of Tyre, was a friend of David and supplied Solomon with cedar and cypress timber (1 Kings 5)."
+  },
+  {
+    "id": 21,
+    "question": "God decided not to divide the kingdom of Israel during the reign of Solomon because",
+    "options": ["Solomon built the temple for God", "Solomon was a very wise king", "of God's love for David", "of Israel's repentance"],
+    "answer": "of God's love for David",
+    "explanation": "1 Kings 11:12: 'However, for the sake of David your father I will not do it in your days...'"
+  },
+  {
+    "id": 22,
+    "question": "The kingdom of Israel was divided during the reign of Rehoboam because, he",
+    "options": ["followed his father's tyranny", "led Israel to war", "challenged Jeroboam", "worshiped other gods"],
+    "answer": "followed his father's tyranny",
+    "explanation": "Rehoboam rejected the counsel of the elders and promised to be even harsher than his father, Solomon (1 Kings 12)."
+  },
+  {
+    "id": 23,
+    "question": "'Yes what they are building if a fox goes up on it he will break down their stone wall!' This remark made by Tobiah was intended to",
+    "options": ["alert and encourage Nehemiah", "stop and disgrace the Jews", "embarrass Nehemiah", "ridicule the Jews"],
+    "answer": "ridicule the Jews",
+    "explanation": "Tobiah the Ammonite used this sarcasm to mock the strength of the wall the Jews were rebuilding (Nehemiah 4:3)."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following people led the rebuilding of the temple in Jerusalem after the Jews returned from exile?",
+    "options": ["Sheatiel and Zechariah", "Jeshua and Haggai", "Haggai and Zechariah", "Zerubbabel and Jeshua"],
+    "answer": "Zerubbabel and Jeshua",
+    "explanation": "Ezra 3:2 mentions Jeshua and Zerubbabel as the leaders who began to build the altar and temple."
+  },
+  {
+    "id": 25,
+    "question": "Two kings of Persia who passed decrees to bring about the rebuilding of the temple in Jerusalem were",
+    "options": ["Cyrus and Belshazzar", "Darius and Cyrus", "Haggai and Belshazzar", "Artaxerxes and Nebuchadnezzar"],
+    "answer": "Darius and Cyrus",
+    "explanation": "Cyrus issued the first decree (Ezra 1), and Darius later reaffirmed it and allowed the work to continue (Ezra 6)."
+  },
+  {
+    "id": 26,
+    "question": "The Jew who came from exile to Jerusalem to study the law of the Lord and teach others was",
+    "options": ["Sheshbazzar", "Haggai", "Zechariah", "Ezra"],
+    "answer": "Ezra",
+    "explanation": "Ezra 7:10 states that Ezra had set his heart to study the Law of the Lord, to do it and to teach his statutes."
+  },
+  {
+    "id": 27,
+    "question": "According to Luke's gospel, when the Devil had ended the temptation of Jesus, the Devil departed",
+    "options": ["and Jesus was baptized in the Jordan", "to work out a better strategy", "feeling defeated and embarrased", "until an opportune time"],
+    "answer": "until an opportune time",
+    "explanation": "Luke 4:13 (RSV) says the devil departed from him 'until an opportune time.'"
+  },
+  {
+    "id": 28,
+    "question": "Jesus stood in a boat belonging to Peter by lake of Gennesaret to",
+    "options": ["heal the sick", "cure the leper", "raise the dead", "teach the crowd"],
+    "answer": "teach the crowd",
+    "explanation": "Luke 5:3 says Jesus sat down and taught the people from the boat because the crowd was pressing in on him."
+  },
+  {
+    "id": 29,
+    "question": "The gospel which states that the spirit immediately drove Jesus into the wilderness after His baptism to be tempted is",
+    "options": ["Mark's gospel", "Luke's gospel", "John's gospel", "Matthew's gospel"],
+    "answer": "Mark's gospel",
+    "explanation": "Mark 1:12 uses the specific forceful word 'immediately' and 'drove' (ekballo) regarding Jesus going into the wilderness."
+  },
+  {
+    "id": 30,
+    "question": "According to Mark's gospel, Jesus was baptized by John the Baptist after He came from",
+    "options": ["Capernaum", "Judea", "Nazareth", "Bethlehem"],
+    "answer": "Nazareth",
+    "explanation": "Mark 1:9: 'In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan.'"
+  },
+  {
+    "id": 31,
+    "question": "What was Jesus' response to the would-be disciple who wanted to bury his father?",
+    "options": ["Foxes have holes and birds have nests", "He could go and give his father a befitting burial", "Follow me and let your siblings bury him", "Follow me and leave the dead to bury their own dead"],
+    "answer": "Follow me and leave the dead to bury their own dead",
+    "explanation": "In Matthew 8:22 and Luke 9:60, Jesus emphasizes the urgency of the Kingdom by saying 'Let the dead bury their own dead.'"
+  },
+  {
+    "id": 32,
+    "question": "In the parable of the Sower, the seeds that fell among thorns represent those who",
+    "options": ["have no root in themselves", "are choked by the cares and riches of life", "do not understand the word", "immediately receive it with joy"],
+    "answer": "are choked by the cares and riches of life",
+    "explanation": "Luke 8:14 explains that the thorns are the cares, riches, and pleasures of life that choke the word so it does not mature."
+  },
+  {
+    "id": 33,
+    "question": "'My soul is very sorrowful, even to death, remain here and watch with me...' Jesus made this statement to",
+    "options": ["Peter, James and John", "the seventy disciples", "the twelve apostles", "Andrew, James and Steven"],
+    "answer": "Peter, James and John",
+    "explanation": "At Gethsemane, Jesus took Peter and the two sons of Zebedee (James and John) and expressed his deep sorrow (Matthew 26:37-38)."
+  },
+  {
+    "id": 34,
+    "question": "According to Jesus, a major condition for discipleship is to",
+    "options": ["be baptized with immersion", "overcome all temptations", "respect parents and elderly people", "renounce all that one has"],
+    "answer": "renounce all that one has",
+    "explanation": "Luke 14:33: 'So therefore, any one of you who does not renounce all that he has cannot be my disciple.'"
+  },
+  {
+    "id": 35,
+    "question": "Peter wept after he had denied Jesus because he was",
+    "options": ["sad since Jesus was going to be killed", "going to miss Jesus", "recognized as Jesus' disciple", "feeling ashamed for the betrayal"],
+    "answer": "feeling ashamed for the betrayal",
+    "explanation": "Peter wept bitterly when he realized he had fulfilled Jesus' prophecy of denial, signifying deep regret and shame."
+  },
+  {
+    "id": 36,
+    "question": "Have you come out as a robber with swords and clubs to capture me?",
+    "options": ["in the Gethsemane", "during His trial", "during His crucifixion", "at Golgotha on the cross"],
+    "answer": "in the Gethsemane",
+    "explanation": "Jesus said this to the crowds and officers who came to arrest him in the garden (Matthew 26:55)."
+  },
+  {
+    "id": 37,
+    "question": "Jesus' enemies accused him of perverting the nation, forbidding the payment of tribute to Caesar and claiming to be a king before",
+    "options": ["Herod", "High priest", "Pilate", "the Sanhedrin"],
+    "answer": "Pilate",
+    "explanation": "Luke 23:2 records these specific political accusations brought before Pilate to secure a death sentence."
+  },
+  {
+    "id": 38,
+    "question": "What prompted Pilate to send Jesus to Herod for trial? Pilate",
+    "options": ["realized that Jesus was innocent", "knew Jesus came from Herod's jurisdiction", "wanted to avoid being blamed for Jesus' death", "saw that Herod was a better judge"],
+    "answer": "knew Jesus came from Herod's jurisdiction",
+    "explanation": "Upon hearing that Jesus was a Galilean, Pilate sent him to Herod Antipas, who ruled Galilee (Luke 23:6-7)."
+  },
+  {
+    "id": 39,
+    "question": "The women who visited the tomb of Jesus on the first day according to Luke's gospel were",
+    "options": ["Mary Magdalene, Joanna and Mary the mother of Jesus", "Joanna, Salome and Mary the mother of Jesus", "Salome, Eunice and Mary Magdalene", "Mary Magdalene, Joanna, and Mary the mother of James"],
+    "answer": "Mary Magdalene, Joanna, and Mary the mother of James",
+    "explanation": "Luke 24:10 lists Mary Magdalene, Joanna, and Mary the mother of James as the women who told the apostles."
+  },
+  {
+    "id": 40,
+    "question": "What punishment was given to the unmerciful servant by the king in Jesus' teaching on forgiveness?",
+    "options": ["He was demoted", "He was killed", "His family was sold", "He was imprisoned"],
+    "answer": "He was imprisoned",
+    "explanation": "Matthew 18:34 states the lord was angry and delivered him to the jailers (torturers) until he should pay all his debt."
+  },
+  {
+    "id": 41,
+    "question": "Judas Iscariot lost his position as a disciple of Jesus because he",
+    "options": ["was expelled", "fell sick and died", "committed suicide", "denounced the faith"],
+    "answer": "committed suicide",
+    "explanation": "Acts 1:16-20 explains that Judas' place became vacant because of his transgression and subsequent death."
+  },
+  {
+    "id": 42,
+    "question": "When Peter and John were set free by the Sanhedrin, they were",
+    "options": ["asked not to speak about Jesus again", "asked to join the other apostles", "given thirty-nine lashes each", "sent to Pilate for trial"],
+    "answer": "asked not to speak about Jesus again",
+    "explanation": "Acts 4:18 states the council charged them not to speak or teach at all in the name of Jesus."
+  },
+  {
+    "id": 43,
+    "question": "The first martyr of the Christian Church who was stoned to death was",
+    "options": ["James", "Peter", "Stephen", "Philip"],
+    "answer": "Stephen",
+    "explanation": "Acts 7 describes the trial and stoning of Stephen, making him the first recorded martyr of the early church."
+  },
+  {
+    "id": 44,
+    "question": "'Why did you go to uncircumcised men and eat with them?' The uncircumcised men in the context were",
+    "options": ["Sanhedrin and the Pharisees", "Aeneas and his family", "Saul and his friends", "Cornelius and his family"],
+    "answer": "Cornelius and his family",
+    "explanation": "The Jewish believers in Jerusalem criticized Peter for visiting the house of the Gentile centurion Cornelius (Acts 11:3)."
+  },
+  {
+    "id": 45,
+    "question": "'But be doers of the word not hearers only.' This text according to James implies that Christians should",
+    "options": ["reflect their faith in their lifestyles", "live above reproach and wickedness", "love one another as Christ did", "set heaven as their goal to achieve"],
+    "answer": "reflect their faith in their lifestyles",
+    "explanation": "James 1:22 teaches that faith must be accompanied by actions and a transformed life, not just listening."
+  },
+  {
+    "id": 46,
+    "question": "Discrimination in the daily distribution of relief items in the early church came up when the",
+    "options": ["Hellenists complained about neglect of their widows", "Hebrews complained about neglect of their widows", "apostles refuse to serve tables", "apostles decided to appoint deacons"],
+    "answer": "Hellenists complained about neglect of their widows",
+    "explanation": "Acts 6:1 records a complaint by the Hellenists against the Hebrews because their widows were neglected."
+  },
+  {
+    "id": 47,
+    "question": "What happened to Saul while in the house of Judas in the street called straight?",
+    "options": ["An attempt to be lynched for betraying Judaism", "An attempt to be killed for opposing the gospel", "His escape to Jerusalem through Barnabas", "The regaining of his sight through Ananias"],
+    "answer": "The regaining of his sight through Ananias",
+    "explanation": "Acts 9:11-18 describes Ananias visiting Saul at Judas' house to lay hands on him so he could see again."
+  },
+  {
+    "id": 48,
+    "question": "Herod Agrippa's killing of James and subsequent arrest of Peter was an attempt to",
+    "options": ["demonstrate his hatred for Christians", "fulfil the order of the Roman Emperor", "win the confidence of the Jews", "show how powerful he was"],
+    "answer": "win the confidence of the Jews",
+    "explanation": "Acts 12:3 says when Herod saw that the execution of James pleased the Jews, he proceeded to arrest Peter also."
+  },
+  {
+    "id": 49,
+    "question": "James states that the sick should be interceded for by the Elders but those who are suffering should",
+    "options": ["fast daily", "go to church", "read the Bible", "pray themselves"],
+    "answer": "pray themselves",
+    "explanation": "James 5:13: 'Is any one among you suffering? Let him pray. Is any cheerful? Let him sing praise.'"
+  },
+  {
+    "id": 50,
+    "question": "In his teaching on faith and works, James says that people should be quick to hear, slow to speak and",
+    "options": ["be fervent in prayer", "be involved in fasting", "slow to fight", "slow to anger"],
+    "answer": "slow to anger",
+    "explanation": "James 1:19: 'Let every man be quick to hear, slow to speak, slow to anger.'"
+  }
+]

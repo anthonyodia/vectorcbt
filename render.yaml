@@ -1,0 +1,22 @@
+services:
+  # 1. Your Web Application Container
+  - type: web
+    name: vector-learn-web
+    env: docker
+    plan: free # Change to "starter" or higher if you need more resources later
+    envVars:
+      - key: DB_HOST
+        value: mysql-db # This tells your app to look for the database service below
+      - key: DB_USER
+        value: root
+      - key: DB_NAME
+        value: vector_learn_db
+      - key: DB_PASSWORD
+        generateValue: true # Render will automatically generate a secure password for you
+
+  # 2. Your MySQL Database
+  - type: database
+    name: mysql-db
+    databaseName: vector_learn_db
+    user: root
+    plan: free # Change to "starter" if you need persistent SSD storage (Free databases expire after 90 days on Rende

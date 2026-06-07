@@ -1,0 +1,1045 @@
+{
+  "WAEC_English_Language_Objective_Questions": {
+    "title": "WAEC English Language Objective Test Questions (Complete Merged List)",
+    "instruction": "The following is a complete list of the WAEC English Language objective questions and options you provided, organized into sections with sequential numbering (1-82), including the best fit answer and a brief explanation.",
+    "questions": [
+      {
+        "id": 1,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "Abdul’s contribution at the meeting was seen by many as **invaluable**, but the chairman said it was ____.",
+        "options": {
+          "A": "insincere",
+          "B": "useless",
+          "C": "impossible",
+          "D": "preposterous"
+        },
+        "answer": "B",
+        "explanation": "The opposite of **'invaluable'** (extremely useful/precious) is **'useless'**."
+      },
+      {
+        "id": 2,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "The boy may be **culpable**, but his brother is surely ____.",
+        "options": {
+          "A": "innocent",
+          "B": "ignorant",
+          "C": "accountable",
+          "D": "honest"
+        },
+        "answer": "A",
+        "explanation": "The opposite of **'culpable'** (deserving blame) is **'innocent'**."
+      },
+      {
+        "id": 3,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "Our class teacher used to be **rigid** in his opinions but he is now ____ of other people’s views.",
+        "options": {
+          "A": "wary",
+          "B": "critical",
+          "C": "apprise",
+          "D": "tolerant"
+        },
+        "answer": "D",
+        "explanation": "The opposite of **'rigid'** (unwilling to change) is **'tolerant'**."
+      },
+      {
+        "id": 4,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "Some workers were quite **affable** at the meeting but their leader was rather ____.",
+        "options": {
+          "A": "guarded",
+          "B": "caution",
+          "C": "suspicious",
+          "D": "antagonistic"
+        },
+        "answer": "D",
+        "explanation": "The opposite of **'affable'** (friendly, good-natured) is **'antagonistic'** (hostile)."
+      },
+      {
+        "id": 5,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "The driver believed he would be **castigated** by all the passengers but he was ____.",
+        "options": {
+          "A": "encouraged",
+          "B": "exonerated",
+          "C": "commended",
+          "D": "released"
+        },
+        "answer": "C",
+        "explanation": "The opposite of **'castigated'** (severely criticized/punished) is **'commended'** (praised)."
+      },
+      {
+        "id": 6,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "The manager was **eulogized** for his speech while his assistant was ____.",
+        "options": {
+          "A": "discouraged",
+          "B": "criticized",
+          "C": "appraised",
+          "D": "denounced"
+        },
+        "answer": "D",
+        "explanation": "The opposite of **'eulogized'** (praised highly) is **'denounced'** (publicly condemned or criticized)."
+      },
+      {
+        "id": 7,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "Some people are **generous** towards strangers, while others are _____ towards them.",
+        "options": {
+          "A": "indifferent",
+          "B": "sympathetic",
+          "C": "nasty",
+          "D": "mean"
+        },
+        "answer": "D",
+        "explanation": "The opposite of **'generous'** is **'mean'** (unwilling to give or share)."
+      },
+      {
+        "id": 8,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "The baby who had all along been **calm** suddenly became ____.",
+        "options": {
+          "A": "restless",
+          "B": "hungry",
+          "C": "angry",
+          "D": "cheerful"
+        },
+        "answer": "A",
+        "explanation": "The opposite of **'calm'** is **'restless'**."
+      },
+      {
+        "id": 9,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "While Ade is **conceited**, his wife is quite self-effacing. (Implied Antonym Question)",
+        "options": {
+          "A": "aggressive",
+          "B": "lousy",
+          "C": "conceited",
+          "D": "unfriendly"
+        },
+        "answer": null,
+        "explanation": "The sentence itself provides the antonym: **'self-effacing'** (modest) is the opposite of **'conceited'** (vain). The options provided are not used to fill a gap in this specific sentence structure."
+      },
+      {
+        "id": 10,
+        "section": "NEARLY OPPOSITE IN MEANING (Antonyms)",
+        "question": "Bakary is a **prudent** husband while Musa is ____.",
+        "options": {
+          "A": "mean",
+          "B": "extravagant",
+          "C": "thoughtful",
+          "D": "mindless"
+        },
+        "answer": "B",
+        "explanation": "The opposite of **'prudent'** (acting with care for the future, economical) is **'extravagant'** (lacking restraint in spending money)."
+      },
+      {
+        "id": 11,
+        "section": "SENTENCE COMPLETION (Vocabulary)",
+        "question": "The incumbent chairman won the election by a _____ of twenty votes.",
+        "options": {
+          "A": "surplus",
+          "B": "consensus",
+          "C": "space",
+          "D": "margin"
+        },
+        "answer": "D",
+        "explanation": "**'Margin'** is the standard term for the difference in votes."
+      },
+      {
+        "id": 12,
+        "section": "SENTENCE COMPLETION (Vocabulary)",
+        "question": "Since all items on the agenda had been discussed, the meeting was ____.",
+        "options": {
+          "A": "dismissed",
+          "B": "suspended",
+          "C": "adjourned",
+          "D": "dissolved"
+        },
+        "answer": "C",
+        "explanation": "**'Adjourned'** means to break off a meeting, often with the intent to resume later or end formally."
+      },
+      {
+        "id": 13,
+        "section": "SENTENCE COMPLETION (Vocabulary)",
+        "question": "The police explained that all the aggrieved persons should seek _____ in the court of law.",
+        "options": {
+          "A": "redress",
+          "B": "litigation",
+          "C": "address",
+          "D": "restoration"
+        },
+        "answer": "A",
+        "explanation": "**'Redress'** means remedy or compensation for a wrong or grievance."
+      },
+      {
+        "id": 14,
+        "section": "SENTENCE COMPLETION (Vocabulary)",
+        "question": "Our principal has a large _____ of cows.",
+        "options": {
+          "A": "gang",
+          "B": "herd",
+          "C": "skein",
+          "D": "flock"
+        },
+        "answer": "B",
+        "explanation": "**'Herd'** is the collective noun for cows."
+      },
+      {
+        "id": 15,
+        "section": "SENTENCE COMPLETION (Vocabulary)",
+        "question": "The first storey building in Nigeria stands as a historic ____.",
+        "options": {
+          "A": "effigy",
+          "B": "artefact",
+          "C": "monument",
+          "D": "edifice"
+        },
+        "answer": "C",
+        "explanation": "A **'monument'** is a structure erected to commemorate a person or event."
+      },
+      {
+        "id": 16,
+        "section": "SENTENCE COMPLETION (Vocabulary)",
+        "question": "I returned from the vacation refreshed and ____.",
+        "options": {
+          "A": "rejuvenated",
+          "B": "revived",
+          "C": "reloaded",
+          "D": "remodeled"
+        },
+        "answer": "A",
+        "explanation": "**'Rejuvenated'** means to make (someone) look or feel younger, fresher, or more vigorous."
+      },
+      {
+        "id": 17,
+        "section": "MEDICAL TERMS AND MEANING",
+        "question": "She was advised to see a _____ because she had an unusual skin disease.",
+        "options": {
+          "A": "cardiologist",
+          "B": "dermatologist",
+          "C": "gynaecologist",
+          "D": "ophthalmologist"
+        },
+        "answer": "B",
+        "explanation": "A **'dermatologist'** is a doctor specializing in conditions of the skin."
+      },
+      {
+        "id": 18,
+        "section": "MEDICAL TERMS AND MEANING",
+        "question": "The doctor’s _____ was that the patient was suffering from cancer.",
+        "options": {
+          "A": "prediction",
+          "B": "prescription",
+          "C": "diagnosis",
+          "D": "analysis"
+        },
+        "answer": "C",
+        "explanation": "A **'diagnosis'** is the identification of the nature of an illness."
+      },
+      {
+        "id": 19,
+        "section": "MEDICAL TERMS AND MEANING",
+        "question": "Tom’s father gave him a valuable gift as an _____ to make him work harder in school.",
+        "options": {
+          "A": "incentive",
+          "B": "attraction",
+          "C": "interest",
+          "D": "offer"
+        },
+        "answer": "A",
+        "explanation": "An **'incentive'** is a thing that motivates or encourages one to do something."
+      },
+      {
+        "id": 20,
+        "section": "MEDICAL TERMS AND MEANING",
+        "question": "We have not yet heard the weather ____.",
+        "options": {
+          "A": "forecast",
+          "B": "broadcast",
+          "C": "prediction",
+          "D": "announcement"
+        },
+        "answer": "A",
+        "explanation": "**'Forecast'** is the term for a prediction of future weather conditions."
+      },
+      {
+        "id": 21,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "Ojo was cautioned not to **jangle the old man’s nerve**. This means that Ojo was cautioned not to ____.",
+        "options": {
+          "A": "harass the old man",
+          "B": "annoy the old man",
+          "C": "disturb the old man",
+          "D": "tease the old man"
+        },
+        "answer": "B",
+        "explanation": "To **'jangle one's nerves'** means to irritate or **annoy** intensely."
+      },
+      {
+        "id": 22,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "Amina was completely **swept off her feet** the first time she met Gabriel. This means that she ____.",
+        "options": {
+          "A": "fell deeply in love",
+          "B": "was pleasantly surprised",
+          "C": "trusted him completely",
+          "D": "became utterly confused"
+        },
+        "answer": "A",
+        "explanation": "To be **'swept off one's feet'** means to be overwhelmed by infatuation, usually by falling deeply in love."
+      },
+      {
+        "id": 23,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "My trust in Abah suddenly began to **wane**.",
+        "options": {
+          "A": "dissipate",
+          "B": "disappear",
+          "C": "deteriorate",
+          "D": "decrease"
+        },
+        "answer": "D",
+        "explanation": "To **'wane'** means to **decrease** in vigor, power, or extent."
+      },
+      {
+        "id": 24,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "Some believe it is **ominous** for the owl to perch on the roof of a house.",
+        "options": {
+          "A": "forbidden",
+          "B": "portentous",
+          "C": "prophetic",
+          "D": "suspicious"
+        },
+        "answer": "B",
+        "explanation": "**'Ominous'** means suggesting that something bad is going to happen, synonymous with **'portentous'**."
+      },
+      {
+        "id": 25,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "The new shopping mall is on the **fringe** of the town.",
+        "options": {
+          "A": "limit",
+          "B": "outside",
+          "C": "middle",
+          "D": "edge"
+        },
+        "answer": "D",
+        "explanation": "The **'fringe'** of something is its **edge** or border."
+      },
+      {
+        "id": 26,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "The supervisor **spurned** the offer of help from the cleaner.",
+        "options": {
+          "A": "rebuffed",
+          "B": "denied",
+          "C": "defied",
+          "D": "refuted"
+        },
+        "answer": "A",
+        "explanation": "To **'spurn'** means to reject with disdain or contempt, synonymous with **'rebuffed'**."
+      },
+      {
+        "id": 27,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "I have **eventually** found the book.",
+        "options": {
+          "A": "actually",
+          "B": "lately",
+          "C": "presently",
+          "D": "finally"
+        },
+        "answer": "D",
+        "explanation": "**'Eventually'** means in the end, especially after a long delay, synonymous with **'finally'**."
+      },
+      {
+        "id": 28,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "His response showed that he **kept abreast of** events in the country.",
+        "options": {
+          "A": "mindful of events",
+          "B": "involved in events",
+          "C": "well-informed about events",
+          "D": "curious about events"
+        },
+        "answer": "C",
+        "explanation": "To **'keep abreast of'** means to stay **well-informed about**."
+      },
+      {
+        "id": 29,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "Kofi is rather **audacious**; he jumps off high fences.",
+        "options": {
+          "A": "daring",
+          "B": "smart",
+          "C": "active",
+          "D": "agile"
+        },
+        "answer": "A",
+        "explanation": "**'Audacious'** means showing a willingness to take surprisingly bold risks, synonymous with **'daring'**."
+      },
+      {
+        "id": 30,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "The criminal approached the crowd **menacingly**.",
+        "options": {
+          "A": "stealthily",
+          "B": "cunningly",
+          "C": "calculatedly",
+          "D": "threateningly"
+        },
+        "answer": "D",
+        "explanation": "**'Menacingly'** means suggesting the presence of danger, synonymous with **'threateningly'**."
+      },
+      {
+        "id": 31,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "The new shopping plaza is **easy on the eye**.",
+        "options": {
+          "A": "grandiose",
+          "B": "cool",
+          "C": "attractive",
+          "D": "expensive"
+        },
+        "answer": "C",
+        "explanation": "**'Easy on the eye'** is an idiom meaning **attractive** or pleasant to look at."
+      },
+      {
+        "id": 32,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "That **nonchalant** attitude of Jonah’s ____ me.",
+        "options": {
+          "A": "baffles",
+          "B": "irritates",
+          "C": "amazes",
+          "D": "amuses"
+        },
+        "answer": "B",
+        "explanation": "A **'nonchalant'** (casually unconcerned) attitude is most likely to **irritate** someone who is concerned."
+      },
+      {
+        "id": 33,
+        "section": "IDIOMS AND MEANINGS",
+        "question": "Our school is the **last but one** on that road.",
+        "options": {
+          "A": "the very last building",
+          "B": "one of the last",
+          "C": "the one after the last",
+          "D": "the one before the last"
+        },
+        "answer": "D",
+        "explanation": "**'Last but one'** is an expression meaning **the one before the last**."
+      },
+      {
+        "id": 34,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "He said that they _____ painting the house by then.",
+        "options": {
+          "A": "will have finished",
+          "B": "would have finished",
+          "C": "will finish",
+          "D": "would finish"
+        },
+        "answer": "B",
+        "explanation": "This is reported speech. The future perfect ('will have finished') shifts to the conditional perfect **('would have finished')**."
+      },
+      {
+        "id": 35,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "I will wear my _____ dress to the dance.",
+        "options": {
+          "A": "blue silk new",
+          "B": "blue new silk",
+          "C": "new blue silk",
+          "D": "silk blue new"
+        },
+        "answer": "C",
+        "explanation": "The correct order of adjectives is Age-Color-Material: **'new blue silk'**."
+      },
+      {
+        "id": 36,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "If I _____ an eagle, I would fly to distant lands.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "am",
+          "D": "be"
+        },
+        "answer": "B",
+        "explanation": "In unreal conditional sentences (Type 2), **'were'** is used for all persons ('If I were...')."
+      },
+      {
+        "id": 37,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "The teacher needs _____ to write the note on the chalkboard.",
+        "options": {
+          "A": "chalks",
+          "B": "a chalk",
+          "C": "some chalk",
+          "D": "many chalks"
+        },
+        "answer": "C",
+        "explanation": "**'Chalk'** is generally an uncountable noun, so **'some chalk'** is correct."
+      },
+      {
+        "id": 38,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "The man said that he _____ eaten there the previous day.",
+        "options": {
+          "A": "had eaten",
+          "B": "ate",
+          "C": "has eaten",
+          "D": "had eaten"
+        },
+        "answer": "A",
+        "explanation": "Reported speech shifts the past simple/present perfect to the past perfect **('had eaten')**."
+      },
+      {
+        "id": 39,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Taya was **beaten at his own game**. This means that:",
+        "options": {
+          "A": "Taya’s strategies were leaked",
+          "B": "Taya missed the target",
+          "C": "Taya forgot his own tactics",
+          "D": "Taya’s methods were used to defeat him"
+        },
+        "answer": "D",
+        "explanation": "To be **'beaten at one's own game'** means one's methods were used to defeat them."
+      },
+      {
+        "id": 40,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "We never believed that Father would **pull through** that fever. This means that:",
+        "options": {
+          "A": "recover from the sickness",
+          "B": "acquire immunity",
+          "C": "die from the sickness",
+          "D": "suffer so long"
+        },
+        "answer": "A",
+        "explanation": "To **'pull through'** means to **recover from the sickness** or survive a crisis."
+      },
+      {
+        "id": 41,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "To be healthy, we need to eat a _____ diet every day.",
+        "options": {
+          "A": "balanced",
+          "B": "complete",
+          "C": "mixed",
+          "D": "delicious"
+        },
+        "answer": "A",
+        "explanation": "The correct term in nutrition is a **'balanced'** diet."
+      },
+      {
+        "id": 42,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "I can rustle _____ an omelette at short notice.",
+        "options": {
+          "A": "up",
+          "B": "down",
+          "C": "in",
+          "D": "with"
+        },
+        "answer": "A",
+        "explanation": "To **'rustle up'** is an idiom meaning to quickly prepare food."
+      },
+      {
+        "id": 43,
+        "section": "GRAMMAR & STRUCTURE (Flawed Question)",
+        "question": "Banku was least ___ unhappy after the fight.",
+        "options": {
+          "A": "very",
+          "B": "too",
+          "C": "much",
+          "D": "such"
+        },
+        "answer": "C",
+        "explanation": "This phrasing is awkward, but **'much'** is the only intensifier that could grammatically follow 'least' in some non-standard contexts ('least much' meaning not at all/minimally). The question is likely flawed."
+      },
+      {
+        "id": 44,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Everything would be ___ cheaper in the sales.",
+        "options": {
+          "A": "greatly",
+          "B": "considerably",
+          "C": "strongly",
+          "D": "most"
+        },
+        "answer": "B",
+        "explanation": "**'Considerably'** is the most appropriate adverb to indicate a large degree of cheapness."
+      },
+      {
+        "id": 45,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "The boot of my new car was ___ in the accident.",
+        "options": {
+          "A": "cracked",
+          "B": "dented",
+          "C": "chipped",
+          "D": "marked"
+        },
+        "answer": "B",
+        "explanation": "**'Dented'** is the specific term for an impact mark on a metal surface like a car boot."
+      },
+      {
+        "id": 46,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Parents should create an environment ___ their children can grow.",
+        "options": {
+          "A": "In that which",
+          "B": "what",
+          "C": "from where",
+          "D": "in which"
+        },
+        "answer": "D",
+        "explanation": "**'In which'** or 'where' is the correct relative pronoun phrase."
+      },
+      {
+        "id": 47,
+        "section": "GRAMMAR & STRUCTURE (Flawed Question)",
+        "question": "In spite of their shortcomings, we admire them. (Select the connecting word)",
+        "options": {
+          "A": "yet",
+          "B": "though",
+          "C": "but",
+          "D": "however"
+        },
+        "answer": null,
+        "explanation": "The sentence is already grammatically complete. None of the options fit the existing structure. It likely required a rewrite using one of the connectors."
+      },
+      {
+        "id": 48,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Amadi's plan ___ at the last moment.",
+        "options": {
+          "A": "fell down",
+          "B": "fell on",
+          "C": "fell through",
+          "D": "fell off"
+        },
+        "answer": "C",
+        "explanation": "To **'fall through'** means to fail or come to nothing."
+      },
+      {
+        "id": 49,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "You think I am hungry, ___?",
+        "options": {
+          "A": "am I",
+          "B": "don't you",
+          "C": "aren't I",
+          "D": "isn't I"
+        },
+        "answer": "B",
+        "explanation": "The tag question refers to the main verb/clause, **'You think'**, making the tag **'don't you'**."
+      },
+      {
+        "id": 50,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Maria ___ tears when she was told that she failed the final examination.",
+        "options": {
+          "A": "broke to",
+          "B": "broke up",
+          "C": "broke with",
+          "D": "broke into"
+        },
+        "answer": "D",
+        "explanation": "To **'broke into tears'** is the correct idiom meaning to suddenly start crying."
+      },
+      {
+        "id": 51,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Jide ___ before I arrived.",
+        "options": {
+          "A": "could have eat",
+          "B": "had eaten",
+          "C": "must had eaten",
+          "D": "have eaten"
+        },
+        "answer": "B",
+        "explanation": "The Past Perfect **('had eaten')** is needed to show an action completed before another past action ('arrived')."
+      },
+      {
+        "id": 52,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "He claimed to be an expert, but he knew next to ___ about it.",
+        "options": {
+          "A": "everything",
+          "B": "nothing",
+          "C": "something",
+          "D": "anything"
+        },
+        "answer": "B",
+        "explanation": "**'Next to nothing'** is an idiom meaning almost nothing."
+      },
+      {
+        "id": 53,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Deficiency ___ just one essential vitamin may cause illness.",
+        "options": {
+          "A": "on",
+          "B": "in",
+          "C": "from",
+          "D": "for"
+        },
+        "answer": "B",
+        "explanation": "The correct preposition is **'in'**: 'deficiency **in** (something)'."
+      },
+      {
+        "id": 54,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "This is the ___ he has submitted his assignment since joining the class.",
+        "options": {
+          "A": "early",
+          "B": "later",
+          "C": "earliest",
+          "D": "lately"
+        },
+        "answer": "C",
+        "explanation": "The superlative **'earliest'** means the first or soonest time."
+      },
+      {
+        "id": 55,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "It is wise to ___ with what one has rather than go borrowing.",
+        "options": {
+          "A": "make up",
+          "B": "make out",
+          "C": "make do",
+          "D": "make over"
+        },
+        "answer": "C",
+        "explanation": "To **'make do'** is an idiom meaning to manage with what is available."
+      },
+      {
+        "id": 56,
+        "section": "GRAMMAR & STRUCTURE (Flawed Question)",
+        "question": "The teacher was hasty in meting out punishment. (Synonym for 'hasty' required, but options are adverbs)",
+        "options": {
+          "A": "more",
+          "B": "much",
+          "C": "scarcely",
+          "D": "somewhat"
+        },
+        "answer": null,
+        "explanation": "The question asks for a synonym of 'hasty,' but the options provided are adverbs of degree/manner. This question is flawed."
+      },
+      {
+        "id": 57,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Everybody should treat their parents with respect, ___?",
+        "options": {
+          "A": "should they",
+          "B": "shouldn't they",
+          "C": "shouldn't we",
+          "D": "should we"
+        },
+        "answer": "B",
+        "explanation": "The tag question for a statement using **'Everybody/Everyone'** is **'shouldn't they'**."
+      },
+      {
+        "id": 58,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "The experienced clerk found herself at ___.",
+        "options": {
+          "A": "a crossroad",
+          "B": "some crossroads",
+          "C": "a crossroads",
+          "D": "the crossroad"
+        },
+        "answer": "C",
+        "explanation": "**'At a crossroads'** is the correct idiom, meaning at a point of decision."
+      },
+      {
+        "id": 59,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "We are playing ___ the problems of the company.",
+        "options": {
+          "A": "off",
+          "B": "up",
+          "C": "out",
+          "D": "down"
+        },
+        "answer": "D",
+        "explanation": "To **'play down'** means to minimize or make seem less important."
+      },
+      {
+        "id": 60,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "Did you notice that the ___ had been removed?",
+        "options": {
+          "A": "price's tag",
+          "B": "price tag",
+          "C": "prices tag",
+          "D": "prices' tag"
+        },
+        "answer": "B",
+        "explanation": "**'Price tag'** is the correct compound noun."
+      },
+      {
+        "id": 61,
+        "section": "GRAMMAR & STRUCTURE",
+        "question": "One has to be careful of ___.",
+        "options": {
+          "A": "his",
+          "B": "their",
+          "C": "your",
+          "D": "one's"
+        },
+        "answer": "D",
+        "explanation": "When the indefinite pronoun **'one'** is the subject, its possessive form is **'one's'**."
+      },
+      {
+        "id": 62,
+        "section": "GRAMMAR & STRUCTURE (Flawed Question)",
+        "question": "It is mandatory that consumables should have ___.",
+        "options": {
+          "A": "many",
+          "B": "earthy",
+          "C": "forte",
+          "D": "penalty"
+        },
+        "answer": null,
+        "explanation": "This question is incomplete or flawed as none of the options logically complete the sentence (e.g., should have an 'expiry date')."
+      },
+      {
+        "id": 63,
+        "section": "RHYMES",
+        "question": "passage:",
+        "options": {
+          "A": "message",
+          "B": "package",
+          "C": "[missing]",
+          "D": "[missing]"
+        },
+        "answer": "A",
+        "explanation": "**'Passage'** and **'message'** rhyme."
+      },
+      {
+        "id": 64,
+        "section": "RHYMES",
+        "question": "coarse:",
+        "options": {
+          "A": "coax",
+          "B": "chore",
+          "C": "road",
+          "D": "rod"
+        },
+        "answer": "B",
+        "explanation": "**'Coarse'** and **'chore'** rhyme in non-rhotic accents."
+      },
+      {
+        "id": 65,
+        "section": "RHYMES",
+        "question": "dumb:",
+        "options": {
+          "A": "comb",
+          "B": "pupil",
+          "C": "urban",
+          "D": "[missing]"
+        },
+        "answer": null,
+        "explanation": "**'Dumb'** does not rhyme with 'comb'. This item is likely flawed (it should rhyme with 'come' or 'thumb')."
+      },
+      {
+        "id": 66,
+        "section": "RHYMES",
+        "question": "wolf:",
+        "options": {
+          "A": "golf",
+          "B": "scold",
+          "C": "crude",
+          "D": "wood"
+        },
+        "answer": "D",
+        "explanation": "**'Wolf'** and **'wood'** share a similar short /ʊ/ vowel sound, making it the best fit among the options."
+      },
+      {
+        "id": 67,
+        "section": "RHYMES",
+        "question": "muscle:",
+        "options": {
+          "A": "tousle",
+          "B": "puzzle",
+          "C": "tussie",
+          "D": "[missing]"
+        },
+        "answer": "B",
+        "explanation": "**'Muscle'** and **'puzzle'** rhyme."
+      },
+      {
+        "id": 68,
+        "section": "RHYMES",
+        "question": "trouser:",
+        "options": {
+          "A": "browser",
+          "B": "bounce",
+          "C": "[missing]",
+          "D": "[missing]"
+        },
+        "answer": "A",
+        "explanation": "**'Trouser'** and **'browser'** rhyme."
+      },
+      {
+        "id": 69,
+        "section": "RHYMES",
+        "question": "aisle:",
+        "options": {
+          "A": "isle",
+          "B": "bail",
+          "C": "fly",
+          "D": "real"
+        },
+        "answer": "A",
+        "explanation": "**'Aisle'** and **'isle'** are homophones and rhyme perfectly."
+      },
+      {
+        "id": 70,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "On the day of the election, the voters will go to the polling ___.",
+        "options": {
+          "A": "booths",
+          "B": "stations",
+          "C": "boxes",
+          "D": "compartments"
+        },
+        "answer": "B",
+        "explanation": "Voters go to the **polling station** (the location)."
+      },
+      {
+        "id": 71,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "The winner will be ___.",
+        "options": {
+          "A": "chosen",
+          "B": "endorsed",
+          "C": "recommended",
+          "D": "appointed"
+        },
+        "answer": "A",
+        "explanation": "In an election, the winner is **chosen** (selected by vote)."
+      },
+      {
+        "id": 72,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "The local government chairman's period/reign would soon ___.",
+        "options": {
+          "A": "elapse",
+          "B": "expire",
+          "C": "end",
+          "D": "continue"
+        },
+        "answer": "B",
+        "explanation": "A fixed term of office is said to **expire**."
+      },
+      {
+        "id": 73,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "This will commence with the selection of ___.",
+        "options": {
+          "A": "candidates",
+          "B": "aspirants",
+          "C": "applicants",
+          "D": "nominees"
+        },
+        "answer": "A",
+        "explanation": "The electoral process begins with selecting **candidates**."
+      },
+      {
+        "id": 74,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "Political parties will present their ___ to the public to inform them of their intentions.",
+        "options": {
+          "A": "promises",
+          "B": "speeches",
+          "C": "mandates",
+          "D": "manifestoes"
+        },
+        "answer": "D",
+        "explanation": "A **manifesto** is a public declaration of policy."
+      },
+      {
+        "id": 75,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "The process of ___ for votes has a timeframe.",
+        "options": {
+          "A": "lobbying",
+          "B": "canvassing",
+          "C": "buying",
+          "D": "driving"
+        },
+        "answer": "B",
+        "explanation": "**Canvassing** is the process of soliciting votes."
+      },
+      {
+        "id": 76,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "Voting is usually done by universal ___.",
+        "options": {
+          "A": "suffrage",
+          "B": "franchise",
+          "C": "ballot",
+          "D": "election"
+        },
+        "answer": "A",
+        "explanation": "**Universal suffrage** is the right of all adult citizens to vote."
+      },
+      {
+        "id": 77,
+        "section": "VOCABULARY & ELECTION TERMS",
+        "question": "Every citizen above eighteen is ___ to vote provided he/she is duly registered.",
+        "options": {
+          "A": "eligible",
+          "B": "approved",
+          "C": "suitable",
+          "D": "qualified"
+        },
+        "answer": "A",
+        "explanation": "**Eligible** means having the right or entitlement."
+      },
+      {
+        "id": 78,
+        "section": "VOCABULARY & ELECTION TERMS (Flawed/Repetitive)",
+        "question": "recommended (This item appears to be an option from an unstated question, options are below)",
+        "options": {
+          "A": "approved",
+          "B": "eligible",
+          "C": "suitable"
+        },
+        "answer": null,
+        "explanation": "This item is a repetition or fragmentation of previous questions/options and does not form a complete, unique question."
+      },
+      {
+        "id": 79,
+        "section": "VOCABULARY & ELECTION TERMS (Flawed/Repetitive)",
+        "question": "booths (This item appears to be an option from an unstated question, options are below)",
+        "options": {
+          "A": "boxes",
+          "B": "stations",
+          "C": "compartments"
+        },
+        "answer": null,
+        "explanation": "This item is a repetition or fragmentation of previous questions/options and does not form a complete, unique question."
+      },
+      {
+        "id": 80,
+        "section": "VOCABULARY & ELECTION TERMS (Flawed/Repetitive)",
+        "question": "endorsement (This item appears to be an option from an unstated question, options are below)",
+        "options": {
+          "A": "accreditation",
+          "B": "validation",
+          "C": "approval"
+        },
+        "answer": null,
+        "explanation": "This item is a repetition or fragmentation of previous questions/options and does not form a complete, unique question."
+      }
+    ]
+  }
+}

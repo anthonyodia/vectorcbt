@@ -1,0 +1,705 @@
+{
+  "test_name": "WAEC Biology 2022 Questions",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which of the following statements about living things is correct?",
+      "options": {
+        "A": "animals respire using carbon(iv)oxide as a raw material",
+        "B": "growth in plants is limited after some time",
+        "C": "most plants respond to stimulus slowly",
+        "D": "higher animals can reproduce asexually"
+      },
+      "answer": "C",
+      "explanation": "Animals respire using **oxygen**, not carbon(IV) oxide. Growth in plants is generally **unlimited** (indeterminate) due to meristems, unlike animals. **Plants** generally respond to stimuli (like tropisms) **slowly**.",
+      "topic": "Characteristics of Living Things",
+      "image_reference": null
+    },
+    {
+      "id": 2,
+      "text": "Organ level of organization in living things is found in?",
+      "options": {
+        "A": "waterleaf plant",
+        "B": "virus particle",
+        "C": "kidney",
+        "D": "spermatozoon"
+      },
+      "answer": "C",
+      "explanation": "The **Kidney** is an **organ**. A spermatozoon is a cell, a virus is acellular, and a waterleaf plant is an organism (a collection of organ systems).",
+      "topic": "Levels of Organisation",
+      "image_reference": null
+    },
+    {
+      "id": 3,
+      "text": "Diagrams X and Y above are illustrations of transverse sections of a part of plants. Study them and answer this question: Which of the following statements is **not** correct? Diagrams X and Y are sections of",
+      "options": {
+        "A": "roots",
+        "B": "a dicotyledonous root",
+        "C": "vascular bundles",
+        "D": "stems"
+      },
+      "answer": "A",
+      "explanation": "Diagrams X and Y typically represent a dicot root and a dicot stem, respectively (showing a central stele and a ring of vascular bundles). Stating they are both sections of **roots** is incorrect, as Y is a stem section.",
+      "topic": "Plant Anatomy",
+      "image_reference": "Image:biology2022/image1.jpeg"
+    },
+    {
+      "id": 4,
+      "text": "Diagrams X and Y above are illustrations of transverse sections of a part of plants. Study them and answer this question: The part responsible for conducting water and dissolved mineral salts from the soil to the leaves is labelled",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "A",
+      "explanation": "Water and mineral salts are conducted by the **xylem**. In the vascular bundle diagrams, **I** is typically the xylem tissue.",
+      "topic": "Plant Tissues and Transport",
+      "image_reference": "Image:biology2022/image2.jpeg"
+    },
+    {
+      "id": 5,
+      "text": "Diagrams X and Y above are illustrations of transverse sections of a part of plants. Study them and answer this question: The part labelled Il is the?",
+      "options": {
+        "A": "Pith",
+        "B": "xylem",
+        "C": "Phloem",
+        "D": "endodermis"
+      },
+      "answer": "C",
+      "explanation": "If I is the xylem, the adjacent conducting tissue, which transports food, is the **Phloem** (**II**).",
+      "topic": "Plant Tissues",
+      "image_reference": "Image:biology2022/image3.jpeg"
+    },
+    {
+      "id": 6,
+      "text": "The organelles in cells which are also referred to as **suicidal bags** are the",
+      "options": {
+        "A": "mithchondria",
+        "B": "lysosomes",
+        "C": "ribosomes",
+        "D": "nuclei"
+      },
+      "answer": "B",
+      "explanation": "**Lysosomes** are called suicidal bags because they contain digestive enzymes that can autodigest the cell (autolysis) if the organelle membrane ruptures.",
+      "topic": "Cell Organelles",
+      "image_reference": null
+    },
+    {
+      "id": 7,
+      "text": "The process that brings about the shrinking of a *Spirogyra* cell when placed in a strong solution is ?",
+      "options": {
+        "A": "osmosis",
+        "B": "autolysis",
+        "C": "plasmolysis",
+        "D": "diffusion"
+      },
+      "answer": "C",
+      "explanation": "The shrinking of the cell membrane and cytoplasm away from the cell wall in a hypertonic solution due to loss of water by osmosis is called **plasmolysis**.",
+      "topic": "Transport Mechanisms",
+      "image_reference": null
+    },
+    {
+      "id": 8,
+      "text": "The region of a plant stem in which cells divide to increase its **diameter** is",
+      "options": {
+        "A": "cambium",
+        "B": "phloem",
+        "C": "xylem",
+        "D": "collenchyma"
+      },
+      "answer": "A",
+      "explanation": "The **cambium** is the lateral meristematic tissue responsible for secondary growth, which increases the diameter (girth) of the stem.",
+      "topic": "Plant Growth",
+      "image_reference": null
+    },
+    {
+      "id": 9,
+      "text": "The total number of caudal vertebrae in animals X and Y is 4 and 27 respectively. The animals are likely to be.",
+      "options": {
+        "A": "fish and human",
+        "B": "toad and rat",
+        "C": "toad and fish",
+        "D": "humans and rat"
+      },
+      "answer": "D",
+      "explanation": "Caudal vertebrae form the tail. **Humans** have about **4** fused caudal vertebrae (coccyx). **Rats** have a long tail with a large number of caudal vertebrae, typically around **27**.",
+      "topic": "Vertebrate Skeleton",
+      "image_reference": null
+    },
+    {
+      "id": 10,
+      "text": "Which of the following blood components has the greatest affinity for oxygen and carbon (IV) oxide?",
+      "options": {
+        "A": "Lymphocyte",
+        "B": "Erythrocyte",
+        "C": "Blood plasma",
+        "D": "Thrombocyte"
+      },
+      "answer": "B",
+      "explanation": "The transport molecule is Haemoglobin, which is contained within the **Erythrocyte** (Red Blood Cell).",
+      "topic": "Blood Components",
+      "image_reference": null
+    },
+    {
+      "id": 11,
+      "text": "Use the following processes to answer this question.\nI-Ribs move upward and outward\nII- Diaphragm relaxes\nIIl-Volume of thorax increases\nIV-Air is forced out of the lungs\nWhich of the processes take place during **inspiration**?",
+      "options": {
+        "A": "I and III only",
+        "B": "II and III only",
+        "C": "II and III only",
+        "D": "III and IV only"
+      },
+      "answer": "A",
+      "explanation": "Inspiration involves the contraction of the intercostal muscles and diaphragm, causing the **Ribs to move upward and outward (I)** and the **Volume of the thorax to increase (III)**.",
+      "topic": "Respiration",
+      "image_reference": null
+    },
+    {
+      "id": 12,
+      "text": "Use the following processes to answer this question.\nI-Ribs move upward and outward\nII- Diaphragm relaxes\nIIl-Volume of thorax increases\nIV-Air is forced out of the lungs\nWhich of the following processes is a **direct result of contraction of the intercostal muscles**?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "A",
+      "explanation": "The contraction of the external intercostal muscles directly pulls the **Ribs upward and outward (I)**.",
+      "topic": "Respiration",
+      "image_reference": null
+    },
+    {
+      "id": 13,
+      "text": "The table above shows the effect of hormones I,II,III and IV on some parts of the human body. Study it and answer this question: Which of the following hormones are I, II, Ill and IV respectively?",
+      "options": {
+        "A": "ADH, Glucagon, Oestrogen, Adrenaline",
+        "B": "Adrenaline, Glucagon, Oestrogen, ADH",
+        "C": "Glucagon, ADH, Oestrogen, Adrenaline",
+        "D": "Adrenaline, ADH, Oestrogen, Glucagon"
+      },
+      "answer": "A",
+      "explanation": "I $\\rightarrow$ Kidney Tubules: **ADH**. II $\\rightarrow$ Liver Cells: **Glucagon**. III $\\rightarrow$ Reproductive Organs: **Oestrogen**. IV $\\rightarrow$ Arterioles: **Adrenaline**.",
+      "topic": "Hormones and Endocrine System",
+      "image_reference": "Image:biology2022/image4.jpeg"
+    },
+    {
+      "id": 14,
+      "text": "The table above shows the effect of hormones I,II,III and IV on some parts of the human body. Study it and answer this question: The hormone responsible for **anxiety** is?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "D",
+      "explanation": "Anxiety is a symptom of the 'fight-or-flight' response mediated by **Adrenaline** (Hormone **IV**).",
+      "topic": "Hormones and Endocrine System",
+      "image_reference": "Image:biology2022/image5.jpeg"
+    },
+    {
+      "id": 15,
+      "text": "The diagram above is an illustration of some parts of a mammalian ear. Study it and answer this question: The middle ear is connected to the pharynx by the part labelled",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "D",
+      "explanation": "The tube connecting the middle ear to the pharynx for pressure equalization is the **Eustachian tube**, typically labelled **IV**.",
+      "topic": "Sense Organs (Ear)",
+      "image_reference": "Image:biology2022/image6.jpeg"
+    },
+    {
+      "id": 16,
+      "text": "The diagram above is an illustration of some parts of a mammalian ear. Study it and answer this question: The parts labelled **I** are the?",
+      "options": {
+        "A": "semi circular canals",
+        "B": "ossicles",
+        "C": "cochlea",
+        "D": "external auditory meatus"
+      },
+      "answer": "A",
+      "explanation": "Label **I** points to the fluid-filled loops of the inner ear, the **semi-circular canals**, which are involved in balance.",
+      "topic": "Sense Organs (Ear)",
+      "image_reference": "Image:biology2022/image7.jpeg"
+    },
+    {
+      "id": 17,
+      "text": "The diagram above is an illustration of some parts of a mammalian ear. Study it and answer this question: Which of the parts are correctly grouped?",
+      "options": {
+        "A": "(Inner ear I, IV) (Middle ear III) (Outer ear II)",
+        "B": "(Inner ear III) (Middle ear II, IV) (Outer ear I)",
+        "C": "(Inner ear III) (Middle ear II) (Outer ear III,IV)",
+        "D": "(Inner ear II) (Middle ear I, III) (Outer ear IV)"
+      },
+      "answer": "A",
+      "explanation": "Based on a common exam labeling: I and IV (Semicircular canals, Cochlea/nerve) are **Inner ear**. III (Ossicles) is **Middle ear**. II (Eardrum/Meatus) is **Outer ear**.",
+      "topic": "Sense Organs (Ear)",
+      "image_reference": "Image:biology2022/image8.jpeg"
+    },
+    {
+      "id": 18,
+      "text": "The diagrams above are illustrations of two different cells involved in biological processing in mammals. Study them and answer this question: Which parts of P and Q fuse to complete the biological process?",
+      "options": {
+        "A": "III and I",
+        "B": "IV and I",
+        "C": "III and II",
+        "D": "IV and II"
+      },
+      "answer": "B",
+      "explanation": "The biological process is fertilization. Fusion occurs between the **nucleus** of the sperm (P, labelled **IV**) and the **nucleus** of the ovum (Q, labelled **I**).",
+      "topic": "Reproduction and Fertilization",
+      "image_reference": "Image:biology2022/image9.jpeg"
+    },
+    {
+      "id": 19,
+      "text": "The diagrams above are illustrations of two different cells involved in biological processing in mammals. Study them and answer this question: Which of the following statements about P and Q is correct?",
+      "options": {
+        "A": "Both cells are structures for asexual reproduction",
+        "B": "Both cells normally belong to the same individual",
+        "C": "Both cells are found in plants",
+        "D": "The union of both cells gives rise to a new mammal"
+      },
+      "answer": "D",
+      "explanation": "P (sperm) and Q (ovum) are gametes. Their union (fertilization) forms a zygote that develops into a new mammal (**sexual reproduction**).",
+      "topic": "Reproduction",
+      "image_reference": "Image:biology2022/image10.jpeg"
+    },
+    {
+      "id": 20,
+      "text": "If the number of chromosomes in the skin cells of mammals is 46, how many chromosomes would be found in P and Q respectively?",
+      "options": {
+        "A": "23 and 23",
+        "B": "23 and 46",
+        "C": "46 and 23",
+        "D": "46 and 46."
+      },
+      "answer": "A",
+      "explanation": "Skin cells are diploid ($2n=46$). P (sperm) and Q (ovum) are haploid ($n$). Therefore, both contain **23** chromosomes.",
+      "topic": "Genetics and Chromosomes",
+      "image_reference": "Image:biology2022/image11.jpeg"
+    },
+    {
+      "id": 21,
+      "text": "In which of the following structures is **simple sugar** produced?",
+      "options": {
+        "A": "Vacuole",
+        "B": "Cytoplasm",
+        "C": "Chloroplast",
+        "D": "Cell wall"
+      },
+      "answer": "C",
+      "explanation": "Simple sugar (glucose) is the product of photosynthesis, which occurs in the **Chloroplasts**.",
+      "topic": "Photosynthesis and Cell Organelles",
+      "image_reference": null
+    },
+    {
+      "id": 22,
+      "text": "An evidence of the occurrence of **photosynthesis** in an experiment is the?",
+      "options": {
+        "A": "release of carbon (IV) oxide",
+        "B": "release of oxygen",
+        "C": "formation of water molecules",
+        "D": "formation and release of fructose"
+      },
+      "answer": "B",
+      "explanation": "Oxygen ($O_2$) is a major gaseous byproduct of photosynthesis and is easily detected as evidence of the process.",
+      "topic": "Photosynthesis",
+      "image_reference": null
+    },
+    {
+      "id": 23,
+      "text": "The major source of **vitamin A** are ?",
+      "options": {
+        "A": "egg yolk, carrot and palm oil",
+        "B": "mango, pawpaw,and eggs",
+        "C": "sorghum,soya bean and liver",
+        "D": "rice,bran,green vegetables and milk"
+      },
+      "answer": "A",
+      "explanation": "Vitamin A (retinol) and its precursor, beta-carotene, are abundant in **egg yolk**, **carrot**, and **red palm oil**.",
+      "topic": "Nutrition",
+      "image_reference": null
+    },
+    {
+      "id": 24,
+      "text": "Diagram J is a protease while diagrams K,L,M, and N are food substances. Study them and answer this question: Protease J would react with the particular illustrated substance because enzymes?",
+      "options": {
+        "A": "are denatured at a high frequency",
+        "B": "are specific in their action",
+        "C": "remain unchanged after a reaction",
+        "D": "speed"
+      },
+      "answer": "B",
+      "explanation": "The ability of an enzyme to act only on a specific substrate is known as enzyme **specificity** (Lock-and-Key hypothesis).",
+      "topic": "Enzymes",
+      "image_reference": "Image:biology2022/image12.jpeg"
+    },
+    {
+      "id": 25,
+      "text": "Diagram J is a protease while diagrams K,L,M, and N are food substances. Study them and answer this question: After a reaction between protease J and the food substance, the end product would be",
+      "options": {
+        "A": "fatty acids",
+        "B": "glucose",
+        "C": "amino acids",
+        "D": "water"
+      },
+      "answer": "C",
+      "explanation": "A **protease** digests **proteins** into their final breakdown products, which are **amino acids**.",
+      "topic": "Enzymes and Digestion",
+      "image_reference": "Image:biology2022/image13.jpeg"
+    },
+    {
+      "id": 26,
+      "text": "The property of **clayey soil** that prevents it from supporting thick vegetation is its?",
+      "options": {
+        "A": "composition of chemically weathered granite rocks",
+        "B": "inability to retain much water",
+        "C": "tendency of becoming waterlogged",
+        "D": "porosity and low water retention ability"
+      },
+      "answer": "C",
+      "explanation": "Clay soil has poor drainage, leading to **waterlogging**, which displaces air and suffocates the roots of most plants.",
+      "topic": "Soil Science",
+      "image_reference": null
+    },
+    {
+      "id": 27,
+      "text": "Which of the following practices will **not** maintain soil fertility?",
+      "options": {
+        "A": "preventing soil erosion",
+        "B": "bush fallowing",
+        "C": "tendency of becoming waterlogged",
+        "D": "porosity and low water retention ability"
+      },
+      "answer": "C",
+      "explanation": "Options C and D are soil characteristics, not practices. Assuming the intent was to find a negative characteristic, the **tendency of becoming waterlogged** is detrimental to fertility. If this was intended as a faulty practice option, it's the only one that doesn't maintain fertility.",
+      "topic": "Soil Conservation",
+      "image_reference": null
+    },
+    {
+      "id": 28,
+      "text": "A group of organisms of the **same species** living in a particular place is known as",
+      "options": {
+        "A": "colony",
+        "B": "ecosystem",
+        "C": "Niche",
+        "D": "population"
+      },
+      "answer": "D",
+      "explanation": "The definition of a **population** in ecology is a group of organisms of the **same species** living in a particular area.",
+      "topic": "Ecology",
+      "image_reference": null
+    },
+    {
+      "id": 29,
+      "text": "The diagram below is an illustration of an experiment on sedimentation of soil. The **organic component** of the soil is labelled",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "B",
+      "explanation": "The organic component, **humus**, is the lightest fraction and typically floats on the water or forms a dark layer just below the water surface, labelled **II**.",
+      "topic": "Soil Analysis",
+      "image_reference": "Image:biology2022/image14.jpeg"
+    },
+    {
+      "id": 30,
+      "text": "The diagram below is an illustration of an experiment on sedimentation of soil. The part labelled **IV** is",
+      "options": {
+        "A": "silt",
+        "B": "sand",
+        "C": "humus",
+        "D": "clay"
+      },
+      "answer": "B",
+      "explanation": "In sedimentation, the largest and densest particles, the **sand** and gravel, settle at the bottom, labelled **IV**.",
+      "topic": "Soil Analysis",
+      "image_reference": "Image:biology2022/image15.jpeg"
+    },
+    {
+      "id": 31,
+      "text": "Which of the follwing pyramids is **not** used in ecology? pyramid of",
+      "options": {
+        "A": "energy",
+        "B": "numbers",
+        "C": "biomass",
+        "D": "orgsnisms"
+      },
+      "answer": "D",
+      "explanation": "The three types of ecological pyramids are those of **energy**, **numbers**, and **biomass**.",
+      "topic": "Ecology (Ecological Pyramids)",
+      "image_reference": null
+    },
+    {
+      "id": 32,
+      "text": "Study the food chain illustrated below: J $\\rightarrow$ K $\\rightarrow$ L $\\rightarrow$ M $\\rightarrow$ N. Organism **J** is normally sustained by energy from?",
+      "options": {
+        "A": "Green plants",
+        "B": "carbohydrates",
+        "C": "organism",
+        "D": "sunlight"
+      },
+      "answer": "D",
+      "explanation": "J is the producer (first trophic level) and derives its energy from the **sunlight** via photosynthesis.",
+      "topic": "Ecology (Food Chain)",
+      "image_reference": null
+    },
+    {
+      "id": 33,
+      "text": "Study the food chain illustrated below: J $\\rightarrow$ K $\\rightarrow$ L $\\rightarrow$ M $\\rightarrow$ N. Which of the following statements about organism **L** is correct?",
+      "options": {
+        "A": "feeds on organism",
+        "B": "is a primary consumer",
+        "C": "is the producer",
+        "D": "is a secondary consumer"
+      },
+      "answer": "D",
+      "explanation": "J (Producer) $\\rightarrow$ K (Primary Consumer) $\\rightarrow$ **L** (Secondary Consumer). L feeds on the primary consumer, K.",
+      "topic": "Ecology (Food Chain)",
+      "image_reference": null
+    },
+    {
+      "id": 34,
+      "text": "Study the food chain illustrated below: J $\\rightarrow$ K $\\rightarrow$ L $\\rightarrow$ M $\\rightarrow$ N. The position occupied by each of organisms J K L M N in the food chain is known as the",
+      "options": {
+        "A": "energy level",
+        "B": "trophic level",
+        "C": "food web",
+        "D": "pyramid of numbers"
+      },
+      "answer": "B",
+      "explanation": "The feeding position of an organism in a food chain is called its **trophic level**.",
+      "topic": "Ecology (Trophic Levels)",
+      "image_reference": null
+    },
+    {
+      "id": 35,
+      "text": "Which of the following features is **not** an **adaptation**?",
+      "options": {
+        "A": "Breathing roots for entry air",
+        "B": "flowers are raised above water to attract pollinators",
+        "C": "spongy tissues containing gases for boyancy",
+        "D": "hairy structures on the leaves to reduce water loss"
+      },
+      "answer": "A",
+      "explanation": "All listed features describe biological adaptations. Option A's phrasing 'Breathing roots for entry air' (pneumatophores) is the most ambiguously described adaptation.",
+      "topic": "Adaptation",
+      "image_reference": null
+    },
+    {
+      "id": 36,
+      "text": "The biological association that contributes directly to **succession** in a community is",
+      "options": {
+        "A": "competition",
+        "B": "predation",
+        "C": "parasitism",
+        "D": "commensialism"
+      },
+      "answer": "A",
+      "explanation": "**Competition** (particularly interspecific) is a primary driver of ecological succession, as one species outcompetes and replaces another, leading to community change.",
+      "topic": "Ecology (Succession and Association)",
+      "image_reference": null
+    },
+    {
+      "id": 37,
+      "text": "The conservation of natural resources is enhanced by the following practices **except**",
+      "options": {
+        "A": "controlling farm activities",
+        "B": "protecting endangered species",
+        "C": "poaching in game reserves",
+        "D": "establishing parks and gardens"
+      },
+      "answer": "C",
+      "explanation": "**Poaching** (illegal hunting) is destructive to natural resources and is an anti-conservation practice.",
+      "topic": "Conservation",
+      "image_reference": null
+    },
+    {
+      "id": 38,
+      "text": "The burning of farmlands ahould be discouraged because?",
+      "options": {
+        "A": "destroys organic components of the soil",
+        "B": "increases population of wild animals",
+        "C": "increases dormancy period of some seeds",
+        "D": "destroys some plant seeds"
+      },
+      "answer": "A",
+      "explanation": "Bush burning heats the soil, oxidizing and destroying the **organic components (humus)**, which are vital for soil fertility and structure.",
+      "topic": "Conservation",
+      "image_reference": null
+    },
+    {
+      "id": 39,
+      "text": "The use of a lighter instead of matchsticks is a way of conserving",
+      "options": {
+        "A": "petroleum",
+        "B": "forest",
+        "C": "water",
+        "D": "wildlife"
+      },
+      "answer": "B",
+      "explanation": "Matchsticks are made of wood, requiring the use of **forest** resources. Lighters replace this need.",
+      "topic": "Conservation",
+      "image_reference": null
+    },
+    {
+      "id": 40,
+      "text": "An accident victim was successfully transfused with blood from the father whose blood, group is **AB**. The blood group of the accident victim is",
+      "options": {
+        "A": "B",
+        "B": "O",
+        "C": "AB",
+        "D": "A"
+      },
+      "answer": "C",
+      "explanation": "Blood group **AB** is the universal recipient. Since the donor (father) is AB, only a recipient with blood group **AB** (who has no anti-A or anti-B antibodies) can receive a full transfusion without reaction, guaranteeing a 'successful' outcome.",
+      "topic": "Genetics (Blood Group)",
+      "image_reference": null
+    },
+    {
+      "id": 41,
+      "text": "Which of the followig traits in humans is an example of **physiological variation**?",
+      "options": {
+        "A": "skin colour",
+        "B": "fingerprint",
+        "C": "tongue rolling",
+        "D": "height"
+      },
+      "answer": "C",
+      "explanation": "**Physiological variation** relates to a function or chemical process. **Tongue rolling** is a physical ability (a functional trait) controlled by genetics.",
+      "topic": "Variation",
+      "image_reference": null
+    },
+    {
+      "id": 42,
+      "text": "Individuals belonging to the blood group **O** are **universal donors** because ?",
+      "options": {
+        "A": "antigens are absent in thier blood cells",
+        "B": "members of the group consitutute the highest number of humans",
+        "C": "there are no of antibodies in thier blood plasma",
+        "D": "the antigens in thier blood cells are easily destroyed"
+      },
+      "answer": "A",
+      "explanation": "Blood group O is the universal donor because its red blood cells **lack both A and B antigens** (A), preventing an immune reaction (clumping) in any recipient.",
+      "topic": "Genetics (Blood Group)",
+      "image_reference": null
+    },
+    {
+      "id": 43,
+      "text": "Two tall plants were crossed and all the F1 plants were tall. when the F1 plants were selfed, some of the F2 plants were tall while others were short what are the possible genotypes of the original plants ?",
+      "options": {
+        "A": "Tt and tt",
+        "B": "TT and TT",
+        "C": "tt and tt",
+        "D": "TT and Tt"
+      },
+      "answer": "D",
+      "explanation": "F1 (100% Tall) must contain the dominant gene (T). F2 (Tall and Short) means F1 must be heterozygous (Tt) to produce the recessive (tt) phenotype. A cross of **TT $\\times$ Tt (D)** gives 100% Tall F1 (50% TT, 50% Tt), and when selfed, the Tt portion produces the short F2 plants.",
+      "topic": "Mendelian Genetics",
+      "image_reference": null
+    },
+    {
+      "id": 44,
+      "text": "Which of the following statements best describes a **test cross**?",
+      "options": {
+        "A": "to determine the genotype of an individual whose phenotype is to be known",
+        "B": "to determine the phenotype of an individual whose genotype is known",
+        "C": "between the progeny of parents to ascertain external expressions",
+        "D": "between two homozygous recessive individuals to confirm the genotypes"
+      },
+      "answer": "A",
+      "explanation": "A test cross is used to **determine the unknown genotype** (homozygous dominant or heterozygous) of an individual expressing a dominant phenotype, by crossing it with a homozygous recessive individual.",
+      "topic": "Mendelian Genetics",
+      "image_reference": null
+    },
+    {
+      "id": 45,
+      "text": "Which of the following statements about **sex linked traits** is **not** correct?",
+      "options": {
+        "A": "male inherit sex linked traits from thier fathers",
+        "B": "sex linked traits are more common in males",
+        "C": "females can be carriers beacuse they can be heterozygous for the trait",
+        "D": "males are never carriers since they only recieve one sex chromosome"
+      },
+      "answer": "A",
+      "explanation": "Males inherit their X chromosome (which carries the sex-linked trait) from their **mother**, not their father. The father gives the Y chromosome.",
+      "topic": "Sex-Linked Inheritance",
+      "image_reference": null
+    },
+    {
+      "id": 46,
+      "text": "Diagram J is a protease while diagrams K,L,M, and N are food substances. Study them and answer this question: Protease J would react with the particular illustrated substance (likely asking which substance is protein).",
+      "options": {
+        "A": "K",
+        "B": "L",
+        "C": "M",
+        "D": "N"
+      },
+      "answer": "A",
+      "explanation": "Protease acts on **Protein**. Assuming **K** represents the protein substrate in the diagram.",
+      "topic": "Enzymes and Digestion",
+      "image_reference": null
+    },
+    {
+      "id": 47,
+      "text": "The process by which the amount of **water and solutes** in the blood is controlled is known as",
+      "options": {
+        "A": "hemolysis",
+        "B": "diffusion",
+        "C": "turgidity",
+        "D": "osmoregulation"
+      },
+      "answer": "D",
+      "explanation": "**Osmoregulation** is the maintenance of internal water and salt (solute) balance.",
+      "topic": "Homeostasis and Excretion",
+      "image_reference": null
+    },
+    {
+      "id": 48,
+      "text": "Which group of organisms converts nitrites ($NO_2^-$) to nitrates ($NO_3^-$) in the nitrogen cycle?",
+      "options": {
+        "A": "Denitrifying bacteria",
+        "B": "Nitrogen-fixing bacteria",
+        "C": "Nitrifying bacteria",
+        "D": "Putrefying bacteria"
+      },
+      "answer": "C",
+      "explanation": "**Nitrifying bacteria** (specifically *Nitrobacter*) oxidize nitrites into nitrates, which is the form of nitrogen most readily absorbed by plants.",
+      "topic": "Ecology (Nutrient Cycling)",
+      "image_reference": null
+    },
+    {
+      "id": 49,
+      "text": "The backbone of a DNA molecule is composed of alternating units of?",
+      "options": {
+        "A": "Nitrogenous bases and phosphate",
+        "B": "Sugar (deoxyribose) and phosphate",
+        "C": "Sugar (ribose) and bases",
+        "D": "Amino acids and sugar"
+      },
+      "answer": "B",
+      "explanation": "The DNA backbone is a chain of alternating **deoxyribose sugar** and **phosphate** groups, with the nitrogenous bases attached to the sugar.",
+      "topic": "Genetics (DNA Structure)",
+      "image_reference": null
+    },
+    {
+      "id": 50,
+      "text": "Which part of the kidney is primarily responsible for the selective re-absorption of useful substances like glucose and amino acids?",
+      "options": {
+        "A": "Bowman's capsule",
+        "B": "Glomerulus",
+        "C": "Loop of Henle",
+        "D": "Proximal convoluted tubule"
+      },
+      "answer": "D",
+      "explanation": "The **Proximal Convoluted Tubule (PCT)** re-absorbs about 65% of the filtrate, including nearly all the glucose, amino acids, and essential salts, back into the blood.",
+      "topic": "Excretion (Kidney Function)",
+      "image_reference": null
+    }
+  ]
+}

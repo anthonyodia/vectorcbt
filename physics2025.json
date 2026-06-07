@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "question": "A pulley system is used to raise a 10 kg load. If the effort required is 70 N, calculate the efficiency of the machine.",
+    "options": {
+      "A": "71.4%",
+      "B": "14.2%",
+      "C": "50.0%",
+      "D": "Data Incomplete (V.R. required)"
+    },
+    "answer": "D",
+    "explanation": "Efficiency = (M.A / V.R) * 100. While M.A = Load/Effort = 100N/70N = 1.43, the Velocity Ratio (V.R) of the pulley is not specified in the text.",
+    "image": "physics2025/physics1_image1.jpg",
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 2,
+    "question": "From the force–displacement graph provided, calculate the work done during the first 20 m of motion.",
+    "options": {
+      "A": "Calculated from area",
+      "B": "Force x 20",
+      "C": "20 / Force",
+      "D": "0 J"
+    },
+    "answer": "A",
+    "explanation": "Work done is equivalent to the area under a force-displacement graph.",
+    "image": "physics2025/physics1_image2.jpg",
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 3,
+    "question": "Dispersion of light results in which of the following phenomena?",
+    "options": {
+      "A": "Eclipse",
+      "B": "Shadow",
+      "C": "Rainbow",
+      "D": "Mirage"
+    },
+    "answer": "C",
+    "explanation": "Dispersion is the splitting of white light into its constituent colors, which is the process that forms a rainbow.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 4,
+    "question": "The best colour of shirt to be worn on a bright noon day is:",
+    "options": {
+      "A": "Red",
+      "B": "Black",
+      "C": "Green",
+      "D": "White"
+    },
+    "answer": "D",
+    "explanation": "White is a poor absorber and a good reflector of radiant heat, keeping the wearer cool.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 5,
+    "question": "The image formed when an object is placed between the focus and centre of curvature of a converging lens is:",
+    "options": {
+      "A": "Real, inverted and magnified",
+      "B": "Real, inverted and diminished",
+      "C": "Erect, virtual and magnified",
+      "D": "Erect, virtual and diminished"
+    },
+    "answer": "A",
+    "explanation": "When an object is between F and 2F (C), the image is formed beyond 2F and is real, inverted, and larger than the object.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 6,
+    "question": "For a charged particle moving in crossed electric and magnetic fields, the ratio ( E/B ) is known as:",
+    "options": {
+      "A": "Lorentz ratio",
+      "B": "Charge ratio",
+      "C": "Velocity selector",
+      "D": "Electrochemical equivalence"
+    },
+    "answer": "C",
+    "explanation": "In crossed fields, only particles with velocity v = E/B pass through undeflected; this setup is called a velocity selector.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 7,
+    "question": "Two musical notes have the same frequency but different amplitudes. What difference would be observed between them?",
+    "options": {
+      "A": "Different Pitch",
+      "B": "Different Loudness",
+      "C": "Different Quality",
+      "D": "Different Overtones"
+    },
+    "answer": "B",
+    "explanation": "Loudness depends on the amplitude of the sound wave, while pitch depends on frequency.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 8,
+    "question": "A simple pendulum of length 0.8 m completes 20 oscillations in 60 s. Calculate the acceleration due to gravity on that planet.",
+    "options": {
+      "A": "3.51 m/s²",
+      "B": "8.77 m/s²",
+      "C": "9.81 m/s²",
+      "D": "4.22 m/s²"
+    },
+    "answer": "A",
+    "explanation": "Period T = 60/20 = 3s. Using $T = 2\\pi\\sqrt{L/g}$, $g = 4\\pi^2 L / T^2 = 4 * 9.87 * 0.8 / 9 \\approx 3.51 m/s^2$.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 9,
+    "question": "2 kg of liquid at 61°C is mixed with 2 kg of the same liquid at 21°C in a lagged vessel. Calculate the final temperature.",
+    "options": {
+      "A": "41°C",
+      "B": "40°C",
+      "C": "82°C",
+      "D": "30°C"
+    },
+    "answer": "A",
+    "explanation": "Since masses and specific heat capacities are equal, the final temperature is the average: (61 + 21) / 2 = 41°C.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 10,
+    "question": "A coil is moved relative to a bar magnet. Which diagram shows the correct direction of the induced current?",
+    "options": {
+      "A": "Lenz's Law compliant",
+      "B": "Opposing flux",
+      "C": "Same direction as motion",
+      "D": "No current"
+    },
+    "answer": "A",
+    "explanation": "According to Lenz's law, the induced current flows in a direction that opposes the change producing it.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 11,
+    "question": "If two bodies are each in thermal equilibrium with a third body, they are in thermal equilibrium with each other. This illustrates which law of thermodynamics?",
+    "options": {
+      "A": "First Law",
+      "B": "Second Law",
+      "C": "Third Law",
+      "D": "Zeroth Law"
+    },
+    "answer": "D",
+    "explanation": "The Zeroth Law defines the concept of temperature and thermal equilibrium.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 12,
+    "question": "Given peak voltages across circuit components, determine the peak value of the applied alternating e.m.f.",
+    "options": {
+      "A": "Sum of voltages",
+      "B": "Root sum of squares",
+      "C": "Average voltage",
+      "D": "Difference of voltages"
+    },
+    "answer": "B",
+    "explanation": "In an AC circuit, the total voltage is the phasor sum of the component voltages.",
+    "image": "physics2025/physics1_image3.jpg",
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 13,
+    "question": "A ripple tank produces waves of wavelength 3.5 cm travelling 31.5 cm in 1.5 s. Calculate the frequency.",
+    "options": {
+      "A": "6.0 Hz",
+      "B": "9.0 Hz",
+      "C": "5.0 Hz",
+      "D": "12.0 Hz"
+    },
+    "answer": "A",
+    "explanation": "Velocity v = distance/time = 31.5 / 1.5 = 21 cm/s. Frequency f = v / \\lambda = 21 / 3.5 = 6 Hz.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 14,
+    "question": "Given refractive indices of two media, determine the speed of light in one medium.",
+    "options": {
+      "A": "n = c/v",
+      "B": "n = v/c",
+      "C": "n = 1/v",
+      "D": "n = c*v"
+    },
+    "answer": "A",
+    "explanation": "The refractive index n is the ratio of the speed of light in vacuum (c) to the speed in the medium (v).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 15,
+    "question": "A sound wave of wavelength 600 m travels at 360 m/s. Determine its period.",
+    "options": {
+      "A": "1.67 s",
+      "B": "0.60 s",
+      "C": "216,000 s",
+      "D": "0.001 s"
+    },
+    "answer": "A",
+    "explanation": "Period T = \\lambda / v = 600 / 360 = 1.666... s.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 16,
+    "question": "In which lever is the effort applied between the fulcrum and the load?",
+    "options": {
+      "A": "Pliers",
+      "B": "Wheelbarrow",
+      "C": "Sugar tongs",
+      "D": "Table knife"
+    },
+    "answer": "C",
+    "explanation": "Sugar tongs are a third-class lever where the effort is between the fulcrum and the load.",
+    "image": "physics2025/physic1_image4.jpg",
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 17,
+    "question": "From the given circuit, calculate the current in a specified resistor.",
+    "options": {
+      "A": "V/R",
+      "B": "I*R",
+      "C": "P/V",
+      "D": "V^2/R"
+    },
+    "answer": "A",
+    "explanation": "Current is calculated using Ohm's Law (I = V/R) applied to the specific branch or total circuit.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 18,
+    "question": "From the same circuit, calculate the terminal potential difference of the battery.",
+    "options": {
+      "A": "V = E - Ir",
+      "B": "V = E + Ir",
+      "C": "V = IR",
+      "D": "V = E"
+    },
+    "answer": "A",
+    "explanation": "Terminal P.D is the E.M.F minus the voltage drop across the internal resistance (Ir).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 19,
+    "question": "Which statements about the nucleus of an atom are correct?",
+    "options": {
+      "A": "Positively charged",
+      "B": "Contains electrons",
+      "C": "Contains only neutrons",
+      "D": "Negatively charged"
+    },
+    "answer": "A",
+    "explanation": "The nucleus contains protons (positive) and neutrons (neutral), making it overall positively charged.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 20,
+    "question": "A 16 g radioactive sample reduces to 1 g in 40 days. Calculate its half-life.",
+    "options": {
+      "A": "10 days",
+      "B": "8 days",
+      "C": "5 days",
+      "D": "20 days"
+    },
+    "answer": "A",
+    "explanation": "16 -> 8 -> 4 -> 2 -> 1 is 4 half-lives. 40 days / 4 = 10 days.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 21,
+    "question": "Why are concert halls covered with perforated pads?",
+    "options": {
+      "A": "Increase intensity",
+      "B": "Increase loudness",
+      "C": "Reduce reverberation",
+      "D": "Decrease frequency"
+    },
+    "answer": "C",
+    "explanation": "Porous materials absorb sound energy, preventing multiple reflections known as reverberation.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 22,
+    "question": "A 10 kg bucket is swung in a vertical circle of radius 1.2 m at 5 m/s. Determine the tension at the lowest point.",
+    "options": {
+      "A": "308.3 N",
+      "B": "100 N",
+      "C": "208.3 N",
+      "D": "500 N"
+    },
+    "answer": "A",
+    "explanation": "T = mg + mv²/r = (10*10) + (10*25/1.2) = 100 + 208.3 = 308.3 N.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 23,
+    "question": "A man’s near point is 30 cm. Which eye defect does he have?",
+    "options": {
+      "A": "Myopia",
+      "B": "Hypermetropia",
+      "C": "Astigmatism",
+      "D": "Presbyopia"
+    },
+    "answer": "B",
+    "explanation": "A normal near point is 25 cm. If it is further (30 cm), the person is long-sighted (Hypermetropia).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 24,
+    "question": "White light can be produced by combination of which colours?",
+    "options": {
+      "A": "Red, Green, Blue",
+      "B": "Red, Yellow, Blue",
+      "C": "Magenta, Cyan, Yellow",
+      "D": "Green, Orange, Violet"
+    },
+    "answer": "A",
+    "explanation": "Red, Green, and Blue are primary colors of light that combine to form white light.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 25,
+    "question": "A plane mirror shown can be used as what type of mirror?",
+    "options": {
+      "A": "Surveillance mirror",
+      "B": "Make-up mirror",
+      "C": "Microscope reflector",
+      "D": "Depressing mirror"
+    },
+    "answer": "C",
+    "explanation": "Microscopes often use plane mirrors to reflect light onto the slide.",
+    "image": "physics2025/physics1_image5.jpg",
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 26,
+    "question": "Which statement about stationary waves is NOT true?",
+    "options": {
+      "A": "They transfer energy",
+      "B": "Nodes have zero amplitude",
+      "C": "They are formed by interference",
+      "D": "Antinodes have maximum amplitude"
+    },
+    "answer": "A",
+    "explanation": "Stationary waves do not transfer energy; the energy is trapped between nodes.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 27,
+    "question": "In a pipe closed at one end, the overtones are:",
+    "options": {
+      "A": "Odd multiples",
+      "B": "Even multiples",
+      "C": "All multiples",
+      "D": "Prime multiples"
+    },
+    "answer": "A",
+    "explanation": "Closed pipes produce only odd harmonics (1, 3, 5...).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 28,
+    "question": "A 512 g radioactive substance decays to 64 g. Determine the number of half-lives involved.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "A",
+    "explanation": "512 -> 256 -> 128 -> 64. That is 3 half-lives.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 29,
+    "question": "Destructive interference occurs when path difference equals:",
+    "options": {
+      "A": "λ",
+      "B": "λ/2",
+      "C": "λ/4",
+      "D": "λ/8"
+    },
+    "answer": "B",
+    "explanation": "Destructive interference occurs when waves are out of phase by 180 degrees (path difference of \\lambda/2).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 30,
+    "question": "A step-up transformer has:",
+    "options": {
+      "A": "Fewer turns in primary than secondary",
+      "B": "More turns in primary",
+      "C": "Equal turns",
+      "D": "Coils far apart"
+    },
+    "answer": "A",
+    "explanation": "A step-up transformer increases voltage by having more turns on the secondary coil than the primary.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 31,
+    "question": "The unit of magnetic flux density is:",
+    "options": {
+      "A": "Tesla",
+      "B": "Watt",
+      "C": "Newton per metre",
+      "D": "Coulomb"
+    },
+    "answer": "A",
+    "explanation": "Magnetic flux density is measured in Tesla (T) or Wb/m^2.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 32,
+    "question": "An electricity meter measures which physical quantity?",
+    "options": {
+      "A": "Power",
+      "B": "Energy",
+      "C": "Voltage",
+      "D": "Current"
+    },
+    "answer": "B",
+    "explanation": "Electricity meters measure energy consumed in kilowatt-hours (kWh).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 33,
+    "question": "A sound wave made of many unrelated frequencies is called:",
+    "options": {
+      "A": "Harmonics",
+      "B": "Note",
+      "C": "Noise",
+      "D": "Pitch"
+    },
+    "answer": "C",
+    "explanation": "Noise is characterized by a jumble of unrelated, non-periodic frequencies.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 34,
+    "question": "A microphone converts energy from:",
+    "options": {
+      "A": "Electrical to sound",
+      "B": "Sound to electrical",
+      "C": "Electrical to mechanical",
+      "D": "Sound to mechanical"
+    },
+    "answer": "B",
+    "explanation": "A microphone is a transducer that converts acoustic energy (sound) into electrical signals.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 35,
+    "question": "Which situation illustrates Newton’s Third Law?",
+    "options": {
+      "A": "Rolling ball",
+      "B": "Accelerating car",
+      "C": "Rocket propulsion",
+      "D": "Pedalling bicycle"
+    },
+    "answer": "C",
+    "explanation": "Rocket propulsion works on action and reaction (expelling gas backward pushes the rocket forward).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 36,
+    "question": "If force and velocity are each reduced by half, what happens to power?",
+    "options": {
+      "A": "Reduces by half",
+      "B": "Reduces to one quarter",
+      "C": "Stays the same",
+      "D": "Doubles"
+    },
+    "answer": "B",
+    "explanation": "Power P = F * v. If both F and v are halved, P' = (F/2) * (v/2) = P/4.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 37,
+    "question": "A plane inclined at 45° has what velocity ratio?",
+    "options": {
+      "A": "1.414",
+      "B": "1.000",
+      "C": "0.707",
+      "D": "2.000"
+    },
+    "answer": "A",
+    "explanation": "V.R of an inclined plane = 1/sin(\\theta). 1/sin(45°) = 1/0.707 = 1.414.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 38,
+    "question": "A body in a descending lift accelerating downward experiences what apparent weight?",
+    "options": {
+      "A": "mg + ma",
+      "B": "mg - ma",
+      "C": "mg",
+      "D": "ma"
+    },
+    "answer": "B",
+    "explanation": "In a downward accelerating lift, the reaction (apparent weight) is R = m(g - a).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 39,
+    "question": "If oil pressure increases, what happens to viscosity?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "answer": "A",
+    "explanation": "For most liquids, including oil, high pressure increases the internal friction and viscosity.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 40,
+    "question": "Determine the number of neutrons in a given isotope.",
+    "options": {
+      "A": "Mass number - Atomic number",
+      "B": "Mass number + Atomic number",
+      "C": "Equal to electrons",
+      "D": "Equal to Atomic number"
+    },
+    "answer": "A",
+    "explanation": "Number of neutrons (N) = Mass Number (A) - Atomic Number (Z).",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 41,
+    "question": "Given resistance at ice and steam points, calculate resistance at 10°C.",
+    "options": {
+      "A": "Interpolated value",
+      "B": "Extrapolated value",
+      "C": "Steam point value",
+      "D": "Ice point value"
+    },
+    "answer": "A",
+    "explanation": "Resistance at \\theta is calculated using $R_\\theta = R_0 + (R_{100} - R_0) * (\\theta / 100)$.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 42,
+    "question": "Radium decays by alpha emission. Determine the daughter nuclide.",
+    "options": {
+      "A": "Radon",
+      "B": "Uranium",
+      "C": "Thorium",
+      "D": "Lead"
+    },
+    "answer": "A",
+    "explanation": "When Radium-226 emits an alpha particle, its atomic number drops from 88 to 86, forming Radon.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 43,
+    "question": "Calculate the de Broglie wavelength of a moving bullet.",
+    "options": {
+      "A": "λ = h/mv",
+      "B": "λ = hmv",
+      "C": "λ = mv/h",
+      "D": "λ = h/m"
+    },
+    "answer": "A",
+    "explanation": "De Broglie wavelength is Planck's constant divided by momentum.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 44,
+    "question": "An electron enters a magnetic field at 90°. Calculate the magnetic force.",
+    "options": {
+      "A": "F = Bqv",
+      "B": "F = 0",
+      "C": "F = Bq",
+      "D": "F = Bv"
+    },
+    "answer": "A",
+    "explanation": "The force is maximum when the particle enters at 90 degrees, given by F = Bqv.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 45,
+    "question": "A beam of light appearing to come from a point in space is described as:",
+    "options": {
+      "A": "Convergent",
+      "B": "Divergent",
+      "C": "Parallel",
+      "D": "Circular"
+    },
+    "answer": "B",
+    "explanation": "Divergent rays spread out from a single point source.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 46,
+    "question": "A boy pushes an 80 kg box with 200 N at constant velocity. Determine the coefficient of friction.",
+    "options": {
+      "A": "0.25",
+      "B": "0.40",
+      "C": "0.50",
+      "D": "0.65"
+    },
+    "answer": "A",
+    "explanation": "At constant velocity, Friction = Applied Force = 200N. \\mu = F/R = 200 / (80 * 10) = 200/800 = 0.25.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 47,
+    "question": "A sound wave made up of a large number of unrelated frequencies superimposed on each other is called:",
+    "options": {
+      "A": "Harmonics",
+      "B": "Note",
+      "C": "Noise",
+      "D": "Pitch"
+    },
+    "answer": "C",
+    "explanation": "Noise consists of irregular vibrations and unrelated frequencies.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 48,
+    "question": "A boy pushes a box of mass 80 kg along a horizontal floor with a force of 200 N. If the box moves with uniform velocity, what is the coefficient of friction between the box and the floor? (g = 10 m/s²)",
+    "options": {
+      "A": "0.25",
+      "B": "0.40",
+      "C": "0.50",
+      "D": "0.65"
+    },
+    "answer": "A",
+    "explanation": "\\mu = Friction / Normal Reaction = 200 / (80 * 10) = 0.25.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 49,
+    "question": "Extremely thin wires can be drawn from platinum because platinum is:",
+    "options": {
+      "A": "Crystalline",
+      "B": "Ductile",
+      "C": "Hard",
+      "D": "Malleable"
+    },
+    "answer": "B",
+    "explanation": "Ductility is the property of a metal that allows it to be drawn into thin wires.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  },
+  {
+    "id": 50,
+    "question": "The S.I. unit of inductance is:",
+    "options": {
+      "A": "Hertz",
+      "B": "Farad",
+      "C": "Henry",
+      "D": "Coulomb"
+    },
+    "answer": "C",
+    "explanation": "The Henry (H) is the S.I. unit of both self and mutual inductance.",
+    "image": null,
+    "sectionName": "Physics",
+    "sectionId": 1
+  }
+]
