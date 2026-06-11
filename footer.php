@@ -8,21 +8,35 @@
     margin-top: 40px;
     border-top: 1px solid #eaeaea;
     box-sizing: border-box;
+
+    /* FIX: ensures full-width behavior in all layouts */
+    position: relative;
+    left: 0;
+    right: 0;
   }
 
+  /* container stays centered INSIDE full footer */
   .footer-container {
     max-width: 1000px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 20px;
+    width: 95%;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 25px;
   }
 
   .footer h3 {
     margin: 0 0 10px 0;
     color: #43e97b;
     font-size: 16px;
+  }
+
+  .footer p {
+    font-size: 14px;
+    color: #555;
+    max-width: 220px;
+    margin: 0;
   }
 
   .footer a {
@@ -40,11 +54,16 @@
 
   .footer-bottom {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 25px;
     font-size: 13px;
     color: #98a3b3;
     border-top: 1px solid #eaeaea;
     padding-top: 15px;
+
+    max-width: 1000px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
   }
 </style>
 
@@ -53,7 +72,7 @@
 
     <div>
       <h3>Vector Learn</h3>
-      <p style="font-size:14px; color:#555; max-width:200px; margin: 0;">
+      <p>
         Learn smarter, grow faster. Your journey to mastery starts here.
       </p>
     </div>
