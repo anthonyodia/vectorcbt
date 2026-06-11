@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Vector Learn - Step 2</title>
+
 <style>
   /* Reset and Base Styles */
   * {
@@ -18,7 +19,7 @@
     background-image: radial-gradient(#d1d9e6 1px, transparent 1px);
     background-size: 20px 20px;
     margin: 0;
-}
+  }
 
   .container {
     max-width: 1000px;
@@ -36,7 +37,14 @@
     to { opacity: 1; transform: translateY(0); }
   }
 
-  /* Steps Bar matched to CBT style */
+  /* WRAPPER FIX (IMPORTANT) */
+  .content-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+  }
+
+  /* Steps Bar */
   .steps-container {
     padding: 25px 25px 10px 25px;
   }
@@ -63,7 +71,7 @@
     font-weight: 600;
   }
 
-  /* Title Section */
+  /* Title */
   .title {
     text-align: center;
     margin-top: 15px;
@@ -81,7 +89,7 @@
     color: #555;
   }
 
-  /* Header Box with Chemistry Page Gradient */
+  /* Header Box */
   .form-box {
     background: linear-gradient(90deg, #4facfe, #43e97b);
     color: white;
@@ -94,7 +102,7 @@
     box-shadow: 0 4px 15px rgba(67, 233, 123, 0.2);
   }
 
-  /* Subject cards grid */
+  /* Subjects grid */
   .subjects {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
@@ -132,20 +140,19 @@
     background: #f0f7ff;
   }
 
-  /* Selection state matched to Correct Answer highlight */
   .subject-card.selected {
     border: 2px solid #43e97b;
     background-color: #e8f5e9;
     color: #166534;
   }
 
-  /* Button matched to CBT Green */
+  /* Button */
   .btn {
     display: block;
     width: calc(100% - 60px);
     margin: 40px auto 10px auto;
     padding: 18px;
-    background: #43e97b; 
+    background: #43e97b;
     border: none;
     color: white;
     font-size: 18px;
@@ -167,56 +174,58 @@
     .title h1 { font-size: 26px; }
     .steps { font-size: 12px; }
   }
-  .content-wrapper {
-    display: flex;
-    justify-content: center;
-    padding: 40px 0;
-}
 </style>
 </head>
+
 <body>
-  <?php include 'topnavbar.php'; ?>
+
+<?php include 'topnavbar.php'; ?>
+
 <div class="content-wrapper">
-<div class="container">
+  <div class="container">
 
-  <div class="steps-container">
-    <div class="steps">
-      <span>Step 1: Details</span>
-      <span class="active">Step 2: Subject</span>
-      <span>Step 3: Begin</span>
+    <div class="steps-container">
+      <div class="steps">
+        <span>Step 1: Details</span>
+        <span class="active">Step 2: Subject</span>
+        <span>Step 3: Begin</span>
+      </div>
     </div>
-  </div>
 
-  <div class="title">
-    <h1>Vector Learn</h1>
-    <p>Select your preferred subject to start practicing.</p>
-  </div>
+    <div class="title">
+      <h1>Vector Learn</h1>
+      <p>Select your preferred subject to start practicing.</p>
+    </div>
 
-  <div class="form-box">
-    Choose Your Subject 🎯
-  </div>
+    <div class="form-box">
+      Choose Your Subject 🎯
+    </div>
 
-  <div class="subjects">
-    <a href="choose_time.php?subject=Mathematics" class="subject-card"><i>🔢</i>Mathematics</a>
-    <a href="choose_time.php?subject=Physics" class="subject-card"><i>⚛️</i>Physics</a>
-    <a href="choose_time.php?subject=Chemistry" class="subject-card"><i>🧪</i>Chemistry</a>
-    <a href="choose_time.php?subject=Biology" class="subject-card"><i>🧬</i>Biology</a>
-    <a href="choose_time.php?subject=agric" class="subject-card"><i>🌱</i>Agricultural Science</a>
-    <a href="choose_time.php?subject=Computer" class="subject-card"><i>💻</i>Computer Studies</a>
-    <a href="choose_time.php?subject=economics" class="subject-card"><i>📈</i>Economics</a>
-    <a href="choose_time.php?subject=Commerce" class="subject-card"><i>🛍️</i>Commerce</a>
-    <a href="choose_time.php?subject=Accounting" class="subject-card"><i>📊</i>Accounting</a>
-    <a href="choose_time.php?subject=Marketing" class="subject-card"><i>📢</i>Marketing</a>
-    <a href="choose_time.php?subject=English" class="subject-card"><i>📚</i>English Language</a>
-    <a href="choose_time.php?subject=literature" class="subject-card"><i>🎭</i>Literature</a>
-    <a href="choose_time.php?subject=Goverment" class="subject-card"><i>🏛️</i>Government</a>
-    <a href="choose_time.php?subject=Civic" class="subject-card"><i>⚖️</i>Civic Education</a>
-    <a href="choose_time.php?subject=crk" class="subject-card"><i>📖</i>CRS / IRS</a>
-    <a href="choose_time.php?subject=Geography" class="subject-card"><i>🌍</i>Geography</a>
-    <a href="choose_time.php?subject=Yoruba" class="subject-card"><i>🗣️</i>Yoruba</a>
-  </div>
+    <div class="subjects">
+      <a href="choose_time.php?subject=Mathematics" class="subject-card"><i>🔢</i>Mathematics</a>
+      <a href="choose_time.php?subject=Physics" class="subject-card"><i>⚛️</i>Physics</a>
+      <a href="choose_time.php?subject=Chemistry" class="subject-card"><i>🧪</i>Chemistry</a>
+      <a href="choose_time.php?subject=Biology" class="subject-card"><i>🧬</i>Biology</a>
+      <a href="choose_time.php?subject=agric" class="subject-card"><i>🌱</i>Agricultural Science</a>
+      <a href="choose_time.php?subject=Computer" class="subject-card"><i>💻</i>Computer Studies</a>
+      <a href="choose_time.php?subject=economics" class="subject-card"><i>📈</i>Economics</a>
+      <a href="choose_time.php?subject=Commerce" class="subject-card"><i>🛍️</i>Commerce</a>
+      <a href="choose_time.php?subject=Accounting" class="subject-card"><i>📊</i>Accounting</a>
+      <a href="choose_time.php?subject=Marketing" class="subject-card"><i>📢</i>Marketing</a>
+      <a href="choose_time.php?subject=English" class="subject-card"><i>📚</i>English Language</a>
+      <a href="choose_time.php?subject=literature" class="subject-card"><i>🎭</i>Literature</a>
+      <a href="choose_time.php?subject=Goverment" class="subject-card"><i>🏛️</i>Government</a>
+      <a href="choose_time.php?subject=Civic" class="subject-card"><i>⚖️</i>Civic Education</a>
+      <a href="choose_time.php?subject=crk" class="subject-card"><i>📖</i>CRS / IRS</a>
+      <a href="choose_time.php?subject=Geography" class="subject-card"><i>🌍</i>Geography</a>
+      <a href="choose_time.php?subject=Yoruba" class="subject-card"><i>🗣️</i>Yoruba</a>
+    </div>
 
-  <button class="btn" onclick="alert('Please select a subject card above!')">Proceed ➡️</button>
+    <button class="btn" onclick="alert('Please select a subject card above!')">
+      Proceed ➡️
+    </button>
+
+  </div>
 </div>
 
 <script>
@@ -228,6 +237,8 @@
     });
   });
 </script>
+
 <?php include 'footer.php'; ?>
+
 </body>
 </html>
