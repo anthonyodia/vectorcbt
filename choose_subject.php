@@ -17,12 +17,8 @@
     background-color: #fefdfc;
     background-image: radial-gradient(#d1d9e6 1px, transparent 1px);
     background-size: 20px 20px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    min-height: 100vh;
-    padding: 40px 0;
-  }
+    margin: 0;
+}
 
   .container {
     max-width: 1000px;
@@ -171,10 +167,15 @@
     .title h1 { font-size: 26px; }
     .steps { font-size: 12px; }
   }
+  .content-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
 </style>
 </head>
 <body>
-
+<div class="content-wrapper">
 <div class="container">
 
   <div class="steps-container">
