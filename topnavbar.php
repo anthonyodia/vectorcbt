@@ -1,4 +1,5 @@
 <style>
+  /* NAVBAR WRAPPER FIX */
   .navbar {
     width: 100%;
     background: #ffffff;
@@ -9,18 +10,27 @@
     font-family: "Segoe UI", Arial, sans-serif;
     border-bottom: 1px solid #eaeaea;
     box-sizing: border-box;
+
+    /* IMPORTANT FIXES */
+    position: relative;
+    z-index: 1000;
+    flex-wrap: wrap;
   }
 
+  /* LOGO */
   .logo {
     color: #43e97b;
     font-weight: bold;
     font-size: 18px;
+    white-space: nowrap;
   }
 
+  /* NAV LINKS */
   .nav-links {
     display: flex;
     gap: 18px;
     align-items: center;
+    flex-wrap: wrap; /* prevents overflow on small screens */
   }
 
   .nav-links a {
@@ -28,27 +38,34 @@
     text-decoration: none;
     font-size: 14px;
     transition: 0.2s;
+    white-space: nowrap;
   }
 
   .nav-links a:hover {
     color: #43e97b;
   }
 
+  /* DROPDOWN */
   .dropdown {
     position: relative;
+  }
+
+  .dropdown > a {
+    display: inline-block;
+    white-space: nowrap;
   }
 
   .dropdown-content {
     display: none;
     position: absolute;
     right: 0;
-    top: 100%;
+    top: calc(100% + 8px);
     background: white;
     min-width: 180px;
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
     overflow: hidden;
-    z-index: 100;
+    z-index: 2000;
   }
 
   .dropdown-content a {
@@ -66,6 +83,19 @@
 
   .dropdown:hover .dropdown-content {
     display: block;
+  }
+
+  /* MOBILE SAFETY FIX */
+  @media (max-width: 600px) {
+    .navbar {
+      gap: 10px;
+      padding: 12px 15px;
+    }
+
+    .nav-links {
+      gap: 10px;
+      font-size: 13px;
+    }
   }
 </style>
 
