@@ -175,8 +175,6 @@
 </head>
 <body>
 
-<?php include 'topnavbar.php'; ?>
-
 <div class="container">
   <div class="steps-container">
     <div class="steps">
@@ -230,5 +228,5 @@
 
 
 
-<?php include 'footer.php'; ?></body>
+</body>
 </html>
