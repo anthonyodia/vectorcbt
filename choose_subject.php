@@ -175,6 +175,7 @@
 </style>
 </head>
 <body>
+  <?php include 'topnav.php'; ?>
 <div class="content-wrapper">
 <div class="container">
 
@@ -227,6 +228,6 @@
     });
   });
 </script>
-
+<?php include 'footer.php'; ?>
 </body>
 </html>
