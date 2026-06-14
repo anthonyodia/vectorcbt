@@ -1,4 +1,6 @@
+<link rel="stylesheet" href="global.css">
 <style>
+
   /* NAVBAR WRAPPER FIX */
   .navbar {
     width: 100%;

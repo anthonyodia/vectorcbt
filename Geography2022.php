@@ -326,25 +326,7 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
 
     <style>
 
-        body {
-
-            font-family: "Segoe UI", Arial, sans-serif;
-
-            background-color: #fefdfc;
-
-            margin: 0;
-
-            padding: 0;
-
-            display: flex;
-
-            justify-content: center;
-
-            align-items: flex-start;
-
-            min-height: 100vh;
-
-        }
+        
 
         .container {
 
@@ -936,7 +918,9 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
 
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+
 
     <div class="container">
 
@@ -1726,6 +1710,7 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
 
 
 
-<?php include 'footer.php'; ?></body>
+<?php include 'footer2.php'; ?>
+</body>
 
 </html>

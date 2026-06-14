@@ -142,16 +142,7 @@ if ($action === 'submit') {
     <title>Vector Learn — Mathematics CBT</title>
     <style>
         /* (CSS code remains the same as before) */
-        body {
-            font-family: "Segoe UI", Arial, sans-serif;
-            background-color: #fefdfc;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            min-height: 100vh;
-        }
+        
 
         .container {
             max-width: 1000px;
@@ -470,7 +461,9 @@ if ($action === 'submit') {
 </head>
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+
     <div class="container">
         <div class="steps">
             <span>Step 1: Your Details</span>
@@ -868,5 +861,6 @@ if ($action === 'submit') {
 
 
 
-<?php include 'footer.php'; ?></body>
+<?php include 'footer2.php'; ?>
+</body>
 </html>

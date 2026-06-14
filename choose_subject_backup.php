@@ -12,15 +12,7 @@
     padding: 0;
   }
 
-  body {
-    font-family: "Segoe UI", Arial, sans-serif;
-    background: #f0f4f8;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    min-height: 100vh;
-    padding: 20px 0;
-  }
+  
 
   .container {
     max-width: 1000px;
@@ -191,5 +183,6 @@
   <button class="btn">Proceed ➡️</button>
 </div>
 
+<?php include 'footer2.php'; ?>
 </body>
 </html>

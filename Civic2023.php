@@ -183,16 +183,7 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
     <title>Vector Learn — <?php echo htmlspecialchars($subjectTitle); ?></title>
     <style>
         /* CSS is unchanged from the original highly stylized block */
-        body {
-            font-family: "Segoe UI", Arial, sans-serif;
-            background-color: #fefdfc;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            min-height: 100vh;
-        }
+        
         .container {
             max-width: 1000px;
             width: 100%;
@@ -488,7 +479,9 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
 </head>
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+
     <div class="container">
         <div class="steps">
             <span>Step 1: Your Details</span>
@@ -910,5 +903,6 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
 
 
 
-<?php include 'footer.php'; ?></body>
+<?php include 'footer2.php'; ?>
+</body>
 </html>

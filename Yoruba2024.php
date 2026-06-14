@@ -96,7 +96,7 @@ if ($action === 'submit') {
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Vector Learn — Yorùbá CBT</title>
     <style>
-        body { font-family: "Segoe UI", Arial, sans-serif; background-color: #fefdfc; margin: 0; padding: 0; display: flex; justify-content: center; min-height: 100vh; }
+        
         .container { max-width: 900px; width: 100%; margin: 40px auto; background: white; border-radius: 14px; box-shadow: 0 4px 16px rgba(0,0,0,0.08); padding-bottom: 20px; }
         .steps { display: flex; justify-content: space-between; padding: 12px 20px; background: #f7f7f7; font-size: 14px; border-bottom: 1px solid #eaeaea; border-radius: 40px; margin: 20px auto; width: 85%; }
         .steps .active { color: #007aff; font-weight: 600; }
@@ -196,5 +196,6 @@ async function submitExam() {
 
 init();
 </script>
+<?php include 'footer2.php'; ?>
 </body>
 </html>

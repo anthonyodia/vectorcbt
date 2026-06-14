@@ -10,16 +10,7 @@
     <title>Vector — Commerce 2023 CBT</title>
     <style>
         /* === UI/UX Consistency CSS === */
-        body {
-            font-family: "Segoe UI", Arial, sans-serif;
-            background-color: #fefdfc;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            min-height: 100vh;
-        }
+        
 
         .container {
             max-width: 1000px; /* Increased max width for better viewing */
@@ -273,7 +264,9 @@
 </head>
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+
     <div class="container">
         <div class="steps">
             <span>Step 1: Your Details</span>
@@ -644,5 +637,6 @@
 
 
 
-<?php include 'footer.php'; ?></body>
+<?php include 'footer2.php'; ?>
+</body>
 </html>

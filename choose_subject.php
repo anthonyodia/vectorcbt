@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -13,13 +13,7 @@
     padding: 0;
   }
 
-  body {
-    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background-color: #fefdfc;
-    background-image: radial-gradient(#d1d9e6 1px, transparent 1px);
-    background-size: 20px 20px;
-    margin: 0;
-  }
+  
 
   .container {
     max-width: 1000px;
@@ -179,9 +173,8 @@
 
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
 
-<div class="content-wrapper">
   <div class="container">
 
     <div class="steps-container">
@@ -240,5 +233,6 @@
 
 <?php include 'footer.php'; ?>
 
+<?php include 'footer2.php'; ?>
 </body>
 </html>

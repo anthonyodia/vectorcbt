@@ -15,7 +15,9 @@
 </head>
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+
   <div class="container">
     <div class="steps">
       <span>Step 1: Your Details</span>
@@ -228,5 +230,6 @@
 
 
 
-<?php include 'footer.php'; ?></body>
+<?php include 'footer2.php'; ?>
+</body>
 </html>

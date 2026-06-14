@@ -3,18 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="global.css">
   <title>Vector Learn — Step 3</title>
   <style>
-    body {
-      font-family: "Segoe UI", Arial, sans-serif;
-      background-color: #fefdfc;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: flex-start;
-      min-height: 100vh;
-    }
+    
 
     .container {
       max-width: 900px;
@@ -137,7 +129,9 @@
 </head>
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+<div class="content-wrapper">
   <div class="container">
     <!-- Step indicator -->
     <div class="steps">
@@ -189,6 +183,9 @@
 
     <div class="hint">You can always practice again later.</div>
   </div>
+</div>
+
+
 
   <!-- Script -->
   <script>
@@ -219,6 +216,8 @@
     }
   </script>
 
+<?php include 'footer2.php'; ?>
 
-<?php include 'footer.php'; ?></body>
+
+</body>
 </html>

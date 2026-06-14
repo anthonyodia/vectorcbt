@@ -11,7 +11,7 @@ $duration = 60;
 
 <style>
 /* YOUR ORIGINAL UI/UX (unchanged) */
-body { font-family:"Segoe UI",Arial,sans-serif; background:#fefdfc; margin:0; padding:0; display:flex; justify-content:center; align-items:flex-start; min-height:100vh; }
+
 .container { max-width:1000px; width:100%; margin:40px auto; background:white; border-radius:14px; box-shadow:0 4px 16px rgba(0,0,0,0.08); overflow:hidden; padding-bottom:20px; }
 .steps { display:flex; justify-content:space-between; padding:12px 20px; background:#f7f7f7; font-size:15px; border-bottom:1px solid #eaeaea; border-radius:40px; margin:20px auto; width:90%; }
 .steps span { flex:1; text-align:center; padding:6px; color:#aaa; }
@@ -52,7 +52,9 @@ label.option-label input[type="radio"] { margin-right:10px; cursor:pointer; acce
 
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+
 <div class="container">
 
     <div class="steps">
@@ -233,5 +235,6 @@ loadQuestions();
 
 
 
-<?php include 'footer.php'; ?></body>
+<?php include 'footer2.php'; ?>
+</body>
 </html>

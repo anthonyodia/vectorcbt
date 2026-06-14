@@ -94,7 +94,7 @@ if ($action === 'get_questions') {
     <title>Vector Learn — WAEC English CBT Demo (2025 Exam)</title>
     <style>
         /* --- FULL UI/UX STYLES (Unchanged) --- */
-        body { font-family: "Segoe UI", Arial, sans-serif; background-color: #fefdfc; margin: 0; padding: 0; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; }
+        
         .container { max-width: 1000px; width: 100%; margin: 40px auto; background: white; border-radius: 14px; box-shadow: 0 4px 16px rgba(0,0,0,0.08); overflow: hidden; padding-bottom: 20px; }
         .steps { display: flex; justify-content: space-between; padding: 12px 20px; background: #f7f7f7; font-size: 15px; border-bottom: 1px solid #eaeaea; border-radius: 40px; margin: 20px auto; width: 90%; }
         .steps span { flex: 1; text-align: center; padding: 6px; color: #aaa; }
@@ -140,7 +140,9 @@ if ($action === 'get_questions') {
 </head>
 <body>
 
-<?php include 'topnavbar.php'; ?>
+<?php include 'header.php'; ?>
+
+
     <div class="container">
         <div class="steps">
             <span>Step 1: Your Details</span>
@@ -479,5 +481,6 @@ if ($action === 'get_questions') {
 </script>
 
 
-<?php include 'footer.php'; ?></body>
+<?php include 'footer2.php'; ?>
+</body>
 </html>
