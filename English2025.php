@@ -61,6 +61,7 @@ if ($action) {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Vector Learn — WAEC English CBT Demo (2025 Exam)</title>
+    <script src="exam_engine.js"></script>
     <style>
         /* --- FULL UI/UX STYLES (Unchanged) --- */
         
@@ -145,7 +146,7 @@ if ($action) {
         <div id="explanation-container" style="display: none; margin: 0 25px;"></div>
     </div>
 
-<script src="exam_engine.js"></script>
+
 
 <?php include 'footer2.php'; ?>
 </body>
