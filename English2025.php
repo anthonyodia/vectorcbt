@@ -112,41 +112,37 @@ if ($action) {
 
 <?php include 'header.php'; ?>
 
-
-    <div class="container">
-        <div class="steps">
-            <span>Step 1: Your Details</span>
-            <span>Step 2: Pick Subject</span>
-            <span class="active">Step 3: Begin!</span>
-        </div>
-
-        <div class="title">
-            <h1>Vector Learn — WAEC English</h1>
-            <p>Test your knowledge with these questions.</p>
-        </div>
-
-        <div class="form-box" id="info-box">
-            Time Remaining: <span id="countdown">--:--</span>
-        </div>
-        
-        <div id="section-display">
-            </div>
-
-        <div class="question-container" role="main" aria-live="polite" id="q-container">
-            <p class="loading">Loading questions...</p>
-        </div>
-
-        <div class="navigation" id="nav-buttons">
-            <button class="nav-btn" id="btn-prev">← Previous</button>
-            <button class="nav-btn" id="btn-next">Next →</button>
-        </div>
-
-        <div class="question-nav" id="q-nav"></div>
-        
-        <div id="explanation-container" style="display: none; margin: 0 25px;"></div>
+<div class="container">
+    <div class="steps">
+        <span>Step 1: Your Details</span>
+        <span>Step 2: Pick Subject</span>
+        <span class="active">Step 3: Begin!</span>
     </div>
 
+    <div class="title">
+        <h1>Vector Learn — WAEC English</h1>
+        <p>Test your knowledge with these questions.</p>
+    </div>
 
+    <div class="form-box" id="info-box">
+        Time Remaining: <span id="countdown">--:--</span>
+    </div>
+    
+    <div id="section-display"></div>
+
+    <div class="question-container" role="main" aria-live="polite" id="q-container">
+        <p class="loading">Loading questions...</p>
+    </div>
+
+    <div class="navigation" id="nav-buttons">
+        <button class="nav-btn" id="btn-prev">← Previous</button>
+        <button class="nav-btn" id="btn-next">Next →</button>
+    </div>
+
+    <div class="question-nav" id="q-nav"></div>
+    
+    <div id="explanation-container" style="display: none; margin: 0 25px;"></div>
+</div>
 
 <?php include 'footer2.php'; ?>
 </body>
