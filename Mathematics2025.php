@@ -321,19 +321,23 @@ async function loadQuestions() {
 
 async function submitAnswers() {
     clearInterval(timerInterval);
-    await fetch('?action=submit', {
+    const res = await fetch('?action=submit', {
         method: 'POST',
         body: JSON.stringify({ answers: answers })
     });
-    viewExplanations();
+    const result = await res.json();
+    viewExplanations(result);
 }
 
-async function viewExplanations() {
+async function viewExplanations(result) {
     document.getElementById('q-container').style.display = 'none';
     document.getElementById('nav-buttons').style.display = 'none';
     document.getElementById('q-nav').style.display = 'none';
     document.getElementById('section-display').style.display = 'none';
-    document.getElementById('info-box').innerHTML = 'Exam Review';
+    
+    // Display score in the info box area
+    document.getElementById('info-box').innerHTML = `Exam Results: ${result.score}/${result.total} (${result.percentage}%)`;
+    document.getElementById('info-box').style.background = '#007aff';
 
     const expContainer = document.getElementById('explanation-container');
     expContainer.style.display = 'block';
