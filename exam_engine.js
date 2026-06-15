@@ -11,12 +11,15 @@ function htmlEscape(text) {
     return div.innerHTML;
 }
 
+// Universal AI Helper
 async function getAIPersonalizedHelp(qId, qText, correct, expl) {
     const box = document.getElementById('ai-box-' + qId);
+    if (!box) return;
     box.innerHTML = '<em>Thinking...</em>';
     try {
         const res = await fetch('?action=get_ai_help', {
             method: 'POST',
+            headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({ question: qText, correctAnswer: correct, explanation: expl })
         });
         const data = await res.json();
@@ -27,33 +30,41 @@ async function getAIPersonalizedHelp(qId, qText, correct, expl) {
     }
 }
 
+// Logic to render questions (Standardized)
 function renderQuestion() {
     const qObj = allQuestions[current - 1];
     if (!qObj) return;
 
-    document.getElementById('section-display').innerHTML = '<div class="section-divider">Section: ' + htmlEscape(qObj.sectionName) + '</div>';
+    // Set Section Header
+    const sectionDisplay = document.getElementById('section-display');
+    if (sectionDisplay) sectionDisplay.innerHTML = '<div class="section-divider">Section: ' + htmlEscape(qObj.sectionName) + '</div>';
 
     const qc = document.getElementById('q-container');
-    let html = '<div class="question-header">';
-    html += '<span class="question-id">Question ' + current + '</span>';
-    html += '<span class="question-section">' + htmlEscape(qObj.sectionName) + '</span>';
-    html += '</div>';
+    let html = `
+        <div class="question-header">
+            <span class="question-id">Question ${current}</span>
+            <span class="question-section">${htmlEscape(qObj.sectionName)}</span>
+        </div>
+        <div class="question-text">${htmlEscape(qObj.question)}</div>
+    `;
+    if (qObj.image || qObj.imageUrl) {
+        html += `<img src="${htmlEscape(qObj.image || qObj.imageUrl)}" class="question-image" alt="Diagram"/>`;
+    }
     
-    html += '<div class="question-text">' + htmlEscape(qObj.question); 
-    if (qObj.image) html += '<img src="' + htmlEscape(qObj.image) + '" alt="Diagram"/>';
-    html += '</div><form id="qForm">';
-    
+    html += '<form id="qForm">';
     qObj.options.forEach(opt => {
-        html += '<label class="option-label">';
-        html += '<input type="radio" name="answer" value="' + opt.optionId + '" ';
-        if (answers[qObj.questionId] === opt.optionId) html += 'checked'; 
-        html += ' onchange="saveAnswer(\'' + qObj.questionId + '\', \'' + opt.optionId + '\')"/>';
-        html += '<span>' + opt.optionId + '. ' + htmlEscape(opt.text) + '</span>';
-        html += '</label>';
+        html += `
+            <label class="option-label">
+                <input type="radio" name="answer" value="${opt.optionId}" 
+                ${answers[qObj.questionId] === opt.optionId ? 'checked' : ''} 
+                onchange="saveAnswer('${qObj.questionId}', '${opt.optionId}')"/>
+                <span>${opt.optionId}. ${htmlEscape(opt.text)}</span>
+            </label>`;
     });
     html += '</form>';
     qc.innerHTML = html;
 
+    // Navigation logic
     document.getElementById('btn-prev').disabled = (current <= 1);
     const btnNext = document.getElementById('btn-next');
     const navButtons = document.getElementById('nav-buttons');
@@ -87,7 +98,7 @@ function renderNav() {
     allQuestions.forEach((q, i) => {
         const num = i + 1;
         const cls = (num === current ? 'active ' : '') + (answers[q.questionId] ? 'answered' : '');
-        html += '<a href="#" onclick="navigate(' + num + '); return false;" class="' + cls + '">' + num + '</a>';
+        html += `<a href="#" onclick="navigate(${num}); return false;" class="${cls}">${num}</a>`;
     });
     document.getElementById('q-nav').innerHTML = html;
 }
@@ -99,14 +110,13 @@ function navigate(num) {
     window.scrollTo(0, 0);
 }
 
-document.getElementById('btn-prev').onclick = () => { if(current > 1) navigate(current - 1); };
-document.getElementById('btn-next').onclick = () => { if(current < allQuestions.length) navigate(current + 1); };
-
+// Timer and Initialization
 function startTimer() {
     timerInterval = setInterval(() => {
         const mins = Math.floor(totalSeconds / 60);
         const secs = totalSeconds % 60;
-        document.getElementById('countdown').textContent = String(mins).padStart(2,'0') + ':' + String(secs).padStart(2,'0');
+        const el = document.getElementById('countdown');
+        if (el) el.textContent = `${String(mins).padStart(2,'0')}:${String(secs).padStart(2,'0')}`;
         if (totalSeconds <= 0) { clearInterval(timerInterval); submitAnswers(); }
         totalSeconds--;
     }, 1000);
@@ -127,6 +137,7 @@ async function submitAnswers() {
     clearInterval(timerInterval);
     const res = await fetch('?action=submit', {
         method: 'POST',
+        headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({ answers: answers })
     });
     const result = await res.json();
@@ -137,10 +148,14 @@ async function viewExplanations(result) {
     document.getElementById('q-container').style.display = 'none';
     document.getElementById('nav-buttons').style.display = 'none';
     document.getElementById('q-nav').style.display = 'none';
-    document.getElementById('section-display').style.display = 'none';
+    const secDisplay = document.getElementById('section-display');
+    if (secDisplay) secDisplay.style.display = 'none';
     
-    document.getElementById('info-box').innerHTML = `Exam Results: ${result.score}/${result.total} (${result.percentage}%)`;
-    document.getElementById('info-box').style.background = '#007aff';
+    const infoBox = document.getElementById('info-box');
+    if (infoBox) {
+        infoBox.innerHTML = `Exam Results: ${result.score}/${result.total} (${result.percentage}%)`;
+        infoBox.style.background = '#007aff';
+    }
 
     const expContainer = document.getElementById('explanation-container');
     expContainer.style.display = 'block';
@@ -170,7 +185,7 @@ async function viewExplanations(result) {
 
     html += `
         <div style="text-align: center; margin: 30px 0;">
-            <a href="https://vectorcbt.onrender.com/choose_subject.php" style="text-decoration:none; background:#007aff; color:white; padding:12px 25px; border-radius:12px; font-weight:bold;">← Back to Subjects</a>
+            <a href="choose_subject.php" class="nav-btn" style="background:#007aff;">← Back to Subjects</a>
         </div></div>`;
 
     expContainer.innerHTML = html;
