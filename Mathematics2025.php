@@ -1,4 +1,3 @@
-
 <?php
 // MATHS 2025 CBT - Standalone PHP Page
 // Data source: maths2025.json
@@ -66,9 +65,10 @@ $action = $_GET['action'] ?? $_POST['action'] ?? null;
 if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_help'])) {
     header('Content-Type: application/json');
     
+    // AI Integration Bridge
     if ($action === 'get_ai_help') {
         $input = json_decode(file_get_contents('php://input'), true);
-        $apiKey = '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'; 
+        $apiKey = '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'; // REPLACE WITH YOUR KEY
         
         $prompt = "The student failed this math question. Question: {$input['question']}. Correct Answer: {$input['correctAnswer']}. Standard Explanation: {$input['explanation']}. Please explain, step-by-step, the logic to arrive at the correct answer and identify the fundamental topic the student must know.";
 
@@ -160,7 +160,6 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_he
         .explanation-box { margin-top:20px; padding:15px; border-radius:8px; background:#e3f2fd; border-left:5px solid #2196F3; }
         .nav-button-group { display:flex; justify-content:center; gap:10px; margin:30px 0; }
         .ai-box { margin-top:15px; padding:15px; border-radius:8px; background:#fff3cd; border-left:5px solid #ffc107; font-size: 14px; }
-        .subject-link { display:block; text-align:center; margin:20px; font-weight:bold; color:#007aff; text-decoration:none; }
     </style>
 </head>
 <body>
@@ -204,6 +203,7 @@ let allQuestions = [];
 let answers = {};
 let totalSeconds = 3600;
 let timerInterval;
+let explanationData = null;
 
 function htmlEscape(text) {
     if (!text) return '';
@@ -212,19 +212,20 @@ function htmlEscape(text) {
     return div.innerHTML;
 }
 
-async function fetchAITutor(q) {
-    const box = document.getElementById('ai-box-' + q.questionId);
-    box.innerHTML = '<em>Loading AI explanation...</em>';
+// AI Integration: Fetch explanation automatically
+async function getAIPersonalizedHelp(qId, qText, correct, expl) {
+    const box = document.getElementById('ai-box-' + qId);
+    box.innerHTML = '<em>Thinking...</em>';
     try {
         const res = await fetch('?action=get_ai_help', {
             method: 'POST',
-            body: JSON.stringify({ question: q.question, correctAnswer: q.correctAnswer, explanation: q.explanation })
+            body: JSON.stringify({ question: qText, correctAnswer: correct, explanation: expl })
         });
         const data = await res.json();
         const content = data.choices[0].message.content;
         box.innerHTML = '<strong>AI Tutor:</strong><br>' + content.replace(/\n/g, '<br>');
     } catch (e) {
-        box.innerHTML = 'AI explanation currently unavailable.';
+        box.innerHTML = 'AI assistance currently unavailable.';
     }
 }
 
@@ -349,25 +350,26 @@ function displayResults(result) {
         <div style="font-size: 48px; color: #007aff; margin: 20px 0;">${result.score}/${result.total}</div>
         <div style="font-size: 24px; color: #43e97b; margin-bottom: 20px;">${result.percentage}%</div>
         <div class="nav-button-group">
-            <button class="nav-btn" onclick="triggerExplanations()">View Explanations</button>
+            <button class="nav-btn explanation-btn" onclick="viewExplanations()">View Explanations</button>
             <button class="nav-btn" onclick="location.reload()">Retake Exam</button>
         </div>`;
     document.querySelector('.container').appendChild(resView);
 }
 
-async function triggerExplanations() {
+async function viewExplanations() {
     document.querySelector('.container').lastChild.remove();
     const expContainer = document.getElementById('explanation-container');
     expContainer.style.display = 'block';
     
     const res = await fetch('?action=get_explanations');
     const data = await res.json();
+    explanationData = data.questions;
 
     let html = '<div class="explanation-view">';
     data.questions.forEach((q, i) => {
         const isCorrect = answers[q.questionId] === q.correctAnswer;
         html += `
-            <div class="question-container" id="q-block-${q.questionId}">
+            <div class="question-container" id="container-${q.questionId}">
                 <div class="question-header">
                     <span class="question-id">Q${i+1} — ${isCorrect ? '✅' : '❌'}</span>
                 </div>
@@ -384,14 +386,17 @@ async function triggerExplanations() {
     });
 
     html += `
-        <a href="https://vectorcbt.onrender.com/choose_subject.php" class="subject-link">← Back to Subjects</a>
-        <div class="nav-button-group"><button class="nav-btn" onclick="location.reload()">Finish</button></div></div>`;
+        <div class="nav-button-group">
+            <a href="https://vectorcbt.onrender.com/choose_subject.php" style="display:block; margin-bottom:15px; text-decoration:none; color:#007aff; font-weight:bold;">← Back to Subjects</a>
+            <button class="nav-btn" onclick="location.reload()">Finish</button>
+        </div></div>`;
 
     expContainer.innerHTML = html;
 
+    // Auto-trigger AI for wrong answers
     data.questions.forEach(q => {
         if (answers[q.questionId] !== q.correctAnswer) {
-            fetchAITutor(q);
+            getAIPersonalizedHelp(q.questionId, q.question, q.correctAnswer, q.explanation);
         }
     });
     window.scrollTo(0,0);
