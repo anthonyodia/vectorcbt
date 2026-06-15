@@ -68,7 +68,7 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_he
     // AI Integration Bridge
     if ($action === 'get_ai_help') {
         $input = json_decode(file_get_contents('php://input'), true);
-        $apiKey = 'YOUR_GROQ_API_KEY'; // REPLACE WITH YOUR KEY
+        $apiKey = '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'; 
         
         $prompt = "The student failed this math question. Question: {$input['question']}. Correct Answer: {$input['correctAnswer']}. Standard Explanation: {$input['explanation']}. Please explain, step-by-step, the logic to arrive at the correct answer and identify the fundamental topic the student must know.";
 
@@ -212,20 +212,19 @@ function htmlEscape(text) {
     return div.innerHTML;
 }
 
-// AI Integration: Fetch explanation
-async function getAIPersonalizedHelp(qId, qText, correct, expl) {
-    const box = document.getElementById('ai-box-' + qId);
-    box.innerHTML = '<em>Thinking...</em>';
+async function fetchAITutor(q) {
+    const box = document.getElementById('ai-box-' + q.questionId);
+    box.innerHTML = '<em>Fetching AI explanation...</em>';
     try {
         const res = await fetch('?action=get_ai_help', {
             method: 'POST',
-            body: JSON.stringify({ question: qText, correctAnswer: correct, explanation: expl })
+            body: JSON.stringify({ question: q.question, correctAnswer: q.correctAnswer, explanation: q.explanation })
         });
         const data = await res.json();
         const content = data.choices[0].message.content;
         box.innerHTML = '<strong>AI Tutor:</strong><br>' + content.replace(/\n/g, '<br>');
     } catch (e) {
-        box.innerHTML = 'AI assistance currently unavailable.';
+        box.innerHTML = 'AI explanation unavailable.';
     }
 }
 
@@ -349,14 +348,11 @@ function displayResults(result) {
         <div style="font-size: 32px; font-weight: bold;">Exam Results</div>
         <div style="font-size: 48px; color: #007aff; margin: 20px 0;">${result.score}/${result.total}</div>
         <div style="font-size: 24px; color: #43e97b; margin-bottom: 20px;">${result.percentage}%</div>
-        <div class="nav-button-group">
-            <button class="nav-btn explanation-btn" onclick="viewExplanations()">View Explanations</button>
-            <button class="nav-btn" onclick="location.reload()">Retake Exam</button>
-        </div>`;
+        <button class="nav-btn" onclick="triggerExplanations()">View Explanations & AI Help</button>`;
     document.querySelector('.container').appendChild(resView);
 }
 
-async function viewExplanations() {
+async function triggerExplanations() {
     document.querySelector('.container').lastChild.remove();
     const expContainer = document.getElementById('explanation-container');
     expContainer.style.display = 'block';
@@ -369,7 +365,7 @@ async function viewExplanations() {
     data.questions.forEach((q, i) => {
         const isCorrect = answers[q.questionId] === q.correctAnswer;
         html += `
-            <div class="question-container">
+            <div class="question-container" id="q-block-${q.questionId}">
                 <div class="question-header">
                     <span class="question-id">Q${i+1} — ${isCorrect ? '✅' : '❌'}</span>
                 </div>
@@ -381,9 +377,7 @@ async function viewExplanations() {
                     return `<label class="option-label ${cls}"><span>${opt.optionId}. ${htmlEscape(opt.text)}</span></label>`;
                 }).join('')}
                 <div class="explanation-box"><strong>Explanation:</strong> <p>${htmlEscape(q.explanation)}</p></div>
-                ${!isCorrect ? `<div id="ai-box-${q.questionId}" class="ai-box">
-                    <button class="nav-btn" style="padding:5px 10px; font-size:12px;" onclick="getAIPersonalizedHelp('${q.questionId}', \`${q.question.replace(/'/g, "\\'")}\`, '${q.correctAnswer}', \`${q.explanation.replace(/'/g, "\\'")}\`)">Get AI Help</button>
-                </div>` : ''}
+                ${!isCorrect ? `<div id="ai-box-${q.questionId}" class="ai-box"></div>` : ''}
             </div>`;
     });
 
@@ -394,6 +388,13 @@ async function viewExplanations() {
         </div></div>`;
 
     expContainer.innerHTML = html;
+
+    // Trigger AI calls automatically for wrong answers
+    data.questions.forEach(q => {
+        if (answers[q.questionId] !== q.correctAnswer) {
+            fetchAITutor(q);
+        }
+    });
     window.scrollTo(0,0);
 }
 
