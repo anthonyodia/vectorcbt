@@ -62,17 +62,34 @@ function prepare_explanation_questions($raw_questions) {
 // --- API ACTIONS ---
 $action = $_GET['action'] ?? $_POST['action'] ?? null;
 
-if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
+if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_help'])) {
     header('Content-Type: application/json');
+    
+    // AI Integration Bridge
+    if ($action === 'get_ai_help') {
+        $input = json_decode(file_get_contents('php://input'), true);
+        $apiKey = 'YOUR_GROQ_API_KEY'; // REPLACE WITH YOUR KEY
+        
+        $prompt = "The student failed this math question. Question: {$input['question']}. Correct Answer: {$input['correctAnswer']}. Standard Explanation: {$input['explanation']}. Please explain, step-by-step, the logic to arrive at the correct answer and identify the fundamental topic the student must know.";
+
+        $ch = curl_init('https://api.groq.com/openai/v1/chat/completions');
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Bearer ' . $apiKey, 'Content-Type: application/json']);
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode([
+            'model' => 'llama-3.3-70b-versatile',
+            'messages' => [['role' => 'user', 'content' => $prompt]]
+        ]));
+        echo curl_exec($ch);
+        curl_close($ch);
+        exit();
+    }
+
     $raw_questions = load_json_data($jsonFile);
     
     if ($action === 'get_questions') {
         $questions = prepare_exam_questions($raw_questions);
-        echo json_encode([
-            'success' => true,
-            'totalQuestions' => count($questions),
-            'questions' => $questions
-        ]);
+        echo json_encode(['success' => true, 'totalQuestions' => count($questions), 'questions' => $questions]);
         exit();
     }
 
@@ -85,25 +102,16 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
     if ($action === 'submit') {
         $input = json_decode(file_get_contents('php://input'), true);
         $answers = $input['answers'] ?? [];
-        
         $score = 0;
         $total = count($raw_questions);
-        
         foreach ($raw_questions as $q) {
             $qId = (int)$q['id'];
             if (isset($answers[$qId]) && $answers[$qId] === $q['answer']) {
                 $score++;
             }
         }
-        
         $percentage = $total > 0 ? round(($score / $total) * 100, 2) : 0;
-        
-        echo json_encode([
-            'success' => true,
-            'score' => $score,
-            'total' => $total,
-            'percentage' => $percentage
-        ]);
+        echo json_encode(['success' => true, 'score' => $score, 'total' => $total, 'percentage' => $percentage]);
         exit();
     }
 }
@@ -115,7 +123,6 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Vector Learn — <?php echo htmlspecialchars($subjectTitle); ?></title>
     <style>
-        
         .container { max-width:1000px; width:100%; margin:40px auto; background:white; border-radius:14px; box-shadow:0 4px 16px rgba(0,0,0,0.08); overflow-x:hidden; padding-bottom:20px; }
         .steps { display:flex; justify-content:space-between; padding:12px 20px; background:#f7f7f7; font-size:15px; border-bottom:1px solid #eaeaea; border-radius:40px; margin:20px auto; width:90%; }
         .steps span { flex:1; text-align:center; padding:6px; color:#aaa; }
@@ -152,12 +159,12 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
         .user-answer-label { border:2px solid #FFC107 !important; background-color:#fff8e1 !important; font-weight:bold; }
         .explanation-box { margin-top:20px; padding:15px; border-radius:8px; background:#e3f2fd; border-left:5px solid #2196F3; }
         .nav-button-group { display:flex; justify-content:center; gap:10px; margin:30px 0; }
+        .ai-box { margin-top:15px; padding:15px; border-radius:8px; background:#fff3cd; border-left:5px solid #ffc107; font-size: 14px; }
     </style>
 </head>
 <body>
 
 <?php include 'header.php'; ?>
-
 
 <div class="container">
     <div class="steps">
@@ -194,7 +201,7 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit'])) {
 let current = 1;
 let allQuestions = [];
 let answers = {};
-let totalSeconds = 3600; // 60 minutes
+let totalSeconds = 3600;
 let timerInterval;
 let explanationData = null;
 
@@ -205,12 +212,28 @@ function htmlEscape(text) {
     return div.innerHTML;
 }
 
+// AI Integration: Fetch explanation
+async function getAIPersonalizedHelp(qId, qText, correct, expl) {
+    const box = document.getElementById('ai-box-' + qId);
+    box.innerHTML = '<em>Thinking...</em>';
+    try {
+        const res = await fetch('?action=get_ai_help', {
+            method: 'POST',
+            body: JSON.stringify({ question: qText, correctAnswer: correct, explanation: expl })
+        });
+        const data = await res.json();
+        const content = data.choices[0].message.content;
+        box.innerHTML = '<strong>AI Tutor:</strong><br>' + content.replace(/\n/g, '<br>');
+    } catch (e) {
+        box.innerHTML = 'AI assistance currently unavailable.';
+    }
+}
+
 function renderQuestion() {
     const qObj = allQuestions[current - 1];
     if (!qObj) return;
 
-    document.getElementById('section-display').innerHTML = 
-        '<div class="section-divider">Section: ' + htmlEscape(qObj.sectionName) + '</div>';
+    document.getElementById('section-display').innerHTML = '<div class="section-divider">Section: ' + htmlEscape(qObj.sectionName) + '</div>';
 
     const qc = document.getElementById('q-container');
     let html = '<div class="question-header">';
@@ -358,6 +381,9 @@ async function viewExplanations() {
                     return `<label class="option-label ${cls}"><span>${opt.optionId}. ${htmlEscape(opt.text)}</span></label>`;
                 }).join('')}
                 <div class="explanation-box"><strong>Explanation:</strong> <p>${htmlEscape(q.explanation)}</p></div>
+                ${!isCorrect ? `<div id="ai-box-${q.questionId}" class="ai-box">
+                    <button class="nav-btn" style="padding:5px 10px; font-size:12px;" onclick="getAIPersonalizedHelp('${q.questionId}', \`${q.question.replace(/'/g, "\\'")}\`, '${q.correctAnswer}', \`${q.explanation.replace(/'/g, "\\'")}\`)">Get AI Help</button>
+                </div>` : ''}
             </div>`;
     });
 
@@ -371,13 +397,12 @@ async function viewExplanations() {
     window.scrollTo(0,0);
 }
 
-// Export function including all options
 function exportPerformance() {
     if (!explanationData) return;
     const exportData = explanationData.map(q => ({
         questionId: q.questionId,
         question: q.question,
-        options: q.options,           // all options included
+        options: q.options,
         userAnswer: answers[q.questionId] || null,
         correctAnswer: q.correctAnswer,
         explanation: q.explanation
