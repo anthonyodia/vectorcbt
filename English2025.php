@@ -1,92 +1,60 @@
-<?php include 'ai_logic.php'; ?>
 <?php
-// Set the path to your new JSON file
-// *** CRITICAL CHANGE: Updated file name to English2025.json ***
+// 1. Setup
 $jsonFile = __DIR__ . '/english2025.json';
 $action = $_GET['action'] ?? null;
 
-// --- PHP Action: Get Questions (Loads ALL questions) ---
-if ($action === 'get_questions') {
+// 2. Handle API actions (If an action is requested, process it and stop)
+if ($action) {
     header('Content-Type: application/json');
     
-    if (!file_exists($jsonFile)) {
-        http_response_code(404);
-        echo json_encode(['error' => 'Question file not found: ' . $jsonFile]);
-        exit();
-    }
-    
+    // Load and decode JSON
     $jsonContent = file_get_contents($jsonFile);
-    $decodedData = json_decode($jsonContent, true); 
-    
-    $fullData = [];
-    $subjectTitle = 'English Language';
-    
-    // *** ROBUST PARSING LOGIC: Handles the nested structure of English2024.json ***
-    if (isset($decodedData['WAEC_English_Language_Objective_Questions']['questions']) && 
-        is_array($decodedData['WAEC_English_Language_Objective_Questions']['questions'])) {
-            
-        $fullData = $decodedData['WAEC_English_Language_Objective_Questions']['questions'];
-        $subjectTitle = $decodedData['WAEC_English_Language_Objective_Questions']['title'] ?? $subjectTitle;
-        
-    } else {
-        http_response_code(500);
-        echo json_encode(['error' => 'Invalid JSON structure. Expected a top-level "WAEC_English_Language_Objective_Questions" object containing a "questions" array.']);
-        exit();
-    }
-    
-    if (empty($fullData)) {
-        http_response_code(500);
-        echo json_encode(['error' => 'The question array is empty.']);
-        exit();
-    }
-    
-    $questions = [];
-    $sectionIdCounter = 1; // Used to uniquely track sections if necessary, though sectionName is more useful
-    $processedSections = [];
+    $data = json_decode($jsonContent, true);
+    // Extract the questions array from your specific structure
+    $fullData = $data['WAEC_English_Language_Objective_Questions']['questions'] ?? [];
 
-    foreach ($fullData as $questionData) {
-        $sectionName = $questionData['section'] ?? $subjectTitle;
-        
-        // Ensure sectionId is consistent if the section name is repeated
-        if (!isset($processedSections[$sectionName])) {
-            $processedSections[$sectionName] = $sectionIdCounter++;
-        }
-
-        $question = [
-            // *** CRITICAL CHANGE: Using 'id' field from JSON ***
-            'questionId' => $questionData['id'] ?? null, 
-            'instruction' => $questionData['instruction'] ?? '', 
-            // Combine instruction (which often comes from the main JSON object) and question text
-            'question' => (isset($questionData['instruction']) ? $questionData['instruction'] . ' ' : '') . ($questionData['question'] ?? ''),
-            'options' => [],
-            // *** CRITICAL CHANGE: Using 'section' field from JSON ***
-            'sectionName' => $sectionName, 
-            'sectionId' => $processedSections[$sectionName],
-            'answer' => $questionData['answer'] ?? '',
-            'explanation' => $questionData['explanation'] ?? 'No explanation provided.',
-            'imageUrl' => $questionData['image'] ?? null, 
-        ];
-
-        // Process options from the associative array
-        foreach ($questionData['options'] as $optionId => $optionText) {
-            $question['options'][] = [
-                'optionId' => $optionId, 
-                'text' => $optionText
+    if ($action === 'get_questions') {
+        $questions = [];
+        foreach ($fullData as $q) {
+            $questions[] = [
+                'questionId' => $q['id'],
+                'question' => ($q['instruction'] ?? '') . ' ' . ($q['question'] ?? ''),
+                'sectionName' => $q['section'] ?? 'English Language',
+                'options' => array_map(fn($id, $text) => ['optionId' => $id, 'text' => $text], array_keys($q['options']), $q['options']),
+                'image' => $q['image'] ?? null
             ];
         }
-        $questions[] = $question;
+        echo json_encode(['success' => true, 'questions' => $questions]);
+    } 
+    elseif ($action === 'submit') {
+        $input = json_decode(file_get_contents('php://input'), true);
+        $userAnswers = $input['answers'] ?? [];
+        $score = 0;
+        foreach ($fullData as $q) {
+            if (isset($userAnswers[$q['id']]) && $userAnswers[$q['id']] === $q['answer']) {
+                $score++;
+            }
+        }
+        echo json_encode(['score' => $score, 'total' => count($fullData), 'percentage' => round(($score / count($fullData)) * 100, 2)]);
+    } 
+    elseif ($action === 'get_explanations') {
+        $exps = [];
+        foreach ($fullData as $q) {
+            $exps[] = [
+                'questionId' => $q['id'],
+                'question' => $q['question'],
+                'correctAnswer' => $q['answer'],
+                'explanation' => $q['explanation'] ?? 'No explanation provided.',
+                'options' => array_map(fn($id, $text) => ['optionId' => $id, 'text' => $text], array_keys($q['options']), $q['options'])
+            ];
+        }
+        echo json_encode(['success' => true, 'questions' => $exps]);
     }
-    
-    echo json_encode([
-        'success' => true,
-        'totalQuestions' => count($questions),
-        'questions' => $questions
-    ]);
-    exit();
+    // AI Logic handled by your ai_logic.php include
+    exit(); 
 }
-
-// If no action, show the HTML page (The CBT Interface)
 ?>
+<?php include 'ai_logic.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
