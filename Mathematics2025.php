@@ -1,4 +1,3 @@
-
 <?php
 // MATHS 2025 CBT - Standalone PHP Page
 // Data source: maths2025.json
@@ -69,7 +68,7 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_he
     // AI Integration Bridge
     if ($action === 'get_ai_help') {
         $input = json_decode(file_get_contents('php://input'), true);
-        $apiKey = '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'; 
+        $apiKey = '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'; // REPLACE WITH YOUR KEY
         
         $prompt = "The student failed this math question. Question: {$input['question']}. Correct Answer: {$input['correctAnswer']}. Standard Explanation: {$input['explanation']}. Please explain, step-by-step, the logic to arrive at the correct answer and identify the fundamental topic the student must know.";
 
@@ -153,12 +152,14 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_he
         .question-nav a.active { background:#007aff; color:white; }
         .question-nav a.answered { background:#4caf50; color:white; }
         .section-divider { margin:30px 25px 0 25px; padding:15px 20px; background:#f0f0f0; border-left:4px solid #007aff; border-radius:6px; font-size:14px; font-weight:600; color:#243246; }
+        .explanation-btn { background:#007aff; margin-right:10px; }
+        .home-btn { background:#6c757d; margin-right:10px; }
         .error { background:#ffebee; color:#c62828; padding:20px; margin:20px 25px; border-radius:12px; border-left:4px solid #c62828; }
         .correct-answer-label { border:2px solid #4CAF50 !important; background-color:#e8f5e9 !important; font-weight:bold; }
         .user-answer-label { border:2px solid #FFC107 !important; background-color:#fff8e1 !important; font-weight:bold; }
         .explanation-box { margin-top:20px; padding:15px; border-radius:8px; background:#e3f2fd; border-left:5px solid #2196F3; }
+        .nav-button-group { display:flex; justify-content:center; gap:10px; margin:30px 0; }
         .ai-box { margin-top:15px; padding:15px; border-radius:8px; background:#fff3cd; border-left:5px solid #ffc107; font-size: 14px; }
-        .subject-link { display:block; text-align:center; margin:30px; font-weight:bold; color:#007aff; text-decoration:none; }
     </style>
 </head>
 <body>
@@ -210,6 +211,7 @@ function htmlEscape(text) {
     return div.innerHTML;
 }
 
+// AI Integration: Fetch explanation automatically
 async function getAIPersonalizedHelp(qId, qText, correct, expl) {
     const box = document.getElementById('ai-box-' + qId);
     box.innerHTML = '<em>Thinking...</em>';
@@ -324,17 +326,37 @@ async function loadQuestions() {
 
 async function submitAnswers() {
     clearInterval(timerInterval);
-    await fetch('?action=submit', { method: 'POST', body: JSON.stringify({ answers: answers }) });
-    viewExplanations();
+    const res = await fetch('?action=submit', {
+        method: 'POST',
+        body: JSON.stringify({ answers: answers })
+    });
+    const result = await res.json();
+    displayResults(result);
 }
 
-async function viewExplanations() {
+function displayResults(result) {
     document.getElementById('q-container').style.display = 'none';
     document.getElementById('nav-buttons').style.display = 'none';
     document.getElementById('q-nav').style.display = 'none';
     document.getElementById('section-display').style.display = 'none';
-    document.getElementById('info-box').innerHTML = 'Exam Review';
+    document.getElementById('info-box').innerHTML = 'Exam Completed!';
 
+    const resView = document.createElement('div');
+    resView.className = 'question-container';
+    resView.style.textAlign = 'center';
+    resView.innerHTML = `
+        <div style="font-size: 32px; font-weight: bold;">Exam Results</div>
+        <div style="font-size: 48px; color: #007aff; margin: 20px 0;">${result.score}/${result.total}</div>
+        <div style="font-size: 24px; color: #43e97b; margin-bottom: 20px;">${result.percentage}%</div>
+        <div class="nav-button-group">
+            <button class="nav-btn explanation-btn" onclick="viewExplanations()">View Explanations</button>
+            <button class="nav-btn" onclick="location.reload()">Retake Exam</button>
+        </div>`;
+    document.querySelector('.container').appendChild(resView);
+}
+
+async function viewExplanations() {
+    document.querySelector('.container').lastChild.remove();
     const expContainer = document.getElementById('explanation-container');
     expContainer.style.display = 'block';
     
@@ -345,7 +367,7 @@ async function viewExplanations() {
     data.questions.forEach((q, i) => {
         const isCorrect = answers[q.questionId] === q.correctAnswer;
         html += `
-            <div class="question-container">
+            <div class="question-container" id="container-${q.questionId}">
                 <div class="question-header">
                     <span class="question-id">Q${i+1} — ${isCorrect ? '✅' : '❌'}</span>
                 </div>
@@ -361,10 +383,14 @@ async function viewExplanations() {
             </div>`;
     });
 
-    html += '<a href="https://vectorcbt.onrender.com/choose_subject.php" class="subject-link">← Back to Subjects</a>';
-    html += '</div>';
+    html += `
+        <div class="nav-button-group">
+            <a href="https://vectorcbt.onrender.com/choose_subject.php" style="display:block; margin-bottom:15px; text-decoration:none; color:#007aff; font-weight:bold;">← Back to Subjects</a>
+        </div></div>`;
+
     expContainer.innerHTML = html;
 
+    // Auto-trigger AI for wrong answers
     data.questions.forEach(q => {
         if (answers[q.questionId] !== q.correctAnswer) {
             getAIPersonalizedHelp(q.questionId, q.question, q.correctAnswer, q.explanation);
