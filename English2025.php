@@ -1,3 +1,4 @@
+<?php include 'ai_logic.php'; ?>
 <?php
 // Set the path to your new JSON file
 // *** CRITICAL CHANGE: Updated file name to English2025.json ***
