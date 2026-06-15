@@ -65,7 +65,6 @@ $action = $_GET['action'] ?? $_POST['action'] ?? null;
 if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_help'])) {
     header('Content-Type: application/json');
     
-    // AI Integration Bridge
     if ($action === 'get_ai_help') {
         $input = json_decode(file_get_contents('php://input'), true);
         $apiKey = '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'; 
@@ -160,6 +159,7 @@ if (in_array($action, ['get_questions', 'get_explanations', 'submit', 'get_ai_he
         .explanation-box { margin-top:20px; padding:15px; border-radius:8px; background:#e3f2fd; border-left:5px solid #2196F3; }
         .nav-button-group { display:flex; justify-content:center; gap:10px; margin:30px 0; }
         .ai-box { margin-top:15px; padding:15px; border-radius:8px; background:#fff3cd; border-left:5px solid #ffc107; font-size: 14px; }
+        .subject-link { display:block; text-align:center; margin:20px; font-weight:bold; color:#007aff; text-decoration:none; }
     </style>
 </head>
 <body>
@@ -203,7 +203,6 @@ let allQuestions = [];
 let answers = {};
 let totalSeconds = 3600;
 let timerInterval;
-let explanationData = null;
 
 function htmlEscape(text) {
     if (!text) return '';
@@ -214,7 +213,7 @@ function htmlEscape(text) {
 
 async function fetchAITutor(q) {
     const box = document.getElementById('ai-box-' + q.questionId);
-    box.innerHTML = '<em>Fetching AI explanation...</em>';
+    box.innerHTML = '<em>Loading AI explanation...</em>';
     try {
         const res = await fetch('?action=get_ai_help', {
             method: 'POST',
@@ -224,7 +223,7 @@ async function fetchAITutor(q) {
         const content = data.choices[0].message.content;
         box.innerHTML = '<strong>AI Tutor:</strong><br>' + content.replace(/\n/g, '<br>');
     } catch (e) {
-        box.innerHTML = 'AI explanation unavailable.';
+        box.innerHTML = 'AI explanation currently unavailable.';
     }
 }
 
@@ -348,7 +347,10 @@ function displayResults(result) {
         <div style="font-size: 32px; font-weight: bold;">Exam Results</div>
         <div style="font-size: 48px; color: #007aff; margin: 20px 0;">${result.score}/${result.total}</div>
         <div style="font-size: 24px; color: #43e97b; margin-bottom: 20px;">${result.percentage}%</div>
-        <button class="nav-btn" onclick="triggerExplanations()">View Explanations & AI Help</button>`;
+        <div class="nav-button-group">
+            <button class="nav-btn" onclick="triggerExplanations()">View Explanations</button>
+            <button class="nav-btn" onclick="location.reload()">Retake Exam</button>
+        </div>`;
     document.querySelector('.container').appendChild(resView);
 }
 
@@ -359,7 +361,6 @@ async function triggerExplanations() {
     
     const res = await fetch('?action=get_explanations');
     const data = await res.json();
-    explanationData = data.questions;
 
     let html = '<div class="explanation-view">';
     data.questions.forEach((q, i) => {
@@ -382,41 +383,17 @@ async function triggerExplanations() {
     });
 
     html += `
-        <div class="nav-button-group">
-            <button class="nav-btn" onclick="exportPerformance()">Export Data</button>
-            <button class="nav-btn" onclick="location.reload()">Finish</button>
-        </div></div>`;
+        <a href="https://vectorcbt.onrender.com/choose_subject.php" class="subject-link">← Back to Subjects</a>
+        <div class="nav-button-group"><button class="nav-btn" onclick="location.reload()">Finish</button></div></div>`;
 
     expContainer.innerHTML = html;
 
-    // Trigger AI calls automatically for wrong answers
     data.questions.forEach(q => {
         if (answers[q.questionId] !== q.correctAnswer) {
             fetchAITutor(q);
         }
     });
     window.scrollTo(0,0);
-}
-
-function exportPerformance() {
-    if (!explanationData) return;
-    const exportData = explanationData.map(q => ({
-        questionId: q.questionId,
-        question: q.question,
-        options: q.options,
-        userAnswer: answers[q.questionId] || null,
-        correctAnswer: q.correctAnswer,
-        explanation: q.explanation
-    }));
-    const blob = new Blob([JSON.stringify(exportData, null, 2)], {type: 'application/json'});
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'Maths2025_Performance.json';
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
 }
 
 window.onload = loadQuestions;
