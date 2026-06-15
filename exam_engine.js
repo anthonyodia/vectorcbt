@@ -23,19 +23,18 @@ async function getAIPersonalizedHelp(qId, qText, correct, expl) {
             body: JSON.stringify({ question: qText, correctAnswer: correct, explanation: expl })
         });
         const data = await res.json();
-        const content = data.choices[0].message.content;
+        // Check for specific Groq/OpenAI response structure
+        const content = data.choices ? data.choices[0].message.content : "AI response error.";
         box.innerHTML = '<strong>AI Tutor:</strong><br>' + content.replace(/\n/g, '<br>');
     } catch (e) {
         box.innerHTML = 'AI assistance currently unavailable.';
     }
 }
 
-// Logic to render questions (Standardized)
 function renderQuestion() {
     const qObj = allQuestions[current - 1];
     if (!qObj) return;
 
-    // Set Section Header
     const sectionDisplay = document.getElementById('section-display');
     if (sectionDisplay) sectionDisplay.innerHTML = '<div class="section-divider">Section: ' + htmlEscape(qObj.sectionName) + '</div>';
 
@@ -56,7 +55,7 @@ function renderQuestion() {
         html += `
             <label class="option-label">
                 <input type="radio" name="answer" value="${opt.optionId}" 
-                ${answers[qObj.questionId] === opt.optionId ? 'checked' : ''} 
+                ${answers[qObj.questionId] == opt.optionId ? 'checked' : ''} 
                 onchange="saveAnswer('${qObj.questionId}', '${opt.optionId}')"/>
                 <span>${opt.optionId}. ${htmlEscape(opt.text)}</span>
             </label>`;
@@ -65,12 +64,16 @@ function renderQuestion() {
     qc.innerHTML = html;
 
     // Navigation logic
-    document.getElementById('btn-prev').disabled = (current <= 1);
+    const btnPrev = document.getElementById('btn-prev');
     const btnNext = document.getElementById('btn-next');
     const navButtons = document.getElementById('nav-buttons');
+    
+    btnPrev.disabled = (current <= 1);
+    
+    // Handle Submit Button
     let existingSubmit = document.getElementById('btn-submit');
-
     if (current === allQuestions.length) {
+        btnNext.style.display = 'none';
         if (!existingSubmit) {
             const submitBtn = document.createElement('button');
             submitBtn.textContent = 'Submit Exam';
@@ -79,12 +82,11 @@ function renderQuestion() {
             submitBtn.style.background = '#ff6b6b';
             submitBtn.onclick = submitAnswers;
             navButtons.appendChild(submitBtn);
-            btnNext.style.display = 'none';
         }
     } else {
-        if (existingSubmit) existingSubmit.remove();
         btnNext.style.display = 'inline-flex';
         btnNext.disabled = false;
+        if (existingSubmit) existingSubmit.remove();
     }
 }
 
@@ -94,13 +96,15 @@ function saveAnswer(qId, val) {
 }
 
 function renderNav() {
+    const nav = document.getElementById('q-nav');
+    if (!nav) return;
     let html = '';
     allQuestions.forEach((q, i) => {
         const num = i + 1;
         const cls = (num === current ? 'active ' : '') + (answers[q.questionId] ? 'answered' : '');
         html += `<a href="#" onclick="navigate(${num}); return false;" class="${cls}">${num}</a>`;
     });
-    document.getElementById('q-nav').innerHTML = html;
+    nav.innerHTML = html;
 }
 
 function navigate(num) {
@@ -110,7 +114,6 @@ function navigate(num) {
     window.scrollTo(0, 0);
 }
 
-// Timer and Initialization
 function startTimer() {
     timerInterval = setInterval(() => {
         const mins = Math.floor(totalSeconds / 60);
@@ -123,13 +126,17 @@ function startTimer() {
 }
 
 async function loadQuestions() {
-    const res = await fetch('?action=get_questions');
-    const data = await res.json();
-    if (data.success) {
-        allQuestions = data.questions;
-        renderQuestion();
-        renderNav();
-        startTimer();
+    try {
+        const res = await fetch('?action=get_questions');
+        const data = await res.json();
+        if (data.success) {
+            allQuestions = data.questions;
+            renderQuestion();
+            renderNav();
+            startTimer();
+        }
+    } catch (e) {
+        document.getElementById('q-container').innerHTML = '<p class="error">Failed to load questions. Please check your PHP file.</p>';
     }
 }
 
@@ -144,58 +151,5 @@ async function submitAnswers() {
     viewExplanations(result);
 }
 
-async function viewExplanations(result) {
-    document.getElementById('q-container').style.display = 'none';
-    document.getElementById('nav-buttons').style.display = 'none';
-    document.getElementById('q-nav').style.display = 'none';
-    const secDisplay = document.getElementById('section-display');
-    if (secDisplay) secDisplay.style.display = 'none';
-    
-    const infoBox = document.getElementById('info-box');
-    if (infoBox) {
-        infoBox.innerHTML = `Exam Results: ${result.score}/${result.total} (${result.percentage}%)`;
-        infoBox.style.background = '#007aff';
-    }
-
-    const expContainer = document.getElementById('explanation-container');
-    expContainer.style.display = 'block';
-    
-    const res = await fetch('?action=get_explanations');
-    const data = await res.json();
-
-    let html = '<div class="explanation-view">';
-    data.questions.forEach((q, i) => {
-        const isCorrect = answers[q.questionId] === q.correctAnswer;
-        html += `
-            <div class="question-container" id="container-${q.questionId}">
-                <div class="question-header">
-                    <span class="question-id">Q${i+1} — ${isCorrect ? '✅' : '❌'}</span>
-                </div>
-                <div class="question-text">${htmlEscape(q.question)}</div>
-                ${q.options.map(opt => {
-                    let cls = '';
-                    if(opt.optionId === q.correctAnswer) cls = 'correct-answer-label';
-                    else if(opt.optionId === answers[q.questionId]) cls = 'user-answer-label';
-                    return `<label class="option-label ${cls}"><span>${opt.optionId}. ${htmlEscape(opt.text)}</span></label>`;
-                }).join('')}
-                <div class="explanation-box"><strong>Explanation:</strong> <p>${htmlEscape(q.explanation)}</p></div>
-                ${!isCorrect ? `<div id="ai-box-${q.questionId}" class="ai-box"></div>` : ''}
-            </div>`;
-    });
-
-    html += `
-        <div style="text-align: center; margin: 30px 0;">
-            <a href="choose_subject.php" class="nav-btn" style="background:#007aff;">← Back to Subjects</a>
-        </div></div>`;
-
-    expContainer.innerHTML = html;
-
-    data.questions.forEach(q => {
-        if (answers[q.questionId] !== q.correctAnswer) {
-            getAIPersonalizedHelp(q.questionId, q.question, q.correctAnswer, q.explanation);
-        }
-    });
-    window.scrollTo(0,0);
-}
-
-window.onload = loadQuestions;
+// Initialization
+document.addEventListener('DOMContentLoaded', loadQuestions);
