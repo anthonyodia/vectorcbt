@@ -54,7 +54,10 @@ if ($action) {
     exit(); 
 }
 ?>
-<?php include 'ai_logic.php'; ?>
+elseif ($action === 'get_ai_help') {
+    include 'ai_logic.php';
+    exit();
+}
 <!DOCTYPE html>
 <html lang="en">
 <head>
