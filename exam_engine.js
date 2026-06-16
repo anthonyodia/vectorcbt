@@ -219,14 +219,13 @@ async function submitAnswers() {
 /* ================= EXPLANATIONS ================= */
 async function viewExplanations(result) {
 
-   document.getElementById('q-container').style.display = 'none';
-document.getElementById('nav-buttons').style.display = 'none';
-document.getElementById('q-nav').style.display = 'none';
-document.getElementById('section-display').style.display = 'none';
-    
+   const expContainer = document.getElementById('explanation-container');
+    expContainer.style.display = 'block';
+    expContainer.innerHTML = '<p>Loading explanations...</p>';
+
     document.getElementById('info-box').innerHTML =
         `Score: ${result.score}/${result.total} (${result.percentage}%)`;
-
+   
     const res = await fetch('English2025.php?action=get_explanations');
     const data = await res.json();
 
