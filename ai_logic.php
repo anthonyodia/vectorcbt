@@ -1,22 +1,49 @@
 <?php
-// ai_logic.php - Handles the AI request
+// ai_logic.php - CLEAN AI ENDPOINT ONLY
+
 if (isset($_GET['action']) && $_GET['action'] === 'get_ai_help') {
+
     header('Content-Type: application/json');
+
     $input = json_decode(file_get_contents('php://input'), true);
-    $apiKey = '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'; 
-    
-    $prompt = "The student failed this math question. Question: {$input['question']}. Correct Answer: {$input['correctAnswer']}. Standard Explanation: {$input['explanation']}. Please explain, step-by-step, the logic to arrive at the correct answer and identify the fundamental topic the student must know.";
+
+    if (!$input) {
+        echo json_encode(['error' => 'Invalid input']);
+        exit();
+    }
+
+    $apiKey = 'YOUR_GROQ_API_KEY_HERE'; // ⚠️ move to env later
+
+    $prompt = "Explain this WAEC question step by step:
+
+Question: {$input['question']}
+Correct Answer: {$input['correctAnswer']}
+Explanation: {$input['explanation']}
+
+Teach the student clearly and briefly.";
+
+    $payload = [
+        "model" => "llama-3.3-70b-versatile",
+        "messages" => [
+            ["role" => "user", "content" => $prompt]
+        ]
+    ];
 
     $ch = curl_init('https://api.groq.com/openai/v1/chat/completions');
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_HTTPHEADER, ['Authorization: Bearer ' . $apiKey, 'Content-Type: application/json']);
-    curl_setopt($ch, CURLOPT_POST, true);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode([
-        'model' => 'llama-3.3-70b-versatile',
-        'messages' => [['role' => 'user', 'content' => $prompt]]
-    ]));
-    echo curl_exec($ch);
+
+    curl_setopt_array($ch, [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_HTTPHEADER => [
+            'Authorization: Bearer ' . $apiKey,
+            'Content-Type: application/json'
+        ],
+        CURLOPT_POST => true,
+        CURLOPT_POSTFIELDS => json_encode($payload)
+    ]);
+
+    $response = curl_exec($ch);
     curl_close($ch);
+
+    echo $response;
     exit();
 }
-?>
