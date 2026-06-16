@@ -1,4 +1,3 @@
-```javascript
 let current = 1;
 let allQuestions = [];
 let answers = {};
@@ -12,19 +11,18 @@ function htmlEscape(text) {
     return div.innerHTML;
 }
 
+/* ================= AI TUTOR ================= */
 async function getAIPersonalizedHelp(qId, qText, correct, expl) {
-    const box = document.getElementById('ai-box-' + qId);
 
+    const box = document.getElementById('ai-box-' + qId);
     if (!box) return;
 
     box.innerHTML = '<em>Thinking...</em>';
 
     try {
-        const res = await fetch('ai_logic.php?action=get_ai_help', {
+        const res = await fetch('English2025.php?action=get_ai_help', {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
+            headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
                 question: qText,
                 correctAnswer: correct,
@@ -34,97 +32,89 @@ async function getAIPersonalizedHelp(qId, qText, correct, expl) {
 
         const data = await res.json();
 
+        const reply =
+            data?.choices?.[0]?.message?.content ||
+            data?.error ||
+            "AI not available";
+
         box.innerHTML =
             '<strong>AI Tutor:</strong><br>' +
-            data.choices[0].message.content.replace(/\n/g, '<br>');
+            reply.replace(/\n/g, '<br>');
 
     } catch (e) {
         console.error(e);
-        box.innerHTML = 'AI assistance currently unavailable.';
+        box.innerHTML = "AI assistance failed.";
     }
 }
 
+/* ================= LOAD QUESTIONS ================= */
 async function loadQuestions() {
     try {
-
-        const res = await fetch('?action=get_questions');
+        const res = await fetch('English2025.php?action=get_questions');
         const data = await res.json();
 
-        if (data.success) {
+        if (!data.success) return;
 
-            allQuestions = data.questions;
+        allQuestions = data.questions;
 
-            document.getElementById('btn-prev').onclick = () => {
-                if (current > 1) navigate(current - 1);
-            };
+        document.getElementById('btn-prev').onclick = () => {
+            if (current > 1) navigate(current - 1);
+        };
 
-            document.getElementById('btn-next').onclick = () => {
-                if (current < allQuestions.length) navigate(current + 1);
-            };
+        document.getElementById('btn-next').onclick = () => {
+            if (current < allQuestions.length) navigate(current + 1);
+        };
 
-            renderQuestion();
-            renderNav();
-            startTimer();
-        }
+        renderQuestion();
+        renderNav();
+        startTimer();
 
     } catch (e) {
-        console.error("Critical Load Error:", e);
+        console.error("Load error:", e);
     }
 }
 
+/* ================= RENDER QUESTION ================= */
 function renderQuestion() {
 
     const qObj = allQuestions[current - 1];
-
     if (!qObj) return;
 
     document.getElementById('section-display').innerHTML =
-        '<div class="section-divider">Section: ' +
-        htmlEscape(qObj.sectionName) +
-        '</div>';
+        `<div class="section-divider">Section: ${htmlEscape(qObj.section)}</div>`;
 
     const qc = document.getElementById('q-container');
 
-    let html = '';
+    let html = `
+        <div class="question-header">
+            <span class="question-id">Question ${current}</span>
+            <span class="question-section">${htmlEscape(qObj.section)}</span>
+        </div>
 
-    html += '<div class="question-header">';
-    html += '<span class="question-id">Question ' + current + '</span>';
-    html += '<span class="question-section">' + htmlEscape(qObj.sectionName) + '</span>';
-    html += '</div>';
+        <div class="question-text">
+            ${htmlEscape(qObj.question)}
+            ${qObj.image ? `<br><img src="${qObj.image}" class="question-image">` : ''}
+        </div>
 
-    html += '<div class="question-text">';
-    html += htmlEscape(qObj.question);
-
-    if (qObj.image) {
-        html += '<br><img src="' + htmlEscape(qObj.image) + '" class="question-image">';
-    }
-
-    html += '</div>';
-
-    html += '<form>';
+        <form>
+    `;
 
     qObj.options.forEach(opt => {
 
-        html += '<label class="option-label">';
+        html += `
+            <label class="option-label">
+                <input type="radio"
+                    name="answer"
+                    value="${opt.optionId}"
+                    ${answers[qObj.questionId] === opt.optionId ? 'checked' : ''}
+                    onchange="saveAnswer('${qObj.questionId}', '${opt.optionId}')">
 
-        html +=
-            '<input type="radio" ' +
-            'name="answer" ' +
-            'value="' + opt.optionId + '" ' +
-            (answers[qObj.questionId] === opt.optionId ? 'checked' : '') +
-            ' onchange="saveAnswer(\'' + qObj.questionId + '\', \'' + opt.optionId + '\')">';
-
-        html += '<span>' +
-            opt.optionId +
-            '. ' +
-            htmlEscape(opt.text) +
-            '</span>';
-
-        html += '</label>';
-
+                <span>${opt.optionId}. ${htmlEscape(opt.text)}</span>
+            </label>
+        `;
     });
 
-    html += '</form>';
+    html += `</form>`;
 
     qc.innerHTML = html;
 
@@ -133,43 +123,34 @@ function renderQuestion() {
     const btnNext = document.getElementById('btn-next');
 
     if (current === allQuestions.length) {
-
         btnNext.style.display = 'none';
 
         if (!document.getElementById('btn-submit')) {
+            const btn = document.createElement('button');
+            btn.id = 'btn-submit';
+            btn.className = 'nav-btn';
+            btn.textContent = 'Submit Exam';
+            btn.style.background = '#ff6b6b';
+            btn.onclick = submitAnswers;
 
-            const submitBtn = document.createElement('button');
-
-            submitBtn.id = 'btn-submit';
-            submitBtn.className = 'nav-btn';
-            submitBtn.textContent = 'Submit Exam';
-            submitBtn.style.background = '#ff6b6b';
-
-            submitBtn.onclick = function () {
-                submitAnswers();
-            };
-
-            document
-                .getElementById('nav-buttons')
-                .appendChild(submitBtn);
+            document.getElementById('nav-buttons').appendChild(btn);
         }
 
     } else {
-
         btnNext.style.display = 'inline-flex';
-        btnNext.disabled = false;
 
         const sub = document.getElementById('btn-submit');
-
         if (sub) sub.remove();
     }
 }
 
+/* ================= ANSWERS ================= */
 function saveAnswer(qId, value) {
     answers[qId] = value;
     renderNav();
 }
 
+/* ================= NAV ================= */
 function renderNav() {
 
     let html = '';
@@ -182,15 +163,11 @@ function renderNav() {
             (num === current ? 'active ' : '') +
             (answers[q.questionId] ? 'answered' : '');
 
-        html +=
-            '<a href="#" onclick="navigate(' +
-            num +
-            ');return false;" class="' +
-            cls +
-            '">' +
-            num +
-            '</a>';
-
+        html += `
+            <a href="#" onclick="navigate(${num});return false;" class="${cls}">
+                ${num}
+            </a>
+        `;
     });
 
     document.getElementById('q-nav').innerHTML = html;
@@ -203,16 +180,15 @@ function navigate(num) {
     window.scrollTo(0, 0);
 }
 
+/* ================= TIMER ================= */
 function startTimer() {
-
     timerInterval = setInterval(() => {
 
         const mins = Math.floor(totalSeconds / 60);
         const secs = totalSeconds % 60;
 
         document.getElementById('countdown').textContent =
-            String(mins).padStart(2, '0') +
-            ':' +
+            String(mins).padStart(2, '0') + ':' +
             String(secs).padStart(2, '0');
 
         if (totalSeconds <= 0) {
@@ -225,25 +201,22 @@ function startTimer() {
     }, 1000);
 }
 
+/* ================= SUBMIT ================= */
 async function submitAnswers() {
 
     clearInterval(timerInterval);
 
-    const res = await fetch('?action=submit', {
+    const res = await fetch('English2025.php?action=submit', {
         method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-            answers: answers
-        })
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({answers})
     });
 
     const result = await res.json();
-
     viewExplanations(result);
 }
 
+/* ================= EXPLANATIONS ================= */
 async function viewExplanations(result) {
 
     document.getElementById('q-container').style.display = 'none';
@@ -252,73 +225,62 @@ async function viewExplanations(result) {
     document.getElementById('section-display').style.display = 'none';
 
     document.getElementById('info-box').innerHTML =
-        `Exam Results: ${result.score}/${result.total} (${result.percentage}%)`;
+        `Score: ${result.score}/${result.total} (${result.percentage}%)`;
 
-    const expContainer =
-        document.getElementById('explanation-container');
-
-    expContainer.style.display = 'block';
-
-    const res = await fetch('?action=get_explanations');
+    const res = await fetch('English2025.php?action=get_explanations');
     const data = await res.json();
 
     let html = '<div class="explanation-view">';
 
     data.questions.forEach((q, i) => {
 
-        const isCorrect =
-            answers[q.questionId] === q.correctAnswer;
+        const isCorrect = answers[q.questionId] === q.correctAnswer;
 
         html += `
-        <div class="question-container">
+            <div class="question-container">
 
-            <div class="question-header">
-                <span class="question-id">
-                    Q${i + 1} — ${isCorrect ? '✅' : '❌'}
-                </span>
+                <div class="question-header">
+                    <span class="question-id">
+                        Q${i + 1} — ${isCorrect ? '✅' : '❌'}
+                    </span>
+                </div>
+
+                <div class="question-text">
+                    ${htmlEscape(q.question)}
+                </div>
+
+                ${q.options.map(opt => {
+
+                    let cls = '';
+                    if (opt.optionId === q.correctAnswer) cls = 'correct-answer-label';
+                    else if (opt.optionId === answers[q.questionId]) cls = 'user-answer-label';
+
+                    return `
+                        <label class="option-label ${cls}">
+                            <span>${opt.optionId}. ${htmlEscape(opt.text)}</span>
+                        </label>
+                    `;
+                }).join('')}
+
+                <div class="explanation-box">
+                    <strong>Explanation:</strong>
+                    <p>${htmlEscape(q.explanation)}</p>
+                </div>
+
+                ${!isCorrect ? `<div id="ai-box-${q.questionId}" class="explanation-box"></div>` : ''}
+
             </div>
-
-            <div class="question-text">
-                ${htmlEscape(q.question)}
-            </div>
-
-            ${q.options.map(opt => {
-
-                let cls = '';
-
-                if (opt.optionId === q.correctAnswer)
-                    cls = 'correct-answer-label';
-
-                else if (opt.optionId === answers[q.questionId])
-                    cls = 'user-answer-label';
-
-                return `
-                <label class="option-label ${cls}">
-                    <span>${opt.optionId}. ${htmlEscape(opt.text)}</span>
-                </label>`;
-            }).join('')}
-
-            <div class="explanation-box">
-                <strong>Explanation:</strong>
-                <p>${htmlEscape(q.explanation)}</p>
-            </div>
-
-            ${!isCorrect
-                ? `<div id="ai-box-${q.questionId}" class="explanation-box"></div>`
-                : ''
-            }
-
-        </div>`;
+        `;
     });
 
     html += '</div>';
 
-    expContainer.innerHTML = html;
+    document.getElementById('explanation-container').innerHTML = html;
+    document.getElementById('explanation-container').style.display = 'block';
 
+    // trigger AI
     data.questions.forEach(q => {
-
         if (answers[q.questionId] !== q.correctAnswer) {
-
             getAIPersonalizedHelp(
                 q.questionId,
                 q.question,
@@ -327,9 +289,6 @@ async function viewExplanations(result) {
             );
         }
     });
-
-    window.scrollTo(0, 0);
 }
 
 window.onload = loadQuestions;
-```
