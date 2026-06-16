@@ -1,16 +1,16 @@
 <?php
-// 1. Setup
 $jsonFile = __DIR__ . '/english2025.json';
 $action = $_GET['action'] ?? null;
 
-// 2. API HANDLERS (NO AI HERE)
+/* ================= API ROUTES ================= */
 if ($action) {
+
     header('Content-Type: application/json');
 
-    $jsonContent = file_get_contents($jsonFile);
-    $data = json_decode($jsonContent, true);
+    $data = json_decode(file_get_contents($jsonFile), true);
     $fullData = $data['WAEC_English_Language_Objective_Questions']['questions'] ?? [];
 
+    /* ---------- QUESTIONS ---------- */
     if ($action === 'get_questions') {
 
         $questions = [];
@@ -18,8 +18,8 @@ if ($action) {
         foreach ($fullData as $q) {
             $questions[] = [
                 'questionId' => $q['id'],
-                'question' => ($q['instruction'] ?? '') . ' ' . ($q['question'] ?? ''),
-                'sectionName' => $q['section'] ?? 'English Language',
+                'question' => $q['question'],
+                'section' => $q['section'],
                 'options' => array_map(
                     fn($id, $text) => ['optionId' => $id, 'text' => $text],
                     array_keys($q['options']),
@@ -33,7 +33,8 @@ if ($action) {
         exit();
     }
 
-    elseif ($action === 'submit') {
+    /* ---------- SUBMIT ---------- */
+    if ($action === 'submit') {
 
         $input = json_decode(file_get_contents('php://input'), true);
         $userAnswers = $input['answers'] ?? [];
@@ -41,7 +42,7 @@ if ($action) {
         $score = 0;
 
         foreach ($fullData as $q) {
-            if (isset($userAnswers[$q['id']]) && $userAnswers[$q['id']] === $q['answer']) {
+            if (($userAnswers[$q['id']] ?? null) === $q['answer']) {
                 $score++;
             }
         }
@@ -51,10 +52,12 @@ if ($action) {
             'total' => count($fullData),
             'percentage' => round(($score / count($fullData)) * 100, 2)
         ]);
+
         exit();
     }
 
-    elseif ($action === 'get_explanations') {
+    /* ---------- EXPLANATIONS ---------- */
+    if ($action === 'get_explanations') {
 
         $exps = [];
 
@@ -63,7 +66,7 @@ if ($action) {
                 'questionId' => $q['id'],
                 'question' => $q['question'],
                 'correctAnswer' => $q['answer'],
-                'explanation' => $q['explanation'] ?? 'No explanation provided.',
+                'explanation' => $q['explanation'],
                 'options' => array_map(
                     fn($id, $text) => ['optionId' => $id, 'text' => $text],
                     array_keys($q['options']),
@@ -76,9 +79,15 @@ if ($action) {
         exit();
     }
 
-    exit();
+    /* ---------- AI ROUTE ---------- */
+    if ($action === 'get_ai_help') {
+        include 'ai_logic.php';
+        exit();
+    }
 }
 ?>
+
+<!-- NORMAL HTML BELOW (UNCHANGED) -->
 
 <!DOCTYPE html>
 <html lang="en">
