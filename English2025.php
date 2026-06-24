@@ -95,7 +95,7 @@ if ($action) {
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>Vector Learn — WAEC English CBT</title>
-
+<script src="exam_engine.js"></script>
 
 
 <style>
