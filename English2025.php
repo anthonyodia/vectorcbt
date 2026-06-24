@@ -2,6 +2,9 @@
 $jsonFile = __DIR__ . '/english2025.json';
 $action = $_GET['action'] ?? null;
 
+/* ================= AI TUTOR (SHARED MODULE) ================= */
+include 'ai_tutor.php';
+
 /* ================= API ROUTES ================= */
 if ($action) {
 
@@ -20,7 +23,7 @@ if ($action) {
                 'questionId' => $q['id'],
                 'question' => $q['question'],
                 'section' => $q['section'],
-                'answer' => $q['answer'], // IMPORTANT (needed for AI)
+                'answer' => $q['answer'],
                 'options' => array_map(
                     fn($id, $text) => ['optionId' => $id, 'text' => $text],
                     array_keys($q['options']),
@@ -79,12 +82,6 @@ if ($action) {
         echo json_encode(['success' => true, 'questions' => $exps]);
         exit();
     }
-
-    /* ---------- AI ROUTE ---------- */
-    if ($action === 'get_ai_help') {
-        include 'ai_logic.php';
-        exit();
-    }
 }
 ?>
 
@@ -107,7 +104,7 @@ if ($action) {
 .title { text-align:center; }
 .form-box { background:linear-gradient(90deg,#4facfe,#43e97b); color:white; text-align:center; padding:18px; margin:20px; border-radius:12px; }
 
-.question-container { margin:20px; padding:20px; border:1px solid #e6eaf0; border-radius:12px; background:#fafafa; }
+.question-container { margin:20px; padding:20px; border:1px solid #e6eaf0; border-radius:8px; background:#fafafa; }
 
 .question-header { display:flex; justify-content:space-between; margin-bottom:10px; }
 
@@ -155,7 +152,6 @@ label.option-label { display:block; padding:12px; margin-bottom:10px; border:1px
     <p>Loading...</p>
 </div>
 
-<!-- ✅ AI EXPLANATION BUTTON -->
 <div style="text-align:center; margin:20px;">
     <button id="ai-help-btn" class="nav-btn">Explain with AI</button>
 </div>
@@ -176,9 +172,6 @@ label.option-label { display:block; padding:12px; margin-bottom:10px; border:1px
 <script>
 let currentQuestion = null;
 
-/* ===============================
-   AI HELP BUTTON HANDLER
-================================*/
 document.getElementById('ai-help-btn').addEventListener('click', async () => {
 
     if (!currentQuestion) return;
@@ -191,9 +184,7 @@ document.getElementById('ai-help-btn').addEventListener('click', async () => {
 
         const res = await fetch('?action=get_ai_help', {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
+            headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
                 question: currentQuestion.question,
                 options: currentQuestion.options,
@@ -204,10 +195,16 @@ document.getElementById('ai-help-btn').addEventListener('click', async () => {
 
         const data = await res.json();
 
+        const text =
+            data.choices?.[0]?.message?.content ||
+            data.explanation ||
+            data.message ||
+            "No response";
+
         container.innerHTML = `
             <div class="explanation-box">
                 <strong>AI Explanation:</strong><br><br>
-                ${data.explanation || data.message || "No response"}
+                ${text.replace(/\n/g, "<br>")}
             </div>
         `;
 
@@ -216,24 +213,6 @@ document.getElementById('ai-help-btn').addEventListener('click', async () => {
     }
 });
 
-
-/* ===============================
-   HOOK INTO YOUR EXISTING ENGINE
-   (IMPORTANT PART)
-================================*/
-
-/*
-You MUST ensure exam_engine.js sets:
-
-currentQuestion = {
-    question,
-    options,
-    answer,
-    section
-}
-*/
-
-// Example fallback (REMOVE if engine already sets it)
 window.setCurrentQuestion = function(q) {
     currentQuestion = q;
 };
