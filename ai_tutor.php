@@ -1,7 +1,13 @@
 <?php
-// ai_logic.php - CLEAN AI ENDPOINT ONLY
+// ai_tutor.php
+// Shared AI Tutor Engine for all CBT pages
 
-if (isset($_GET['action']) && $_GET['action'] === 'get_ai_help') {
+if (!isset($action)) {
+    $action = $_GET['action'] ?? $_POST['action'] ?? null;
+}
+
+/* ================= AI TUTOR ROUTE ================= */
+if ($action === 'get_ai_help') {
 
     header('Content-Type: application/json');
 
@@ -12,15 +18,26 @@ if (isset($_GET['action']) && $_GET['action'] === 'get_ai_help') {
         exit();
     }
 
-    $apiKey = 'YOUR_GROQ_API_KEY_HERE'; // ⚠️ move to env later
+    $apiKey = getenv('GROQ_API_KEY') ?: 'YOUR_GROQ_API_KEY';
 
-    $prompt = "Explain this WAEC question step by step:
+    $question = $input['question'] ?? '';
+    $correctAnswer = $input['correctAnswer'] ?? '';
+    $explanation = $input['explanation'] ?? '';
 
-Question: {$input['question']}
-Correct Answer: {$input['correctAnswer']}
-Explanation: {$input['explanation']}
+    $prompt = "
+You are a WAEC CBT expert tutor.
 
-Teach the student clearly and briefly.";
+Question:
+$question
+
+Correct Answer:
+$correctAnswer
+
+Standard Explanation:
+$explanation
+
+Explain step-by-step in simple terms so a secondary school student understands.
+";
 
     $payload = [
         "model" => "llama-3.3-70b-versatile",
@@ -47,3 +64,4 @@ Teach the student clearly and briefly.";
     echo $response;
     exit();
 }
+?>
