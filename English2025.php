@@ -61,38 +61,37 @@ if ($action) {
     }
 
     /* ---------- EXPLANATIONS ---------- */
-   if ($action === 'get_explanations') {
+    if ($action === 'get_explanations') {
 
-    header('Content-Type: application/json');
+        $exps = [];
 
-    $exps = [];
+        foreach ($fullData as $q) {
+            $exps[] = [
+                'questionId' => (int)$q['id'],
+                'question' => $q['question'],
+                'correctAnswer' => $q['answer'],
+                'explanation' => $q['explanation'] ?? '',
+                'options' => array_map(
+                    fn($id, $text) => [
+                        'optionId' => $id,
+                        'text' => $text
+                    ],
+                    array_keys($q['options']),
+                    $q['options']
+                )
+            ];
+        }
 
-    foreach ($fullData as $q) {
-        $exps[] = [
-            'questionId' => (int)$q['id'],
-            'question' => $q['question'],
-            'correctAnswer' => $q['answer'],
-            'explanation' => $q['explanation'] ?? '',
-            'options' => array_map(
-                fn($id, $text) => [
-                    'optionId' => $id,
-                    'text' => $text
-                ],
-                array_keys($q['options']),
-                $q['options']
-            )
-        ];
+        echo json_encode([
+            'success' => true,
+            'questions' => $exps
+        ]);
+
+        exit();
     }
 
-    echo json_encode([
-        'success' => true,
-        'questions' => $exps
-    ]);
-
-    exit();
-}
+} // ✅ THIS WAS MISSING BEFORE (CRITICAL FIX)
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
