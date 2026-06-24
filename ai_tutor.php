@@ -18,7 +18,7 @@ if ($action === 'get_ai_help') {
         exit();
     }
 
-    $apiKey = getenv('GROQ_API_KEY') ?: 'YOUR_GROQ_API_KEY';
+    $apiKey = getenv('GROQ_API_KEY') ?: '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';
 
     $question = $input['question'] ?? '';
     $correctAnswer = $input['correctAnswer'] ?? '';
