@@ -61,27 +61,35 @@ if ($action) {
     }
 
     /* ---------- EXPLANATIONS ---------- */
-    if ($action === 'get_explanations') {
+   if ($action === 'get_explanations') {
 
-        $exps = [];
+    header('Content-Type: application/json');
 
-        foreach ($fullData as $q) {
-            $exps[] = [
-                'questionId' => $q['id'],
-                'question' => $q['question'],
-                'correctAnswer' => $q['answer'],
-                'explanation' => $q['explanation'],
-                'options' => array_map(
-                    fn($id, $text) => ['optionId' => $id, 'text' => $text],
-                    array_keys($q['options']),
-                    $q['options']
-                )
-            ];
-        }
+    $exps = [];
 
-        echo json_encode(['success' => true, 'questions' => $exps]);
-        exit();
+    foreach ($fullData as $q) {
+        $exps[] = [
+            'questionId' => (int)$q['id'],
+            'question' => $q['question'],
+            'correctAnswer' => $q['answer'],
+            'explanation' => $q['explanation'] ?? '',
+            'options' => array_map(
+                fn($id, $text) => [
+                    'optionId' => $id,
+                    'text' => $text
+                ],
+                array_keys($q['options']),
+                $q['options']
+            )
+        ];
     }
+
+    echo json_encode([
+        'success' => true,
+        'questions' => $exps
+    ]);
+
+    exit();
 }
 ?>
 
