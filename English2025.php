@@ -96,7 +96,7 @@ if ($action) {
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>Vector Learn — WAEC English CBT</title>
 
-<script src="exam_engine.js"></script>
+
 
 <style>
 .container { max-width:1000px; margin:40px auto; background:white; border-radius:14px; box-shadow:0 4px 16px rgba(0,0,0,0.08); padding-bottom:20px; }
