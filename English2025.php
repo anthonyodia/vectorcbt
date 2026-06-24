@@ -20,6 +20,7 @@ if ($action) {
                 'questionId' => $q['id'],
                 'question' => $q['question'],
                 'section' => $q['section'],
+                'answer' => $q['answer'], // IMPORTANT (needed for AI)
                 'options' => array_map(
                     fn($id, $text) => ['optionId' => $id, 'text' => $text],
                     array_keys($q['options']),
@@ -87,16 +88,14 @@ if ($action) {
 }
 ?>
 
-<!-- NORMAL HTML BELOW (UNCHANGED) -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>Vector Learn — WAEC English CBT</title>
-<script src="exam_engine.js"></script>
 
+<script src="exam_engine.js"></script>
 
 <style>
 .container { max-width:1000px; margin:40px auto; background:white; border-radius:14px; box-shadow:0 4px 16px rgba(0,0,0,0.08); padding-bottom:20px; }
@@ -120,8 +119,6 @@ label.option-label { display:block; padding:12px; margin-bottom:10px; border:1px
 
 .nav-btn { background:#43e97b; color:white; border:none; padding:12px; border-radius:10px; flex:1; margin:5px; cursor:pointer; }
 
-.nav-btn.disabled { background:#ccc; }
-
 .question-nav a { margin:3px; padding:6px 10px; border-radius:50%; display:inline-block; background:#eee; text-decoration:none; }
 
 .question-nav a.active { background:#007aff; color:white; }
@@ -129,11 +126,6 @@ label.option-label { display:block; padding:12px; margin-bottom:10px; border:1px
 .question-nav a.answered { background:#4caf50; color:white; }
 
 .explanation-box { background:#e3f2fd; padding:12px; border-left:4px solid #2196F3; margin-top:10px; }
-
-.correct-answer-label { background:#e8f5e9; border:2px solid #4CAF50; }
-
-.user-answer-label { background:#fff8e1; border:2px solid #FFC107; }
-
 </style>
 </head>
 
@@ -163,6 +155,13 @@ label.option-label { display:block; padding:12px; margin-bottom:10px; border:1px
     <p>Loading...</p>
 </div>
 
+<!-- ✅ AI EXPLANATION BUTTON -->
+<div style="text-align:center; margin:20px;">
+    <button id="ai-help-btn" class="nav-btn">Explain with AI</button>
+</div>
+
+<div id="explanation-container" style="display:none;"></div>
+
 <div class="navigation" id="nav-buttons">
     <button class="nav-btn" id="btn-prev">Prev</button>
     <button class="nav-btn" id="btn-next">Next</button>
@@ -170,11 +169,75 @@ label.option-label { display:block; padding:12px; margin-bottom:10px; border:1px
 
 <div class="question-nav" id="q-nav"></div>
 
-<div id="explanation-container" style="display:none;"></div>
-
 </div>
 
 <?php include 'footer2.php'; ?>
+
+<script>
+let currentQuestion = null;
+
+/* ===============================
+   AI HELP BUTTON HANDLER
+================================*/
+document.getElementById('ai-help-btn').addEventListener('click', async () => {
+
+    if (!currentQuestion) return;
+
+    const container = document.getElementById('explanation-container');
+    container.style.display = "block";
+    container.innerHTML = "Generating explanation...";
+
+    try {
+
+        const res = await fetch('?action=get_ai_help', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                question: currentQuestion.question,
+                options: currentQuestion.options,
+                correctAnswer: currentQuestion.answer,
+                section: currentQuestion.section
+            })
+        });
+
+        const data = await res.json();
+
+        container.innerHTML = `
+            <div class="explanation-box">
+                <strong>AI Explanation:</strong><br><br>
+                ${data.explanation || data.message || "No response"}
+            </div>
+        `;
+
+    } catch (err) {
+        container.innerHTML = "Failed to load AI explanation.";
+    }
+});
+
+
+/* ===============================
+   HOOK INTO YOUR EXISTING ENGINE
+   (IMPORTANT PART)
+================================*/
+
+/*
+You MUST ensure exam_engine.js sets:
+
+currentQuestion = {
+    question,
+    options,
+    answer,
+    section
+}
+*/
+
+// Example fallback (REMOVE if engine already sets it)
+window.setCurrentQuestion = function(q) {
+    currentQuestion = q;
+};
+</script>
 
 </body>
 </html>
