@@ -5,7 +5,7 @@
 
 // --- Configuration ---
 // NOTE: This script requires a file named 'Civic2025.json' in the same directory.
-$jsonFile = __DIR__ . '/Civic2025.json';
+$jsonFile = __DIR__ . '/civic2025.json';
 $subjectTitle = 'Civic Education 2025';
 $subjectTagline = 'Testing your knowledge of citizenship and societal values.';
 
