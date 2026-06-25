@@ -112,7 +112,7 @@ p{
 
     <p>
         The page you're looking for is currently unavailable,
-        under development, or the link may be incorrect.
+        and under development.
     </p>
 
     <div class="btn-group">
