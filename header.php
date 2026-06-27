@@ -1,3 +1,3 @@
-<?php include __DIR__ . '/header.php'; ?>
+<?php include __DIR__ . '/topnavbar.php'; ?>
 
 <div class="content-wrapper">
