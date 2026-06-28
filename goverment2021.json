@@ -1,0 +1,564 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "An undesirable attribute of capitalism is mostly seen in",
+      "options": {
+        "A": "freedom of choice",
+        "B": "exploitation of labour",
+        "C": "efficient production of goods and services",
+        "D": "effective utilization of labour"
+      },
+      "answer": "B",
+      "explanation": "Capitalism is often criticized for the exploitation of labor, where the owners of the means of production may pay workers less than the value of their labor to increase profit."
+    },
+    {
+      "id": "2",
+      "question": "A constitution that requires an absolute majority of members of parliament to amend is a",
+      "options": {
+        "A": "confederal constitution",
+        "B": "federal constitution",
+        "C": "flexible constitution",
+        "D": "rigid constitution"
+      },
+      "answer": "D",
+      "explanation": "A rigid constitution is one that requires a special, complicated, or difficult process (like an absolute majority) to amend."
+    },
+    {
+      "id": "3",
+      "question": "What is the term given to the action of discontinuing a session of a parliament or other legislative assembly without dissolving?",
+      "options": {
+        "A": "Adjournment",
+        "B": "Postponement",
+        "C": "Prorogation",
+        "D": "Recess"
+      },
+      "answer": "C",
+      "explanation": "Prorogation ends a session of parliament without dissolving the legislature entirely."
+    },
+    {
+      "id": "4",
+      "question": "In a monocephalous executive system of government, all executive powers are vested in the",
+      "options": {
+        "A": "Chief Justice",
+        "B": "President",
+        "C": "Prime Minister",
+        "D": "Speaker"
+      },
+      "answer": "B",
+      "explanation": "In a monocephalous (single-headed) system, like the Presidential system, one person holds both the head of state and head of government titles."
+    },
+    {
+      "id": "5",
+      "question": "The action programme of a political party intended to be carried out when political power is won is known as",
+      "options": {
+        "A": "code of conduct",
+        "B": "party constitution",
+        "C": "party survey",
+        "D": "manifesto"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "6",
+      "question": "What does the mass media rely on to gauge public opinion?",
+      "options": {
+        "A": "Influential citizens",
+        "B": "propaganda and interviews",
+        "C": "polls and survey",
+        "D": "Rumors and gossip"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "7",
+      "question": "Which of the following options is the role of a newspaper in a state?",
+      "options": {
+        "A": "Determines government appointment",
+        "B": "Disseminates information",
+        "C": "Ensures fairness in newspaper circulation",
+        "D": "Ensures fair distribution of relief items"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "8",
+      "question": "The Civil Services helps the government to",
+      "options": {
+        "A": "recruit personnel for the army",
+        "B": "develop and implement policies effectively",
+        "C": "maintain instability in the state",
+        "D": "stay in power for a long time."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "9",
+      "question": "A citizen is barred from active politics when employed as a",
+      "options": {
+        "A": "university lecturer",
+        "B": "priest",
+        "C": "civil servant",
+        "D": "journalist"
+      },
+      "answer": "C",
+      "explanation": "To ensure neutrality in administration, civil servants are usually prohibited from active partisan politics."
+    },
+    {
+      "id": "10",
+      "question": "Citizens' political participation is best practised under a",
+      "options": {
+        "A": "militant pressure group",
+        "B": "neighborhood vigilante group",
+        "C": "cooperative society",
+        "D": "political party"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "11",
+      "question": "The most important function of government is to ensure the",
+      "options": {
+        "A": "building of offices and houses",
+        "B": "judiciary is well resourced",
+        "C": "second arm of government is respected",
+        "D": "security of the citizens"
+      },
+      "answer": "D",
+      "explanation": "The primary duty of any government is the protection of lives and property (security)."
+    },
+    {
+      "id": "12",
+      "question": "The right to an adequate standard of living falls under",
+      "options": {
+        "A": "civil rights",
+        "B": "economic right",
+        "C": "free market economy",
+        "D": "right to life"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "13",
+      "question": "People's political values are continuously shaped by the following agents except",
+      "options": {
+        "A": "education",
+        "B": "family",
+        "C": "media",
+        "D": "ombudsman"
+      },
+      "answer": "D",
+      "explanation": "An Ombudsman is an official appointed to investigate individuals' complaints against public authorities, not an agent of political socialization like family or media."
+    },
+    {
+      "id": "14",
+      "question": "In which political system were there two levels of government with considerable devolution?",
+      "options": {
+        "A": "Capitalism",
+        "B": "Federalism",
+        "C": "Fascism",
+        "D": "Unitarism"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "15",
+      "question": "A system of government in which people elect their lawmakers and make them accountable for their actions and inactions in government is",
+      "options": {
+        "A": "a representative government",
+        "B": "first-past-the-post government",
+        "C": "an oligarchy government",
+        "D": "checks and balances system of government"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "16",
+      "question": "Which territories in British West Africa did the colonial government exercise limited jurisdiction?",
+      "options": {
+        "A": "Conquered states",
+        "B": "Mandated territories",
+        "C": "protectorates",
+        "D": "Trust territories"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "17",
+      "question": "One of the following French West African colonies was the first to gain independence",
+      "options": {
+        "A": "Benin",
+        "B": "Burkina Faso",
+        "C": "Guinea",
+        "D": "Togo"
+      },
+      "answer": "C",
+      "explanation": "Guinea was the first French colony in West Africa to gain independence in 1958 after rejecting the French Community."
+    },
+    {
+      "id": "18",
+      "question": "The struggle by the chiefs and people of West Africa against political, social and economic dominance by European powers was referred to as",
+      "options": {
+        "A": "imperialism",
+        "B": "nationalism",
+        "C": "neo-colonialism",
+        "D": "liberation"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "19",
+      "question": "The European imperialist penetration into West Africa was primarily motivated by the following considerations except",
+      "options": {
+        "A": "compassion",
+        "B": "economic",
+        "C": "social",
+        "D": "military"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "20",
+      "question": "Which policy made the colonised French West African partners with France in her colonial project?",
+      "options": {
+        "A": "Assimilation policy",
+        "B": "Association policy",
+        "C": "Indirect rule policy",
+        "D": "Loi Cadre"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "21",
+      "question": "The British colonial governor in West Africa wielded sweeping powers by virtues of",
+      "options": {
+        "A": "the land tenure system",
+        "B": "drafting laws",
+        "C": "tax collection",
+        "D": "veto power"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "22",
+      "question": "The action plan by African countries under the New Partnership for Africa's Development (NEPAD) aimed at tackling the following issues except",
+      "options": {
+        "A": "economic",
+        "B": "political",
+        "C": "religious",
+        "D": "social"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "23",
+      "question": "What motivated the adoption of the Indirect Rule system by the British in her West African colonies?",
+      "options": {
+        "A": "Effective and efficient tax system was in place",
+        "B": "Chiefs did not have the power to make laws",
+        "C": "Educated elites were in bed with the British government",
+        "D": "The land was fertile for cash crop farming"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "24",
+      "question": "The Economic Community for West African States (ECOWAS) was established primarily to",
+      "options": {
+        "A": "create a common currency for member countries",
+        "B": "prevent neo-colonialism",
+        "C": "sideline French West African countries in economic activities",
+        "D": "Promote economic growth and development among member states."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "25",
+      "question": "The media can best contribute to the democratic process of a country by",
+      "options": {
+        "A": "lobbying ministers to be in their good books",
+        "B": "setting the agenda for good government",
+        "C": "inciting strikes and demonstrations",
+        "D": "recounting the achievements of the government in power"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "26",
+      "question": "Public Corporations can deliver on their mandate if",
+      "options": {
+        "A": "incidence of corporation and mismanagement were dealt with",
+        "B": "loans were secured to pay staff well",
+        "C": "politicians were members of the board",
+        "D": "religious institutions pray for their success"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "27",
+      "question": "Citizenship of a state is based on the following requirements except",
+      "options": {
+        "A": "birth",
+        "B": "marriage",
+        "C": "education",
+        "D": "naturalization"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "28",
+      "question": "One-party system encourages and often ends up in",
+      "options": {
+        "A": "democracy",
+        "B": "dictatorship",
+        "C": "fair electoral contest",
+        "D": "freedom of expression"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "29",
+      "question": "Which of the following tools is not used by pressure groups to achieve with their aim?",
+      "options": {
+        "A": "Boycotts",
+        "B": "Demonstrations",
+        "C": "Elections",
+        "D": "Strikes"
+      },
+      "answer": "C",
+      "explanation": "Elections are the tool of political parties, while pressure groups use boycotts, strikes, and lobbying."
+    },
+    {
+      "id": "30",
+      "question": "Frequent military coup d'etats which topple elected governments negatively affect and stall",
+      "options": {
+        "A": "education",
+        "B": "culture and religion",
+        "C": "health",
+        "D": "democratic gains"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "31",
+      "question": "How beneficial is delegated legislation to the democratic process? It",
+      "options": {
+        "A": "aids lawmakers to become experts in legislation",
+        "B": "cannot be applied during period of crises",
+        "C": "helps to discipline personnel in the civil service",
+        "D": "permits handling of certain aspect of legislation by non-technocrats"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "32",
+      "question": "Local government performs a number of functions on behalf of the central government in the form of",
+      "options": {
+        "A": "employing police officers",
+        "B": "ensuring people attend religious institutions of prayers",
+        "C": "mobilizing of resources of development",
+        "D": "punishing opposition or dissent"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "33",
+      "question": "In an environment of press freedom, the media plays the role of",
+      "options": {
+        "A": "articulating views of individuals",
+        "B": "inciting people to be lawless",
+        "C": "projecting individuals above the state",
+        "D": "highlighting only the activities of government"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "34",
+      "question": "Chiefs under the Indirect Rule system were used to carry out unpopular tasks, one of which was",
+      "options": {
+        "A": "enforcement of Western education",
+        "B": "establishment of churches",
+        "C": "military conscription",
+        "D": "presiding over native courts"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "35",
+      "question": "In restoring peace and security to Liberia and Sierra Leone the Economic Community of West African States (ECOWAS) deployed a military force known as",
+      "options": {
+        "A": "Regional Armed Forces (RAF)",
+        "B": "Peace Keeping Force of West Africa (PKFWA)",
+        "C": "ECOWAS Ceasefire Monitoring Group (ECOMOG)",
+        "D": "ECOWAS heads of State and Government"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "36",
+      "question": "The desire for foreign investments and overseas markets had become the driving force behind many West African countries",
+      "options": {
+        "A": "educational policy",
+        "B": "foreign policy",
+        "C": "campaign tool",
+        "D": "dream ideology"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "37",
+      "question": "Citizenship does not only go with rights but also the performance of",
+      "options": {
+        "A": "compulsory military service",
+        "B": "compulsory teaching",
+        "C": "certain obligations and duties",
+        "D": "certain religious rites"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "38",
+      "question": "Taking over power, military governments disregard democratic protocols and rule mainly by",
+      "options": {
+        "A": "decrees",
+        "B": "popular acclamation",
+        "C": "jury",
+        "D": "court martial"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "39",
+      "question": "Which electoral system best suits a heterogeneous political environment?",
+      "options": {
+        "A": "Non-transferable votes",
+        "B": "Preferential ballot",
+        "C": "Proportional representation",
+        "D": "Run-off election"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "40",
+      "question": "Judicial review in a democratic environment is an aspect of",
+      "options": {
+        "A": "checks and balances",
+        "B": "a check on the legislature",
+        "C": "a check on the executive and the media",
+        "D": "ensuring the police assist the judiciary in its work"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "41",
+      "question": "One advantage of a multi-party system is that, the",
+      "options": {
+        "A": "electorate have wide range of choice",
+        "B": "educated elite represents their people in parliament",
+        "C": "executive is not restrained by law",
+        "D": "party in power creates employment for all sympathizers"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "42",
+      "question": "The following factors motivated the formation and growth of political parties in British West African territories except",
+      "options": {
+        "A": "external socio-political factors",
+        "B": "improvement in communication network",
+        "C": "membership of legislative council",
+        "D": "the role of newspapers"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "43",
+      "question": "Undue political interference in the work of electoral management bodies in West Africa has the potential to",
+      "options": {
+        "A": "ensure fairness and transparency in their operations",
+        "B": "employ qualified returning officers",
+        "C": "erode the independence of the institution",
+        "D": "make all parties accept election result."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "44",
+      "question": "A person who is denied the right to vote is described as",
+      "options": {
+        "A": "uncivilized",
+        "B": "disenfranchised",
+        "C": "civil servant",
+        "D": "non-partisan"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "45",
+      "question": "Public corporation is a semi-independent statutory body established by",
+      "options": {
+        "A": "an act of parliament",
+        "B": "a civil service commission",
+        "C": "a private sector initiative",
+        "D": "free zones board"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "46",
+      "question": "One of the objectives of the United Nations Organization (UNO) is to",
+      "options": {
+        "A": "establish a standing army",
+        "B": "give loans to poor countries in the world",
+        "C": "promote and encourage respect for human rights and freedoms",
+        "D": "ensure African leaders are respected"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "47",
+      "question": "The West African Youth League (WAYL) was a nationalist movement founded by",
+      "options": {
+        "A": "Bankole-Bright",
+        "B": "I.T.A Wallace-Johnson",
+        "C": "J.E. Casely Hayford",
+        "D": "Samuel Akisanya"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "48",
+      "question": "Commonwealth member states derive the following benefits from the association except",
+      "options": {
+        "A": "assistance to war-torn countries",
+        "B": "promotion of education",
+        "C": "political instability",
+        "D": "promotion of sports"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "49",
+      "question": "The Economic Community of West African States (ECOWAS) is saddled with many problems, one of which is",
+      "options": {
+        "A": "colonial heritage",
+        "B": "facilitation of movement of people",
+        "C": "inter-state trading",
+        "D": "sports and cultural exchange"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "50",
+      "question": "In which system of government are all the component units sovereign?",
+      "options": {
+        "A": "Confederal",
+        "B": "Federal",
+        "C": "monarchical",
+        "D": "Republican"
+      },
+      "answer": "A",
+      "explanation": "In a confederation, the component states or units retain their sovereignty and only delegate specific powers to a central authority."
+    }
+  ]
+}

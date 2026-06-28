@@ -1,0 +1,610 @@
+{
+  "cbt_quiz": [
+    {
+      "question_number": 1,
+      "question": "A prerequisite for orderliness is",
+      "options": [
+        {"A": "humility"},
+        {"B": "morality"},
+        {"C": "hardwork"},
+        {"D": "politeness"}
+      ],
+      "correct_answer": "B",
+      "explanation": "Orderliness in society is fundamentally achieved through citizens adhering to common ethical standards and discipline, which fall under the umbrella of **morality**."
+    },
+    {
+      "question_number": 2,
+      "question": "National symbols are also referred to a symbols of national",
+      "options": [
+        {"A": "co-operation"},
+        {"B": "identity"},
+        {"C": "unity"},
+        {"D": "development"}
+      ],
+      "correct_answer": "B",
+      "explanation": "National symbols (like the flag or anthem) are visual and auditory representations that serve to define and distinguish the nation, thus establishing its **national identity**."
+    },
+    {
+      "question_number": 3,
+      "question": "Law of libel and defamation of character violates right to freedom of",
+      "options": [
+        {"A": "fair hearing"},
+        {"B": "religion"},
+        {"C": "expression"},
+        {"D": "association"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Laws against libel and defamation are legal restrictions placed on the fundamental right to **freedom of expression** to protect the reputation of individuals."
+    },
+    {
+      "question_number": 4,
+      "question": "Who among the following is not a foremost Nigerian nationalist?",
+      "options": [
+        {"A": "Sir Abubakar Tafawa Balewa"},
+        {"B": "Dr. Nnamdi Azikwe"},
+        {"C": "General Yakubu Gowon"},
+        {"D": "Chief Obafemi Awolowo"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Balewa, Azikwe, and Awolowo were key figures in the independence movement (**foremost nationalists**). **General Yakubu Gowon** was a military leader who became Head of State after independence."
+    },
+    {
+      "question_number": 5,
+      "question": "The major reason for the enactment of traffic regulations is to",
+      "options": [
+        {"A": "make sure people travel for business purpose."},
+        {"B": "arrest traffic offenders and violators."},
+        {"C": "ensure safety and allow easy flow of traffic"},
+        {"D": "ensure the sustenance and longevity of the roads."}
+      ],
+      "correct_answer": "C",
+      "explanation": "Traffic regulations are primarily enacted to protect road users from accidents (**safety**) and to manage the orderly movement of vehicles (**easy flow of traffic**)."
+    },
+    {
+      "question_number": 6,
+      "question": "The basic responsibility of parents is",
+      "options": [
+        {"A": "providing necessities of life for the children."},
+        {"B": "buying expensive gifts for the children."},
+        {"C": "sending the children abroad for quality education."},
+        {"D": "visiting site of attraction with the children."}
+      ],
+      "correct_answer": "A",
+      "explanation": "The most fundamental responsibility of parents is to ensure the welfare of their children by **providing necessities of life** (food, shelter, clothing, basic education, etc.)."
+    },
+    {
+      "question_number": 7,
+      "question": "The attitude that prevents peaceful resolution of inter-communal conflict is",
+      "options": [
+        {"A": "conciliation"},
+        {"B": "resentment"},
+        {"C": "dialogue"},
+        {"D": "mediation"}
+      ],
+      "correct_answer": "B",
+      "explanation": "A feeling of **resentment** (bitterness or ill will) is a hostile emotion that makes cooperation, compromise, and peaceful resolution efforts difficult or impossible."
+    },
+    {
+      "question_number": 8,
+      "question": "The zeal shown by the youths of Upe village is a manifestation of",
+      "options": [
+        {"A": "community service"},
+        {"B": "political participation"},
+        {"C": "national development"},
+        {"D": "town planning"}
+      ],
+      "correct_answer": "A",
+      "explanation": "The practice of working voluntarily to build infrastructure for the benefit of the village (the community) is a clear manifestation of **community service** or self-help."
+    },
+    {
+      "question_number": 9,
+      "question": "The youth who took part in the various building projects in Upe village are said to be",
+      "options": [
+        {"A": "reliable"},
+        {"B": "self-reliant"},
+        {"C": "hardworking"},
+        {"D": "selfless"}
+      ],
+      "correct_answer": "D",
+      "explanation": "Working for the collective good of the community without focusing on personal gain is an act of **selfless** service."
+    },
+    {
+      "question_number": 10,
+      "question": "Which of the following sets of agencies are responsible for checking road worthiness of vehicles?",
+      "options": [
+        {"A": "The Federal Road Safety Corps and Vehicle Inspection Office"},
+        {"B": "The Police and National Security and Civil Defence Corps"},
+        {"C": "Federal Road Safety Corps and the Nigerian Army"},
+        {"D": "The Nigerian Army and Vehicle Inspection Office"}
+      ],
+      "correct_answer": "A",
+      "explanation": "In Nigeria, the **Vehicle Inspection Office (VIO)** is primarily responsible for inspecting vehicle roadworthiness, often in collaboration with the **Federal Road Safety Corps (FRSC)**."
+    },
+    {
+      "question_number": 11,
+      "question": "Which of the following may not be vested with a constitution authority?",
+      "options": [
+        {"A": "family"},
+        {"B": "mob"},
+        {"C": "school"},
+        {"D": "the state"}
+      ],
+      "correct_answer": "B",
+      "explanation": "A **mob** is an unstructured, often violent crowd, and therefore, cannot be legally or **constitutionally vested** with authority, unlike established institutions like the state, family, or school."
+    },
+    {
+      "question_number": 12,
+      "question": "An individual who finds it difficult to do without in-take of prohibited substances is",
+      "options": [
+        {"A": "a human trafficker"},
+        {"B": "an armed robber"},
+        {"C": "a drug addict"},
+        {"D": "a kidnapper"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The compulsive, difficult-to-control use of an addictive, prohibited substance is the definition of **drug addiction**."
+    },
+    {
+      "question_number": 13,
+      "question": "Which of the following is not a method of recruiting victims for human trafficking?",
+      "options": [
+        {"A": "deceit"},
+        {"B": "threat"},
+        {"C": "application"},
+        {"D": "abduction"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Human trafficking relies on coercive means like **deceit**, **threats**, or **abduction**. Victims do not recruit themselves via formal **application**."
+    },
+    {
+      "question_number": 14,
+      "question": "The law protecting certain individuals from being prosecuted is called",
+      "options": [
+        {"A": "penal code."},
+        {"B": "constitutional protection."},
+        {"C": "immunity clause."},
+        {"D": "legal rights."}
+      ],
+      "correct_answer": "C",
+      "explanation": "An **immunity clause** (often constitutional) grants high-ranking officials temporary exemption from civil or criminal prosecution while they are in office."
+    },
+    {
+      "question_number": 15,
+      "question": "We can conclude that the mother of the boy putting on a face cap in the cartoon in the image is a",
+      "image_name": "civic2022/image1.jpg",
+      "options": [
+        {"A": "religious mother"},
+        {"B": "responsible parent"},
+        {"C": "wealthy person"},
+        {"D": "child activist"}
+      ],
+      "correct_answer": "B",
+      "explanation": "Based on the typical contrasting narrative in such educational cartoons, the boy who is not exhibiting a negative orientation (likely the one in the face cap) is assumed to be the product of a **responsible parent**."
+    },
+    {
+      "question_number": 16,
+      "question": "The effect of the interaction as captured in the cartoon, in the Fig. in relation to Civic Education is",
+      "image_name": "civic2022/image1.jpg",
+      "options": [
+        {"A": "mass mobilization"},
+        {"B": "pressure group"},
+        {"C": "peer pressure"},
+        {"D": "popular participation"}
+      ],
+      "correct_answer": "C",
+      "explanation": "An interaction between youths, likely involving influence or temptation toward a certain behavior, is a common demonstration of **peer pressure**."
+    },
+    {
+      "question_number": 17,
+      "question": "We can make inference from the response of the boy wearing short pants in the cartoon, in the image that he",
+      "image_name": "civic2022/image1.jpg",
+      "options": [
+        {"A": "needs the knowledge of Civic Education."},
+        {"B": "became industrious through empowerment."},
+        {"C": "gets financial support from his family."},
+        {"D": "lacks moral care of a responsible parent."}
+      ],
+      "correct_answer": "D",
+      "explanation": "If the boy exhibits anti-social behavior or a distorted moral view, the most common inference in this context is that he **lacks the moral care and proper upbringing of a responsible parent**."
+    },
+    {
+      "question_number": 18,
+      "question": "Which of the following is **not** an advisable way through which the orientation of the boy wearing short pants in the cartoon, in the image can be corrected?",
+      "image_name": "civic2022/image1.jpg",
+      "options": [
+        {"A": "Subjecting him to harsh punitive measures."},
+        {"B": "Impacting an effective Civic Education in him."},
+        {"C": "He needs morally upright and responsible parenting."},
+        {"D": "An effective guidance and counselling section."}
+      ],
+      "correct_answer": "A",
+      "explanation": "Positive methods like Civic Education, good parenting, and counseling are advisable. **Subjecting him to harsh punitive measures** is generally considered counterproductive and **not an advisable** correctional method."
+    },
+    {
+      "question_number": 19,
+      "question": "Limitation to the right of life can be found in the case of",
+      "options": [
+        {"A": "an imprisoned person"},
+        {"B": "a kidnapped person"},
+        {"C": "a condemned person"},
+        {"D": "a trafficked person"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The right to life is typically limited by law in the case of a person lawfully sentenced to death (**a condemned person**) after due legal process."
+    },
+    {
+      "question_number": 20,
+      "question": "In which of the following do citizens have equal rights? Right to",
+      "options": [
+        {"A": "freedom of movement"},
+        {"B": "freedom from discrimination"},
+        {"C": "free education"},
+        {"D": "form or join any political party"}
+      ],
+      "correct_answer": "B",
+      "explanation": "The principle of **freedom from discrimination** is the bedrock of democracy, ensuring that all citizens are treated equally under the law and have equal rights."
+    },
+    {
+      "question_number": 21,
+      "question": "Interest and willingness to participate in the affairs of a nation are forms of",
+      "options": [
+        {"A": "Popular Participation"},
+        {"B": "National Consciousness"},
+        {"C": "Political Apathy"},
+        {"D": "Citizenship Education"}
+      ],
+      "correct_answer": "A",
+      "explanation": "**Popular Participation** describes the voluntary involvement, **interest**, and willingness of citizens in the political, economic, and social processes of their nation."
+    },
+    {
+      "question_number": 22,
+      "question": "The societal norms that represent the overall attitude of the people in a society is called",
+      "options": [
+        {"A": "group values."},
+        {"B": "general values."},
+        {"C": "religious values."},
+        {"D": "personal values."}
+      ],
+      "correct_answer": "B",
+      "explanation": "**General values** are the widely shared and accepted moral standards and expectations (norms) that reflect the collective attitude of the people in a society."
+    },
+    {
+      "question_number": 23,
+      "question": "My stiffest earthly assignment is ended and major life's work is done. My country is now free... - Dr. Nnamdi Azikiwe. The speaker quoted above must have fought hard for national",
+      "options": [
+        {"A": "prosperity"},
+        {"B": "recognition"},
+        {"C": "development"},
+        {"D": "independence"}
+      ],
+      "correct_answer": "D",
+      "explanation": "The quote explicitly states 'My country is now free,' referring directly to the achievement of **national independence** from colonial rule."
+    },
+    {
+      "question_number": 24,
+      "question": "Irresponsible parenting has the tendency of",
+      "options": [
+        {"A": "encouraging egoistic tendencies"},
+        {"B": "preserving of culture"},
+        {"C": "promoting of positive values"},
+        {"D": "promoting peaceful co-existence"}
+      ],
+      "correct_answer": "A",
+      "explanation": "**Irresponsible parenting** often fails to instill communal values, leading to children focusing excessively on self-interest, thereby **encouraging egoistic tendencies**."
+    },
+    {
+      "question_number": 25,
+      "question": "Which of the following is a cause of political apathy in Nigeria?",
+      "options": [
+        {"A": "Adequate citizenship education"},
+        {"B": "A free and fair election"},
+        {"C": "Biased electoral umpires"},
+        {"D": "Adequate political awareness"}
+      ],
+      "correct_answer": "C",
+      "explanation": "A loss of trust in the political process due to perceived unfairness, often linked to **biased electoral umpires** (referees), is a major cause of citizens withdrawing from politics (**political apathy**)."
+    },
+    {
+      "question_number": 26,
+      "question": "Representation of Nigerians in the senate is",
+      "options": [
+        {"A": "Proportional"},
+        {"B": "collegial"},
+        {"C": "equal"},
+        {"D": "unequal"}
+      ],
+      "correct_answer": "C",
+      "explanation": "In Nigeria, the Senate provides **equal** representation for all states, as each state is allocated the same number of seats (three Senators)."
+    },
+    {
+      "question_number": 27,
+      "question": "Identify the odd one from the list below in relation to citizenship obligations",
+      "options": [
+        {"A": "Payment of tax"},
+        {"B": "Right to personal liberty"},
+        {"C": "Protection of public utilities"},
+        {"D": "Obedience to the Law"}
+      ],
+      "correct_answer": "B",
+      "explanation": "Payment of tax, Protection of public utilities, and Obedience to the Law are all citizen **obligations** (duties). The **Right to personal liberty** is a fundamental **right**, making it the odd one out."
+    },
+    {
+      "question_number": 28,
+      "question": "According to the 1999 constitution as amended, sovereignty belongs to the",
+      "options": [
+        {"A": "president who is also the Commander-in-Chief of the Armed Forces."},
+        {"B": "people from whom government derives its power and authority."},
+        {"C": "National Assembly which has power to make laws and amend the constitution."},
+        {"D": "judiciary which interprets the laws of the state"}
+      ],
+      "correct_answer": "B",
+      "explanation": "The Nigerian Constitution affirms the principle of popular sovereignty, stating that all power belongs to the **people, who delegate it to the government**."
+    },
+    {
+      "question_number": 29,
+      "question": "Article 1 of the Universal Declaration of Human Rights (UDHR) states that all human beings",
+      "options": [
+        {"A": "have freedom of movement"},
+        {"B": "are born free and equal"},
+        {"C": "should be free from torture"},
+        {"D": "have the right to recognition"}
+      ],
+      "correct_answer": "B",
+      "explanation": "Article 1 of the UDHR states: 'All human beings **are born free and equal** in dignity and rights.'"
+    },
+    {
+      "question_number": 30,
+      "question": "''If you cannot beat them, join them''. The statement is an indication of a society that is",
+      "options": [
+        {"A": "ethically upright"},
+        {"B": "morally degenerated"},
+        {"C": "politically disintegrated"},
+        {"D": "socially regenerated"}
+      ],
+      "correct_answer": "B",
+      "explanation": "The phrase implies a passive acceptance of corruption or wrongdoing, which indicates a decline in ethical standards and a **morally degenerated** society."
+    },
+    {
+      "question_number": 31,
+      "question": "Through which of the following means can the effect of the above quotation on the society be rectified?",
+      "options": [
+        {"A": "Compulsory communal service"},
+        {"B": "Strengthening of the constitution"},
+        {"C": "Reorientation of values"},
+        {"D": "Distribution of relief materials during emergency"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Since the problem is moral decline (degenerated values), the solution is a fundamental education and **reorientation of values** to promote uprightness."
+    },
+    {
+      "question_number": 32,
+      "question": "Interpersonal relationship is promoted through the following ways **except**",
+      "options": [
+        {"A": "confrontation"},
+        {"B": "healthy competition"},
+        {"C": "co-operation"},
+        {"D": "communal living"}
+      ],
+      "correct_answer": "A",
+      "explanation": "Positive relationships are promoted by co-operation and communal living. **Confrontation** is an act of conflict that usually harms interpersonal relationships."
+    },
+    {
+      "question_number": 33,
+      "question": "An activity meant to promote and protect the interest of a country is",
+      "options": [
+        {"A": "unitarianism"},
+        {"B": "communism"},
+        {"C": "communalism"},
+        {"D": "nationalism"}
+      ],
+      "correct_answer": "D",
+      "explanation": "**Nationalism** is the ideology and movement that seeks to promote, protect, and defend the interests and sovereignty of a particular nation."
+    },
+    {
+      "question_number": 34,
+      "question": "Democracy is important because it",
+      "options": [
+        {"A": "accommodates popular participation."},
+        {"B": "accommodates political apathy."},
+        {"C": "encourages operational bureaucracy."},
+        {"D": "breeds ethnic competition and rivalry."}
+      ],
+      "correct_answer": "A",
+      "explanation": "The core importance of democracy is its foundation on the involvement of citizens and its ability to **accommodate popular participation** in government."
+    },
+    {
+      "question_number": 35,
+      "question": "Which of the following criminal act is most commonly perpetrated by cult members?",
+      "options": [
+        {"A": "Prostitution"},
+        {"B": "Money Laundering"},
+        {"C": "Corruption"},
+        {"D": "Violence"}
+      ],
+      "correct_answer": "D",
+      "explanation": "Secret cult activities are primarily known for the frequent use of extreme **violence**, including assaults, intimidation, and armed conflicts."
+    },
+    {
+      "question_number": 36,
+      "question": "From the above dialogue, noticeable symptoms Tim must have observed about Jim include the following **except**",
+      "options": [
+        {"A": "profuse night sweats."},
+        {"B": "persistent diarrhoea."},
+        {"C": "increase in appetite"},
+        {"D": "usual fatigue"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Common symptoms of advanced HIV/AIDS include persistent diarrhoea, profuse night sweats, and fatigue. An **increase in appetite** is **not** a typical symptom and is often contradicted by significant weight loss."
+    },
+    {
+      "question_number": 37,
+      "question": "Individual like Jim in the story above who believe HIV carriers are selective, can get enlightenment through",
+      "options": [
+        {"A": "effective fasting and prayer."},
+        {"B": "youth empowerment programme."},
+        {"C": "sex and civic education."},
+        {"D": "popular participation."}
+      ],
+      "correct_answer": "C",
+      "explanation": "Jim's misconceptions about the disease indicate a lack of factual knowledge, which can be corrected through comprehensive **sex and civic education** programs."
+    },
+    {
+      "question_number": 38,
+      "question": "Which of the following is **not** a function of the judicial arm of government?",
+      "options": [
+        {"A": "Interpretation of the law"},
+        {"B": "Judicial review"},
+        {"C": "Checking of arbitrariness"},
+        {"D": "Initiation of bills"}
+      ],
+      "correct_answer": "D",
+      "explanation": "**Initiation of bills** (making laws) is the function of the Executive and Legislative arms; the Judiciary's role is to interpret and apply the laws."
+    },
+    {
+      "question_number": 39,
+      "question": "The officials of the administrative agency of the state that are most active in governance belongs to the",
+      "options": [
+        {"A": "Legislative organ"},
+        {"B": "Judicial organ"},
+        {"C": "Executive organ"},
+        {"D": "Civil societies"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The **Executive organ** (President/Ministers and the Civil Service) is responsible for the continuous, day-to-day execution of policies, making it the most **active in governance**."
+    },
+    {
+      "question_number": 40,
+      "question": "One major reason some Nigerian youths join cult groups is",
+      "options": [
+        {"A": "inadequate religious and moral instruction"},
+        {"B": "poor welfare programme for students."},
+        {"C": "inadequate support from guardians and parents."},
+        {"D": "prevalence of corruption among political elites"}
+      ],
+      "correct_answer": "A",
+      "explanation": "The failure to instill core societal values is a primary cause of moral decay, making youths vulnerable to anti-social behaviors like cultism, summarized as **inadequate religious and moral instruction**."
+    },
+    {
+      "question_number": 41,
+      "question": "All the following are aims of youth empowerment scheme **except**",
+      "options": [
+        {"A": "Reduction of youth delinquency"},
+        {"B": "Promotion of self-reliance"},
+        {"C": "Maximization of profit"},
+        {"D": "Building of self-esteem"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Youth empowerment schemes are social programs focused on personal development and welfare. **Maximization of profit** is a business goal and not the primary aim of these social schemes."
+    },
+    {
+      "question_number": 42,
+      "question": "A situation where only 35% of 80 million registered voters participated in a general election, is an indication of political",
+      "options": [
+        {"A": "instability"},
+        {"B": "exclusiveness"},
+        {"C": "apathy"},
+        {"D": "socialization"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Low voter turnout (only 35% participation) is a direct measure of **political apathy**, which is a lack of interest in the political process."
+    },
+    {
+      "question_number": 43,
+      "question": "The organizations working against dictatorship and mounting of campaigns for effective civil rule are called",
+      "options": [
+        {"A": "professional bodies."},
+        {"B": "religious institutions"},
+        {"C": "civil societies"},
+        {"D": "political parties"}
+      ],
+      "correct_answer": "C",
+      "explanation": "**Civil societies** (or CSOs) are non-governmental, non-profit groups that advocate for democracy, human rights, and good governance, often opposing dictatorship."
+    },
+    {
+      "question_number": 44,
+      "question": "In the democratic government structure, the portion marked x in the diagram is occupied by",
+      "image_name": "civic2022/image3.png",
+      "options": [
+        {"A": "press"},
+        {"B": "judiciary"},
+        {"C": "civil societies"},
+        {"D": "political parties"}
+      ],
+      "correct_answer": "B",
+      "explanation": "Assuming the diagram illustrates the three arms of government in a democracy, the portion marked X represents the **Judiciary**, the arm responsible for administering justice."
+    },
+    {
+      "question_number": 45,
+      "question": "The major function of the activity of the occupiers of the marked x in the diagram is to",
+      "image_name": "civic2022/image3.png",
+      "options": [
+        {"A": "interpret laws."},
+        {"B": "execute policies."},
+        {"C": "make bye laws"},
+        {"D": "formulate policies"}
+      ],
+      "correct_answer": "A",
+      "explanation": "If 'X' represents the Judiciary (as per Q44), its principal function is the administration of justice and the **interpretation of laws**."
+    },
+    {
+      "question_number": 46,
+      "question": "Which of the following is **not** a problem of civil society?",
+      "options": [
+        {"A": "Leadership struggle"},
+        {"B": "Poor funding"},
+        {"C": "Planning to capture political power"},
+        {"D": "Embezzlement of funds"}
+      ],
+      "correct_answer": "C",
+      "explanation": "The core function of civil society is advocacy and influence, not to contest elections or engage in **planning to capture political power**."
+    },
+    {
+      "question_number": 47,
+      "question": "One of the major complaint against the public service is",
+      "options": [
+        {"A": "Inefficiency"},
+        {"B": "Victimization"},
+        {"C": "Discrimination"},
+        {"D": "Election rigging"}
+      ],
+      "correct_answer": "A",
+      "explanation": "The most frequent and generalized complaint against the public (civil) service in many developing countries is chronic slowness, wastefulness, and **Inefficiency**."
+    },
+    {
+      "question_number": 48,
+      "question": "From which of the following sources are constitutional provisions **not** derived?",
+      "options": [
+        {"A": "Statutory sources"},
+        {"B": "Customary sources"},
+        {"C": "Judicial Precedence"},
+        {"D": "Story book"}
+      ],
+      "correct_answer": "D",
+      "explanation": "Constitutional law is derived from statutes, customary practices, and court decisions (**Judicial Precedence**). A **Story book** is not a formal legal or customary source."
+    },
+    {
+      "question_number": 49,
+      "question": "The head of the judicial arm of government in Nigeria is the",
+      "options": [
+        {"A": "Chief justice"},
+        {"B": "Supreme leader"},
+        {"C": "Chief of staff"},
+        {"D": "Chief Magistrate"}
+      ],
+      "correct_answer": "A",
+      "explanation": "The head of the Nigerian Judiciary is the **Chief Justice** (specifically, the Chief Justice of Nigeria)."
+    },
+    {
+      "question_number": 50,
+      "question": "The composition of National Assembly of the Federal Republic of Nigeria could be termed",
+      "options": [
+        {"A": "unicameral"},
+        {"B": "collegial"},
+        {"C": "bicameral"},
+        {"D": "hierarchical"}
+      ],
+      "correct_answer": "C",
+      "explanation": "Nigeria's National Assembly consists of two houses (the Senate and the House of Representatives), and a legislature with two chambers is described as **bicameral**."
+    }
+  ]
+}

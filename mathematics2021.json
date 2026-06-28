@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Correct 0.007985 to three significant figures.",
+    "options": {
+      "A": "0.0109",
+      "B": "0.0800",
+      "C": "0.00799",
+      "D": "0.008"
+    },
+    "answer": "C",
+    "explanation": "Start counting from the first non-zero digit (7). The first three figures are 7, 9, and 8. The next digit is 5, so round up the 8 to 9. Result: 0.00799."
+  },
+  {
+    "id": 2,
+    "question": "Simplify: (11 base two) squared",
+    "options": {
+      "A": "1001 base 2",
+      "B": "1101 base 2",
+      "C": "101 base 2",
+      "D": "10001 base 2"
+    },
+    "answer": "A",
+    "explanation": "11 in base two is 3 in decimal. 3 squared is 9. 9 in base two is 1001."
+  },
+  {
+    "id": 3,
+    "question": "Solve: 2 raised to the power of (square root of 2x + 1) = 32",
+    "options": {
+      "A": "13",
+      "B": "24",
+      "C": "12",
+      "D": "11"
+    },
+    "answer": "C",
+    "explanation": "32 is 2^5. So, square root of (2x + 1) = 5. Square both sides: 2x + 1 = 25. Then 2x = 24, x = 12."
+  },
+  {
+    "id": 4,
+    "question": "If log10 2 = m and log10 3 = n, find log10 24 in terms of m and n.",
+    "options": {
+      "A": "3m + n",
+      "B": "m + 3n",
+      "C": "4mn",
+      "D": "3mn"
+    },
+    "answer": "A",
+    "explanation": "log 24 = log(2^3 * 3) = 3 log 2 + log 3 = 3m + n."
+  },
+  {
+    "id": 5,
+    "question": "Find the 5th term of the sequence 2, 5, 10, 17....?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "36",
+      "D": "26"
+    },
+    "answer": "D",
+    "explanation": "The sequence follows the rule n^2 + 1. For the 5th term: 5^2 + 1 = 25 + 1 = 26."
+  },
+  {
+    "id": 6,
+    "question": "If P = {numbers where -3 < x < 1} and Q = {numbers where -1 < x < 3}, find the intersection P and Q.",
+    "options": {
+      "A": "0",
+      "B": "-3, -2, -1, 0 and 1",
+      "C": "-2, -1 and 0",
+      "D": "-1, 0 and 1"
+    },
+    "answer": "C",
+    "explanation": "The values common to both ranges are -2, -1, and 0."
+  },
+  {
+    "id": 7,
+    "question": "Factorize 6pq - 3rs - 3ps + 6qr",
+    "options": {
+      "A": "3(r - p)(2q + s)",
+      "B": "3(p + r)(2q - 2q - s)",
+      "C": "3(2q - s)(p + r)",
+      "D": "3(r - p)(s - 2q)"
+    },
+    "answer": "C",
+    "explanation": "Group terms: 3[2pq + 2qr - rs - ps] = 3[2q(p + r) - s(r + p)] = 3(2q - s)(p + r)."
+  },
+  {
+    "id": 8,
+    "question": "What number should be subtracted from the sum of 2 1/6 and 2 7/12 to give 3 1/4?",
+    "options": {
+      "A": "1 3/4",
+      "B": "1 1/2",
+      "C": "1 1/6",
+      "D": "1 2/3"
+    },
+    "answer": "B",
+    "explanation": "Sum: 2 2/12 + 2 7/12 = 4 9/12 = 4 3/4. Subtracted: 4 3/4 - 3 1/4 = 1 2/4 = 1 1/2."
+  },
+  {
+    "id": 9,
+    "question": "Mensah is 5 years old and Joyce is thrice as old as Mensah. In how many years will Joyce be twice as old as Mensah?",
+    "options": {
+      "A": "3 years",
+      "B": "10 years",
+      "C": "5 years",
+      "D": "15 years"
+    },
+    "answer": "C",
+    "explanation": "Joyce is 15. In x years: 15 + x = 2(5 + x). 15 + x = 10 + 2x. x = 5."
+  },
+  {
+    "id": 10,
+    "question": "If 16 * 2^(x+1) = 4^x * 8^(1-x), find the value of x.",
+    "options": {
+      "A": "-4",
+      "B": "4",
+      "C": "1",
+      "D": "-1"
+    },
+    "answer": "D",
+    "explanation": "2^4 * 2^(x+1) = 2^(2x) * 2^(3-3x). 4+x+1 = 2x+3-3x. x+5 = 3-x. 2x = -2. x = -1."
+  },
+  {
+    "id": 11,
+    "question": "The circumference of a circular track is 9km. A cyclist covers 302km. How far is the cyclist from the starting point?",
+    "options": {
+      "A": "5km",
+      "B": "6km",
+      "C": "7km",
+      "D": "3km"
+    },
+    "answer": "A",
+    "explanation": "302 divided by 9 gives 33 full laps and 5km remainder. The distance from the start is 5km."
+  },
+  {
+    "id": 12,
+    "question": "Simplify: 2/root(7) - 14/root(7) + 7 * root(21)",
+    "options": {
+      "A": "root(21)/21",
+      "B": "7 * root(21)/21",
+      "C": "root(21)/3",
+      "D": "3 * root(21)"
+    },
+    "answer": "C",
+    "explanation": "Rationalize and simplify the surds to get root(21)/3."
+  },
+  {
+    "id": 13,
+    "question": "If 4x + 2y = 16 and 6x - 2y = 4, find the value of (y - x).",
+    "options": {
+      "A": "8",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "B",
+    "explanation": "Adding equations gives 10x = 20, so x=2. Then 4(2)+2y=16, so y=4. 4 - 2 = 2."
+  },
+  {
+    "id": 14,
+    "question": "In a diagram where ABC and BCD are right angles, angle BAD = t and EDF = 70 degrees. Find t.",
+    "options": {
+      "A": "70",
+      "B": "165",
+      "C": "140",
+      "D": "110"
+    },
+    "answer": "D",
+    "explanation": "Based on parallel line properties, t = 180 - 70 = 110."
+  },
+  {
+    "id": 15,
+    "question": "The sum of interior angles of a regular polygon with k sides is (3k-10) right angles. Find the exterior angle.",
+    "options": {
+      "A": "60",
+      "B": "40",
+      "C": "90",
+      "D": "120"
+    },
+    "answer": "B",
+    "explanation": "(k-2) * 180 = (3k-10) * 90. Solve for k = 9. Exterior angle = 360/9 = 40."
+  },
+  {
+    "id": 16,
+    "question": "Make u the subject in: x = (2u - 3) / (3u + 2)",
+    "options": {
+      "A": "u = (2x + 3) / (3x - 2)",
+      "B": "u = (2x - 3) / (3x - 2)",
+      "C": "u = (2x + 3) / (2 - 3x)",
+      "D": "u = (2x + 3) / (3x + 2)"
+    },
+    "answer": "C",
+    "explanation": "x(3u + 2) = 2u - 3. 3ux + 2x = 2u - 3. 2x + 3 = u(2 - 3x). u = (2x + 3)/(2 - 3x)."
+  },
+  {
+    "id": 17,
+    "question": "A trader paid import duty of 38 kobo per naira. If a total of 22,800.00 Naira was paid, find the engine cost.",
+    "options": {
+      "A": "60,000.00",
+      "B": "120,000.00",
+      "C": "24,000.00",
+      "D": "18,000.00"
+    },
+    "answer": "A",
+    "explanation": "0.38 * Cost = 22,800. Cost = 22,800 / 0.38 = 60,000."
+  },
+  {
+    "id": 18,
+    "question": "The height of an equilateral triangle is 10 * root(3) cm. Calculate its perimeter.",
+    "options": {
+      "A": "20cm",
+      "B": "60cm",
+      "C": "40cm",
+      "D": "30cm"
+    },
+    "answer": "B",
+    "explanation": "Height = (side * root(3))/2. 10 * root(3) = (s * root(3))/2. s = 20. Perimeter = 3 * 20 = 60."
+  },
+  {
+    "id": 19,
+    "question": "In triangle LMN, LM = 6cm, angle LNM = x and sin x = 3/5. Find the area of the triangle.",
+    "options": {
+      "A": "60cm2",
+      "B": "48cm2",
+      "C": "24cm2",
+      "D": "30cm2"
+    },
+    "answer": "C",
+    "explanation": "Using trigonometric ratios to find the base and height, the area results in 24."
+  },
+  {
+    "id": 20,
+    "question": "P = Literature students offer History; Q = History students do not offer Geography. Which Venn diagram is correct?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer": "A",
+    "explanation": "Diagram A shows Literature inside History, and Geography separate from History."
+  },
+  {
+    "id": 21,
+    "question": "Find the quadratic equation whose roots are -2q and 5q.",
+    "options": {
+      "A": "3x^2 + 3qx - 10q^2",
+      "B": "x^2 + 3qx + 10q^2",
+      "C": "x^2 - 3qx + 10q^2",
+      "D": "x^2 - 3qx - 10q^2"
+    },
+    "answer": "D",
+    "explanation": "(x + 2q)(x - 5q) = x^2 - 5qx + 2qx - 10q^2 = x^2 - 3qx - 10q^2."
+  },
+  {
+    "id": 22,
+    "question": "If tan(theta) = 3/4 and theta is between 180 and 270 degrees, find cos(theta).",
+    "options": {
+      "A": "4/5",
+      "B": "3/5",
+      "C": "-4/5",
+      "D": "-3/5"
+    },
+    "answer": "C",
+    "explanation": "In the third quadrant, cosine is negative. For a 3-4-5 triangle, cos = 4/5, so -4/5."
+  },
+  {
+    "id": 23,
+    "question": "If 2/(x-3) - 3/(x-2) = p / ((x-3)(x-2)), find p.",
+    "options": {
+      "A": "5 - x",
+      "B": "-(x + 5)",
+      "C": "13 - x",
+      "D": "-(5x - 13)"
+    },
+    "answer": "A",
+    "explanation": "[2(x-2) - 3(x-3)] = 2x - 4 - 3x + 9 = 5 - x."
+  },
+  {
+    "id": 24,
+    "question": "The diagonals of a rhombus are 12cm and 5cm. Calculate its perimeter.",
+    "options": {
+      "A": "26cm",
+      "B": "24cm",
+      "C": "17cm",
+      "D": "34cm"
+    },
+    "answer": "A",
+    "explanation": "Side = root(6^2 + 2.5^2) = 6.5. Perimeter = 4 * 6.5 = 26."
+  },
+  {
+    "id": 25,
+    "question": "In triangle XYZ, XY = ZY and exterior angle XYT = 40 degrees, find angle XZT.",
+    "options": {
+      "A": "110",
+      "B": "130",
+      "C": "140",
+      "D": "180"
+    },
+    "answer": "B",
+    "explanation": "Base angles of the isosceles triangle lead to 130 degrees for the target angle."
+  },
+  {
+    "id": 26,
+    "question": "A solid cube height h is recast as a cone of height h and base radius r. Find r in terms of h.",
+    "options": {
+      "A": "r = h",
+      "B": "r = root(3h^2/pi)",
+      "C": "r = pi * h",
+      "D": "r = h * root(3/pi)"
+    },
+    "answer": "D",
+    "explanation": "h^3 = (1/3) * pi * r^2 * h. Solve for r = h * root(3/pi)."
+  },
+  {
+    "id": 27,
+    "question": "Which of these is not an exterior angle of a regular polygon?",
+    "options": {
+      "A": "66",
+      "B": "72",
+      "C": "24",
+      "D": "15"
+    },
+    "answer": "A",
+    "explanation": "Exterior angles must divide 360 evenly. 360 / 66 is not a whole number."
+  },
+  {
+    "id": 28,
+    "question": "From point T, a man moves 12km West then 12km South to point Q. Find the bearing of T from Q.",
+    "options": {
+      "A": "225",
+      "B": "315",
+      "C": "045",
+      "D": "135"
+    },
+    "answer": "C",
+    "explanation": "The path forms a 45-degree angle North-East. The bearing is 045."
+  },
+  {
+    "id": 29,
+    "question": "In a circle with centre O, angle PQR = 72 degrees and OR is parallel to PS. Find angle OPS.",
+    "options": {
+      "A": "18",
+      "B": "108",
+      "C": "54",
+      "D": "36"
+    },
+    "answer": "D",
+    "explanation": "Using circle theorems and parallel lines, the angle is 36."
+  },
+  {
+    "id": 30,
+    "question": "A trapezium (sides 10, 21, height 8) is inside a circle radius 7. Find area not covered.",
+    "options": {
+      "A": "84cm2",
+      "B": "80cm2",
+      "C": "30cm2",
+      "D": "94cm2"
+    },
+    "answer": "C",
+    "explanation": "Area of Circle - Area of Trapezium = 154 - 124 = 30."
+  },
+  {
+    "id": 31,
+    "question": "Find the mean of 1 1/2, 2 2/3, 3 3/4, 4 4/5, and 5 5/6 (to 2 decimal places).",
+    "options": {
+      "A": "3.71",
+      "B": "3.70",
+      "C": "3.69",
+      "D": "3.72"
+    },
+    "answer": "A",
+    "explanation": "Convert to decimals and average them to get 3.71."
+  },
+  {
+    "id": 32,
+    "question": "Cyclist speed X for 2h, then (X+2) for 3h. Total distance 36km. Find initial speed.",
+    "options": {
+      "A": "12km/h",
+      "B": "3km/h",
+      "C": "4km/h",
+      "D": "6km/h"
+    },
+    "answer": "D",
+    "explanation": "2X + 3(X + 2) = 36. 5X + 6 = 36. 5X = 30. X = 6."
+  },
+  {
+    "id": 33,
+    "question": "Based on the geometric diagram provided in WAEC 2021, find (x + y).",
+    "options": {
+      "A": "215",
+      "B": "70",
+      "C": "135",
+      "D": "145"
+    },
+    "answer": "D",
+    "explanation": "Sum of related angles in the diagram equals 145."
+  },
+  {
+    "id": 34,
+    "question": "MP is a tangent, angle PNQ = 64 and RQ = RN. Find angle t.",
+    "options": {
+      "A": "130",
+      "B": "115",
+      "C": "58",
+      "D": "68"
+    },
+    "answer": "C",
+    "explanation": "Using Alternate Segment Theorem and isosceles triangle rules, t = 58."
+  },
+  {
+    "id": 35,
+    "question": "Find the first quartile of 7, 8, 7, 9, 11, 8, 7, 9, 6 and 8.",
+    "options": {
+      "A": "8.5",
+      "B": "7.0",
+      "C": "7.5",
+      "D": "8.0"
+    },
+    "answer": "B",
+    "explanation": "Arranged: 6, 7, 7, 7, 8, 8, 8, 9, 9, 11. The first quartile (Q1) is 7."
+  },
+  {
+    "id": 36,
+    "question": "In the circle diagram PQRS, find the value of x.",
+    "options": {
+      "A": "50",
+      "B": "30",
+      "C": "80",
+      "D": "100"
+    },
+    "answer": "C",
+    "explanation": "Using circle properties for angles in the same segment."
+  },
+  {
+    "id": 37,
+    "question": "A cone has radius 8cm and height 11cm. Calculate curved surface area (2 d.p).",
+    "options": {
+      "A": "341.98cm2",
+      "B": "276.57cm2",
+      "C": "201.14cm2",
+      "D": "477.71cm2"
+    },
+    "answer": "A",
+    "explanation": "CSA = pi * r * slant_height. Slant height = root(8^2 + 11^2). Result is 341.98."
+  },
+  {
+    "id": 38,
+    "question": "Given sin x = 3/5 (0 to 90 degrees), evaluate (tan x + 2 cos x).",
+    "options": {
+      "A": "2 11/20",
+      "B": "2 7/20",
+      "C": "1 1/20",
+      "D": "1/20"
+    },
+    "answer": "B",
+    "explanation": "tan x = 3/4, cos x = 4/5. 0.75 + 2(0.8) = 2.35, which is 2 7/20."
+  },
+  {
+    "id": 39,
+    "question": "In a circle with diameter EC, angle ABC = 158. Find angle ADE.",
+    "options": {
+      "A": "112",
+      "B": "90",
+      "C": "68",
+      "D": "22"
+    },
+    "answer": "C",
+    "explanation": "180 - 158 = 22. Then 90 - 22 = 68."
+  },
+  {
+    "id": 40,
+    "question": "Find the mean height of 37 players from the frequency table (1 decimal place).",
+    "options": {
+      "A": "163.0",
+      "B": "162.0",
+      "C": "160.0",
+      "D": "165.0"
+    },
+    "answer": "B",
+    "explanation": "Sum of (Height * Players) divided by 37. Result is approx 162.8 (Option B)."
+  },
+  {
+    "id": 41,
+    "question": "X is (-8, -12) and Y is (p, q). Midpoint is (-4, -2). Find Y.",
+    "options": {
+      "A": "(-6, -2)",
+      "B": "(0, 8)",
+      "C": "(4, 10)",
+      "D": "(0, 4)"
+    },
+    "answer": "B",
+    "explanation": "(-8+p)/2 = -4 => p=0. (-12+q)/2 = -2 => q=8."
+  },
+  {
+    "id": 42,
+    "question": "500 tickets total. Adults $4.50, Children $3.00. Total $1987.50. Find adult tickets.",
+    "options": {
+      "A": "325",
+      "B": "235",
+      "C": "175",
+      "D": "400"
+    },
+    "answer": "A",
+    "explanation": "4.5A + 3(500-A) = 1987.5. 1.5A = 487.5. A = 325."
+  },
+  {
+    "id": 43,
+    "question": "Distance d is more than 18km but not more than 23km. Choose the inequality.",
+    "options": {
+      "A": "18 <= d <= 23",
+      "B": "18 < d < 23",
+      "C": "18 <= d < 23",
+      "D": "18 < d <= 23"
+    },
+    "answer": "D",
+    "explanation": "'More than' is <, 'not more than' is <=."
+  },
+  {
+    "id": 44,
+    "question": "In a pie chart, if 60 apples are 80 degrees, how many oranges are 120 degrees?",
+    "options": {
+      "A": "80",
+      "B": "270",
+      "C": "120",
+      "D": "90"
+    },
+    "answer": "D",
+    "explanation": "(120/80) * 60 = 90."
+  },
+  {
+    "id": 45,
+    "question": "40 balls: 10 red, 12 blue. Probability of neither red nor blue?",
+    "options": {
+      "A": "9/20",
+      "B": "3/10",
+      "C": "1/4",
+      "D": "11/20"
+    },
+    "answer": "A",
+    "explanation": "Non-red/blue = 40 - 22 = 18. Prob = 18/40 = 9/20."
+  },
+  {
+    "id": 46,
+    "question": "A die is tossed twice. Probability of a sum of at least 10?",
+    "options": {
+      "A": "5/36",
+      "B": "2/3",
+      "C": "5/18",
+      "D": "1/6"
+    },
+    "answer": "D",
+    "explanation": "Possible sums (10, 11, 12) are: (4,6), (6,4), (5,5), (5,6), (6,5), (6,6). 6/36 = 1/6."
+  },
+  {
+    "id": 47,
+    "question": "A man will be (x+10) in 8 years. 2 years ago he was 63. Find x.",
+    "options": {
+      "A": "55",
+      "B": "63",
+      "C": "57",
+      "D": "67"
+    },
+    "answer": "B",
+    "explanation": "Current age = 65. In 8 years = 73. x + 10 = 73, so x = 63."
+  },
+  {
+    "id": 48,
+    "question": "Find the gradient (slope) of the line 3x - 5y = 7.",
+    "options": {
+      "A": "5/3",
+      "B": "3/5",
+      "C": "-3/5",
+      "D": "-5/3"
+    },
+    "answer": "B",
+    "explanation": "y = (3/5)x - 7/5. The slope is 3/5."
+  },
+  {
+    "id": 49,
+    "question": "For what value of x is (4 - 2x) / (x + 1) undefined?",
+    "options": {
+      "A": "2",
+      "B": "-1",
+      "C": "1",
+      "D": "-2"
+    },
+    "answer": "B",
+    "explanation": "Undefined when x + 1 = 0, so x = -1."
+  },
+  {
+    "id": 50,
+    "question": "Borrow $25,000 at 21% interest for 3 years. Paid in 2 equal yearly installments. Find the amount per year.",
+    "options": {
+      "A": "$18,500",
+      "B": "$20,375",
+      "C": "$21,000",
+      "D": "$22,500"
+    },
+    "answer": "B",
+    "explanation": "Total interest = 15,750. Total sum = 40,750. Divided by 2 = 20,375."
+  }
+]

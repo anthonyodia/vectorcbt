@@ -1,0 +1,668 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following organelles is common to both plant and animal cells?",
+      "options": {
+        "A": "Cellulose cell wall",
+        "B": "Chlorophyll",
+        "C": "Cell membrane",
+        "D": "Large vacuole"
+      },
+      "answer": "C",
+      "explanation": "The cell membrane is a universal component of all living cells (both plant and animal). Cellulose cell walls, chlorophyll, and large central vacuoles are specific to plant cells.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 2,
+      "question": "The diagrams below are illustrations of different sections of a particular fruit. Study them and answer the question: The sections in X and Y respectively, are",
+      "options": {
+        "A": "longitudinal and transverse",
+        "B": "transverse and longitudinal",
+        "C": "cross and transverse",
+        "D": "transverse and cross"
+      },
+      "answer": "B",
+      "image_name": "biology2021/image1.jpeg",
+      "explanation": "Section X shows a cut across the width (transverse/cross-section), while Section Y shows a cut along the length (longitudinal).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 3,
+      "question": "The diagrams below are illustrations of different sections of a particular fruit. Study them and answer the question: The fruit that has the illustrated sections is a",
+      "options": {
+        "A": "hesperidium",
+        "B": "capsule",
+        "C": "drupe",
+        "D": "cypsela"
+      },
+      "answer": "A",
+      "image_name": "biology2021/image2.jpeg",
+      "explanation": "A hesperidium is a modified berry with a leathery rind and juice-filled sections, typical of citrus fruits like oranges.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 4,
+      "question": "The diagram below is an illustration of a Fungus. Study it and answer the question: The structure labelled I is associated with",
+      "options": {
+        "A": "sexual reproduction",
+        "B": "asexual reproduction",
+        "C": "bud formation",
+        "D": "gamete formation"
+      },
+      "answer": "B",
+      "image_name": "biology2021/image3.jpeg",
+      "explanation": "Structure I (the sporangium) contains spores, which are the units of asexual reproduction in fungi like Rhizopus.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 5,
+      "question": "The diagram below is an illustration of a Fungus. Study it and answer the question: The structure labeled II is the",
+      "options": {
+        "A": "spore",
+        "B": "stolon",
+        "C": "columella",
+        "D": "sporangium"
+      },
+      "answer": "D",
+      "image_name": "biology2021/image4.jpeg",
+      "explanation": "The structure at the top of the hypha that contains spores is the sporangium.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 6,
+      "question": "The diagram below is an illustration of a Fungus. Study it and answer the question: Which of the following statements about the structure labeled III is correct?",
+      "options": {
+        "A": "secretes digestive enzymes into the substrate",
+        "B": "absorbs mineral salts from the soil",
+        "C": "forms the root hairs of the organism",
+        "D": "develops into stolon"
+      },
+      "answer": "A",
+      "image_name": "biology2021/image5.jpeg",
+      "explanation": "Structure III represents the rhizoids. They secrete extracellular enzymes to digest food in the substrate and then absorb the nutrients.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 7,
+      "question": "The diagram below is an illustration of a living organism. Study it and answer the question: The level of organization of the organism is",
+      "options": {
+        "A": "tissue",
+        "B": "cell",
+        "C": "organ",
+        "D": "system"
+      },
+      "answer": "B",
+      "image_name": "biology2021/image6.jpeg",
+      "explanation": "The organism (likely a Paramecium or Euglena) is unicellular, meaning it exists at the cellular level of organization.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 8,
+      "question": "The diagram below is an illustration of a living organism. Study it and answer the question: The organism belongs to the Phylum",
+      "options": {
+        "A": "Rhizopoda",
+        "B": "Ciliophora",
+        "C": "Euglenophyta",
+        "D": "Rhodophyta"
+      },
+      "answer": "C",
+      "image_name": "biology2021/image7.jpeg",
+      "explanation": "Based on the presence of a flagellum and chloroplasts, this organism is Euglena, which belongs to Euglenophyta (or Protozoa in some classifications).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 9,
+      "question": "A plant cell placed in a solution with a higher water potential will",
+      "options": {
+        "A": "expand and then shrink",
+        "B": "enlarge and become turgid.",
+        "C": "expand and then burst",
+        "D": "decrease in size and become flaccid"
+      },
+      "answer": "B",
+      "explanation": "Water moves into the cell by osmosis. The cell wall prevents the plant cell from bursting, allowing it to become turgid instead.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 10,
+      "question": "Offspring formed by sexual reproduction exhibit more variation than those formed by asexual reproduction because",
+      "options": {
+        "A": "greater amount of DNA is involved in sexual reproduction",
+        "B": "gametes of parents have different genetic composition",
+        "C": "genetic materials come from parents of two different species",
+        "D": "sexual reproduction is a lengthy process"
+      },
+      "answer": "B",
+      "explanation": "Meiosis (gamete formation) and the fusion of two different genomes during fertilization create genetic recombination and variation.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 11,
+      "question": "Radius and ulna are bones of the?",
+      "options": {
+        "A": "pectoral girdle",
+        "B": "upper arm",
+        "C": "pelvic girdle",
+        "D": "lower arm"
+      },
+      "answer": "D",
+      "explanation": "The humerus is in the upper arm, while the radius and ulna make up the bones of the lower arm (forearm).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 12,
+      "question": "The blood vessel which carries blood from the alimentary canal to the liver is the?",
+      "options": {
+        "A": "hepatic artery",
+        "B": "hepatic vein",
+        "C": "hepatic portal vein",
+        "D": "mesenteric artery"
+      },
+      "answer": "C",
+      "explanation": "The hepatic portal vein transports nutrient-rich blood from the digestive tract directly to the liver.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 13,
+      "question": "The diagram provided is an illustration of the longitudinal section of a mammalian organ. Study it and answer the question: Which of the labeled parts is the cortex?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "A",
+      "image_name": "biology2021/image8.jpeg",
+      "explanation": "In a kidney section, the outermost layer is the cortex.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 14,
+      "question": "The diagram provided is an illustration of the longitudinal section of a mammalian organ. Study it and answer the question: What is the main function of the organ?",
+      "options": {
+        "A": "Excretion",
+        "B": "Respiration",
+        "C": "Reproduction",
+        "D": "Locomotion"
+      },
+      "answer": "A",
+      "image_name": "biology2021/image9.jpeg",
+      "explanation": "The kidney is the primary organ for excretion and osmoregulation in mammals.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 15,
+      "question": "Detoxification of urea takes place in the?",
+      "options": {
+        "A": "pancreas",
+        "B": "heart",
+        "C": "liver",
+        "D": "testes"
+      },
+      "answer": "C",
+      "explanation": "The liver is responsible for deamination and the ornithine cycle, where ammonia is converted into urea (detoxification).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following hormones is suddenly secreted into the bloodstream of a frightened person?",
+      "options": {
+        "A": "insulin",
+        "B": "adrenaline",
+        "C": "thyroxine",
+        "D": "parathormore"
+      },
+      "answer": "B",
+      "explanation": "Adrenaline is the 'flight or fight' hormone produced during stress, fear, or excitement.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 17,
+      "question": "The temperature control centre in mammals is located in the?",
+      "options": {
+        "A": "skin",
+        "B": "hypothalamus",
+        "C": "pituitary gland",
+        "D": "adrenal gland"
+      },
+      "answer": "B",
+      "explanation": "The hypothalamus acts as the body's thermostat, regulating internal temperature.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 18,
+      "question": "The diagram provided is an illustration of a type of eye defect in humans. Study it and answer the question: The eye defect illustrated in the diagram is?",
+      "options": {
+        "A": "hypermetropia",
+        "B": "astigmatism",
+        "C": "presbyopia",
+        "D": "myopia"
+      },
+      "answer": "D",
+      "image_name": "biology2021/image10.jpeg",
+      "explanation": "If light rays focus in front of the retina, it represents myopia (shortsightedness).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 19,
+      "question": "The diagram provided is an illustration of a type of eye defect in humans. Study it and answer the question: The eye defect can be corrected by the use of?",
+      "options": {
+        "A": "convex lens",
+        "B": "concave lens",
+        "C": "bifocal lens",
+        "D": "cylindrical lens"
+      },
+      "answer": "B",
+      "image_name": "biology2021/image11.jpeg",
+      "explanation": "Concave (diverging) lenses are used to correct myopia by moving the focus back onto the retina.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 20,
+      "question": "How many gametes are produced in the pollen grain of a flowering plant before fertilization?",
+      "options": {
+        "A": "one",
+        "B": "two",
+        "C": "three",
+        "D": "four"
+      },
+      "answer": "B",
+      "explanation": "The generative nucleus in a pollen grain divides to produce two male gametes.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following organisms does not undergo incomplete metamorphosis?",
+      "options": {
+        "A": "locust",
+        "B": "grasshopper",
+        "C": "butterfly",
+        "D": "cockroach"
+      },
+      "answer": "C",
+      "explanation": "Butterflies undergo complete metamorphosis (Egg -> Larva -> Pupa -> Adult). The others undergo incomplete metamorphosis.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 22,
+      "question": "An enzyme reaction may begin to decline when?",
+      "options": {
+        "A": "the optimum temperature is attained",
+        "B": "the ph of the medium is altered",
+        "C": "there is an increase in substrate concentration",
+        "D": "the atmospheric pressure is altered"
+      },
+      "answer": "B",
+      "explanation": "Enzymes are highly sensitive to pH; any significant change can denature the protein and stop the reaction.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 23,
+      "question": "The diagram provided is an illustration of the growth of a plant in a water culture. Study it and answer the question: What precaution should have been taken to prevent the solution from turning green?",
+      "options": {
+        "A": "use a non-green plant for the experiment",
+        "B": "aerate the solution daily",
+        "C": "cover the culture vessel with opaque paper",
+        "D": "keep cotton wool around the seedling to make it dry"
+      },
+      "answer": "C",
+      "explanation": "The green color is due to algae growth. Algae need light to grow, so wrapping the bottle in opaque paper blocks light.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 24,
+      "question": "The diagram provided is an illustration of the growth of a plant in a water culture. Study it and answer the question: The death of the plant was likely caused by?",
+      "options": {
+        "A": "excess supply of nutrients to the plant",
+        "B": "inadequate supply of water to the plant",
+        "C": "algal growth in the solution that used up the nutrients",
+        "D": "inability of the plant to make food due to lack of sunlight"
+      },
+      "answer": "C",
+      "explanation": "Algae in the water culture compete with the plant for nutrients and oxygen, leading to the plant's death.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following factors is not necessary for photosynthesis?",
+      "options": {
+        "A": "water",
+        "B": "carbon (IV) oxide",
+        "C": "wind",
+        "D": "sunlight"
+      },
+      "answer": "C",
+      "explanation": "Photosynthesis requires Water, CO2, Light, and Chlorophyll. Wind is not a requirement for the chemical process.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 26,
+      "question": "Autotrophic nutrition is a process whereby an organism obtains food",
+      "options": {
+        "A": "by utilizing its store energy",
+        "B": "by synthesizing simple substances using energy",
+        "C": "from other organisms in exchange for some products",
+        "D": "in a synthesized form, from other living organisms"
+      },
+      "answer": "B",
+      "explanation": "Autotrophs (like plants) produce their own complex organic food from simple inorganic substances (CO2 and water) using light or chemical energy.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 27,
+      "question": "The process that takes place at the light stage of photosynthesis is?",
+      "options": {
+        "A": "splitting of water molecules to form hydrogen ions",
+        "B": "reduction of carbon (IV) oxide to form carbohydrate",
+        "C": "formation of two molecules of phosphoglyceric acid",
+        "D": "breaking down of ATP molecules to produce energy"
+      },
+      "answer": "A",
+      "explanation": "Photolysis of water occurs during the light-dependent stage, splitting water into Hydrogen ions, electrons, and Oxygen.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 28,
+      "question": "The diagram provided is an illustration of the foot of an animal. The adaptation of this type of foot is that it is?",
+      "options": {
+        "A": "used as a bait to catch fish in water",
+        "B": "used as a paddle for swimming",
+        "C": "effective in scratching the soil for food",
+        "D": "used for killing prey in water"
+      },
+      "answer": "B",
+      "image_name": "biology2021/image14.jpeg",
+      "explanation": "Webbed feet (like those of a duck) are adapted for swimming by acting as paddles.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 29,
+      "question": "The following organisms are examples of carnivorous plants except",
+      "options": {
+        "A": "gloriosa",
+        "B": "venus flytrap",
+        "C": "pitcher plant",
+        "D": "Utricularia"
+      },
+      "answer": "A",
+      "explanation": "Gloriosa is a climbing lily, not a carnivorous plant. Venus flytrap, Pitcher plant, and Utricularia (bladderwort) all trap insects.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 30,
+      "question": "Plants and animals of an ecosystem make up a?",
+      "options": {
+        "A": "habitat",
+        "B": "succession",
+        "C": "community",
+        "D": "population"
+      },
+      "answer": "C",
+      "explanation": "A community consists of all the different populations of different species living together in a specific area.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 31,
+      "question": "Rabbits cannot survive in an aquatic habitat because they have",
+      "options": {
+        "A": "no scales",
+        "B": "no gills",
+        "C": "fore limbs",
+        "D": "lateral line"
+      },
+      "answer": "B",
+      "explanation": "Gills are necessary for extracting dissolved oxygen from water. Rabbits use lungs to breathe atmospheric air.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 32,
+      "question": "Consider the food chain: Grass -> grasshopper -> domestic fowl -> hawk. What would happen if the population of domestic fowl decreases?",
+      "options": {
+        "A": "grasshoppers would decrease",
+        "B": "hawks would increase",
+        "C": "grasshoppers would increase",
+        "D": "grasses available to grasshoppers"
+      },
+      "answer": "C",
+      "explanation": "Fowl eat grasshoppers. If the predator (fowl) population drops, the prey (grasshopper) population will rise due to less predation.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following features is a characteristic of aquatic plants possession of?",
+      "options": {
+        "A": "multiple epidermis",
+        "B": "heavily lignified tissue",
+        "C": "finely divided leaves",
+        "D": "succulent stem"
+      },
+      "answer": "C",
+      "explanation": "Finely divided leaves in submerged aquatic plants provide a large surface area for absorption of gases and nutrients from water.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 34,
+      "question": "An association between living organisms in which one organism lives on and feeds at the expense of the other organism is known as?",
+      "options": {
+        "A": "mutualism",
+        "B": "commensalism",
+        "C": "parasitism",
+        "D": "predation"
+      },
+      "answer": "C",
+      "explanation": "Parasitism involves one organism (parasite) benefiting while the other (host) is harmed.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 35,
+      "question": "When a large number of organisms share limited resources, the result is?",
+      "options": {
+        "A": "mutualism",
+        "B": "extinction",
+        "C": "commensalism",
+        "D": "competition"
+      },
+      "answer": "D",
+      "explanation": "Competition occurs when organisms struggle for the same limited environmental resources like food, water, or space.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following behaviours is correctly matched with the corresponding diseases?",
+      "options": {
+        "A": "Smoking cigarette / Liver cirrhosis, Lung cancer, AIDS",
+        "B": "Having multiple sexual partners / liver cirrhosis, syphilis, AIDS.",
+        "C": "Living near dirty gutter / Lung cancer, syphilis, river blindness.",
+        "D": "Eating uncooked meat / dysentery, cholera, food poisoning."
+      },
+      "answer": "D",
+      "explanation": "Eating uncooked or contaminated meat is a direct path for pathogens causing dysentery, cholera, and food poisoning.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 37,
+      "question": "Endangered species are organisms that are?",
+      "options": {
+        "A": "likely to migrate to other favourable lands",
+        "B": "likely to disappear from the surface of the earth",
+        "C": "reproducing profusely in an area",
+        "D": "dangerous to humans and attacking other animals"
+      },
+      "answer": "B",
+      "explanation": "Endangered species are those at high risk of extinction in the near future.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following practices is a wildlife conservation method?",
+      "options": {
+        "A": "use of cover crops",
+        "B": "crop rotation",
+        "C": "mulching",
+        "D": "discouraging poaching"
+      },
+      "answer": "D",
+      "explanation": "Poaching (illegal hunting) is a major threat to wildlife. Discouraging it helps preserve species.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following resources cannot be conserved?",
+      "options": {
+        "A": "forest",
+        "B": "water",
+        "C": "soil",
+        "D": "garbage"
+      },
+      "answer": "D",
+      "explanation": "Forests, water, and soil are natural resources we want to preserve. Garbage is waste to be managed or recycled, not a resource to be conserved.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 40,
+      "question": "The diagrams provided are illustrations of types of comb found in domestic fowl. Study them and answer the question: The types of comb show?",
+      "options": {
+        "A": "variation",
+        "B": "inheritance",
+        "C": "cell theory",
+        "D": "courtship behaviour"
+      },
+      "answer": "A",
+      "image_name": "biology2021/image15.jpeg",
+      "explanation": "The different shapes of combs in fowls are examples of morphological variation within a species.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 41,
+      "question": "The diagrams provided are illustrations of types of comb found in domestic fowl. Study them and answer the question: Which factor is most likely responsible for the various types of comb?",
+      "options": {
+        "A": "environment",
+        "B": "genetics",
+        "C": "physiology",
+        "D": "morphology"
+      },
+      "answer": "B",
+      "image_name": "biology2021/image16.jpeg",
+      "explanation": "Comb shape in chickens is determined by specific genes (epistatic interaction between the R and P genes).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following statements about mitosis is not correct?",
+      "options": {
+        "A": "chiasmata are not formed",
+        "B": "Bi-valents are not formed",
+        "C": "It does not lead to variation",
+        "D": "Four daughter cells are produced"
+      },
+      "answer": "D",
+      "explanation": "Mitosis produces two identical daughter cells. Meiosis is the process that produces four daughter cells.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 43,
+      "question": "A mixture of blood with antigen A and blood containing antibody a will?",
+      "options": {
+        "A": "lead to agglutination",
+        "B": "facilitate dissolution of clot",
+        "C": "have no effect on blood composition",
+        "D": "change the blood group"
+      },
+      "answer": "A",
+      "explanation": "Agglutination (clumping) occurs when an antigen reacts with its corresponding antibody.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 44,
+      "question": "Plants suitable for experiments in genetics must not",
+      "options": {
+        "A": "produce numerous seeds within a short time",
+        "B": "have a small number of chromosomes",
+        "C": "have a relatively short life cycle",
+        "D": "produce one generation in a large period"
+      },
+      "answer": "D",
+      "explanation": "Genetic research requires organisms with short life cycles so that many generations can be studied in a short time.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following statements about sickle cell anaemia is correct?",
+      "options": {
+        "A": "it is caused by sex-linked genes",
+        "B": "it is more common in males than in females",
+        "C": "two sickle cell carrier parents may have a sickling child",
+        "D": "it is caused by recessive genes"
+      },
+      "answer": "C",
+      "explanation": "If both parents are carriers (AS), there is a 25% chance for each child to have the disease (SS).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 46,
+      "question": "In humans, pointed eyebrows (B) is a dominant trait over smooth eyebrows (b). A student and the mother have smooth eyebrows while the father has pointed eyebrows. What is the genotype of the father?",
+      "options": {
+        "A": "BB",
+        "B": "Bb",
+        "C": "bb",
+        "D": "BBbb"
+      },
+      "answer": "B",
+      "explanation": "Since the student has smooth eyebrows (bb), they must have inherited one 'b' from the mother and one 'b' from the father. Thus, the father must be a carrier (Bb).",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 47,
+      "question": "A woman with Rhesus negative blood group was advised not to marry a man with Rhesus positive blood group because",
+      "options": {
+        "A": "it will hinder her from having blood transfusion from her husband",
+        "B": "it will result in sickness and probably death of the offspring",
+        "C": "her children may all resemble her husband",
+        "D": "it may affect her childbearing ability"
+      },
+      "answer": "B",
+      "explanation": "This can lead to Erythroblastosis Fetalis, where the mother's antibodies attack the Rhesus positive blood of the fetus.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following organisms exhibits division of labour?",
+      "options": {
+        "A": "butterfly",
+        "B": "cockroach",
+        "C": "termite",
+        "D": "housefly"
+      },
+      "answer": "C",
+      "explanation": "Termites are social insects with a caste system (King, Queen, Soldiers, Workers), which is a clear example of division of labour.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 49,
+      "question": "Natural selection arises as a result of?",
+      "options": {
+        "A": "gene mutation",
+        "B": "change of habitat",
+        "C": "reduction in population",
+        "D": "climate change"
+      },
+      "answer": "A",
+      "explanation": "Mutations provide the variation upon which natural selection acts, allowing better-adapted individuals to survive and reproduce.",
+      "sectionName": "WAEC Biology 2021"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following statements is not Lamarck's postulate on evolution?",
+      "options": {
+        "A": "great changes in the environment result in corresponding changes in species",
+        "B": "frequently used organs become well developed while the ones not used become vestigial",
+        "C": "well developed acquired characters are inheritable",
+        "D": "survivors in a competitive community must have inherited useful traits"
+      },
+      "answer": "D",
+      "explanation": "Option D is a postulate of Charles Darwin's theory of Natural Selection, not Lamarck's theory of Acquired Characteristics.",
+      "sectionName": "WAEC Biology 2021"
+    }
+  ]
+}

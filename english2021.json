@@ -1,0 +1,1284 @@
+[
+  {
+    "id": 1,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "While Mr. Ade is _____, his son is a novice.",
+    "options": ["enlightened", "competent", "clever", "experienced"],
+    "answer": "D",
+    "explanation": "The opposite of a 'novice' (beginner) is 'experienced'."
+  },
+  {
+    "id": 2,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "It is better to use persuasion rather than ____ to get witnesses to court.",
+    "options": ["effort", "coercion", "influence", "pressure"],
+    "answer": "B",
+    "explanation": "Persuasion means convincing; 'coercion' means using force, which is the opposite."
+  },
+  {
+    "id": 3,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "The animosity between Fatou and Sheku is shocking, considering the ______ they once shared.",
+    "options": ["company", "friendship", "peace", "understanding"],
+    "answer": "B",
+    "explanation": "Animosity means hatred; friendship is the opposite."
+  },
+  {
+    "id": 4,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "The reckless driver was admonished to be ______.",
+    "options": ["cautious", "responsible", "reliable", "considerate"],
+    "answer": "A",
+    "explanation": "The opposite of 'reckless' is 'cautious'."
+  },
+  {
+    "id": 5,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "The old man rebuked the thug and his children ____ him for doing so.",
+    "options": ["commended", "embraced", "thanked", "supported"],
+    "answer": "A",
+    "explanation": "To 'rebuke' is to scold; the opposite is to 'commend' (praise)."
+  },
+  {
+    "id": 6,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "All drivers were enjoined to obtain genuine and ______ licences.",
+    "options": ["artificial", "fraudulent", "fake", "substandard"],
+    "answer": "C",
+    "explanation": "The opposite of 'genuine' is 'fake'."
+  },
+  {
+    "id": 7,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "There was agitation for the __________ law on libel to be re-enacted.",
+    "options": ["enforced", "repealed", "rejected", "cancelled"],
+    "answer": "B",
+    "explanation": "To re-enact a law means it was previously 'repealed' (cancelled or withdrawn)."
+  },
+  {
+    "id": 8,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "The two political parties live today in ... after four years of hostility.",
+    "options": ["happiness", "amity", "agreement", "freedom"],
+    "answer": "B",
+    "explanation": "The opposite of 'hostility' is 'amity' (friendship)."
+  },
+  {
+    "id": 9,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "The champions were elated after the tournament while their opponents looked _______",
+    "options": ["baffled", "dejected", "pitiful", "frightened"],
+    "answer": "B",
+    "explanation": "Elated means very happy; 'dejected' means sad and dispirited."
+  },
+  {
+    "id": 10,
+    "pre_question": "From the list of words lettered A to D, choose the one that is most nearly opposite in meaning to the underlined word and that will, at the same time, correctly fill the gap in the sentence.",
+    "question": "That engineer was said to have used inferior rather than _____ materials.",
+    "options": ["excellent", "recommended", "quality", "exceptional"],
+    "answer": "C",
+    "explanation": "The opposite of 'inferior' quality is 'superior' or 'quality' materials."
+  },
+  {
+    "id": 11,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "I could not read what he wrote because his handwriting was_____",
+    "options": ["tiny", "eligible", "untidy", "illegible"],
+    "answer": "D",
+    "explanation": "Handwriting that cannot be read is 'illegible'."
+  },
+  {
+    "id": 12,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "When all the items on the agenda had been discussed, the meeting was ______",
+    "options": ["dismissed", "postponed", "adjourned", "dissolved"],
+    "answer": "C",
+    "explanation": "Meetings are formally ended or paused using the term 'adjourned'."
+  },
+  {
+    "id": 13,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "Occasionally, universities award _____ degrees to outstanding personalities.",
+    "options": ["ceremonial", "honorary", "temporary", "respectable"],
+    "answer": "B",
+    "explanation": "Degrees given as an honor without study are 'honorary' degrees."
+  },
+  {
+    "id": 14,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "His thoughtlessness is simply beyond _____.",
+    "options": ["idea", "assurance", "belief", "fate"],
+    "answer": "C",
+    "explanation": "The phrase 'beyond belief' means something is incredible or shocking."
+  },
+  {
+    "id": 15,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "Many doctors have ___ to western countries for better opportunities.",
+    "options": ["migrated", "travelled", "immigrated", "participant"],
+    "answer": "A",
+    "explanation": "To move from one's own country to another for work is to 'migrate'."
+  },
+  {
+    "id": 16,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "The younger brother insisted that he should be a __________ to the account.",
+    "options": ["partner", "signatory", "guarantor", "participant"],
+    "answer": "B",
+    "explanation": "A person authorized to sign on a bank account is a 'signatory'."
+  },
+  {
+    "id": 17,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "The military was able to ..... the plan to overthrow the government.",
+    "options": ["fight", "disrupt", "thwart", "disturb"],
+    "answer": "C",
+    "explanation": "To 'thwart' a plan means to prevent it from succeeding."
+  },
+  {
+    "id": 18,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "She gave her poem to her teacher to .... for the school magazine.",
+    "options": ["read", "edit", "correct", "label"],
+    "answer": "B",
+    "explanation": "To prepare text for publication, one must 'edit' it."
+  },
+  {
+    "id": 19,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "Freedom of movement is a ........ right of every citizen.",
+    "options": ["negotiated", "fundamental", "privileged", "foremost"],
+    "answer": "B",
+    "explanation": "Rights protected by the constitution are 'fundamental' rights."
+  },
+  {
+    "id": 20,
+    "pre_question": "From the words lettered A to D, choose the word that best completes each of the following sentences.",
+    "question": "The governor granted the political prisoners _______",
+    "options": ["asylum", "acquittal", "amnesty", "bail"],
+    "answer": "C",
+    "explanation": "An official pardon for a group of people is 'amnesty'."
+  },
+  {
+    "id": 21,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "The recruits are under his tutelage. This means that he ______",
+    "options": ["assigns work to them", "trains them", "disciplines them at work", "protects them"],
+    "answer": "B",
+    "explanation": "'Tutelage' refers to protection, but more commonly to instruction or training."
+  },
+  {
+    "id": 22,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "He listened attentively to her cock-and-bull story. This means she told ____",
+    "options": ["a terrifying story", "an interesting story", "an incredible story", "a lot of folktales"],
+    "answer": "C",
+    "explanation": "A 'cock-and-bull' story is an unbelievable or far-fetched story."
+  },
+  {
+    "id": 23,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "He has left the country for good. This means that he ____",
+    "options": ["will never come back", "left for better conditions", "became an adventurer", "will improve his credentials"],
+    "answer": "A",
+    "explanation": "The idiom 'for good' means permanently."
+  },
+  {
+    "id": 24,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "The bus driver smelt a rat when an unregistered vehicle trailed him. This means he ____",
+    "options": ["increased his speed", "became nervous", "became suspicious", "alerted the passengers"],
+    "answer": "C",
+    "explanation": "'To smell a rat' means to suspect something is wrong."
+  },
+  {
+    "id": 25,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "The newly employed workers were remunerated handsomely. This means that ____",
+    "options": ["both old and new were paid", "only new workers were paid", "the salaries were attractive", "the salaries were paid promptly"],
+    "answer": "C",
+    "explanation": "'Remunerated handsomely' means they were paid very well."
+  },
+  {
+    "id": 26,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "The chairman has come under fire over this project. This means the chairman has been ____",
+    "options": ["severely criticised", "highly praised", "given the go-ahead", "charged to court"],
+    "answer": "A",
+    "explanation": "'Under fire' is an idiom meaning to be criticized."
+  },
+  {
+    "id": 27,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "The ugly incidents of the Civil War are water under the bridge. This means the incidents ____",
+    "options": ["continue to haunt us", "have been experienced again", "have been forgotten", "cannot be wished away"],
+    "answer": "C",
+    "explanation": "'Water under the bridge' refers to past events that are no longer considered important or are forgiven."
+  },
+  {
+    "id": 28,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "My heart was in my mouth as I tried to open the envelope. This means I was ____",
+    "options": ["very happy", "quite eager", "deeply disappointed", "extremely afraid"],
+    "answer": "D",
+    "explanation": "'Heart in mouth' indicates extreme fear or nervousness."
+  },
+  {
+    "id": 29,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "The minister maintained his ground over the claims. This means the minister ____",
+    "options": ["accepted his error", "refused to change his stand", "said different things", "did not consider every view"],
+    "answer": "B",
+    "explanation": "'Maintained his ground' means refusing to yield or change an opinion."
+  },
+  {
+    "id": 30,
+    "pre_question": "Choose the interpretation that is most appropriate for each sentence.",
+    "question": "John may be sincere, but I suspect that he has an axe to grind. This means John has a ____",
+    "options": ["selfish motive", "different opinion", "matter to attend to", "solution to the problem"],
+    "answer": "A",
+    "explanation": "'An axe to grind' means having a private or selfish reason for doing something."
+  },
+  {
+    "id": 31,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "So much effluent has been poured into the stream that it is unsafe.",
+    "options": ["sewage", "disinfectant", "oil", "concoction"],
+    "answer": "A",
+    "explanation": "Effluent refers to liquid waste or sewage discharged into a river."
+  },
+  {
+    "id": 32,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "The students became restive after the authorities increased tuition fees.",
+    "options": ["alarmed", "hostile", "noisy", "agitated"],
+    "answer": "D",
+    "explanation": "'Restive' means unable to remain still or silent, often due to impatience or dissatisfaction."
+  },
+  {
+    "id": 33,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "Ali plays the guitar with great dexterity.",
+    "options": ["wisdom", "experience", "pride", "skill"],
+    "answer": "D",
+    "explanation": "Dexterity is skill in performing tasks, especially with the hands."
+  },
+  {
+    "id": 34,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "Obi's behaviour is questionable.",
+    "options": ["disputable", "worrisome", "dubious", "refutable"],
+    "answer": "C",
+    "explanation": "'Questionable' in this context means 'dubious' or suspicious."
+  },
+  {
+    "id": 35,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "The electricity supply in this community is erratic.",
+    "options": ["unpredictable", "disorderly", "low", "temporary"],
+    "answer": "A",
+    "explanation": "Erratic means not even or regular; unpredictable."
+  },
+  {
+    "id": 36,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "He became really disheartened when he heard the news.",
+    "options": ["defamed", "dishevelled", "depressed", "disturbed"],
+    "answer": "C",
+    "explanation": "Disheartened means having lost determination or confidence (depressed/discouraged)."
+  },
+  {
+    "id": 37,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "The office has taken stringent measures to protect its facilities.",
+    "options": ["suitable", "right", "strict", "complete"],
+    "answer": "C",
+    "explanation": "Stringent means strict, precise, and exacting."
+  },
+  {
+    "id": 38,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "Adaobi was appalled by the shabby appearance of the man.",
+    "options": ["shocked", "discouraged", "annoyed", "humiliated"],
+    "answer": "A",
+    "explanation": "To be appalled is to be greatly dismayed or horrified (shocked)."
+  },
+  {
+    "id": 39,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "Henry likes to be involved in shady deals.",
+    "options": ["unknown", "undisclosed", "dishonest", "doubtful"],
+    "answer": "C",
+    "explanation": "Shady deals are illegal or dishonest."
+  },
+  {
+    "id": 40,
+    "pre_question": "Choose the word nearest in meaning to the underlined word.",
+    "question": "A good student should be inquisitive.",
+    "options": ["hardworking", "busy", "curious", "studious"],
+    "answer": "C",
+    "explanation": "Inquisitive means showing an interest in learning new things (curious)."
+  },
+  {
+    "id": 41,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Life in the city is ........ expensive for most people.",
+    "options": ["too much", "much", "very much", "much too"],
+    "answer": "D",
+    "explanation": "'Much too' is used before an adjective for emphasis."
+  },
+  {
+    "id": 42,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "My father made me ......... at home.",
+    "options": ["stay", "stayed", "to be staying", "to stay"],
+    "answer": "A",
+    "explanation": "After the verb 'make', we use the bare infinitive (stay) without 'to'."
+  },
+  {
+    "id": 43,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "The long-awaited match was called .......... at the last moment",
+    "options": ["off", "out", "down", "away"],
+    "answer": "A",
+    "explanation": "'Called off' is a phrasal verb meaning cancelled."
+  },
+  {
+    "id": 44,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Get to work! Don't sit ....... doing nothing",
+    "options": ["about", "up", "on", "by"],
+    "answer": "A",
+    "explanation": "'Sit about' or 'sit around' means to spend time doing nothing."
+  },
+  {
+    "id": 45,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "We promised to tell the truth, ........?",
+    "options": ["isn't it", "didn't we", "shouldn't we", "wasn't it"],
+    "answer": "B",
+    "explanation": "The question tag for a past tense positive statement (promised) is 'didn't we'."
+  },
+  {
+    "id": 46,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "No sooner had we set off ....... it started to rain",
+    "options": ["that", "when", "than", "as"],
+    "answer": "C",
+    "explanation": "The correlative conjunction for 'No sooner' is always 'than'."
+  },
+  {
+    "id": 47,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "I cannot put up...... his saucy behaviour.",
+    "options": ["on", "with", "from", "by"],
+    "answer": "B",
+    "explanation": "'Put up with' is a phrasal verb meaning to tolerate."
+  },
+  {
+    "id": 48,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Several ______attended the two-day economic summit.",
+    "options": ["head of state", "heads of states", "heads of state", "head of states"],
+    "answer": "C",
+    "explanation": "The plural of 'head of state' is 'heads of state'."
+  },
+  {
+    "id": 49,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "I won't go to the cinema with you; I ..... the movie.",
+    "options": ["seeing", "have seen", "seen", "had seen"],
+    "answer": "B",
+    "explanation": "The present perfect 'have seen' is used for an action completed in the past with current relevance."
+  },
+  {
+    "id": 50,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "The committee has submitted its report .. the students' riot.",
+    "options": ["on", "for", "about", "at"],
+    "answer": "A",
+    "explanation": "One submits a report 'on' a subject."
+  },
+  {
+    "id": 51,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "It's been a rough life so far, ....?",
+    "options": ["hasn't it", "hadn't it", "isn't it", "wasn't it"],
+    "answer": "A",
+    "explanation": "The sentence uses 'It has' (It's), so the correct tag is 'hasn't it'."
+  },
+  {
+    "id": 52,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "If I had known, I ......... not have come.",
+    "options": ["should", "ought", "would", "may"],
+    "answer": "C",
+    "explanation": "This is a third conditional sentence: If + past perfect, then would + have + past participle."
+  },
+  {
+    "id": 53,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "She had to work from ....",
+    "options": ["morning till the evening", "the morning till evening", "the morning till the evening", "morning till evening"],
+    "answer": "D",
+    "explanation": "In idiomatic time expressions like 'morning till evening', articles are usually omitted."
+  },
+  {
+    "id": 54,
+    "id": 54,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "He did it, but not ...... the way I had expected.",
+    "options": ["as", "quite", "hardly", "so"],
+    "answer": "B",
+    "explanation": "'Quite' is used here as an adverb of degree to modify the manner."
+  },
+  {
+    "id": 55,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "After stalking its prey for a while, the lion .... for the kill.",
+    "options": ["closed in", "closed up", "closed on", "closed down"],
+    "answer": "A",
+    "explanation": "'Closed in' means to move closer to someone or something, especially to attack."
+  },
+  {
+    "id": 56,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Mary and Jane are always quarrelling with ______. ",
+    "options": ["each other", "themselves", "another", "either"],
+    "answer": "A",
+    "explanation": "'Each other' is used for reciprocal actions between two people."
+  },
+  {
+    "id": 57,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "They have been informed of his departure ...?",
+    "options": ["haven't they", "hadn't they", "wasn't it", "isn't it"],
+    "answer": "A",
+    "explanation": "The auxiliary verb 'have' in the statement requires 'haven't' in the tag."
+  },
+  {
+    "id": 58,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Although some students may be innocent, ______ are guilty of this offence.",
+    "options": ["much", "great deal", "most", "a good deal"],
+    "answer": "C",
+    "explanation": "'Most' is used to refer to the majority of a countable noun (students)."
+  },
+  {
+    "id": 59,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "She prefers singing ........ dancing",
+    "options": ["besides", "aside", "than", "to"],
+    "answer": "D",
+    "explanation": "The verb 'prefer' is followed by the preposition 'to' when comparing two items."
+  },
+  {
+    "id": 60,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Is that the lady ........ you planned to visit?",
+    "options": ["which", "who", "whose", "whom"],
+    "answer": "D",
+    "explanation": "'Whom' is the objective relative pronoun used for the person being visited."
+  },
+  {
+    "id": 61,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "The children ......... in the pool after school.",
+    "options": ["swam", "swum", "swimming", "swim"],
+    "answer": "A",
+    "explanation": "'Swam' is the simple past tense required for a completed action."
+  },
+  {
+    "id": 62,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "In spite of all their shortcomings, we cannot ... admire them.",
+    "options": ["only", "but", "also", "still"],
+    "answer": "B",
+    "explanation": "The phrase 'cannot but' means to be unable to do anything except a certain action."
+  },
+  {
+    "id": 63,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "The African extended family system gives ....... members support.",
+    "options": ["his", "her", "its", "their"],
+    "answer": "C",
+    "explanation": "'Its' is the possessive pronoun for the singular collective noun 'system'."
+  },
+  {
+    "id": 64,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "We all look forward to meeting the ............",
+    "options": ["beautiful, young, Nigerian musician", "young, Nigerian, beautiful musician", "Nigerian, young, beautiful musician", "Nigerian, beautiful, young musician"],
+    "answer": "A",
+    "explanation": "Adjective order: Opinion (beautiful) + Age (young) + Origin (Nigerian)."
+  },
+  {
+    "id": 65,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "One of my . ..... is a lecturer in the university.",
+    "options": ["sister", "sister's", "sisters", "sisters'"],
+    "answer": "C",
+    "explanation": "The phrase 'One of my' must be followed by a plural noun."
+  },
+  {
+    "id": 66,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Regina pleaded with her son to ........ the habit of smoking.",
+    "options": ["come out", "come over", "come off", "come from"],
+    "answer": "C",
+    "explanation": "To 'come off' a habit means to stop or break it."
+  },
+  {
+    "id": 67,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "Their proposal looks .......... than ours.",
+    "options": ["more workable a little bit", "a little bit more workable", "more a little bit workable", "workable a little bit more"],
+    "answer": "B",
+    "explanation": "The modifier 'a little bit' precedes the comparative adjective."
+  },
+  {
+    "id": 68,
+    "pre_question": "Choose the word or group of words that best completes the sentence.",
+    "question": "You will be none ....... for it if you take the examinations in November.",
+    "options": ["the worst", "Worst", "worse", "the worse"],
+    "answer": "D",
+    "explanation": "The idiom is 'none the worse', meaning not harmed by something."
+  },
+  {
+    "id": 69,
+    "pre_question": "Passage: Money serves as a (71) of exchange in the modern world. This is perhaps the most important (72) of money. People who have money can use it to buy goods and (73). Without it, trade will be carried out on the basis of (74) where goods or services are exchanged as was the practice in the years gone by. This mode of trading has a number of disadvantages, as people will have to match their (75) with those of other people. For example, if a hunter wants to trade his (76) for yam, he must find a (77) who needs what he is trading. Another difficulty is determining the (78) of each item needed in the exchange. Therefore, this mode of trading is no longer commonly practised. International trade boosts the (79) of a nation. The (80) frequently used in international trade is the US Dollar.",
+    "question": "Fill gap 71:",
+    "options": ["value", "medium", "type", "form"],
+    "answer": "B",
+    "explanation": "Money is primarily a 'medium' of exchange."
+  },
+  {
+    "id": 70,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 72:",
+    "options": ["aspect", "duty", "function", "feature"],
+    "answer": "C",
+    "explanation": "The roles of money are described as its 'functions'."
+  },
+  {
+    "id": 71,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 73:",
+    "options": ["handiwork", "services", "skill", "businesses"],
+    "answer": "B",
+    "explanation": "The standard economic phrase is 'goods and services'."
+  },
+  {
+    "id": 72,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 74:",
+    "options": ["barter", "dealings", "negotiation", "exchange"],
+    "answer": "A",
+    "explanation": "Trading goods for other goods without money is called 'barter'."
+  },
+  {
+    "id": 73,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 75:",
+    "options": ["needs", "intentions", "wishes", "desires"],
+    "answer": "A",
+    "explanation": "The difficulty in barter is matching 'needs' (double coincidence of wants)."
+  },
+  {
+    "id": 74,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 76:",
+    "options": ["kill", "animal", "livestock", "prey"],
+    "answer": "A",
+    "explanation": "A hunter's catch is referred to as his 'kill'."
+  },
+  {
+    "id": 75,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 77:",
+    "options": ["grower", "labourer", "farmer", "customer"],
+    "answer": "C",
+    "explanation": "One who produces yams is a 'farmer'."
+  },
+  {
+    "id": 76,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 78:",
+    "options": ["portion", "value", "quantity", "among"],
+    "answer": "B",
+    "explanation": "Determining how much one thing is worth compared to another is determining its 'value'."
+  },
+  {
+    "id": 77,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 79:",
+    "options": ["economy", "savings", "finances", "transaction"],
+    "answer": "A",
+    "explanation": "Trade growth benefits the national 'economy'."
+  },
+  {
+    "id": 78,
+    "pre_question": "Refer to the passage above.",
+    "question": "Fill gap 80:",
+    "options": ["cash", "money", "currency", "notes"],
+    "answer": "C",
+    "explanation": "Specific national money units like the Dollar are called 'currencies'."
+  },
+  {
+    "id": 79,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "dark (ar)",
+    "options": ["stern", "firm", "sharp", "ward"],
+    "answer": "C",
+    "explanation": "'Dark' and 'sharp' both share the /ɑː/ sound."
+  },
+  {
+    "id": 80,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "tough (ou)",
+    "options": ["cough", "born", "boat", "done"],
+    "answer": "D",
+    "explanation": "The 'ou' in 'tough' and 'o' in 'done' both represent the /ʌ/ sound."
+  },
+  {
+    "id": 81,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "chief (ie)",
+    "options": ["dead", "feast", "fine", "chin"],
+    "answer": "B",
+    "explanation": "The 'ie' in 'chief' and 'ea' in 'feast' both represent the /iː/ sound."
+  },
+  {
+    "id": 82,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "put (u)",
+    "options": ["worn", "could", "fun", "pan"],
+    "answer": "B",
+    "explanation": "The 'u' in 'put' and 'ou' in 'could' represent the /ʊ/ sound."
+  },
+  {
+    "id": 83,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "king (i)",
+    "options": ["kit", "rind", "key", "bean"],
+    "answer": "A",
+    "explanation": "Both 'king' and 'kit' use the short /ɪ/ sound."
+  },
+  {
+    "id": 84,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "tan (a)",
+    "options": ["ten", "tin", "wan", "gas"],
+    "answer": "D",
+    "explanation": "Both 'tan' and 'gas' use the /æ/ sound."
+  },
+  {
+    "id": 85,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "debt (e)",
+    "options": ["said", "doubt", "gain", "eke"],
+    "answer": "A",
+    "explanation": "The 'e' in 'debt' and 'ai' in 'said' represent the /e/ sound."
+  },
+  {
+    "id": 86,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "soar (oa)",
+    "options": ["pot", "foal", "catch", "caught"],
+    "answer": "D",
+    "explanation": "Both 'soar' and 'caught' use the /ɔː/ sound."
+  },
+  {
+    "id": 87,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "dye (y)",
+    "options": ["deal", "dent", "tide", "day"],
+    "answer": "C",
+    "explanation": "Both 'dye' and 'tide' use the /aɪ/ diphthong."
+  },
+  {
+    "id": 88,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "date (a)",
+    "options": ["west", "height", "says", "heinous"],
+    "answer": "D",
+    "explanation": "The 'a' in 'date' and 'ei' in 'heinous' represent the /eɪ/ sound."
+  },
+  {
+    "id": 89,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "berth (er)",
+    "options": ["hurt", "hunt", "breath", "berry"],
+    "answer": "A",
+    "explanation": "Both 'berth' and 'hurt' use the /ɜː/ sound."
+  },
+  {
+    "id": 90,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "sure (u)",
+    "options": ["sower", "fewer", "grew", "floor"],
+    "answer": "B",
+    "explanation": "Both 'sure' and 'fewer' share a similar centering diphthong sound (/ʊə/ or /jʊə/)."
+  },
+  {
+    "id": 91,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "clothes (o)",
+    "options": ["clue", "bother", "claw", "both"],
+    "answer": "D",
+    "explanation": "Both 'clothes' and 'both' use the /əʊ/ sound."
+  },
+  {
+    "id": 92,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "rear (ea)",
+    "options": ["realm", "mere", "reed", "mare"],
+    "answer": "B",
+    "explanation": "Both 'rear' and 'mere' use the /ɪə/ sound."
+  },
+  {
+    "id": 93,
+    "pre_question": "Choose the word with the same vowel sound as the underlined part.",
+    "question": "shoe (oe)",
+    "options": ["prune", "great", "bush", "shone"],
+    "answer": "A",
+    "explanation": "Both 'shoe' and 'prune' use the /uː/ sound."
+  },
+  {
+    "id": 94,
+    "pre_question": "Choose the word with the same consonant sound as the underlined part.",
+    "question": "frame (f)",
+    "options": ["praise", "flame", "pram", "phrase"],
+    "answer": "D",
+    "explanation": "The 'f' in 'frame' and 'ph' in 'phrase' both represent the /f/ sound."
+  },
+  {
+    "id": 95,
+    "pre_question": "Choose the word with the same consonant sound as the underlined part.",
+    "question": "love (v)",
+    "options": ["few", "view", "plough", "cough"],
+    "answer": "B",
+    "explanation": "The 'v' in 'love' and 'v' in 'view' represent the /v/ sound."
+  },
+  {
+    "id": 96,
+    "pre_question": "Choose the word with the same consonant sound as the underlined part.",
+    "question": "through (th)",
+    "options": ["breathe", "both", "drew", "tram"],
+    "answer": "B",
+    "explanation": "The 'th' in 'through' and 'both' is the voiceless /θ/ sound."
+  },
+  {
+    "id": 97,
+    "pre_question": "Choose the word with the same consonant sound as the underlined part.",
+    "question": "scene (sc)",
+    "options": ["theme", "keen", "psyche", "prize"],
+    "answer": "C",
+    "explanation": "The 'sc' in 'scene' and 'ps' in 'psyche' represent the /s/ sound."
+  },
+  {
+    "id": 98,
+    "pre_question": "Choose the word with the same consonant sound as the underlined part.",
+    "question": "change (ch)",
+    "options": ["nature", "nation", "champagne", "chameleon"],
+    "answer": "A",
+    "explanation": "The 'ch' in 'change' and 't' in 'nature' represent the /tʃ/ sound."
+  },
+  {
+    "id": 99,
+    "pre_question": "Choose the word with the same consonant sound as the underlined part.",
+    "question": "pleasure (s)",
+    "options": ["pressure", "pleasing", "natural", "occasion"],
+    "answer": "D",
+    "explanation": "The 's' in 'pleasure' and 'si' in 'occasion' represent the /ʒ/ sound."
+  },
+  {
+    "id": 100,
+    "pre_question": "Choose the word with the same consonant sound as the underlined part.",
+    "question": "gender (g)",
+    "options": ["guilty", "good", "glitter", "joyful"],
+    "answer": "D",
+    "explanation": "The 'g' in 'gender' and 'j' in 'joyful' both represent the /dʒ/ sound."
+  },
+  {
+    "id": 101,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "ton (n)",
+    "options": {
+      "A": "knock",
+      "B": "hymn",
+      "C": "pink",
+      "D": "sing"
+    },
+    "answer": "A",
+    "explanation": "The 'n' in 'ton' is the /n/ sound. In 'knock', the 'kn' also represents the /n/ sound."
+  },
+  {
+    "id": 102,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "weather (th)",
+    "options": {
+      "A": "length",
+      "B": "brother",
+      "C": "think",
+      "D": "breath"
+    },
+    "answer": "B",
+    "explanation": "The 'th' in 'weather' is the voiced /ð/ sound, same as in 'brother'."
+  },
+  {
+    "id": 103,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "facts (ts)",
+    "options": {
+      "A": "face",
+      "B": "lots",
+      "C": "fast",
+      "D": "loathes"
+    },
+    "answer": "B",
+    "explanation": "The ending sound /ts/ in 'facts' matches the ending in 'lots'."
+  },
+  {
+    "id": 104,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "sheep (sh)",
+    "options": {
+      "A": "sign",
+      "B": "same",
+      "C": "wash",
+      "D": "sin"
+    },
+    "answer": "C",
+    "explanation": "The 'sh' sound /ʃ/ in 'sheep' is the same as the 'sh' in 'wash'."
+  },
+  {
+    "id": 105,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "young (y)",
+    "options": {
+      "A": "jump",
+      "B": "jog",
+      "C": "yen",
+      "D": "junior"
+    },
+    "answer": "C",
+    "explanation": "The 'y' in 'young' is the /j/ sound, same as in 'yen'."
+  },
+  {
+    "id": 106,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "laughed (d)",
+    "options": {
+      "A": "read",
+      "B": "bed",
+      "C": "sachet",
+      "D": "right"
+    },
+    "answer": "D",
+    "explanation": "In 'laughed', the '-ed' follows a voiceless sound /f/, so it is pronounced as /t/, same as 'right'."
+  },
+  {
+    "id": 107,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "tusk (sk)",
+    "options": {
+      "A": "box",
+      "B": "boats",
+      "C": "task",
+      "D": "talks"
+    },
+    "answer": "C",
+    "explanation": "The /sk/ consonant cluster in 'tusk' is identical to the one in 'task'."
+  },
+  {
+    "id": 108,
+    "pre_question": "From the words lettered A to D, choose the word that has the same consonant sound(s) as the one represented by the letters underlined.",
+    "question": "fill (ll)",
+    "options": {
+      "A": "alms",
+      "B": "calf",
+      "C": "blank",
+      "D": "could"
+    },
+    "answer": "C",
+    "explanation": "The 'l' sound is present in 'fill' and 'blank'. In 'alms', 'calf', and 'could', the 'l' is silent."
+  },
+  {
+    "id": 109,
+    "pre_question": "From the words lettered A to D, choose the word that rhymes with the given word.",
+    "question": "niece",
+    "options": {
+      "A": "keen",
+      "B": "knees",
+      "C": "peels",
+      "D": "piece"
+    },
+    "answer": "D",
+    "explanation": "'Niece' and 'piece' both end with the /iːs/ sound."
+  },
+  {
+    "id": 110,
+    "pre_question": "From the words lettered A to D, choose the word that rhymes with the given word.",
+    "question": "blue",
+    "options": {
+      "A": "flow",
+      "B": "blur",
+      "C": "grew",
+      "D": "show"
+    },
+    "answer": "C",
+    "explanation": "'Blue' and 'grew' both share the /uː/ rhyme."
+  },
+  {
+    "id": 111,
+    "pre_question": "From the words lettered A to D, choose the word that rhymes with the given word.",
+    "question": "court",
+    "options": {
+      "A": "cart",
+      "B": "plot",
+      "C": "flew",
+      "D": "fort"
+    },
+    "answer": "D",
+    "explanation": "'Court' and 'fort' both share the /ɔːt/ rhyme."
+  },
+  {
+    "id": 112,
+    "pre_question": "From the words lettered A to D, choose the word that rhymes with the given word.",
+    "question": "peel",
+    "options": {
+      "A": "pile",
+      "B": "pearl",
+      "C": "peal",
+      "D": "plea"
+    },
+    "answer": "C",
+    "explanation": "'Peel' and 'peal' are homophones, both sharing the /iːl/ sound."
+  },
+  {
+    "id": 113,
+    "pre_question": "From the words lettered A to D, choose the word that rhymes with the given word.",
+    "question": "style",
+    "options": {
+      "A": "bile",
+      "B": "bell",
+      "C": "stale",
+      "D": "fine"
+    },
+    "answer": "A",
+    "explanation": "'Style' and 'bile' both share the /aɪl/ rhyme."
+  },
+  {
+    "id": 114,
+    "pre_question": "From the words lettered A to D, choose the one that has the correct stress.",
+    "question": "accuracy",
+    "options": {
+      "A": "AC-cu-ra-cy",
+      "B": "ac-Cu-ra-cy",
+      "C": "ac-cu-RA-cy",
+      "D": "ac-cu-ra-CY"
+    },
+    "answer": "A",
+    "explanation": "In 'accuracy', the stress is on the first syllable."
+  },
+  {
+    "id": 115,
+    "pre_question": "From the words lettered A to D, choose the one that has the correct stress.",
+    "question": "consequential",
+    "options": {
+      "A": "CON-se-quen-tial",
+      "B": "con-SE-quen-tial",
+      "C": "con-se-QUEN-tial",
+      "D": "con-se-quen-TIAL"
+    },
+    "answer": "C",
+    "explanation": "Words ending in '-tial' usually have the stress on the penultimate (second to last) syllable."
+  },
+  {
+    "id": 116,
+    "pre_question": "From the words lettered A to D, choose the one that has the correct stress.",
+    "question": "insensitive",
+    "options": {
+      "A": "IN-sen-si-tive",
+      "B": "in-SEN-si-tive",
+      "C": "in-sen-SI-tive",
+      "D": "in-sen-si-TIVE"
+    },
+    "answer": "B",
+    "explanation": "The primary stress in 'insensitive' is on the second syllable."
+  },
+  {
+    "id": 117,
+    "pre_question": "From the words lettered A to D, choose the one that has the correct stress.",
+    "question": "brutality",
+    "options": {
+      "A": "BRU-tal-i-ty",
+      "B": "bru-TAL-i-ty",
+      "C": "bru-tal-I-ty",
+      "D": "bru-tal-i-TY"
+    },
+    "answer": "B",
+    "explanation": "Words ending in '-ity' are stressed on the third-to-last syllable."
+  },
+  {
+    "id": 118,
+    "pre_question": "Identify the one with the different stress pattern.",
+    "question": "Word List:",
+    "options": {
+      "A": "reduce",
+      "B": "prolong",
+      "C": "remove",
+      "D": "purpose"
+    },
+    "answer": "D",
+    "explanation": "'Reduce', 'prolong', and 'remove' are stressed on the second syllable; 'purpose' is stressed on the first."
+  },
+  {
+    "id": 119,
+    "pre_question": "Identify the one with the different stress pattern.",
+    "question": "Word List:",
+    "options": {
+      "A": "neglect",
+      "B": "direct",
+      "C": "respond",
+      "D": "credit"
+    },
+    "answer": "D",
+    "explanation": "'Neglect', 'direct', and 'respond' are stressed on the second syllable; 'credit' is stressed on the first."
+  },
+  {
+    "id": 120,
+    "pre_question": "Identify the one with the different stress pattern.",
+    "question": "Word List:",
+    "options": {
+      "A": "deter",
+      "B": "sailor",
+      "C": "tailor",
+      "D": "yoga"
+    },
+    "answer": "A",
+    "explanation": "'Sailor', 'tailor', and 'yoga' are stressed on the first syllable; 'deter' is stressed on the second."
+  },
+  {
+    "id": 121,
+    "pre_question": "Identify the one with the different stress pattern.",
+    "question": "Word List:",
+    "options": {
+      "A": "innate",
+      "B": "insane",
+      "C": "injure",
+      "D": "remind"
+    },
+    "answer": "C",
+    "explanation": "'Innate', 'insane', and 'remind' are stressed on the second syllable; 'injure' is stressed on the first."
+  },
+  {
+    "id": 122,
+    "pre_question": "Identify the one with the different stress pattern.",
+    "question": "Word List:",
+    "options": {
+      "A": "challenger",
+      "B": "solicit",
+      "C": "umbrella",
+      "D": "apprentice"
+    },
+    "answer": "A",
+    "explanation": "'Solicit', 'umbrella', and 'apprentice' are stressed on the second syllable; 'challenger' is stressed on the first."
+  },
+  {
+    "id": 123,
+    "pre_question": "Choose the question to which the given sentence is the appropriate answer (Emphatic Stress).",
+    "question": "Many students ATTEND lectures everyday.",
+    "options": {
+      "A": "Do many students skip lectures everyday?",
+      "B": "Do many students attend lectures every week?",
+      "C": "Do many drivers attend lectures everyday?",
+      "D": "Do many students attend concerts everyday?"
+    },
+    "answer": "A",
+    "explanation": "The emphatic stress is on 'ATTEND', so the question must contradict that action (skip)."
+  },
+  {
+    "id": 124,
+    "pre_question": "Choose the question to which the given sentence is the appropriate answer (Emphatic Stress).",
+    "question": "John's PARENTS have received the letters.",
+    "options": {
+      "A": "Have John's parents sent the letters?",
+      "B": "Have John's friends received the letters?",
+      "C": "Have John's parents received the scripts?",
+      "D": "Have William's parents received the letters?"
+    },
+    "answer": "B",
+    "explanation": "The stress is on 'PARENTS', so the question should contradict the subject (friends)."
+  },
+  {
+    "id": 125,
+    "pre_question": "Choose the question to which the given sentence is the appropriate answer (Emphatic Stress).",
+    "question": "The THIRD-YEAR girls were commended by the principal.",
+    "options": {
+      "A": "Were the third-year girls reprimanded by the principal?",
+      "B": "Were the third-year girls commended by the doctor?",
+      "C": "Were the third-year boys commended by the principal?",
+      "D": "Were the first-year girls commended by the principal?"
+    },
+    "answer": "D",
+    "explanation": "The stress is on 'THIRD-YEAR', so the question should contrast with the year (first-year)."
+  },
+  {
+    "id": 126,
+    "pre_question": "Choose the question to which the given sentence is the appropriate answer (Emphatic Stress).",
+    "question": "Stephen SELDOM goes to the house.",
+    "options": {
+      "A": "Does James seldom go the house?",
+      "B": "Does Stephen seldom go to the school?",
+      "C": "Does Stephen often go to the house?",
+      "D": "Does Stephen seldom leave the house?"
+    },
+    "answer": "C",
+    "explanation": "The stress is on 'SELDOM', so the question should contradict the frequency (often)."
+  },
+  {
+    "id": 127,
+    "pre_question": "Choose the question to which the given sentence is the appropriate answer (Emphatic Stress).",
+    "question": "All the EMPLOYEES rejected him.",
+    "options": {
+      "A": "Did all the employees reject him?",
+      "B": "Did some of the employees reject him?",
+      "C": "Did all the employees accept him?",
+      "D": "Did all the employers reject him?"
+    },
+    "answer": "D",
+    "explanation": "The stress is on 'EMPLOYEES', so the question should contrast the group (employers)."
+  },
+  {
+    "id": 128,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/əʊ/",
+    "options": {
+      "A": "vogue",
+      "B": "drool",
+      "C": "plough",
+      "D": "drawn"
+    },
+    "answer": "A",
+    "explanation": "'Vogue' contains the /əʊ/ diphthong, same as in 'go'."
+  },
+  {
+    "id": 129,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/ʊə/",
+    "options": {
+      "A": "pour",
+      "B": "count",
+      "C": "tour",
+      "D": "dear"
+    },
+    "answer": "C",
+    "explanation": "'Tour' contains the /ʊə/ sound."
+  },
+  {
+    "id": 130,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/t/",
+    "options": {
+      "A": "whistle",
+      "B": "soften",
+      "C": "listen",
+      "D": "pity"
+    },
+    "answer": "D",
+    "explanation": "In 'whistle', 'soften', and 'listen', the 't' is silent. It is pronounced in 'pity'."
+  },
+  {
+    "id": 131,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/æ/",
+    "options": {
+      "A": "early",
+      "B": "dragon",
+      "C": "bread",
+      "D": "card"
+    },
+    "answer": "B",
+    "explanation": "'Dragon' contains the short /æ/ sound in the first syllable."
+  },
+  {
+    "id": 132,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/b/",
+    "options": {
+      "A": "womb",
+      "B": "doubt",
+      "C": "public",
+      "D": "thumb"
+    },
+    "answer": "C",
+    "explanation": "In 'womb', 'doubt', and 'thumb', the 'b' is silent. It is pronounced in 'public'."
+  },
+  {
+    "id": 133,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/ə/",
+    "options": {
+      "A": "pence",
+      "B": "abuse",
+      "C": "cat",
+      "D": "refer"
+    },
+    "answer": "B",
+    "explanation": "The 'a' in 'abuse' is a schwa sound /ə/."
+  },
+  {
+    "id": 134,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/l/",
+    "options": {
+      "A": "calm",
+      "B": "lamb",
+      "C": "could",
+      "D": "salmon"
+    },
+    "answer": "B",
+    "explanation": "In 'calm', 'could', and 'salmon', the 'l' is silent. It is pronounced in 'lamb'."
+  },
+  {
+    "id": 135,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/k/",
+    "options": {
+      "A": "cane",
+      "B": "chain",
+      "C": "knight",
+      "D": "knife"
+    },
+    "answer": "A",
+    "explanation": "'Cane' starts with the /k/ sound. 'Chain' is /tʃ/, and 'knight'/'knife' have a silent 'k'."
+  },
+  {
+    "id": 136,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/ð/",
+    "options": {
+      "A": "northern",
+      "B": "bath",
+      "C": "healthy",
+      "D": "teeth"
+    },
+    "answer": "A",
+    "explanation": "'Northern' uses the voiced /ð/ sound. 'Bath', 'healthy', and 'teeth' use the voiceless /θ/."
+  },
+  {
+    "id": 137,
+    "pre_question": "Choose the word that contains the sound represented by the phonetic symbol.",
+    "question": "/ŋ/",
+    "options": {
+      "A": "tongue",
+      "B": "gone",
+      "C": "fan",
+      "D": "wind"
+    },
+    "answer": "A",
+    "explanation": "'Tongue' ends with the /ŋ/ sound."
+  }
+]

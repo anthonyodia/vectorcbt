@@ -1,0 +1,1290 @@
+{
+  "exam": "WAEC 2024 - Christian Religious Knowledge",
+  "totalQuestions": 50,
+  "sections": [
+    {
+      "sectionId": 1,
+      "sectionName": "Creation and Foundations",
+      "questions": [
+        {
+          "questionId": 1,
+          "question": "Which of the following creatures did God command into existence on the second day of creation?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Light"
+            },
+            {
+              "optionId": "B",
+              "text": "firmament"
+            },
+            {
+              "optionId": "C",
+              "text": "birds"
+            },
+            {
+              "optionId": "D",
+              "text": "vegetation"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "On the second day of creation, God created the firmament (the sky/expanse) to divide the waters above from the waters below."
+        },
+        {
+          "questionId": 2,
+          "question": "The determination of times and seasons was made possible with the creation of?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "light"
+            },
+            {
+              "optionId": "B",
+              "text": "ray"
+            },
+            {
+              "optionId": "C",
+              "text": "stars"
+            },
+            {
+              "optionId": "D",
+              "text": "moon"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "God created the stars along with the sun and moon to mark times, seasons, days, and years for humanity and all creation."
+        },
+        {
+          "questionId": 3,
+          "question": "Which of the following was man's responsibility to other creatures?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Provide them with food"
+            },
+            {
+              "optionId": "B",
+              "text": "Have dominion over them"
+            },
+            {
+              "optionId": "C",
+              "text": "Preserve them"
+            },
+            {
+              "optionId": "D",
+              "text": "Respect them"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "God gave man dominion over all creatures, meaning he was to exercise authority and stewardship over them."
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "sectionName": "Old Testament - Joseph and Moses",
+      "questions": [
+        {
+          "questionId": 4,
+          "question": "In which of the following ways did God prepare Joseph for his leadership role in Egypt? Through the",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "love his brothers had for him"
+            },
+            {
+              "optionId": "B",
+              "text": "tribulations of his early life"
+            },
+            {
+              "optionId": "C",
+              "text": "disagreement with his brothers"
+            },
+            {
+              "optionId": "D",
+              "text": "enmity with other prison inmates"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "God prepared Joseph through his tribulations—his slavery, false accusation, and imprisonment—which developed his character and faith."
+        },
+        {
+          "questionId": 5,
+          "question": "Which of the following was the greatest reason for which Joseph's brothers decided to do away with him?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "he was over pampered"
+            },
+            {
+              "optionId": "B",
+              "text": "his father made him a special robe"
+            },
+            {
+              "optionId": "C",
+              "text": "he was loved most by their father"
+            },
+            {
+              "optionId": "D",
+              "text": "the meaning of his dreams"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Joseph's brothers were threatened by the meaning of his dreams, which suggested he would rule over them, motivating their jealousy and hatred."
+        },
+        {
+          "questionId": 6,
+          "question": "The twelve men Moses sent to spy out the land of Canaan were meant to verify the following except the",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "strength and weakness of the inhabitants"
+            },
+            {
+              "optionId": "B",
+              "text": "population and size of the land"
+            },
+            {
+              "optionId": "C",
+              "text": "size of the army and their weaponery"
+            },
+            {
+              "optionId": "D",
+              "text": "topography and fertility of the land"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The spies were to assess the land's geography, fertility, inhabitants' strength, and size, but not specifically to report on the enemy's army size and weapons."
+        },
+        {
+          "questionId": 7,
+          "question": "The presence of God among His people during the day on their way out of Egypt to the wilderness of Sinai was felt in the form of",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "fire"
+            },
+            {
+              "optionId": "B",
+              "text": "light"
+            },
+            {
+              "optionId": "C",
+              "text": "cloud"
+            },
+            {
+              "optionId": "D",
+              "text": "rainbow"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "God's presence appeared as a pillar of cloud by day and a pillar of fire by night to guide and protect the Israelites during their wilderness journey."
+        }
+      ]
+    },
+    {
+      "sectionId": 3,
+      "sectionName": "Old Testament - Joshua and the Judges",
+      "questions": [
+        {
+          "questionId": 8,
+          "question": "Which of the following was God's condition to Joshua if he wishes to be successful? He should",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "fast all the time"
+            },
+            {
+              "optionId": "B",
+              "text": "humble himself before the people"
+            },
+            {
+              "optionId": "C",
+              "text": "meditate on the book of the law"
+            },
+            {
+              "optionId": "D",
+              "text": "follow Moses' footsteps"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "God commanded Joshua to meditate on the book of the law day and night, keeping it in his mouth so he could observe all written in it for his success."
+        },
+        {
+          "questionId": 9,
+          "question": "When the people of Israel heard the majority report of the spies, they took a decision to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "pray to God to come to their aid"
+            },
+            {
+              "optionId": "B",
+              "text": "fight the descendants of Anak"
+            },
+            {
+              "optionId": "C",
+              "text": "choose a leader and return to egypt"
+            },
+            {
+              "optionId": "D",
+              "text": "stone joshua and caleb for blasphemy"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Discouraged by the spies' negative report, the Israelites rebelled against God and decided to appoint a leader to take them back to Egypt."
+        },
+        {
+          "questionId": 10,
+          "question": "The history of Barak's war, story flawed by the fact he",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "consulted the oracles to find out the outcome of his battle"
+            },
+            {
+              "optionId": "B",
+              "text": "conspired with Jael to take out Sisera and Canaanites"
+            },
+            {
+              "optionId": "C",
+              "text": "took the tribes of Zebulun and Naphtali to war with him"
+            },
+            {
+              "optionId": "D",
+              "text": "sought the presence of Deborah as a reinforcement to his courage"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Barak's faith was flawed because he relied on Deborah's presence for courage rather than fully trusting God's promise to lead him to victory."
+        },
+        {
+          "questionId": 11,
+          "question": "After whose death did God sell the Israelites into the hands of king Jabin?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Moses"
+            },
+            {
+              "optionId": "B",
+              "text": "Ehud"
+            },
+            {
+              "optionId": "C",
+              "text": "aaron"
+            },
+            {
+              "optionId": "D",
+              "text": "caleb"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "After Ehud's death, the Israelites returned to sin, and God sold them into the hands of Jabin, king of Canaan, for twenty years."
+        }
+      ]
+    },
+    {
+      "sectionId": 4,
+      "sectionName": "Old Testament - Saul and David",
+      "questions": [
+        {
+          "questionId": 12,
+          "question": "Which of the following led to the death of Eli?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "the death of his sons"
+            },
+            {
+              "optionId": "B",
+              "text": "the defeat of the Israelites"
+            },
+            {
+              "optionId": "C",
+              "text": "the capture of the ark"
+            },
+            {
+              "optionId": "D",
+              "text": "it was his time to die"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Eli died when he heard news of the capture of the ark of God and the death of his sons. The shock caused him to fall backward and break his neck."
+        },
+        {
+          "questionId": 13,
+          "question": "Yet his sons did not walk in his ways but turned aside for gains, they took bribes ... The sons being referred to here were",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Hophni and Phinehas"
+            },
+            {
+              "optionId": "B",
+              "text": "Jonathan and Abinadab"
+            },
+            {
+              "optionId": "C",
+              "text": "Joab and Asahel"
+            },
+            {
+              "optionId": "D",
+              "text": "Joel and Abijah"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Hophni and Phinehas, Eli's sons, became corrupt priests who took bribes and did not follow their father's righteous ways."
+        },
+        {
+          "questionId": 14,
+          "question": "The account of Saul's rejection as a king is intended to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "explain the breach between samuel and saul"
+            },
+            {
+              "optionId": "B",
+              "text": "teach the consequences of disobedience"
+            },
+            {
+              "optionId": "C",
+              "text": "show how unfit saul was as a leader"
+            },
+            {
+              "optionId": "D",
+              "text": "show the desire for power by men of God"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Saul's rejection teaches the important lesson that disobedience to God's commands, regardless of status or authority, leads to downfall."
+        },
+        {
+          "questionId": 15,
+          "question": "Rather than killing Saul, David took his spear and jar of water and rebuked Abner for",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "sabotage and complicity"
+            },
+            {
+              "optionId": "B",
+              "text": "insubordination and inefficiency"
+            },
+            {
+              "optionId": "C",
+              "text": "negligence and dereliction"
+            },
+            {
+              "optionId": "D",
+              "text": "gross misconduct and ineptitude"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "David rebuked Abner for negligence and dereliction of duty in failing to properly guard King Saul while he slept."
+        },
+        {
+          "questionId": 16,
+          "question": "Saul's death on Mount Gilboa was as a consequence of his",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "inability to obey God's instructions"
+            },
+            {
+              "optionId": "B",
+              "text": "armor bearer's obedience to his command"
+            },
+            {
+              "optionId": "C",
+              "text": "loss of confidence in David the musician"
+            },
+            {
+              "optionId": "D",
+              "text": "sorcery by consulting the witch of Endor"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Saul's death was the ultimate consequence of his persistent disobedience to God's commands throughout his reign as king."
+        }
+      ]
+    },
+    {
+      "sectionId": 5,
+      "sectionName": "Old Testament - Solomon and the Prophets",
+      "questions": [
+        {
+          "questionId": 17,
+          "question": "Solomon enjoyed the following gifts during his reign as King except",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "peaceful succession"
+            },
+            {
+              "optionId": "B",
+              "text": "a discerning mind"
+            },
+            {
+              "optionId": "C",
+              "text": "having many wives"
+            },
+            {
+              "optionId": "D",
+              "text": "fame and wealth"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "While Solomon enjoyed wisdom, wealth, fame, and many wives, his succession was not particularly peaceful due to the division of the kingdom after his death."
+        },
+        {
+          "questionId": 18,
+          "question": "God registered His displeasure with David for bearing a child with Uriah's wife by striking the child with",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "deafness"
+            },
+            {
+              "optionId": "B",
+              "text": "sickness"
+            },
+            {
+              "optionId": "C",
+              "text": "blindness"
+            },
+            {
+              "optionId": "D",
+              "text": "death"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "God struck the child born of David and Bathsheba with sickness, and the child died as punishment for David's sin of adultery and murder."
+        },
+        {
+          "questionId": 19,
+          "question": "Solomon assembled the elders and leaders of the tribes of Israel in order to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "discuss how to build the temple"
+            },
+            {
+              "optionId": "B",
+              "text": "bring back the ark of the Lord"
+            },
+            {
+              "optionId": "C",
+              "text": "settle important disputes"
+            },
+            {
+              "optionId": "D",
+              "text": "dine and make merry"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Solomon assembled the leaders of Israel to bring back the ark of the Lord from the City of David to its place in the temple he had built."
+        },
+        {
+          "questionId": 20,
+          "question": "Which of the following punishment was meted out to Solomon as a result of his idolatry?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "He would lose all his wives and concubines to his enemies"
+            },
+            {
+              "optionId": "B",
+              "text": "All the tribes of Israel would be taken away from him"
+            },
+            {
+              "optionId": "C",
+              "text": "All his children and wives would go into exile"
+            },
+            {
+              "optionId": "D",
+              "text": "All the palaces and store houses would be occupied by his enemies"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Due to Solomon's idolatry and turning from God, he was punished with the loss of the kingdom—most of the tribes were torn away from his descendants."
+        }
+      ]
+    },
+    {
+      "sectionId": 6,
+      "sectionName": "Old Testament - Kings and Prophets",
+      "questions": [
+        {
+          "questionId": 21,
+          "question": "Obadiah demonstrated his loyalty to God during Ahab's reign where he",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "refused to serve the king's idols"
+            },
+            {
+              "optionId": "B",
+              "text": "divorced his idolatrous wife"
+            },
+            {
+              "optionId": "C",
+              "text": "hid the prophets of God in caves"
+            },
+            {
+              "optionId": "D",
+              "text": "tore down the altars of Baal"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Obadiah demonstrated loyalty to God by hiding one hundred prophets in caves and feeding them bread and water when Ahab sought to kill them."
+        },
+        {
+          "questionId": 22,
+          "question": "The miraculous healing of Naaman teaches mankind that",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "God's mercy applies to all"
+            },
+            {
+              "optionId": "B",
+              "text": "river Jordan is full of healing powers"
+            },
+            {
+              "optionId": "C",
+              "text": "God is not limited to Israel"
+            },
+            {
+              "optionId": "D",
+              "text": "Servants can help great men"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Naaman's healing demonstrates that God's healing power and mercy extend to all people, regardless of nationality or status."
+        },
+        {
+          "questionId": 23,
+          "question": "Which of the following reasons cause Naboth not to part with his vineyard?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Ahab had become greedy"
+            },
+            {
+              "optionId": "B",
+              "text": "It was a family property"
+            },
+            {
+              "optionId": "C",
+              "text": "Parting with it meant defeat"
+            },
+            {
+              "optionId": "D",
+              "text": "The king had become dictatorial"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Naboth refused to sell his vineyard because it was a family inheritance passed down from his ancestors, which was sacred in Israelite law."
+        },
+        {
+          "questionId": 24,
+          "question": "King Josiah took a courageous step in the presence of the Israelites by the pillar when he",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "dismissed the high priest"
+            },
+            {
+              "optionId": "B",
+              "text": "made a covenant before the Lord"
+            },
+            {
+              "optionId": "C",
+              "text": "killed all the male prostitutes"
+            },
+            {
+              "optionId": "D",
+              "text": "disposed of the idolatrous priests"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Josiah made a covenant before the Lord in the presence of the people, pledging to follow God and keep His commandments."
+        },
+        {
+          "questionId": 25,
+          "question": "The immediate action King Josiah took during his religious reforms was the",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "breaking down of the house of the male-cult prostitutes"
+            },
+            {
+              "optionId": "B",
+              "text": "removal of all idolatrous priests from offices"
+            },
+            {
+              "optionId": "C",
+              "text": "removal and burning of the vessels of Baal and Asherah"
+            },
+            {
+              "optionId": "D",
+              "text": "defiling of the high places where the priests burnt incense"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Josiah's first action in religious reform was removing and burning the vessels of Baal and Asherah from the temple to purge idolatry."
+        }
+      ]
+    },
+    {
+      "sectionId": 7,
+      "sectionName": "Old Testament - Exile and Return",
+      "questions": [
+        {
+          "questionId": 26,
+          "question": "In which of the following ways was Nehemiah said to have displayed patriotism? When he",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "asked permission to visit his home"
+            },
+            {
+              "optionId": "B",
+              "text": "mobilized people to return home"
+            },
+            {
+              "optionId": "C",
+              "text": "collected taxes from the Jews for the home country"
+            },
+            {
+              "optionId": "D",
+              "text": "felt the plight of his people and took remedial steps"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Nehemiah displayed patriotism by feeling compassion for his people's distress and taking action to rebuild the walls of Jerusalem."
+        },
+        {
+          "questionId": 27,
+          "question": "What are these feeble Jews doing? These words of Sanballat teach us that",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "no matter what we do, people will ridicule us"
+            },
+            {
+              "optionId": "B",
+              "text": "certain jokes are very destructive"
+            },
+            {
+              "optionId": "C",
+              "text": "we must be vigilant while we work"
+            },
+            {
+              "optionId": "D",
+              "text": "people would appreciate our weakness and assist"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Sanballat's mocking words teach that opposition and ridicule can come regardless of the righteousness of one's work or effort."
+        },
+        {
+          "questionId": 28,
+          "question": "That Daniel, who is one of the exiles from Judah, pays no heed to you, O king ... The king being addressed here was",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Cyrus"
+            },
+            {
+              "optionId": "B",
+              "text": "Ashurbanipal"
+            },
+            {
+              "optionId": "C",
+              "text": "Nebuchadnezzar"
+            },
+            {
+              "optionId": "D",
+              "text": "Darius"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "This refers to King Darius of Persia, who issued the decree that Daniel should not pray to anyone but the king, and Daniel refused to obey."
+        }
+      ]
+    },
+    {
+      "sectionId": 8,
+      "sectionName": "Old Testament - The Prophets",
+      "questions": [
+        {
+          "questionId": 29,
+          "question": "Seek me and live; but do not seek Bethel and do not enter Gilgah ... This text from Amos which was a reaction to the mode of worship of the Israelites express the",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Omnipresence nature of God"
+            },
+            {
+              "optionId": "B",
+              "text": "People's trust in God"
+            },
+            {
+              "optionId": "C",
+              "text": "futility of false and cultic worship"
+            },
+            {
+              "optionId": "D",
+              "text": "people's desire to escape justice"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Amos condemns the Israelites' reliance on cultic worship at Bethel and Gilgal, declaring it futile; instead, they must seek God himself."
+        },
+        {
+          "questionId": 30,
+          "question": "The saying that the children of Israel shall dwell many days without ephod means",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "complete starvation in Israel is inevitable"
+            },
+            {
+              "optionId": "B",
+              "text": "Sleeping without clothes is imminent"
+            },
+            {
+              "optionId": "C",
+              "text": "no priestly activities will be in Israel"
+            },
+            {
+              "optionId": "D",
+              "text": "Israel will be exposed to calamity"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The ephod was worn by the priest; Israel being without it means there will be no priestly or religious activities—a spiritual desolation."
+        }
+      ]
+    },
+    {
+      "sectionId": 9,
+      "sectionName": "New Testament - Jesus' Ministry",
+      "questions": [
+        {
+          "questionId": 31,
+          "question": "Immediately after Jesus was baptized, the following incidents occurred except",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "the heavens were opened"
+            },
+            {
+              "optionId": "B",
+              "text": "angels came and ministered to him"
+            },
+            {
+              "optionId": "C",
+              "text": "the Spirit of God descended on him like a dove"
+            },
+            {
+              "optionId": "D",
+              "text": "a voice from heaven introduced him as son of God"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "While the heavens opened, the Spirit descended as a dove, and a voice confirmed Jesus as God's Son, angels ministering to Him occurred after His temptation, not immediately after baptism."
+        },
+        {
+          "questionId": 32,
+          "question": "Which of the following attributes of Jesus was demonstrated during his temptation?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "His humble nature"
+            },
+            {
+              "optionId": "B",
+              "text": "Special relation with God"
+            },
+            {
+              "optionId": "C",
+              "text": "reliance on the Holy Spirit in him"
+            },
+            {
+              "optionId": "D",
+              "text": "abundant knowledge of the scriptures"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "During His temptation, Jesus demonstrated His reliance on the Holy Spirit and God's word, refusing to use His divine power for selfish purposes."
+        },
+        {
+          "questionId": 33,
+          "question": "Whoever does not bear his own cross and come after me, cannot be my disciple. This statement implies?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "readiness to fast and pray"
+            },
+            {
+              "optionId": "B",
+              "text": "ability to carry Jesus' cross"
+            },
+            {
+              "optionId": "C",
+              "text": "readiness to deny one self"
+            },
+            {
+              "optionId": "D",
+              "text": "bearing the cross of others"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Bearing one's cross means denying oneself, submitting to God's will, and being willing to sacrifice personal desires for following Christ."
+        },
+        {
+          "questionId": 34,
+          "question": "Jesus' call of Matthew, the tax collector, is a demonstration that Christians",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "are free to call anyone they like"
+            },
+            {
+              "optionId": "B",
+              "text": "need to study people closely before calling them"
+            },
+            {
+              "optionId": "C",
+              "text": "must be careful with people of character"
+            },
+            {
+              "optionId": "D",
+              "text": "need not discriminate against sinners"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Jesus' calling of Matthew demonstrates that God's grace extends to all people, including sinners, without discrimination or judgment."
+        },
+        {
+          "questionId": 35,
+          "question": "Which of the following virtues enhances forgiveness?",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Humility"
+            },
+            {
+              "optionId": "B",
+              "text": "Kindness"
+            },
+            {
+              "optionId": "C",
+              "text": "Mercy"
+            },
+            {
+              "optionId": "D",
+              "text": "Faithfulness"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Mercy—compassion and compassionate treatment of others—is the virtue that most directly enhances and enables forgiveness."
+        }
+      ]
+    },
+    {
+      "sectionId": 10,
+      "sectionName": "New Testament - Crucifixion and Resurrection",
+      "questions": [
+        {
+          "questionId": 36,
+          "question": "All the following characteristics were true of the early church except",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "sharing of possessions among themselves"
+            },
+            {
+              "optionId": "B",
+              "text": "complaints about unfair distribution of food"
+            },
+            {
+              "optionId": "C",
+              "text": "admission into the church through baptism"
+            },
+            {
+              "optionId": "D",
+              "text": "facing persecution boldly after Stephen's death"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "While the early church did share possessions, had distribution issues, and required baptism for admission, many believers fled or were scattered due to persecution after Stephen's death rather than facing it boldly together."
+        },
+        {
+          "questionId": 37,
+          "question": "The arrival of the Holy Spirit on the day of pentecost was experienced by the disciples through",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "The sound of a trumpet"
+            },
+            {
+              "optionId": "B",
+              "text": "a mighty rushing wind"
+            },
+            {
+              "optionId": "C",
+              "text": "the bodily appearance of Christ"
+            },
+            {
+              "optionId": "D",
+              "text": "tongues of fire"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "On the day of Pentecost, the disciples experienced the Holy Spirit through a mighty rushing wind and tongues of fire appearing over their heads."
+        }
+      ]
+    },
+    {
+      "sectionId": 11,
+      "sectionName": "New Testament - The Early Church",
+      "questions": [
+        {
+          "questionId": 38,
+          "question": "Which of the following incidents occurred following Peter's post-pentecost sermon which led to the baptism of three thousand souls? The converts",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Devoted themselves to the apostles teaching and fellowship"
+            },
+            {
+              "optionId": "B",
+              "text": "created disciplinary problems for the apostles"
+            },
+            {
+              "optionId": "C",
+              "text": "occasioned the appointment of the deacons"
+            },
+            {
+              "optionId": "D",
+              "text": "contributed to the welfare of the members"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "After three thousand were baptized, the converts devoted themselves to the apostles' teaching, fellowship, breaking bread, and prayer."
+        },
+        {
+          "questionId": 39,
+          "question": "One of the qualifications set out by the apostles as a requirement for the appointment of the deacons was",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "moral uprightness"
+            },
+            {
+              "optionId": "B",
+              "text": "speaking in tongues"
+            },
+            {
+              "optionId": "C",
+              "text": "Kindness and boldness"
+            },
+            {
+              "optionId": "D",
+              "text": "baptism and confirmation"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "The apostles required deacons to be of good standing, full of the Spirit and wisdom, and of moral uprightness to serve the widows and needy."
+        },
+        {
+          "questionId": 40,
+          "question": "One of the outcomes of the persecutions of the early church was that",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "believers left Jerusalem to settle in other towns"
+            },
+            {
+              "optionId": "B",
+              "text": "fear gripped the followers into utter silence"
+            },
+            {
+              "optionId": "C",
+              "text": "the enrollment of the church community dwindled"
+            },
+            {
+              "optionId": "D",
+              "text": "those who were scattered carried out evangelism"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "The persecution that followed Stephen's death caused believers to scatter, but those scattered preached the gospel, spreading Christianity to new areas."
+        }
+      ]
+    },
+    {
+      "sectionId": 12,
+      "sectionName": "New Testament - Teaching and Parables",
+      "questions": [
+        {
+          "questionId": 41,
+          "question": "Jesus told the story of the servant who owed his master in order to teach",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Compassion"
+            },
+            {
+              "optionId": "B",
+              "text": "faithfulness"
+            },
+            {
+              "optionId": "C",
+              "text": "forgiveness"
+            },
+            {
+              "optionId": "D",
+              "text": "sincerity"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The parable of the unforgiving servant teaches the importance of forgiveness, showing how we must forgive others as God forgives us."
+        },
+        {
+          "questionId": 42,
+          "question": "For which of the following reasons was the thief at the right hand of Jesus promised paradise? He",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "was very clever"
+            },
+            {
+              "optionId": "B",
+              "text": "was good to Jesus"
+            },
+            {
+              "optionId": "C",
+              "text": "was not among those who crucified Jesus"
+            },
+            {
+              "optionId": "D",
+              "text": "acknowledged and regretted his deeds"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "The thief on the cross was promised paradise because he acknowledged Jesus as Lord, confessed his sins, and showed genuine repentance."
+        },
+        {
+          "questionId": 43,
+          "question": "Eli Eli lama sabachthani. This citation by Jesus on the cross was construed to mean",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "crying to God"
+            },
+            {
+              "optionId": "B",
+              "text": "calling on Elijah"
+            },
+            {
+              "optionId": "C",
+              "text": "calling Eli, the priest"
+            },
+            {
+              "optionId": "D",
+              "text": "crying to his mother"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Eli Eli lama sabachthani means 'My God, My God, why have you forsaken me?'—Jesus' cry of anguish to God expressing the pain of the crucifixion."
+        }
+      ]
+    },
+    {
+      "sectionId": 13,
+      "sectionName": "New Testament - James, Peter and Christian Living",
+      "questions": [
+        {
+          "questionId": 44,
+          "question": "According to James, unanswered prayers are caused by the following factors except",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "Lack of faith"
+            },
+            {
+              "optionId": "B",
+              "text": "persistence in prayer"
+            },
+            {
+              "optionId": "C",
+              "text": "selfishness in prayer"
+            },
+            {
+              "optionId": "D",
+              "text": "praying outside God's will"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "James teaches that prayers go unanswered due to lack of faith, selfish motives, and praying outside God's will. Persistence in prayer is encouraged, not a cause of unanswered prayers."
+        },
+        {
+          "questionId": 45,
+          "question": "Religion that is pure and undefiled before God demands",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "keeping the commandment of God"
+            },
+            {
+              "optionId": "B",
+              "text": "loving your neighbour as yourself"
+            },
+            {
+              "optionId": "C",
+              "text": "keeping oneself unstained from the world"
+            },
+            {
+              "optionId": "D",
+              "text": "accepting Jesus as your Lord and saviour"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Pure and undefiled religion before God, according to James, is to care for the orphans and widows and to keep oneself unstained from the world."
+        },
+        {
+          "questionId": 46,
+          "question": "Which of the following, according to Peter, is a characteristic of a good citizen? One who",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "builds houses and rents to those who do not have"
+            },
+            {
+              "optionId": "B",
+              "text": "provides transport at reduced cost for other citizens"
+            },
+            {
+              "optionId": "C",
+              "text": "obeys the law of the state and fulfills his obligation"
+            },
+            {
+              "optionId": "D",
+              "text": "helps to finance the government all the time"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Peter teaches that a good citizen is one who obeys the laws of the state, respects those in authority, and fulfills their civic obligations."
+        },
+        {
+          "questionId": 47,
+          "question": "In the teaching of Peter, when Christians become good citizens, they",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "receive the crown of glory in heaven"
+            },
+            {
+              "optionId": "B",
+              "text": "silence the ignorance of foolish men"
+            },
+            {
+              "optionId": "C",
+              "text": "overcome the evil intentions of men"
+            },
+            {
+              "optionId": "D",
+              "text": "attract blessings and upliftment"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Peter teaches that when Christians live as good citizens, doing right and obeying laws, they silence the ignorance of foolish people who oppose them."
+        },
+        {
+          "questionId": 48,
+          "question": "For christians to continue their privileged freedom Peter suggests that they should",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "claim superiority at all cost"
+            },
+            {
+              "optionId": "B",
+              "text": "use it as a pretext for evil"
+            },
+            {
+              "optionId": "C",
+              "text": "do what is right always"
+            },
+            {
+              "optionId": "D",
+              "text": "endure pain and suffering"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Peter teaches that Christians should guard their freedom by living as servants of God and doing what is right, not using freedom as a pretext for evil."
+        }
+      ]
+    },
+    {
+      "sectionId": 14,
+      "sectionName": "Additional Concepts",
+      "questions": [
+        {
+          "questionId": 49,
+          "question": "The concept of grace in Christian theology primarily refers to",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "God's unmerited favor and blessing"
+            },
+            {
+              "optionId": "B",
+              "text": "earning salvation through good works"
+            },
+            {
+              "optionId": "C",
+              "text": "obedience to the law"
+            },
+            {
+              "optionId": "D",
+              "text": "human achievement and effort"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Grace is God's free, unmerited favor and blessing given to humanity. It is not earned through works but freely given by God's compassion."
+        },
+        {
+          "questionId": 50,
+          "question": "The second coming of Christ is characterized by all the following except",
+          "options": [
+            {
+              "optionId": "A",
+              "text": "judgment of all people"
+            },
+            {
+              "optionId": "B",
+              "text": "establishment of God's eternal kingdom"
+            },
+            {
+              "optionId": "C",
+              "text": "immediate enjoyment of physical pleasures"
+            },
+            {
+              "optionId": "D",
+              "text": "resurrection of the dead"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "The second coming involves judgment, resurrection, and God's eternal kingdom, but not immediate enjoyment of physical pleasures as some wrongly teach."
+        }
+      ]
+    }
+  ]
+}

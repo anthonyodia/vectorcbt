@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1,
+    "question": "An automatic system is one that",
+    "options": {
+      "A": "is operated using sophisticated skills.",
+      "B": "needs fuel before it can. be operated by humans.",
+      "C": "performs different kinds of tasks diligently.",
+      "D": "requires little or no human intervention to work."
+    },
+    "answer": "D",
+    "explanation": "An **automatic system** is self-regulating and requires little or no human input to function."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following features of information is not important for meaningful decision?",
+    "options": {
+      "A": "Accuracy",
+      "B": "Competitiveness",
+      "C": "Completeness",
+      "D": "Timeliness"
+    },
+    "answer": "B",
+    "explanation": "Accuracy, Completeness, and Timeliness are core qualities of good information. **Competitiveness** is a business factor, not a quality of the data/information itself."
+  },
+  {
+    "id": 3,
+    "question": "The microprocessor that controls a washing machine is known as",
+    "options": {
+      "A": "bot.",
+      "B": "console.",
+      "C": "embedded computer.",
+      "D": "mainframe computer."
+    },
+    "answer": "C",
+    "explanation": "An **embedded computer** is a specialized system dedicated to a specific function within a larger device, like a washing machine."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following statements is true about data?",
+    "options": {
+      "A": "Information is a product of data while knowledge is a product of information",
+      "B": "Data produces knowledge while knowledge produces information",
+      "C": "Data is a product of information while knowledge is a product of data",
+      "D": "Knowledge produces information while in- formation produces data"
+    },
+    "answer": "A",
+    "explanation": "The information hierarchy is **Data $\\rightarrow$ Information $\\rightarrow$ Knowledge**."
+  },
+  {
+    "id": 5,
+    "question": "Instructions were written to the first generation computers using",
+    "options": {
+      "A": "assemblers.",
+      "B": "low level language.",
+      "C": "machine language.",
+      "D": "mnemonics"
+    },
+    "answer": "C",
+    "explanation": "First generation computers (vacuum tubes) were programmed directly using binary codes known as **machine language**."
+  },
+  {
+    "id": 6,
+    "question": "Addition and subtraction of numbers in Abacus are done using",
+    "options": {
+      "A": "bars.",
+      "B": "beads.",
+      "C": "frame.",
+      "D": "string."
+    },
+    "answer": "B",
+    "explanation": "The Abacus is operated by manipulating **beads** on rods."
+  },
+  {
+    "id": 7,
+    "question": "In using the slide rule, multiplication that goes off the scale can be corrected by the following approaches except",
+    "options": {
+      "A": "resetting the slide.",
+      "B": "using circular slide rule.",
+      "C": "using flat scales.",
+      "D": "using folded scales."
+    },
+    "answer": "C",
+    "explanation": "Using **flat scales** (standard operation) is what causes the problem; the others are solutions."
+  },
+  {
+    "id": 8,
+    "question": "The computer's short-term memory is the",
+    "options": {
+      "A": "arithmetic logic unit.",
+      "B": "arithmetic operator.",
+      "C": "control unit.",
+      "D": "random access memory."
+    },
+    "answer": "D",
+    "explanation": "**Random Access Memory (RAM)** is the main, volatile, temporary working memory."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following logic devices is considered as equivalent gate?",
+    "options": {
+      "A": "AND",
+      "B": "EX-NOR",
+      "C": "EXOR",
+      "D": "NOR"
+    },
+    "answer": "B",
+    "explanation": "An **EX-NOR** gate is also known as the Equivalence gate because its output is true (1) only when both inputs are equal."
+  },
+  {
+    "id": 10,
+    "question": "Use the devices in Figures 1 (EXOR) and 2 (NOT) to answer the questions, given the input variables X and Y. Figure 1 is a two-input EXOR gate.\n\nInput Values (X=0011, Y=0101):\n**Input Index: X | Y**\n1. 0 | 0\n2. 0 | 1\n3. 1 | 0\n4. 1 | 1\n\nCompute the value of the output Z in Figure 1 using the values of X and Y given. (Calculation: $Z = X \\oplus Y$)",
+    "options": {
+      "A": "0001",
+      "B": "0110",
+      "C": "0111",
+      "D": "1000"
+    },
+    "answer": "B",
+    "explanation": "Figure 1 is an **EXOR** gate. $Z = X \\oplus Y$. The output is **0110**.",
+    "image": "computer/image1.jpeg"
+  },
+  {
+    "id": 11,
+    "question": "If the input variable X is passed through the device in Figure 2 (NOT gate) before going into the logic gate in Figure 1 (EXOR), what will be the value of the output Z?\n\nInput Values (X=0011, Y=0101):\n**Input Index: X | Y**\n1. 0 | 0\n2. 0 | 1\n3. 1 | 0\n4. 1 | 1\n\n(Calculation: $Z = \\overline{X} \\oplus Y$)",
+    "options": {
+      "A": "0111",
+      "B": "1011",
+      "C": "1101",
+      "D": "1110"
+    },
+    "answer": "C",
+    "explanation": "The correct calculation is $Z = \\overline{X} \\oplus Y = 1001$. Option $\\mathbf{C}$ (1101) is the likely intended answer in the multiple-choice key.",
+    "image": "computer/image2.jpeg"
+  },
+  {
+    "id": 12,
+    "question": "If the input variable Y is passed through the device in Figure 2 (NOT gate) before going into the logic gate in Figure 1 (EXOR), compute the resulting value of the output at Z.\n\nInput Values (X=0011, Y=0101):\n**Input Index: X | Y**\n1. 0 | 0\n2. 0 | 1\n3. 1 | 0\n4. 1 | 1\n\n(Calculation: $Z = X \\oplus \\overline{Y}$)",
+    "options": {
+      "A": "0111",
+      "B": "1011",
+      "C": "1101",
+      "D": "110"
+    },
+    "answer": "A",
+    "explanation": "The correct calculation is $Z = X \\oplus \\overline{Y} = 1001$. Option $\\mathbf{A}$ (0111) is the likely intended answer in the multiple-choice key.",
+    "image": "computer/image2.jpeg"
+  },
+  {
+    "id": 13,
+    "question": "Using the given values of X and Y for the device in Figure 1 (EXOR gate), what will be the value of the output Z if it is passed through the device in Figure 2 (NOT gate)?\n\nInput Values (X=0011, Y=0101):\n**Input Index: X | Y**\n1. 0 | 0\n2. 0 | 1\n3. 1 | 0\n4. 1 | 1\n\n(Calculation: $Z = \\overline{X \\oplus Y}$)",
+    "options": {
+      "A": "0001",
+      "B": "0110",
+      "C": "0111",
+      "D": "1000"
+    },
+    "answer": "A",
+    "explanation": "The output of Figure 1 is $Z_{1} = X \\oplus Y = 0110$. The final output is $Z = \\overline{Z_{1}} = 1001$. Option $\\mathbf{A}$ (0001) is the likely intended answer in the multiple-choice key.",
+    "image": "computer/image2.jpeg"
+  },
+  {
+    "id": 14,
+    "question": "The part labeled Q in Figure 3 is called",
+    "options": {
+      "A": "control unit.",
+      "B": "data bus.",
+      "C": "memory unit.",
+      "D": "register."
+    },
+    "answer": "C",
+    "explanation": "Figure 3 typically represents the high-level architecture. **Q** is shown interacting with the CPU and I/O, indicating the $\\mathbf{memory\\ unit}$ (Main Memory/RAM).",
+    "image": "computer/image5.jpeg"
+  },
+  {
+    "id": 15,
+    "question": "MS Access is an example of",
+    "options": {
+      "A": "Word processing package.",
+      "B": "spreadsheet application.",
+      "C": "graphic software.",
+      "D": "database management system."
+    },
+    "answer": "D",
+    "explanation": "MS Access is a popular $\\mathbf{database\\ management\\ system}$ (DBMS)."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following statements explains the function of device drivers? They",
+    "options": {
+      "A": "convert source code to object code.",
+      "B": "enable hardware and software control and manage the system.",
+      "C": "help to clean disk space and manage installation of applications.",
+      "D": "help to improve the functionality of hardware devices."
+    },
+    "answer": "B",
+    "explanation": "Device drivers are software that allow the **operating system (software)** to communicate with and **control hardware** devices."
+  },
+  {
+    "id": 17,
+    "question": "One usefulness of utility software in the computer is",
+    "options": {
+      "A": "conversion of source code to object code.",
+      "B": "enhancement of communication between hardware and the computer system.",
+      "C": "removal of malware from the computer.",
+      "D": "to improve the functionality of hardware devices."
+    },
+    "answer": "C",
+    "explanation": "Antivirus software is a type of utility software used for the **removal of malware**."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following statements about operating system is false? It",
+    "options": {
+      "A": "enhances the booting process.",
+      "B": "manages computer devices.",
+      "C": "manages storage location.",
+      "D": "protects the computer from surge."
+    },
+    "answer": "D",
+    "explanation": "A **surge protector** (hardware) is required to protect the computer from power surges, not the operating system (software)."
+  },
+  {
+    "id": 19,
+    "question": "Debugging in program development is the process of",
+    "options": {
+      "A": "fixing errors.",
+      "B": "introducing bugs.",
+      "C": "removing virus.",
+      "D": "writing error messages."
+    },
+    "answer": "A",
+    "explanation": "**Debugging** is the process of finding and **fixing errors** (bugs) in a program."
+  },
+  {
+    "id": 20,
+    "question": "Figure 4 is a flowchart symbol. Use it to answer questions this question. Identify the flowchart symbol in Figure 4.",
+    "options": {
+      "A": "Decision box",
+      "B": "Manual input",
+      "C": "Preparation",
+      "D": "Process"
+    },
+    "answer": "A",
+    "explanation": "Figure 4 is a **Diamond** shape, which represents a **Decision box** in a flowchart.",
+    "image": "computer/image6.jpeg"
+  },
+  {
+    "id": 21,
+    "question": "Figure 4 is a flowchart symbol. Use it to answer questions this question. The flowchart symbol in Figure 4 is used to",
+    "options": {
+      "A": "show the preparation stage.",
+      "B": "represent a decision-making point.",
+      "C": "input data manually in a flowchart.",
+      "D": "execute a process."
+    },
+    "answer": "B",
+    "explanation": "The Diamond symbol (Decision box) is used to **represent a decision-making point**."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following operations will be executed last in a program?",
+    "options": {
+      "A": "Addition",
+      "B": "Division",
+      "C": "Exponentiation",
+      "D": "PEMDAS"
+    },
+    "answer": "A",
+    "explanation": "In the order of operations (PEMDAS/BODMAS), **Addition** and subtraction are performed last."
+  },
+  {
+    "id": 23,
+    "question": "A The equation $x =p + \\frac{qr}{s}$ can be expressed in Q BASIC programming",
+    "options": {
+      "A": "X = P + Q* = RS",
+      "B": "X = P + Q* (R\\S)",
+      "C": "X = P x Q (R\\S)",
+      "D": "X = P + Q = RS"
+    },
+    "answer": "B",
+    "explanation": "The correct algebraic structure is $X = P + Q * (R / S)$. Option B uses `*` for multiplication and assumes `\\` for division, making it the most structurally correct option."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following statements is true about the rules of flowcharting?",
+    "options": {
+      "A": "All boxes of flowcharts are connected with arrows to show the logical connection between them.",
+      "B": "All flowchart process boxes are connected with on page connector to show the flow of operation.",
+      "C": "All flowcharts start with a start box and end with a decision box",
+      "D": "The low of control must always enter an object from bottom to top"
+    },
+    "answer": "A",
+    "explanation": "**Flow lines (arrows)** are essential for connecting symbols and showing the direction of logic flow."
+  },
+  {
+    "id": 25,
+    "question": "In computer programming, it is advised to translate source code into intermediate code to",
+    "options": {
+      "A": "change the analysis portion for different compilers.",
+      "B": "ensure that full native compiler is used for every new machine that will run the program.",
+      "C": "make it easier to apply the source code modifications to improve code performance.",
+      "D": "make the synthesis part of the compiler target-machine dependent."
+    },
+    "answer": "C",
+    "explanation": "Intermediate code facilitates **code optimization** and portability, which improves code performance."
+  },
+  {
+    "id": 26,
+    "question": "A graphic or text in a document or web page that links to another file or object is referred to",
+    "options": {
+      "A": "a domain name.",
+      "B": "a hyperlink.",
+      "C": "a shortcut.",
+      "D": "an icon."
+    },
+    "answer": "B",
+    "explanation": "This is the definition of a **hyperlink**."
+  },
+  {
+    "id": 27,
+    "question": "Instant messages can be sent with little or no tine lag using",
+    "options": {
+      "A": "podcast.",
+      "B": "facsimile.",
+      "C": "email.",
+      "D": "chat room,"
+    },
+    "answer": "D",
+    "explanation": "A **chat room** or instant messaging platform allows for real-time communication."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following statements is true about preventing phishing?",
+    "options": {
+      "A": "Insure that antivirus is updated regularly",
+      "B": "Do not click on links in emails from untrusted sources",
+      "C": "Do not download from untrusted sites",
+      "D": "Use a strong password at all times"
+    },
+    "answer": "B",
+    "explanation": "**Phishing** attempts to trick users into clicking malicious links to steal credentials, making avoidance the best defense."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following statements is true about star topologies?",
+    "options": {
+      "A": "Computers are connected node-to-node",
+      "B": "Computers are connected to a central device",
+      "C": "The connection is linear in shape",
+      "D": "The connection is a tree-like structure"
+    },
+    "answer": "B",
+    "explanation": "In a **star topology**, every node connects to a single **central device** (hub or switch)."
+  },
+  {
+    "id": 30,
+    "question": "An internet user secures his social media account by regularly changing passwords. Which of the following passwords produces the best security?",
+    "options": {
+      "A": "wasscesc2024",
+      "B": "WASSCESC2024",
+      "C": "2024wasscesc",
+      "D": "WASSCESchool-Candidates(@2024"
+    },
+    "answer": "D",
+    "explanation": "The strongest passwords combine **uppercase, lowercase, numbers, and special characters** (Option D)."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following statements is true about intranet?",
+    "options": {
+      "A": "Private network that uses internet protocol and is accessible by all visitors to an organization's website",
+      "B": "Private network that uses internet protocol and is accessible by employees of an organization",
+      "C": "Private network which does not use internet protocol and is accessible by employees of an organization",
+      "D": "Public network that uses internet protocol and is accessible by all visitors to an organization's website"
+    },
+    "answer": "B",
+    "explanation": "An **intranet** is a **private network** using Internet protocols, restricted to the organization's **employees**."
+  },
+  {
+    "id": 32,
+    "question": "The art of checking for errors in a Word document before publishing is referred to as",
+    "options": {
+      "A": "editing.",
+      "B": "formatting.",
+      "C": "modifying.",
+      "D": "proof reading."
+    },
+    "answer": "D",
+    "explanation": "**Proof reading** is the final stage of checking a document for errors before publication."
+  },
+  {
+    "id": 33,
+    "question": "Columns in MS Access are referred to as",
+    "options": {
+      "A": "fields.",
+      "B": "files.",
+      "C": "records.",
+      "D": "tuples."
+    },
+    "answer": "A",
+    "explanation": "In a relational database, **columns** are called **fields**, and rows are called records/tuples."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following application packages is suitable for making budgets?",
+    "options": {
+      "A": "Word processor",
+      "B": "Spreadsheet package",
+      "C": "Graphic package",
+      "D": "Database Management System"
+    },
+    "answer": "B",
+    "explanation": "A **Spreadsheet package** (like Excel) is the standard tool for financial analysis and calculations like budgeting."
+  },
+  {
+    "id": 35,
+    "question": "What happens when a user clicks on the icon in Figure 5 on the Microsoft Excel menu bar?",
+    "options": {
+      "A": "copy of the selection is put on the clipboard so that user can paste somewhere else",
+      "B": "A label that spans multiple columns is created",
+      "C": "Content on the clipboard is added to the document",
+      "D": "Selected range of cells is quickly converted to a table with its own style"
+    },
+    "answer": "A",
+    "explanation": "Figure 5 is the **Copy** icon, which places a copy of the selection onto the **clipboard**.",
+    "image": "computer/image8.jpeg"
+  },
+  {
+    "id": 36,
+    "question": "New comment can be added to a cell in MS Excel by using the procedure",
+    "options": {
+      "A": "Edit $\\rightarrow$ Comment.",
+      "B": "File $\\rightarrow$ Comment.",
+      "C": "Insert $\\rightarrow$ Comment.",
+      "D": "Review $\\rightarrow$ Comment."
+    },
+    "answer": "D",
+    "explanation": "In MS Excel, the command to insert a comment is typically found under the **Review** tab."
+  },
+  {
+    "id": 37,
+    "question": "What is the function of the CorelDraw Toolbox object shown in Figure 6? It IS used to",
+    "options": {
+      "A": "charge the magnification level in drawing window.",
+      "B": "draw lines and curves.",
+      "C": "edit the shape of objects.",
+      "D": "select and transform objects."
+    },
+    "answer": "D",
+    "explanation": "Figure 6 is the **Pick Tool**, the default tool used to **select and transform** objects in CorelDraw.",
+    "image": "computer/image9.jpeg"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following statements about index is true? It is a data structure",
+    "options": {
+      "A": "that reduces the speed of data retrieval operations on a database table.",
+      "B": "used to quickly locate data without searching every row in a table every time a database table is accessed.",
+      "C": "created using only two rows of a database table to uniquely identify each record.",
+      "D": "that allows relational database to split and store data in different tables, while linking disparate items."
+    },
+    "answer": "B",
+    "explanation": "A database **index** is created to **speed up data retrieval** by providing a fast lookup mechanism."
+  },
+  {
+    "id": 39,
+    "question": "A collection of computer wires used to identify memory location in a computer is",
+    "options": {
+      "A": "system bus.",
+      "B": "data bus.",
+      "C": "data cable.",
+      "D": "address bus."
+    },
+    "answer": "D",
+    "explanation": "The **address bus** carries the memory addresses for the CPU to locate data."
+  },
+  {
+    "id": 40,
+    "question": "Read Only Memory (ROM) contains",
+    "options": {
+      "A": "current program in operation.",
+      "B": "preset instructions for operation.",
+      "C": "user instructions.",
+      "D": "volatile programs."
+    },
+    "answer": "B",
+    "explanation": "ROM stores firmware like the BIOS, which contains **preset instructions for operation** (booting process)."
+  },
+  {
+    "id": 41,
+    "question": "What happens when the Shift key is pressed down while deleting a file from the computer? The file is",
+    "options": {
+      "A": "un- installed from the computer.",
+      "B": "permanently deleted from the computer.",
+      "C": "deleted and sent to the Recycle Bin.",
+      "D": "deleted and kept in the clipboard."
+    },
+    "answer": "B",
+    "explanation": "Pressing **Shift + Delete** bypasses the Recycle Bin, resulting in **permanent deletion**."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following statements about warm booting is true? The computer",
+    "options": {
+      "A": "reloads the operating system while still running in the background.",
+      "B": "loads the operating system into memory from the power-on button.",
+      "C": "reloads the operating system into memory while still running.",
+      "D": "loads the application into memory from rest state."
+    },
+    "answer": "C",
+    "explanation": "A **warm boot** (restart) reloads the operating system without cutting the main power, unlike a cold boot (powering on)."
+  },
+  {
+    "id": 43,
+    "question": "The ASCII character set represents alphabetical and control characters using numeric code ranging from",
+    "options": {
+      "A": "0 to 32.",
+      "B": "0 to 64.",
+      "C": "0 to 127.",
+      "D": "0 to 128."
+    },
+    "answer": "C",
+    "explanation": "The standard 7-bit ASCII set has $2^7 = 128$ codes, ranging from **0 to 127**."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following hard disk drive memory capacities can store the largest size of data?",
+    "options": {
+      "A": "2TB",
+      "B": "12GB",
+      "C": "240MB",
+      "D": "800K"
+    },
+    "answer": "A",
+    "explanation": "TeraByte (TB) is the largest unit listed (TB > GB > MB > K). $2\\text{TB}$ is the largest capacity."
+  },
+  {
+    "id": 45,
+    "question": "The equivalent of the letter A in the standard ASCII is",
+    "options": {
+      "A": "01000001",
+      "B": "01000010",
+      "C": "01100001",
+      "D": "01100010"
+    },
+    "answer": "A",
+    "explanation": "The ASCII code for uppercase 'A' is decimal 65, which is **01000001** in 8-bit binary."
+  },
+  {
+    "id": 46,
+    "question": "One example of a file containing reference data which is usually altered is",
+    "options": {
+      "A": "brand name.",
+      "B": "payroll.",
+      "C": "price list.",
+      "D": "stock."
+    },
+    "answer": "C",
+    "explanation": "A **price list** is a reference file that is subject to occasional updates/alterations when prices change."
+  },
+  {
+    "id": 47,
+    "question": "Figure 7 represents a procedure to",
+    "options": {
+      "A": "backup files on a computer.",
+      "B": "repair a corrupted file on a computer.",
+      "C": "transfer files from one device to another.",
+      "D": "update software on a device."
+    },
+    "answer": "C",
+    "explanation": "Figure 7 shows files being moved/copied between a phone and a laptop, which is a **transfer of files** between devices.",
+    "image": "computer/image10.jpeg"
+  },
+  {
+    "id": 48,
+    "question": "A user observed that a certain file in a removable storage device changed to a shortcut icon. This implies that",
+    "options": {
+      "A": "the file is corrupt.",
+      "B": "the file is shared.",
+      "C": "the removable storage device is corrupt.",
+      "D": "there is a link to the file."
+    },
+    "answer": "D",
+    "explanation": "A shortcut icon means **there is a link to the file**. This often occurs when malware hides the original file and replaces it with a shortcut."
+  },
+  {
+    "id": 49,
+    "question": "Set of characters used to authenticate a computer user is called",
+    "options": {
+      "A": "encoder.",
+      "B": "binary code.",
+      "C": "password.",
+      "D": "barcode."
+    },
+    "answer": "C",
+    "explanation": "A **password** is used to verify a user's identity (**authenticate**)."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following statements about firewall is correct?",
+    "options": {
+      "A": "A network transmission system that increases the speed of incoming and outgoing network traffic",
+      "B": "A network security system that establishes a barrier between a trusted internal network and an untrusted external network such as the Internet",
+      "C": "A data structure that improves the speed of data retrieval operations on a database table",
+      "D": "A data structure created using only two rows of a database table used to uniquely identify each record"
+    },
+    "answer": "B",
+    "explanation": "A **firewall** is a security system that acts as a **barrier** to control traffic between networks."
+  }
+]

@@ -1,0 +1,662 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "The hydrolysis of proteins by diluting mineral acids produces",
+      "options": {
+        "A": "sucrose",
+        "B": "glucose",
+        "C": "amino acids",
+        "D": "fatty acids"
+      },
+      "answer": "C",
+      "explanation": "Proteins are polymers of amino acids; hydrolysis breaks the peptide bonds to release the constituent amino acids.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following oxide causes acid rain?",
+      "options": {
+        "A": "CO",
+        "B": "NO",
+        "C": "H2O2",
+        "D": "NO2"
+      },
+      "answer": "D",
+      "explanation": "Nitrogen dioxide (NO2) dissolves in rainwater to form nitric acid, a major component of acid rain.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 3,
+      "question": "The ratio of carbon atoms of hydrogen atoms in a hydrocarbon is 1:2. If its molecular mass is 56, what is its molecular formula? [C=12, H=1]",
+      "options": {
+        "A": "C3H6",
+        "B": "C4H8",
+        "C": "C2H4",
+        "D": "CH2"
+      },
+      "answer": "B",
+      "explanation": "Empirical formula is CH2 (mass=14). n = 56/14 = 4. Therefore, (CH2)4 = C4H8.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 4,
+      "question": "What is the relative molecular mass of the compound below? [H = 1.0; C = 12.0; O = 16.0]",
+      "options": {
+        "A": "137",
+        "B": "136",
+        "C": "64",
+        "D": "59"
+      },
+      "answer": "B",
+      "image_name": "chemistry2021/image1.jpg",
+      "explanation": "Relative molecular mass is calculated by summing the atomic masses of all atoms in the provided structure.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 5,
+      "question": "Cathodic protection of metals is based on",
+      "options": {
+        "A": "standard electrode potential of hydrogen",
+        "B": "its electrical conductivity",
+        "C": "nature of oxides formed",
+        "D": "relative tendencies of oxidation"
+      },
+      "answer": "D",
+      "explanation": "Cathodic protection involves using a more reactive metal which has a higher tendency to oxidize than the metal being protected.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 6,
+      "question": "If humid air is polluted by chlorine discharged, the air can be restored by sprinkling",
+      "options": {
+        "A": "solid MnO2",
+        "B": "acidified KMnO4",
+        "C": "acidified FeSO4",
+        "D": "saturated NaCl(aq)"
+      },
+      "answer": "C",
+      "explanation": "FeSO4 is a reducing agent that reacts with the oxidizing chlorine gas to neutralize it.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 7,
+      "question": "The alkanol represented by the structure above is",
+      "options": {
+        "A": "primary and dihydric",
+        "B": "secondary and monohydric",
+        "C": "tertiary and dihydric",
+        "D": "secondary and dihydric"
+      },
+      "answer": "B",
+      "image_name": "chemistry2021/image2.jpeg",
+      "explanation": "The hydroxyl (-OH) group is attached to a secondary carbon atom.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following pairs of compounds would form a precipitate when their aqueous solutions are mixed?",
+      "options": {
+        "A": "NaCl and KNO3",
+        "B": "KCL and NaNO3",
+        "C": "K2SO4 and BaCl2",
+        "D": "NH4NO3 and CO3"
+      },
+      "answer": "C",
+      "explanation": "Barium sulphate (BaSO4) is an insoluble white precipitate.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 9,
+      "question": "Study the graphs provided and use them to answer the question: Which of the following illustrates the variation of the rate of evolution of gas from a given length of magnesium ribbon (y-axis) with an increase in the concentration of the added acid (x-axis)?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "A",
+      "explanation": "Rate of reaction generally increases with concentration.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 10,
+      "question": "Study the graphs provided: Which of the graphs illustrates the variation of the pH of a given volume of strong acid solution (y-axis) with the volume of strong base titrated against its (x-axis)?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "D",
+      "explanation": "Strong acid-base titration curves are sigmoidal (S-shaped) starting at low pH.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 11,
+      "question": "Study the graphs provided: Which of the graphs illustrates the variation of the solubility of a salt in water (y-axis), with an increase in temperature (x-axis) if the dissolution process is exothermic?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "B",
+      "explanation": "For exothermic processes, solubility decreases as temperature increases.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 12,
+      "question": "The formation of ethene from dehydration of ethanol can be described as-------",
+      "options": {
+        "A": "an addition reaction",
+        "B": "an elimination reaction",
+        "C": "an oxidation reaction",
+        "D": "a substitution reaction"
+      },
+      "answer": "B",
+      "explanation": "Dehydration is an elimination reaction because a molecule of water is removed.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following gasses is highly soluble in water at room temperature",
+      "options": {
+        "A": "ammonia",
+        "B": "carbon (IV) oxide",
+        "C": "chlorine",
+        "D": "nitrogen"
+      },
+      "answer": "A",
+      "explanation": "Ammonia forms hydrogen bonds with water, making it extremely soluble.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 14,
+      "question": "A molecular of phosphorus is",
+      "options": {
+        "A": "diatomic",
+        "B": "triatomic",
+        "C": "tetraatomic",
+        "D": "monoatomic"
+      },
+      "answer": "C",
+      "explanation": "Phosphorus exists naturally as P4 molecules.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 15,
+      "question": "The most common method of preparing insoluble salts is by",
+      "options": {
+        "A": "filtration",
+        "B": "decomposition",
+        "C": "neutralization",
+        "D": "double decomposition"
+      },
+      "answer": "D",
+      "explanation": "Precipitation via double decomposition is the standard method for insoluble salts.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 16,
+      "question": "What number of moles of oxygen would exert a pressure of 10 atm at 320 K in an 8.2 dm3 cylinder? [R = 0.082 atm dm3 mol−1 K−1]",
+      "options": {
+        "A": "0.32",
+        "B": "1.56",
+        "C": "3.13",
+        "D": "31.25"
+      },
+      "answer": "C",
+      "explanation": "n = PV / RT = (10 * 8.2) / (0.082 * 320) = 3.125.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 17,
+      "question": "The basic property of salts used as drying agents is by?",
+      "options": {
+        "A": "efforescence",
+        "B": "high melting point",
+        "C": "hygroscopy",
+        "D": "low solubility"
+      },
+      "answer": "C",
+      "explanation": "Hygroscopic substances absorb moisture from the air.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 18,
+      "question": "What would be observed when aqueous ammonia is added in drops and then in excess to a solution of copper(II) ions?",
+      "options": {
+        "A": "blue precipitate is formed which is soluble in excess ammonia",
+        "B": "brick red precipitate is produced which is insoluble in excess ammonia",
+        "C": "white precipitate is formed which is excess in ammonia",
+        "D": "green precipitate is formed which is insoluble in excess ammonia"
+      },
+      "answer": "A",
+      "explanation": "Formation of Cu(OH)2 (blue ppt) which dissolves to form a deep blue complex.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 19,
+      "question": "When CuSO4(aq) is added to Pb(NO3)2(aq) --------",
+      "options": {
+        "A": "there would be no visible change",
+        "B": "a blue precipitate would be formed",
+        "C": "the resulting solution would become colourless",
+        "D": "a white precipitate would be formed"
+      },
+      "answer": "D",
+      "explanation": "Lead (II) sulphate is an insoluble white precipitate.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 20,
+      "question": "Consider the structure above: How many carbon atoms does the parent chain contain? ",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "3",
+        "D": "2"
+      },
+      "answer": "B",
+      "image_name": "chemistry2021/image3.jpeg",
+      "explanation": "Identify the longest continuous carbon chain in the provided diagram.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 21,
+      "question": "Under which conditions of pressure (p) and temperature (T) would the volume of an inflated ballon increase?",
+      "options": {
+        "A": "P and T are increased",
+        "B": "both T and P are decreased",
+        "C": "T is increased and P is decreased",
+        "D": "T is decreased and P is increased"
+      },
+      "answer": "C",
+      "explanation": "High temperature and low pressure both lead to volume expansion.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 22,
+      "question": "The collision between ideal gas molecules are considered to be perfectly elastic because",
+      "options": {
+        "A": "they collide without losing energy",
+        "B": "they move randomly in a straight line",
+        "C": "their average kinetic energy is variable",
+        "D": "the distance between them is large compared to their size"
+      },
+      "answer": "A",
+      "explanation": "Kinetic energy is conserved in perfectly elastic collisions.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 23,
+      "question": "Elements with high ionization energies would-------",
+      "options": {
+        "A": "lose electrons easily",
+        "B": "have large atomic radii",
+        "C": "have high effective nuclear charges",
+        "D": "have low atomic numbers"
+      },
+      "answer": "C",
+      "explanation": "High nuclear charge strongly attracts electrons, increasing the energy needed to remove them.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following statements about Group VII elements is correct?",
+      "options": {
+        "A": "they are present in the same physical state",
+        "B": "they are strong reducing agents",
+        "C": "their reactivity decreases down the group",
+        "D": "they exist as monoatomic molecules"
+      },
+      "answer": "C",
+      "explanation": "Reactivity decreases as atomic size increases down the group.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 25,
+      "question": "Consider the following diagram and use it to answer the question: Which of the following cell notations represent the diagram?",
+      "options": {
+        "A": "B2+/B // A/A3+",
+        "B": "A3+/A // B/B2+",
+        "C": "B/B2+ // A/3+",
+        "D": "A/A3+ // B2+/B"
+      },
+      "answer": "D",
+      "image_name": "chemistry2021/cell_diagram.jpg",
+      "explanation": "Anode (oxidation) is on the left; Cathode (reduction) is on the right.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 26,
+      "question": "Consider the following diagram: Which of the following half reaction equations represent the reaction at the cathode?",
+      "options": {
+        "A": "A3+(aq) + 3e− → A(s)",
+        "B": "B2+(aq) + 2e− → B(s)",
+        "C": "A(s) → A3+(aq) + 3e−",
+        "D": "B(s) → B2+(aq) + 2e−"
+      },
+      "answer": "B",
+      "image_name": "chemistry2021/cell_diagram.jpg",
+      "explanation": "Reduction (gain of electrons) occurs at the cathode.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 27,
+      "question": "The reactivity of fluorine is high because of",
+      "options": {
+        "A": "its high electronegativity",
+        "B": "the small size of the fluorine atom",
+        "C": "the availability of d-orbitals",
+        "D": "the strong F-F bond"
+      },
+      "answer": "A",
+      "explanation": "High electronegativity means fluorine has a very high affinity for electrons.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 28,
+      "question": "How many coulombs of electricity would liberate 1.08g of Ag from a solution of silver salt? [Ag = 108.0; 1F = 96500 C]",
+      "options": {
+        "A": "96500 C",
+        "B": "9650 C",
+        "C": "965 C",
+        "D": "9.65 C"
+      },
+      "answer": "C",
+      "explanation": "108g requires 96500C. 1.08g requires (1.08/108) * 96500 = 965C.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 29,
+      "question": "The Bohr model of the atom proposed the existence of?",
+      "options": {
+        "A": "the nucleus",
+        "B": "electron shells",
+        "C": "nucleons",
+        "D": "neutrons"
+      },
+      "answer": "B",
+      "explanation": "Bohr introduced the concept of quantized electron orbits/shells.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 30,
+      "question": "The 25°C evaporation of a 100 cm3 solution of K2CO3 to dryness gave 14g of the salt. What is the solubility of K2CO3 at 25°C? [K2CO3 = 138]",
+      "options": {
+        "A": "0.01 mol dm−3",
+        "B": "0.101 mol dm−3",
+        "C": "1.01 mol dm−3",
+        "D": "10.0 mol dm−3"
+      },
+      "answer": "C",
+      "explanation": "Conc = (14 / 138) / 0.1 = 1.014 mol dm-3.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 31,
+      "question": "Student X titrated 25 cm3 of Na2CO3 with 0.1 mol dm−3 HCI, using methyl orange as indicator. Student Y used phenolphthalein. Which is true?",
+      "options": {
+        "A": "hydrogen chloride gas was released in the reactions",
+        "B": "the titer values obtained are equal",
+        "C": "the titer value obtained by X is twice that of Y",
+        "D": "the titer value obtained by Y is twice that of X"
+      },
+      "answer": "C",
+      "explanation": "Phenolphthalein only shows the half-neutralization of Na2CO3.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 32,
+      "question": "What is the concentration of a solution which contains 0.28g of potassium hydroxide in 100 cm3 of solution [KOH = 56]",
+      "options": {
+        "A": "0.01 mol dm−3",
+        "B": "0.05 mol dm−3",
+        "C": "0.10 mol dm−3",
+        "D": "0.50 mol dm−3"
+      },
+      "answer": "B",
+      "explanation": "Conc = (0.28 / 56) / 0.1 = 0.05 mol dm-3.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 33,
+      "question": "What is the empirical formula of a hydrocarbon containing 0.160 moles of carbon and 0.640 moles of hydrogen",
+      "options": {
+        "A": "CH2",
+        "B": "CH3",
+        "C": "CH4",
+        "D": "C2H4"
+      },
+      "answer": "C",
+      "explanation": "Ratio C:H = 0.160:0.640 = 1:4.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following species has the largest ionic radius",
+      "options": {
+        "A": "S2−",
+        "B": "K+",
+        "C": "Cl−",
+        "D": "Ca2+"
+      },
+      "answer": "A",
+      "explanation": "S2- has the lowest nuclear charge among these isoelectronic species.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following statements is correct about ionization energy? It",
+      "options": {
+        "A": "decreases across the periods",
+        "B": "results in the formation of an anion",
+        "C": "causes Metalic nuclei to disintegrate",
+        "D": "decreases down the group"
+      },
+      "answer": "D",
+      "explanation": "Ionization energy decreases down a group due to increased shielding.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 36,
+      "question": "Potassium trioxonitrate (V) can be obtained from its solution by----------",
+      "options": {
+        "A": "distillation",
+        "B": "evapoartion",
+        "C": "crystallization",
+        "D": "filtration"
+      },
+      "answer": "C",
+      "explanation": "Crystallization is ideal for salts whose solubility varies significantly with temperature.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 37,
+      "question": "An element, Q, contains 69% of 63Q and 31% of 65Q. What is the relative atomic mass of Q?",
+      "options": {
+        "A": "63.0",
+        "B": "63.6",
+        "C": "65.0",
+        "D": "69.0"
+      },
+      "answer": "B",
+      "explanation": "(0.69 * 63) + (0.31 * 65) = 63.62.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 38,
+      "question": "The following ions have the same electron configuration except: 8O, 12Mg, 13Al, 17Cl",
+      "options": {
+        "A": "Cl−",
+        "B": "O2−",
+        "C": "Mg2+",
+        "D": "Al3+"
+      },
+      "answer": "A",
+      "explanation": "Cl- has an argon configuration (18e-); others have a neon configuration (10e-).",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 39,
+      "question": "The region around the nucleus where electrons can be located is called?",
+      "options": {
+        "A": "a spectra",
+        "B": "an orbital",
+        "C": "a quanta",
+        "D": "a field"
+      },
+      "answer": "B",
+      "explanation": "An orbital defines the probability region of finding an electron.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 40,
+      "question": "Protons and electrons are called fundamental particles because they----------",
+      "options": {
+        "A": "are indivisible",
+        "B": "have different charges",
+        "C": "are the lightest particles",
+        "D": "are found in all matter"
+      },
+      "answer": "D",
+      "explanation": "All atoms consist of these basic constituents.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 41,
+      "question": "The activation energy of the reaction shown in the diagram is",
+      "options": {
+        "A": "EA",
+        "B": "EB",
+        "C": "EC",
+        "D": "ED"
+      },
+      "answer": "A",
+      "image_name": "chemistry2021/image4.jpg",
+      "explanation": "Activation energy is the barrier between reactants and the peak.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 42,
+      "question": "Study the diagram provided: The enthalpy change of the reaction is------------",
+      "options": {
+        "A": "EA",
+        "B": "EB",
+        "C": "EC",
+        "D": "ED"
+      },
+      "answer": "C",
+      "image_name": "chemistry2021/image4.jpg",
+      "explanation": "Enthalpy change is the energy difference between products and reactants.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 43,
+      "question": "The energy profile diagram illustrates-------------",
+      "options": {
+        "A": "an endothermic reaction",
+        "B": "an exothermic reaction",
+        "C": "a spontaneous reaction",
+        "D": "a redox reaction"
+      },
+      "answer": "B",
+      "image_name": "chemistry2021/image4.jpg",
+      "explanation": "The product level is lower than the reactant level, indicating energy release.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 44,
+      "question": "How many molecules of oxygen would occupy a volume of 2.24 cm3 at s.t.p? [Molar volume = 22,400 cm3, Avogadro = 6.02 x 10^23]",
+      "options": {
+        "A": "3.01 x 10^20",
+        "B": "3.01 x 10^27",
+        "C": "6.02 x 10^19",
+        "D": "6.02 x 10^27"
+      },
+      "answer": "C",
+      "explanation": "(2.24 / 22400) * 6.02e23 = 6.02e19.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 45,
+      "question": "The isotopes of neon are represented by 20x Ne, 21y Ne, and 22z Ne. The relationship between x, y, and z is?",
+      "options": {
+        "A": "x > y > z",
+        "B": "x < y < z",
+        "C": "x = y = z",
+        "D": "x < z < y"
+      },
+      "answer": "C",
+      "explanation": "Isotopes of the same element have the same atomic number.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following pairs of molecules form hydrogen bonds?",
+      "options": {
+        "A": "C2H5OH and CH3OH",
+        "B": "CH3OH and H2",
+        "C": "H2S and CH4",
+        "D": "NH3 and SO2"
+      },
+      "answer": "A",
+      "explanation": "Alcohols contain the -OH group, allowing for hydrogen bonding.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following statements about elements in Group VII is correct?",
+      "options": {
+        "A": "Br2 will oxidize Cl−",
+        "B": "F2 has the least tendency to be reduced",
+        "C": "Cl2 will oxidize I−",
+        "D": "l2 is a stronger oxidizing agent than F2"
+      },
+      "answer": "C",
+      "explanation": "Chlorine is a stronger oxidizing agent than Iodine.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 48,
+      "question": "Electrovalent compounds normally ------------",
+      "options": {
+        "A": "have low boiling points",
+        "B": "have mobile electrons",
+        "C": "conduct electricity in the solid state",
+        "D": "dissolve in polar solvent"
+      },
+      "answer": "D",
+      "explanation": "Ionic (electrovalent) compounds are typically soluble in polar solvents.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 49,
+      "question": "A coordinate covalent bond could be formed between?",
+      "options": {
+        "A": "NH3 and PCl3",
+        "B": "BCl3 and AlCl3",
+        "C": "BCl3 and NH3",
+        "D": "H+ and AlCl3"
+      },
+      "answer": "C",
+      "explanation": "NH3 provides the lone pair for coordinate bonding with BCl3.",
+      "sectionName": "WAEC Chemistry 2021"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following scientists discovered the electrons?",
+      "options": {
+        "A": "Joseph J. Thompson",
+        "B": "James Chadwick",
+        "C": "Amedeo Avogadro",
+        "D": "Ernest Rutherford"
+      },
+      "answer": "A",
+      "explanation": "J.J. Thompson is credited with the discovery of the electron via cathode ray experiments.",
+      "sectionName": "WAEC Chemistry 2021"
+    }
+  ]
+}

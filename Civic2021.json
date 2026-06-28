@@ -1,0 +1,409 @@
+{
+  "exam_details": {
+    "subject": "Civic Education",
+    "exam_body": "WAEC",
+    "year": 2021
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "The deliberate effort to avoid behaving abnormally when faced with pressure can be termed",
+      "options": ["self esteem", "self control", "integrity", "determination"],
+      "answer": "B",
+      "explanation": "Self-control is the ability to regulate one's emotions and behaviors in the face of external pressures.",
+      "image_path": null
+    },
+    {
+      "id": 2,
+      "question": "The categories of Nigerian citizens that cannot be declared as non-citizens under any circumstance are citizens by",
+      "options": ["parentage and naturalization", "registration and birth", "birth and parentage", "registration and naturalization"],
+      "answer": "C",
+      "explanation": "Citizenship by birth is an inalienable right in Nigeria and cannot be revoked.",
+      "image_path": null
+    },
+    {
+      "id": 3,
+      "question": "An importance of effective parenting is that it ensures",
+      "options": ["adequate formal education of the children", "provision of secondary needs for the family", "family members know how to socialize", "morally upright wards are bred for the society"],
+      "answer": "D",
+      "explanation": "Effective parenting focuses on instilling values and morals that benefit the larger society.",
+      "image_path": null
+    },
+    {
+      "id": 4,
+      "question": "A ban on public lectures and symposiums is against the right to freedom of",
+      "options": ["movement and right to speech", "worship and fair hearing", "electronic and print media", "peaceful assembly and association"],
+      "answer": "D",
+      "explanation": "Lectures and symposiums are forms of gathering; banning them violates the right to assembly.",
+      "image_path": null
+    },
+    {
+      "id": 5,
+      "question": "All these can be a cause of accident on the road except",
+      "options": ["praying while driving", "eating while driving", "being conscious of road signs", "taking alcohol before driving"],
+      "answer": "C",
+      "explanation": "Observing road signs is a safety measure, not a cause of accidents.",
+      "image_path": null
+    },
+    {
+      "id": 6,
+      "question": "Being truthful to oneself; being truthful to others; being someone others can trust; doing what is right regardless of the circumstances. The above quotation is apt for describing",
+      "options": ["selflessness", "diligence", "discipline", "integrity"],
+      "answer": "D",
+      "explanation": "Integrity involves consistency in moral principles and honesty in all situations.",
+      "image_path": null
+    },
+    {
+      "id": 7,
+      "question": "National consciousness, unity and integrity are promoted through all the following ways except",
+      "options": ["obedience to rules and regulations", "National Youth Service Corps", "compromise of the rule of law", "teaching of civic education in schools"],
+      "answer": "C",
+      "explanation": "Compromising the rule of law undermines national integrity and justice.",
+      "image_path": null
+    },
+    {
+      "id": 8,
+      "question": "Membership of an organization associated with secrecy of operations in the society is an indication of",
+      "options": ["activism", "cultism", "radicalism", "spiritism"],
+      "answer": "B",
+      "explanation": "Cultism is defined by clandestine operations and secret rituals.",
+      "image_path": null
+    },
+    {
+      "id": 9,
+      "question": "Associations, connections and affiliations between two or more people is what type of relationship?",
+      "options": ["Intra-group", "Inter-communal", "interpersonal", "intra-communal"],
+      "answer": "C",
+      "explanation": "Interpersonal relationships are the social associations between individuals.",
+      "image_path": null
+    },
+    {
+      "id": 10,
+      "question": "Orderliness in society is best guaranteed when all citizens",
+      "options": ["obey rules and regulations", "respect and humble themselves", "are proud to be associated with the society", "know the sanctions for violation of laws"],
+      "answer": "A",
+      "explanation": "Obedience to established laws is the primary foundation for social order.",
+      "image_path": null
+    },
+    {
+      "id": 11,
+      "question": "The traffic sign in the image is to caution road drivers that",
+      "options": ["pedestrians crossing is in progress therefore, all cars should wait patiently for them", "a designated bus-stop is ahead where school children can be picked and dropped", "pedestrians are to hold hands together so as to support one another when crosssing", "they need to move fast because of the presence of a school zone"],
+      "answer": "A",
+      "explanation": "The sign depicts a pedestrian crossing, warning drivers to yield to those on foot.",
+      "image_path": "civic2021/image1.jpeg"
+    },
+    {
+      "id": 12,
+      "question": "Paying our taxes and assisting the government in the fight against crime are examples of",
+      "options": ["civil obligations", "social obligations", "economic obligations", "cultural obligations"],
+      "answer": "A",
+      "explanation": "Civil obligations are duties required by the state from its citizens.",
+      "image_path": null
+    },
+    {
+      "id": 13,
+      "question": "Creating an enabling environment for someone to have control over his financial situation is known as",
+      "options": ["reinforcement", "endowment", "empowerment", "enhancement"],
+      "answer": "C",
+      "explanation": "Empowerment provides individuals with the skills and resources to become self-reliant.",
+      "image_path": null
+    },
+    {
+      "id": 14,
+      "question": "The following are steps towards sustaining national unity except",
+      "options": ["emphasis on factors that unite a nation", "respecting the national symbols", "discouraging inter-religious marriages", "Working towards achieving national objectives"],
+      "answer": "C",
+      "explanation": "Inter-religious marriages actually promote unity; discouraging them fosters division.",
+      "image_path": null
+    },
+    {
+      "id": 15,
+      "question": "A major reason that fosters healthy interpersonal relationship is",
+      "options": ["pursuit of money", "party politics", "common goals", "culture"],
+      "answer": "C",
+      "explanation": "Sharing common goals brings people together and encourages cooperation.",
+      "image_path": null
+    },
+    {
+      "id": 16,
+      "question": "People living with HIV/AIDS (PLWHA) are stigmatized by",
+      "options": ["refusal of privileges", "exploitation by care givers", "refusal to be voted for in election", "refusing to respect their authority"],
+      "answer": "A",
+      "explanation": "Stigmatization often results in the unfair denial of rights or privileges based on health status.",
+      "image_path": null
+    },
+    {
+      "id": 17,
+      "question": "A child who is forced to engage in hawking all day must have been denied the right to",
+      "options": ["fair hearing", "expression", "education", "life"],
+      "answer": "C",
+      "explanation": "Child labor (hawking) prevents children from attending school, violating their right to education.",
+      "image_path": null
+    },
+    {
+      "id": 18,
+      "question": "The sole aim of youth empowerment is to",
+      "options": ["encourage students to take on a vacation job", "learn to earn money and also how to manage it", "learn how to behave in a work related environment", "give youths financial independence and self reliance"],
+      "answer": "D",
+      "explanation": "Empowerment aims to make youths independent and productive members of society.",
+      "image_path": null
+    },
+    {
+      "id": 19,
+      "question": "From the passage, it could be inferred that Chalyn is majorly a victim of",
+      "options": ["human trafficking", "inconsiderate government", "lack of family planning", "non-payment of salaries"],
+      "answer": "A",
+      "explanation": "The passage describes her being taken abroad by a trafficking agent for prostitution.",
+      "image_path": null
+    },
+    {
+      "id": 20,
+      "question": "Which of the following would have likely saved Chalyn from falling into the hands of traffickers?",
+      "options": ["adequate remunerations for civil servants", "an established family business", "moral upbringing and solid parental care", "adequate family planning"],
+      "answer": "C",
+      "explanation": "Parental care and strong morals provide a defense against negative peer pressure.",
+      "image_path": null
+    },
+    {
+      "id": 21,
+      "question": "Chalyn's ordeal would have been likely prevented through all the following means except",
+      "options": ["poverty alleviation programme", "effective family planning", "qualitative higher education", "skill acquistion coursed"],
+      "answer": "C",
+      "explanation": "While education is important, the immediate preventative factors for a 16-year-old in that scenario were economic or social supports.",
+      "image_path": null
+    },
+    {
+      "id": 22,
+      "question": "Which of the following agents is not saddled with the responsibility of maintaining traffic regulation in Nigeria?",
+      "options": ["Vehicle Inspection officer", "Nigerian Customs Officer", "Police Traffic Warden", "Corps Marshal"],
+      "answer": "B",
+      "explanation": "The Customs Service handles trade and border security, not road traffic regulation.",
+      "image_path": null
+    },
+    {
+      "id": 23,
+      "question": "A society that is free from HIV/AIDS infected persons will likely experience",
+      "options": ["increase in level of poverty", "increase in productivity", "loss of man power", "high death rate"],
+      "answer": "B",
+      "explanation": "A healthy workforce leads to higher economic productivity.",
+      "image_path": null
+    },
+    {
+      "id": 24,
+      "question": "Major behavioural manifestations of drug addicts include the following except",
+      "options": ["mental disorder", "isolation and withdrawal", "depression and regrets", "humility and boldness"],
+      "answer": "D",
+      "explanation": "Drug addiction typically leads to negative behaviors; humility is not a standard symptom.",
+      "image_path": null
+    },
+    {
+      "id": 25,
+      "question": "The lowest court in Nigeria is the",
+      "options": ["Magistrate/District Court", "Court of Appeal", "Sharia Court of Appeal", "State High Court"],
+      "answer": "A",
+      "explanation": "Magistrate or District courts handle the most basic level of legal proceedings.",
+      "image_path": null
+    },
+    {
+      "id": 26,
+      "question": "Which of the following has the power to impeach the president in Nigeria?",
+      "options": ["executive", "Judiciary", "Legislature", "Supreme court"],
+      "answer": "C",
+      "explanation": "Impeachment is a legislative process carried out by the National Assembly.",
+      "image_path": null
+    },
+    {
+      "id": 27,
+      "question": "The phrase 'no man is an island' means that",
+      "options": ["mankind needs other plants and animals to survive", "citizens cannot operate without help of a government", "individuals need the cooperation of others to progress", "humans need to marry and have life partners"],
+      "answer": "C",
+      "explanation": "This emphasizes the social and interdependent nature of humans.",
+      "image_path": null
+    },
+    {
+      "id": 28,
+      "question": "The people depicted in the image are engaged in",
+      "options": ["community service", "personal development", "empowerment scheme", "fashion design"],
+      "answer": "C",
+      "explanation": "The image likely depicts a skill acquisition session common in empowerment programs.",
+      "image_path": "civic2021/image2.jpeg"
+    },
+    {
+      "id": 29,
+      "question": "The aim of those engaged in the activity captured in the image is to",
+      "options": ["obtain relevant skills", "acquire formal knowledge", "source for extra income", "develop interpersonal skill"],
+      "answer": "A",
+      "explanation": "Vocational empowerment focus on gaining practical, relevant skills.",
+      "image_path": "civic2021/image3.jpeg"
+    },
+    {
+      "id": 30,
+      "question": "Which type of skill is dominant in the image?",
+      "options": ["Manipulative skill", "Intellectual skill", "negotiation skill", "communicative skill"],
+      "answer": "A",
+      "explanation": "Manipulative skills involve physical handling of tools and materials.",
+      "image_path": "civic2021/image4.jpeg"
+    },
+    {
+      "id": 31,
+      "question": "Citizenship education ensures that citizens become aware of",
+      "options": ["tenets of the laws of the society", "attributes required to become a leader", "how to restore peace during conflict", "justice and injustice during litigation"],
+      "answer": "A",
+      "explanation": "It aims to inform citizens about the laws, rights, and duties in their country.",
+      "image_path": null
+    },
+    {
+      "id": 32,
+      "question": "Cultism is usually not associated with",
+      "options": ["rustication", "academic excellence", "stigmatization", "spiritual problems"],
+      "answer": "B",
+      "explanation": "Cultism disrupts studies and is rarely associated with good academic performance.",
+      "image_path": null
+    },
+    {
+      "id": 33,
+      "question": "The programmes political parties intend to implement if they are voted into power are known as political",
+      "options": ["campaigns", "manifestoes", "agenda", "propaganda"],
+      "answer": "B",
+      "explanation": "A manifesto is a published document of a party's goals and policies.",
+      "image_path": null
+    },
+    {
+      "id": 34,
+      "question": "From the dialogue, Mr. Katoun has demonstrated",
+      "options": ["survival mode", "intolerance", "apathy", "hard work"],
+      "answer": "C",
+      "explanation": "Refusing to vote because of lack of interest in the governor is a sign of political apathy.",
+      "image_path": null
+    },
+    {
+      "id": 35,
+      "question": "As seen in the dialogue, Mr. Ganaba is involved in an essential community service as",
+      "options": ["a social mobilizer", "a political analyst", "an election observer", "a party official"],
+      "answer": "A",
+      "explanation": "He is encouraging his neighbor to participate in the civic process of voting.",
+      "image_path": null
+    },
+    {
+      "id": 36,
+      "question": "The behaviour of Mr. Katoun can be traced to the following factors except",
+      "options": ["inadequate security at polling booths", "poor technology", "unfulfilled manifestoes", "existence of endemic corruption"],
+      "answer": "B",
+      "explanation": "Technology (like BVAS) usually improves trust; it is corruption and broken promises that cause apathy.",
+      "image_path": null
+    },
+    {
+      "id": 37,
+      "question": "The constitution of the Federal Republic of Nigeria from 1979 to 1999 have been",
+      "options": ["written and rigid", "written and flexible", "unwritten and rigid", "unwritten and flexible"],
+      "answer": "A",
+      "explanation": "Nigerian constitutions are codified (written) and require a special process to amend (rigid).",
+      "image_path": null
+    },
+    {
+      "id": 38,
+      "question": "An established way Labour Unions protect the interest of workers is",
+      "options": ["police action", "hunger strike", "industrial action", "mass resignation"],
+      "answer": "C",
+      "explanation": "Industrial actions (strikes) are the primary tool for labor negotiations.",
+      "image_path": null
+    },
+    {
+      "id": 39,
+      "question": "The right to vie for public office falls under",
+      "options": ["economic rights", "political rights", "social rights", "religious rights"],
+      "answer": "B",
+      "explanation": "Seeking office is a fundamental political right of a citizen.",
+      "image_path": null
+    },
+    {
+      "id": 40,
+      "question": "A system of government where the ultimate power resides in the people is",
+      "options": ["plutocracy", "aristocracy", "theocracy", "democracy"],
+      "answer": "D",
+      "explanation": "Democracy is defined as power belonging to the people.",
+      "image_path": null
+    },
+    {
+      "id": 41,
+      "question": "Politically enlightened people may still feel discouraged in the political affairs of their society because of political",
+      "options": ["selflessness", "contentment", "participation", "marginalization"],
+      "answer": "D",
+      "explanation": "Marginalization leads to a feeling of exclusion, causing people to withdraw from politics.",
+      "image_path": null
+    },
+    {
+      "id": 42,
+      "question": "Supervisory Councillors at the local government level are part of the",
+      "options": ["civil servants", "executive organ", "legislative organ", "judicial organ"],
+      "answer": "B",
+      "explanation": "Councillors act as the executive cabinet for the local government area.",
+      "image_path": null
+    },
+    {
+      "id": 43,
+      "question": "Constitutional provisions cannot be derived from",
+      "options": ["statutory sources", "customary source", "judiciary precedents", "colonial policies"],
+      "answer": "D",
+      "explanation": "While colonial history exists, modern constitutional provisions are based on sovereign laws and local customs.",
+      "image_path": null
+    },
+    {
+      "id": 44,
+      "question": "Political participation is facilitated by the following reasons except",
+      "options": ["engaging in moral upliftment", "fostering of political stability", "enhancement of the dividends of democracy", "influencing the direction of government policies"],
+      "answer": "A",
+      "explanation": "Political participation focuses on policy and stability rather than individual 'moral upliftment'.",
+      "image_path": null
+    },
+    {
+      "id": 45,
+      "question": "Which of these societal values is most expected of every public office holder?",
+      "options": ["Excellence", "Accountability", "Hospitality", "Diplomacy"],
+      "answer": "B",
+      "explanation": "Public officials must be answerable to the people they serve.",
+      "image_path": null
+    },
+    {
+      "id": 46,
+      "question": "Constitutional democracy is also known as",
+      "options": ["limited government", "Communalism", "communism", "absolute government"],
+      "answer": "A",
+      "explanation": "Constitutions place limits on the power of government officials.",
+      "image_path": null
+    },
+    {
+      "id": 47,
+      "question": "The phrase 'the music has changed' refers to the fact that",
+      "options": ["checks and balances are no longer effective", "public servants are to show partisanship", "there was corruption in the public service sector", "the activities of the judiciary should be checkmated"],
+      "answer": "C",
+      "explanation": "Political cartoons often use metaphors to highlight shifts in systemic corruption.",
+      "image_path": "civic2021/image5.jpeg"
+    },
+    {
+      "id": 48,
+      "question": "The first statement in the cartoon affirms that the speaker was",
+      "options": ["supportive of constituted authority", "jealous of Chief Jeunkoku's wealth", "aiding and abetting corruption", "discouraging injustice in the land"],
+      "answer": "C",
+      "explanation": "The context implies the character was involved in or ignored corrupt practices.",
+      "image_path": "civic2021/image6.jpeg"
+    },
+    {
+      "id": 49,
+      "question": "A way Chief Jeunkoku can evade sanction is if there is",
+      "options": ["presence of checks and balances", "operational principle of rule of law", "supremacy of the constitution", "a weak and compromised judiciary"],
+      "answer": "D",
+      "explanation": "Corruption thrives when the judicial system fails to hold powerful people accountable.",
+      "image_path": "civic2021/image7.jpeg"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is not a feature of civil society?",
+      "options": ["Protection of the interest of society", "Voluntary membership and participatioon", "Respect for constituted authority", "Soliciting for political patronage"],
+      "answer": "D",
+      "explanation": "Civil societies are meant to be independent; seeking political patronage (favoritism) compromises them.",
+      "image_path": null
+    }
+  ]
+}

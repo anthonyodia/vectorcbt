@@ -1,0 +1,617 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following land tenure systems allow a farmer to cultivate a piece of land in one growing season, at a fee?",
+    "options": {
+      "A": "Freehold",
+      "B": "Communal",
+      "C": "Rent",
+      "D": "Leasehold"
+    },
+    "answer": "C",
+    "explanation": "Rent (or tenancy) is a system where the farmer pays a fee to the landlord for the right to use the land for a specific, often short, period (like one growing season)."
+  },
+  {
+    "id": 2,
+    "question": "Agriculture could be made attractive to young people in West Africa through the.",
+    "options": {
+      "A": "fabrication of simple farm tools in a locality.",
+      "B": "provision of basic amenities in rural areas.",
+      "C": "cultivation of locally available seeds.",
+      "D": "provision of compost to farmers"
+    },
+    "answer": "B",
+    "explanation": "Provision of basic amenities (like electricity, good roads, water, and healthcare) makes rural living and, consequently, farming more appealing to young people, discouraging rural-urban migration."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following agricultural programmes was mainly established to provide agricultural extension services?",
+    "options": {
+      "A": "Green Revolution",
+      "B": "Operation Feed the Nation",
+      "C": "River Basin Development Authority",
+      "D": "Agricultural Development Project"
+    },
+    "answer": "D",
+    "explanation": "The Agricultural Development Projects (ADPs) were primarily established to restructure and improve agricultural extension service delivery at the grassroots level."
+  },
+  {
+    "id": 4,
+    "question": "The following tools are used in nursery operations except.",
+    "options": {
+      "A": "secateurs",
+      "B": "sickle",
+      "C": "shears",
+      "D": "dibber"
+    },
+    "answer": "B",
+    "explanation": "A Sickle is used for harvesting crops or cutting fodder. Secateurs, shears, and dibbers are used in the nursery for pruning, trimming, and planting seedlings."
+  },
+  {
+    "id": 5,
+    "question": "A major difference between disc harrow and a disc plough is that",
+    "options": {
+      "A": "disc plough has more discs than disc harrow",
+      "B": "discs in disc plough are spaced far apart than in disc harrow.",
+      "C": "disc plough has two pairs of gangs while disc harrow has one pair of gangs",
+      "D": "disc plough has smaller discs than disc harrow."
+    },
+    "answer": "B",
+    "explanation": "A disc plough is designed for deeper primary tillage, requiring the discs to be spaced far apart to handle coarse soil and cut through trash. A disc harrow is for secondary tillage with closer disc spacing."
+  },
+  {
+    "id": 6,
+    "question": "The diagram above illustrates a source of farm power. An advantage of using the power generated from the illustrated diagram is that it.",
+    "options": {
+      "A": "could be stored for future use",
+      "B": "is easy to control",
+      "C": "is environmentally friendly",
+      "D": "is available everywhere"
+    },
+    "answer": "C",
+    "explanation": "The diagram illustrates a windmill, whose power source (wind) is renewable and non-polluting, making it environmentally friendly.",
+    "image": "agriculturalscience/image2.jpeg"
+  },
+  {
+    "id": 7,
+    "question": "The power generated from the illustrated diagram could be converted to",
+    "options": {
+      "A": "solar energy",
+      "B": "electrical energy",
+      "C": "hydro power",
+      "D": "animal power"
+    },
+    "answer": "B",
+    "explanation": "A windmill converts wind energy into rotational energy, which drives a generator to produce electrical energy.",
+    "image": "agriculturalscience/image2.jpeg"
+  },
+  {
+    "id": 8,
+    "question": "Gunter's chain is used for?",
+    "options": {
+      "A": "determining depth of soil moisture",
+      "B": "measuring slope of farmland",
+      "C": "measuring distances",
+      "D": "restraining bulls"
+    },
+    "answer": "C",
+    "explanation": "Gunter's chain is a traditional surveying instrument used for measuring distances and laying out farm boundaries."
+  },
+  {
+    "id": 9,
+    "question": "The chemical composition of soil is influenced by",
+    "options": {
+      "A": "pH",
+      "B": "structure",
+      "C": "parent material",
+      "D": "living organisms."
+    },
+    "answer": "C",
+    "explanation": "The parent material (the rock from which the soil is formed) is the primary source of the mineral elements, thus largely determining the chemical composition of the soil."
+  },
+  {
+    "id": 10,
+    "question": "The ash produced after burning crop residues would.",
+    "options": {
+      "A": "decrease soil acidity",
+      "B": "increase soil acidity",
+      "C": "decrease soil alkalinity",
+      "D": "render the PH unchanged"
+    },
+    "answer": "A",
+    "explanation": "Ash contains basic compounds and has a liming effect, which neutralizes soil acids and decreases soil acidity (raises the pH)."
+  },
+  {
+    "id": 11,
+    "question": "A soil sample that contains predominantly mineral matter that are smaller than 0.002mm in size is,",
+    "options": {
+      "A": "gravel",
+      "B": "sand",
+      "C": "clay",
+      "D": "loam"
+    },
+    "answer": "C",
+    "explanation": "Clay particles are defined as mineral matter with a diameter smaller than 0.002 mm."
+  },
+  {
+    "id": 12,
+    "question": "The illustrated bag of fertilizer (e.g., 10-5-15) shows that the least nutrient is",
+    "options": {
+      "A": "potassium",
+      "B": "sulphur",
+      "C": "phosphorus",
+      "D": "nitrogen"
+    },
+    "answer": "C",
+    "explanation": "Fertilizer grades (N-P₂O₅-K₂O) indicate that 5% (P₂O₅) is the lowest amount of the three primary nutrients, representing Phosphorus.",
+    "image": "agriculturalscience/image3.jpeg"
+  },
+  {
+    "id": 13,
+    "question": "The plant nutrient which is responsible for the green colour of leaves is",
+    "options": {
+      "A": "boron",
+      "B": "magnesium",
+      "C": "calcium",
+      "D": "potassium"
+    },
+    "answer": "B",
+    "explanation": "Magnesium is a constituent of the chlorophyll molecule, which is responsible for the green colour of leaves."
+  },
+  {
+    "id": 14,
+    "question": "Determine the quantity of potassium in the illustrated bag of fertilizer (e.g., 50 kg bag of 10-5-15)",
+    "options": {
+      "A": "8.3 kg",
+      "B": "7.5 kg",
+      "C": "25.0 kg",
+      "D": "30.0 kg"
+    },
+    "answer": "B",
+    "explanation": "The potassium percentage (K₂O) is 15%. Calculation: 15% of 50 kg = 0.15 × 50 kg = 7.5 kg.",
+    "image": "agriculturalscience/image3.jpeg"
+  },
+  {
+    "id": 15,
+    "question": "In order to check erosion on a sloping land, farmers are advised to make",
+    "options": {
+      "A": "ridges across the slope",
+      "B": "furrows across the contours",
+      "C": "ridges along the slope",
+      "D": "ditches along water channels"
+    },
+    "answer": "A",
+    "explanation": "Making ridges across the slope (contour ridging) helps to trap water, slow runoff velocity, and reduce erosion."
+  },
+  {
+    "id": 16,
+    "question": "The diagram above illustrates the root system of a crop (with root nodules). An example of a crop with the illustrated root system is?",
+    "options": {
+      "A": "Rice",
+      "B": "Tomato",
+      "C": "Oil Palm",
+      "D": "Soya bean"
+    },
+    "answer": "D",
+    "explanation": "The root system shown is a taproot with nodules, which is characteristic of leguminous crops like Soya bean.",
+    "image": "agriculturalscience/image4.jpeg"
+  },
+  {
+    "id": 17,
+    "question": "A bacterium that could be found in the part labeled I (root nodule) is",
+    "options": {
+      "A": "Nitrosomonas",
+      "B": "Nitrobacter",
+      "C": "Azotobacter",
+      "D": "Rhizobium"
+    },
+    "answer": "D",
+    "explanation": "Rhizobium is the bacterium that forms a symbiotic relationship with legumes inside the root nodules to fix atmospheric nitrogen.",
+    "image": "agriculturalscience/image4.jpeg"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following fertilizers would not be required by the root system in the diagram above?",
+    "options": {
+      "A": "Potassium sulphate",
+      "B": "Ammonium sulphate",
+      "C": "Azotobacter",
+      "D": "Rhizobium"
+    },
+    "answer": "B",
+    "explanation": "Ammonium sulphate is a nitrogenous fertilizer. Legumes, due to the presence of Rhizobium, fix their own nitrogen and therefore generally do not require nitrogen fertilizer.",
+    "image": "agriculturalscience/image4.jpeg"
+  },
+  {
+    "id": 19,
+    "question": "An important limitation in the use of sprinkler irrigation system is that",
+    "options": {
+      "A": "soluble fertilizers and herbicides can not be applied with irrigation water",
+      "B": "cannot be used on farmlands with high evapotranspiration rates",
+      "C": "requires the use of large volume of water",
+      "D": "high wind velocity could prevent uniform distribution of irrigation"
+    },
+    "answer": "D",
+    "explanation": "High wind velocity can disrupt the spray pattern of sprinklers, leading to uneven water distribution and inefficiency."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following characteristics is not associated with monocotyledonous crops",
+    "options": {
+      "A": "Fibrous root system",
+      "B": "Parallel venation of leaf",
+      "C": "Leaves are net-veined",
+      "D": "Presence of one-seed leaf."
+    },
+    "answer": "C",
+    "explanation": "Monocots have parallel venation. Net-veined (reticulate) leaves are characteristic of dicotyledonous crops."
+  },
+  {
+    "id": 21,
+    "question": "A crop that could be grown to serve as shade for a young cocoa plantation is",
+    "options": {
+      "A": "maize",
+      "B": "Cowpea",
+      "C": "cassava",
+      "D": "banana"
+    },
+    "answer": "D",
+    "explanation": "Banana (or Plantain) are often used as temporary shade crops for young cocoa and coffee due to their rapid growth and suitable canopy structure."
+  },
+  {
+    "id": 22,
+    "question": "Molasses is a major by-product obtained from the processing of",
+    "options": {
+      "A": "pineapple",
+      "B": "cassava",
+      "C": "sugarcane",
+      "D": "sorghum"
+    },
+    "answer": "C",
+    "explanation": "Molasses is the viscous by-product resulting from refining sugarcane or sugar beets into sugar."
+  },
+  {
+    "id": 23,
+    "question": "The diagram above illustrates a storage structure for crops (Maize crib). Which of the following crops are best preserved in the illustrated storage structure?",
+    "options": {
+      "A": "Groundnut pods",
+      "B": "yam tubers",
+      "C": "maize cobs",
+      "D": "cocoa beans"
+    },
+    "answer": "C",
+    "explanation": "The structure shown is a maize crib, specifically designed for the storage and natural drying of maize cobs.",
+    "image": "agriculturalscience/image7.jpeg"
+  },
+  {
+    "id": 24,
+    "question": "The function of the part labeled I (rodent guard) is to",
+    "options": {
+      "A": "promote adequate ventilation",
+      "B": "prevent infestation by insects",
+      "C": "protect from excessive rainfall",
+      "D": "prevent attack by rodents"
+    },
+    "answer": "D",
+    "explanation": "Part I in a typical maize crib diagram is the rodent guard (inverted metal cone) which prevents rodents from climbing the supports and accessing the stored grain.",
+    "image": "agriculturalscience/image7.jpeg"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following environmental conditions would cause spoilage of crops stored in the illustrated structure?",
+    "options": {
+      "A": "High temperature and low relative humidity",
+      "B": "Low temperature and high relative humidity",
+      "C": "High rainfall and high wind velocity",
+      "D": "Low rainfall and low wind velocity"
+    },
+    "answer": "B",
+    "explanation": "Low temperature and high relative humidity increase the moisture content of the stored crop, which encourages fungal and mold growth and insect activity, leading to spoilage. (Note: High temperature with high humidity would be worse, but low T with high humidity is definitely a major spoilage factor.)",
+    "image": "agriculturalscience/image7.jpeg"
+  },
+  {
+    "id": 26,
+    "question": "The correct sequence of land preparation for the cultivation of yam is",
+    "options": {
+      "A": "clearing-stumping-ploughing-harrowing-ridging.",
+      "B": "ploughing-clearing-harrowing-ridging-stumping",
+      "C": "clearing-harrowing-ridging-stumping-ridging",
+      "D": "ploughing-stumping-clearing-ridging-harrowing"
+    },
+    "answer": "A",
+    "explanation": "The sequential steps are: clearing of vegetation, stumping (removing stumps), ploughing (primary tillage), harrowing (secondary tillage), and ridging (for yam planting)."
+  },
+  {
+    "id": 27,
+    "question": "Tenera is a cultivated variety of oil palm with a",
+    "options": {
+      "A": "Thin mesocarp, thick endocarp and large kernel.",
+      "B": "Thick mesocarp, thin endocarp and a moderate sized kernel",
+      "C": "Thick mesocarp, absence of endocarp and a small kernel.",
+      "D": "Thin mesocarp, thin endocarp and a moderate sized kernel."
+    },
+    "answer": "B",
+    "explanation": "The Tenera variety is a hybrid (Dura x Pisifera) that has a thick mesocarp (flesh) and a thin endocarp (shell), giving it the highest oil yield."
+  },
+  {
+    "id": 28,
+    "question": "A farmer produced 25 tonnes of cocoa. If 16 bags of cocoa was later sold at \u20a6350.00 per kilogram. (1 tonne = 1,000 kg). Determine the income realized by the farmer. (Assume 1 bag = 62.5 kg)",
+    "options": {
+      "A": "\u20a6140,000",
+      "B": "\u20a6400,000",
+      "C": "\u20a65,600,000",
+      "D": "\u20a68,750,000"
+    },
+    "answer": "C",
+    "explanation": "To match the closest option, assume '16 bags' is a typo for '16 tonnes'. 16 tonnes = 16,000 kg. Income: 16,000 kg × \u20a6350.00/kg = \u20a65,600,000."
+  },
+  {
+    "id": 29,
+    "question": "Calculate the cost of one bag of cocoa. (Assume 1 bag = 62.5 kg and price is \u20a6350.00/kg)",
+    "options": {
+      "A": "\u20a662.50",
+      "B": "\u20a65,600.00",
+      "C": "\u20a68,750.000",
+      "D": "\u20a621,875.00"
+    },
+    "answer": "D",
+    "explanation": "Cost of one bag: 62.5 kg/bag × \u20a6350.00/kg = \u20a621,875.00."
+  },
+  {
+    "id": 30,
+    "question": "A disadvantage of selection as a method of crop improvement is that it.",
+    "options": {
+      "A": "ensures picking of crops",
+      "B": "requires expertise when carrying it out",
+      "C": "increases the spread of diseases",
+      "D": "increases the susceptibility of crops to pests"
+    },
+    "answer": "B",
+    "explanation": "Selection is time-consuming and requires specialized knowledge and expertise to accurately identify and isolate superior genetic material."
+  },
+  {
+    "id": 31,
+    "question": "Natural regeneration of forests may lead to",
+    "options": {
+      "A": "destruction of existing forest trees",
+      "B": "requires expertise when carrying it out",
+      "C": "increase the spread of diseases",
+      "D": "increases the susceptibility of of crops to pests"
+    },
+    "answer": "B",
+    "explanation": "The options are poor for this question. The process often requires careful management and technical knowledge to select and tend desirable species (expertise) to succeed."
+  },
+  {
+    "id": 32,
+    "question": "The diagram above illustrates the damage on a leaf caused by an insect pest of crops (chewed holes). The damage to the illustrated leaf is mostly caused by",
+    "options": {
+      "A": "whitefly",
+      "B": "beetle",
+      "C": "grasshopper",
+      "D": "mealybug"
+    },
+    "answer": "C",
+    "explanation": "The damage shown (chewed holes and missing tissue) is caused by biting and chewing pests. Grasshoppers are typical examples.",
+    "image": "agriculturalscience/image9.jpeg"
+  },
+  {
+    "id": 33,
+    "question": "The biological process that would be affected in the leaf is",
+    "options": {
+      "A": "Transpiration",
+      "B": "respiration",
+      "C": "irritability",
+      "D": "photosynthesis"
+    },
+    "answer": "D",
+    "explanation": "Damage that reduces the leaf area directly decreases the surface available for light absorption, thereby affecting the rate of photosynthesis.",
+    "image": "agriculturalscience/image9.jpeg"
+  },
+  {
+    "id": 34,
+    "question": "The yield of palm oil could be reduced by infestation of",
+    "options": {
+      "A": "caterpillar",
+      "B": "cotton stainer",
+      "C": "myrid",
+      "D": "army worm"
+    },
+    "answer": "C",
+    "explanation": "Myrids (or capsid bugs) are known to attack the young fruit bunches and flowers of oil palm, causing them to abort and thus drastically reducing yield."
+  },
+  {
+    "id": 35,
+    "question": "Breeds of sheep common in west Africa include",
+    "options": {
+      "A": "Sahel and Kano brown",
+      "B": "Ouda and Yankassa",
+      "C": "Sokoto Red and Angora",
+      "D": "Nubian and Kano Brown"
+    },
+    "answer": "B",
+    "explanation": "Ouda and Yankassa are among the most widespread and recognized indigenous breeds of sheep in West Africa."
+  },
+  {
+    "id": 36,
+    "question": "Low relative humidity in livestock pens would",
+    "options": {
+      "A": "predispose animals to diseases",
+      "B": "encourage moldness of feeds",
+      "C": "decrease water intake",
+      "D": "increase water intake"
+    },
+    "answer": "D",
+    "explanation": "Low humidity increases the rate of evaporation (pantting, sweating), leading to higher water loss from the animal's body. The animal must therefore increase its water intake to compensate and prevent dehydration."
+  },
+  {
+    "id": 37,
+    "question": "A poultry farmer collects 100 trays of eggs per day on the farm. If the market price of a tray of eggs is \u20a6900.00, determine the income realized from the sale of eggs in one week",
+    "options": {
+      "A": "\u20a6630,000",
+      "B": "\u20a690,000",
+      "C": "\u20a690,000",
+      "D": "\u20a66,300"
+    },
+    "answer": "A",
+    "explanation": "Daily income: 100 trays × \u20a6900.00/tray = \u20a690,000. Weekly income: \u20a690,000/day × 7 days = \u20a6630,000."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is an advantage of pen mating?",
+    "options": {
+      "A": "spread of a veneral disease",
+      "B": "deformed males may not be allowed to mate.",
+      "C": "cost of keeping a breeding male is low",
+      "D": "the tendency of mating females on heat is high"
+    },
+    "answer": "D",
+    "explanation": "In pen mating (one male running with a group of females), the male is always present, maximizing the chance of mating all females when they come into heat."
+  },
+  {
+    "id": 39,
+    "question": "Pail feeding is commonly practiced in the management of?",
+    "options": {
+      "A": "pigs",
+      "B": "poultry",
+      "C": "cattle",
+      "D": "rabbits"
+    },
+    "answer": "C",
+    "explanation": "Pail feeding is a method used to feed milk or milk replacer to young calves (cattle) after they are separated from their mothers."
+  },
+  {
+    "id": 40,
+    "question": "The diagram above illustrates a management practice in poultry production. The management practice illustrated in the diagram is?",
+    "options": {
+      "A": "incubation",
+      "B": "hatching",
+      "C": "brooding",
+      "D": "candling"
+    },
+    "answer": "C",
+    "explanation": "The diagram shows chicks under a heat source, which is the management practice of providing artificial warmth and care to young birds, known as brooding.",
+    "image": "agriculturalscience/image10.jpeg"
+  },
+  {
+    "id": 41,
+    "question": "Climatic factors that should be monitored during the management practice illustrated (brooding) are temperature, I and II. (I=Humidity, II=Ventilation)",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "answer": "A",
+    "explanation": "The most critical climatic factors during brooding are temperature, relative humidity (I), and ventilation (II) to ensure the health and survival of the chicks.",
+    "image": "agriculturalscience/image10.jpeg"
+  },
+  {
+    "id": 42,
+    "question": "The illustrated management (brooding) is usually carried on chicks from day old to",
+    "options": {
+      "A": "2 weeks",
+      "B": "4 weeks",
+      "C": "6 weeks",
+      "D": "8 weeks"
+    },
+    "answer": "B",
+    "explanation": "Brooding typically lasts until the chicks are fully feathered and can maintain their own body temperature, which is usually around 3 to 4 weeks.",
+    "image": "agriculturalscience/image10.jpeg"
+  },
+  {
+    "id": 43,
+    "question": "The meat from a tender calf is",
+    "options": {
+      "A": "beef",
+      "B": "mutton",
+      "C": "veal",
+      "D": "chevron"
+    },
+    "answer": "C",
+    "explanation": "Veal is the meat of young cattle (calves), usually tender and light-colored."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following group of diseases of farm animals are caused by bacteria?",
+    "options": {
+      "A": "Rinderpest, swine fever and trypanosomiasis",
+      "B": "Coccidiosis, Newcastle and fowl typhoid",
+      "C": "Fowl, pox, mastitis and gumboro",
+      "D": "Brucellosis, anthrax and tuberculosis"
+    },
+    "answer": "D",
+    "explanation": "Brucellosis, Anthrax, and Tuberculosis are all well-known diseases in livestock caused by specific bacteria."
+  },
+  {
+    "id": 45,
+    "question": "If an animal is likely to succumb to the effects of a pathogen, the animal is said to be.",
+    "options": {
+      "A": "tolerant",
+      "B": "resistant",
+      "C": "susceptible",
+      "D": "immune"
+    },
+    "answer": "C",
+    "explanation": "A susceptible animal is vulnerable and lacks resistance to a specific disease or pathogen, making it likely to suffer or succumb to its effects."
+  },
+  {
+    "id": 46,
+    "question": "Which of the following changes will cause the demand curve (for a normal good) to shift to the right?",
+    "options": {
+      "A": "A reduction in the size of the population",
+      "B": "An increase in the income of the consumer",
+      "C": "Availability of the close substitutes",
+      "D": "Decrease in the price of goods"
+    },
+    "answer": "B",
+    "explanation": "An increase in consumer income for a normal good allows consumers to buy more at every price, causing the entire demand curve to shift to the right."
+  },
+  {
+    "id": 47,
+    "question": "The function of a farm manager is to",
+    "options": {
+      "A": "make agricultural policies for the government",
+      "B": "allocate available resources on the farm effectively",
+      "C": "execute agricultural extension programmes",
+      "D": "stabilize the prices of farm produce"
+    },
+    "answer": "B",
+    "explanation": "The core role of a farm manager is to make management decisions, including the effective allocation and utilization of the farm's resources (land, labour, capital, etc.)."
+  },
+  {
+    "id": 48,
+    "question": "Marginal cost could be described as the",
+    "options": {
+      "A": "change in total cost of output",
+      "B": "product of average variable cost and the number of fruits produced",
+      "C": "increase in fixed cost of that results from increasing production by one unit",
+      "D": "average physical product mutiplied by the variable cost"
+    },
+    "answer": "A",
+    "explanation": "Marginal cost (MC) is the change in total cost (Delta TC) resulting from producing one additional unit of output (Delta Q). MC = Delta TC / Delta Q. **(CORRECTION APPLIED HERE to remove invalid characters)**"
+  },
+  {
+    "id": 49,
+    "question": "Farm gate price is mostly enjoyed by",
+    "options": {
+      "A": "wholesalers",
+      "B": "producers",
+      "C": "consumers",
+      "D": "retailers"
+    },
+    "answer": "B",
+    "explanation": "The farm gate price is the price of the commodity at the point of exit from the farm, which is the price received directly by the producers (farmers)."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is an economic advantage of commercial farming?",
+    "options": {
+      "A": "It promotes subsistence living.",
+      "B": "It reduces the need for machinery.",
+      "C": "It generates foreign exchange earnings.",
+      "D": "It discourages specialization."
+    },
+    "answer": "C",
+    "explanation": "Commercial farming is large-scale and profit-oriented. When products are exported, it is a significant source of foreign exchange for the country."
+  }
+]

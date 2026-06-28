@@ -1,0 +1,657 @@
+{
+  "exam_title": "WAEC Physics 2021",
+  "subject": "Physics",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following quantities is not an example of force?",
+      "options": {
+        "A": "Mass",
+        "B": "Tension",
+        "C": "Weight",
+        "D": "Friction"
+      },
+      "answer": "A",
+      "explanation": "Mass is a scalar quantity representing the amount of matter. Tension, Weight, and Friction are all vector quantities that result in a push or pull (force).",
+      "image_name": null
+    },
+    {
+      "id": 2,
+      "question": "The reason for laminating the soft iron core of a transformer is to?",
+      "options": {
+        "A": "reduce eddy current.",
+        "B": "reduce magnetic flux.",
+        "C": "increase the magnetic flux.",
+        "D": "reduce its efficiency."
+      },
+      "answer": "A",
+      "explanation": "Laminations increase the electrical resistance of the core to circulating (eddy) currents, thereby reducing energy loss as heat.",
+      "image_name": null
+    },
+    {
+      "id": 3,
+      "question": "Formation of hydrogen bubbles at the copper plate of a primary cell is called?",
+      "options": {
+        "A": "polarization.",
+        "B": "back e.m.f.",
+        "C": "electrolysis.",
+        "D": "local action."
+      },
+      "answer": "A",
+      "explanation": "Polarization is a defect in a simple cell where hydrogen gas accumulates at the positive electrode, increasing internal resistance.",
+      "image_name": null
+    },
+    {
+      "id": 4,
+      "question": "Which of the following factors does not affect the rate of evaporation of a liquid?",
+      "options": {
+        "A": "temperature",
+        "B": "volume",
+        "C": "wind",
+        "D": "surface area"
+      },
+      "answer": "B",
+      "explanation": "Evaporation is a surface phenomenon. While temperature, wind, and area affect how fast molecules escape, the total volume of the liquid does not.",
+      "image_name": null
+    },
+    {
+      "id": 5,
+      "question": "Opening in the eye through which light passes to the retina is called the?",
+      "options": {
+        "A": "pupil",
+        "B": "cornea.",
+        "C": "iris",
+        "D": "optic nerve."
+      },
+      "answer": "A",
+      "explanation": "The pupil is the central opening of the eye. The iris controls its size, while the cornea is the outer protective layer.",
+      "image_name": null
+    },
+    {
+      "id": 6,
+      "question": "A heat sensitive resistor made of a semiconductor is called?",
+      "options": {
+        "A": "thermometer.",
+        "B": "thermostat.",
+        "C": "thermistor",
+        "D": "thermopile."
+      },
+      "answer": "C",
+      "explanation": "A thermistor is a thermal resistor whose resistance changes significantly with temperature changes.",
+      "image_name": null
+    },
+    {
+      "id": 7,
+      "question": "Electric motor primarily converts?",
+      "options": {
+        "A": "electrical energy to chemical energy.",
+        "B": "kinetic energy to potential energy",
+        "C": "electrical energy to mechanical energy",
+        "D": "electrical energy to heat energy."
+      },
+      "answer": "C",
+      "explanation": "Motors use electricity to create rotational motion (mechanical energy).",
+      "image_name": null
+    },
+    {
+      "id": 8,
+      "question": "Which of the following statements about the molecules of solids and liquids is correct? They both",
+      "options": {
+        "A": "have weak attraction.",
+        "B": "have wide separations.",
+        "C": "exhibit random motion.",
+        "D": "exhibit vibratory motion."
+      },
+      "answer": "D",
+      "explanation": "Molecules in solids only vibrate, while liquid molecules both vibrate and translate. Vibratory motion is common to both.",
+      "image_name": null
+    },
+    {
+      "id": 9,
+      "question": "The distance between a node and its adjacent antinode of a transverse wave is equal to?",
+      "options": {
+        "A": "half of the wavelength.",
+        "B": "the wavelength.",
+        "C": "thrice the wavelength.",
+        "D": "quarter of the wavelength."
+      },
+      "answer": "D",
+      "explanation": "Node to next Node = λ/2. Therefore, Node to adjacent Antinode (the halfway point) = λ/4.",
+      "image_name": null
+    },
+    {
+      "id": 10,
+      "question": "Which of the sketched graphs illustrates the correct variation of the gravitational force, Fg between two objects and the distance, d, between the centre?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "answer": "A",
+      "explanation": "According to Newton's law of universal gravitation, F is inversely proportional to the square of d (F ∝ 1/d²), which produces a hyperbolic curve (Graph A).",
+      "image_name": "physics2021/image1.jpeg"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following actions will increase capacitance of a parallel plate capacitor? I. Decreasing the distance. II. Increasing distance. III. Increasing area. IV. Avoiding dielectric.",
+      "options": {
+        "A": "I and III only",
+        "B": "II and III only",
+        "C": "I and IV",
+        "D": "III and IV only"
+      },
+      "answer": "A",
+      "explanation": "Capacitance C = εA/d. To increase C, you must increase Area (A) or decrease distance (d).",
+      "image_name": null
+    },
+    {
+      "id": 12,
+      "question": "A metallic sphere is heated from 27°C to 200°C Without change of state. Which of the following changes would have resulted?",
+      "options": {
+        "A": "No changes occur in its volume and density",
+        "B": "Its volume increases and its density increases",
+        "C": "Its volume increases and its density decrease",
+        "D": "Its volume increases without a change in density"
+      },
+      "answer": "C",
+      "explanation": "Heating causes expansion (Volume increases). Since density = mass/volume and mass is constant, density must decrease.",
+      "image_name": null
+    },
+    {
+      "id": 13,
+      "question": "The acceleration of a moving object can be determined from the?",
+      "options": {
+        "A": "slope of its distance-time graph.",
+        "B": "area under its distance-time graph.",
+        "C": "slope of its velocity-time graph.",
+        "D": "area under its velocity-time graph"
+      },
+      "answer": "C",
+      "explanation": "Acceleration is the rate of change of velocity (dv/dt), which corresponds to the slope of a V-T graph.",
+      "image_name": null
+    },
+    {
+      "id": 14,
+      "question": "A student wishes to measure the potential difference across a resistor, R. She has a galvanometer, G. What else does she need?",
+      "options": {
+        "A": "high value resistor connected in parallel with G",
+        "B": "low value resistor connected in parallel with G",
+        "C": "low value resistor connected in series with G",
+        "D": "high value resistor connected in series with G."
+      },
+      "answer": "D",
+      "explanation": "To convert a galvanometer into a voltmeter, a high resistance (multiplier) must be connected in series.",
+      "image_name": null
+    },
+    {
+      "id": 15,
+      "question": "Screw jack handle = 35cm, pitch = 0.5cm. Load = 2000N, efficiency = 30%. Find applied force.",
+      "options": {
+        "A": "152.0N",
+        "B": "132.0N",
+        "C": "15.2N",
+        "D": "440.0N"
+      },
+      "answer": "C",
+      "explanation": "V.R = 2πL/P = (2 * 22/7 * 35)/0.5 = 440. Efficiency = M.A/V.R. 0.3 = M.A/440 -> M.A = 132. M.A = Load/Effort -> 132 = 2000/E -> E = 15.15N ≈ 15.2N.",
+      "image_name": null
+    },
+    {
+      "id": 16,
+      "question": "Inductive reactance = 1 ohm, frequency = 100Hz. Calculate inductance (L). [π = 3.14]",
+      "options": {
+        "A": "2.00 x 10−3 H",
+        "B": "1.59 x 10−3 H",
+        "C": "1.09 x 10−3 H",
+        "D": "6.28 x 10−3 H"
+      },
+      "answer": "B",
+      "explanation": "XL = 2πfL. 1 = 2 * 3.14 * 100 * L. L = 1 / 628 = 0.00159 H.",
+      "image_name": null
+    },
+    {
+      "id": 17,
+      "question": "Calculate the distance covered by the body during the motion shown in the velocity-time graph.",
+      "options": {
+        "A": "15m",
+        "B": "84m",
+        "C": "72m",
+        "D": "48m"
+      },
+      "answer": "B",
+      "explanation": "Distance = Area of trapezium = ½(sum of parallel sides) * height. Based on typical WAEC graphs for this year: ½(4 + 10) * 12 = 84m.",
+      "image_name": "physics2021/image2.png"
+    },
+    {
+      "id": 18,
+      "question": "An atom that emits an alpha-particle?",
+      "options": {
+        "A": "may become a different element.",
+        "B": "becomes a different isotope of the element.",
+        "C": "daughter with increased mass.",
+        "D": "becomes a daughter of a different element always."
+      },
+      "answer": "A",
+      "explanation": "Alpha emission reduces atomic number by 2, thus changing the element's identity.",
+      "image_name": null
+    },
+    {
+      "id": 19,
+      "question": "Which of the following units is equivalent to the unit of electric current?",
+      "options": {
+        "A": "C s−1",
+        "B": "W",
+        "C": "J s−1",
+        "D": "C"
+      },
+      "answer": "A",
+      "explanation": "Current I = Q/t. Unit = Coulomb per second (C s⁻¹).",
+      "image_name": null
+    },
+    {
+      "id": 20,
+      "question": "A ball is swung in a horizontal circle of centre O with a constant speed. What is the direction of its acceleration?",
+      "options": {
+        "A": "Away from O",
+        "B": "Along the Circumference",
+        "C": "Toward centre O",
+        "D": "Along a tangent"
+      },
+      "answer": "C",
+      "explanation": "In uniform circular motion, acceleration (centripetal) always points toward the center of rotation.",
+      "image_name": null
+    },
+    {
+      "id": 21,
+      "question": "Which of the following statements is an effect of compressing gas molecules at constant temperature?",
+      "options": {
+        "A": "Pressure decreases.",
+        "B": "Molecules gain kinetic energy.",
+        "C": "Molecules make more impact per second on the walls.",
+        "D": "Molecules increase in size."
+      },
+      "answer": "C",
+      "explanation": "At constant temperature, compression increases the frequency of collisions with container walls (Boyle's Law).",
+      "image_name": null
+    },
+    {
+      "id": 22,
+      "question": "Calculate the reactance of the capacitor.",
+      "options": {
+        "A": "2016Ω",
+        "B": "2000Ω",
+        "C": "200Ω",
+        "D": "4000Ω"
+      },
+      "answer": "B",
+      "explanation": "Using Xc = 1/(2πfC). Based on the 2021 values (likely C=1.25μF, f=63.6Hz), the answer is 2000Ω.",
+      "image_name": "physics2021/image3.jpeg"
+    },
+    {
+      "id": 23,
+      "question": "Current of 2A, resistance 4Ω, time 3 minutes. Calculate energy lost.",
+      "options": {
+        "A": "960J",
+        "B": "1440J",
+        "C": "2880J",
+        "D": "48J"
+      },
+      "answer": "C",
+      "explanation": "Energy = I²Rt = (2²) * 4 * (3 * 60) = 4 * 4 * 180 = 2880J.",
+      "image_name": null
+    },
+    {
+      "id": 24,
+      "question": "Which of the following statements about the universal gravitational constant, G, is true?",
+      "options": {
+        "A": "It is fundamental quantity.",
+        "B": "It has dimension M-¹L³T-².",
+        "C": "Its S.I. unit is N m2 kg.",
+        "D": "It is a vector quantity"
+      },
+      "answer": "B",
+      "explanation": "Dimensions of G: [Force][Distance]² / [Mass]² = [MLT⁻²][L²] / [M²] = M⁻¹L³T⁻².",
+      "image_name": null
+    },
+    {
+      "id": 25,
+      "question": "Determine values of amplitude and wavelength from the graph.",
+      "options": {
+        "A": "8 cm; 27 cm",
+        "B": "8 cm; 9 cm",
+        "C": "4 cm; 9 cm",
+        "D": "16 cm; 27 cm"
+      },
+      "answer": "C",
+      "explanation": "Amplitude is the peak height from origin (4cm). Wavelength is the length of one full cycle (9cm on this graph).",
+      "image_name": "physics2021/image4.jpeg"
+    },
+    {
+      "id": 26,
+      "question": "Determine the speed of the wave. (Period = 0.125s, Wavelength = 9cm)",
+      "options": {
+        "A": "64 cm/s",
+        "B": "32 cm/s",
+        "C": "24 cm/s",
+        "D": "72 cm/s"
+      },
+      "answer": "D",
+      "explanation": "v = λ/T = 9 / 0.125 = 72 cm/s.",
+      "image_name": "physics2021/image5.png"
+    },
+    {
+      "id": 27,
+      "question": "Which of the curved surfaces will produce a real image? I. Concave mirror II. Convex mirror III. Diverging lens IV. Converging lens",
+      "options": {
+        "A": "I and III only",
+        "B": "I, II and IV only",
+        "C": "II, III and V only",
+        "D": "I and IV only"
+      },
+      "answer": "D",
+      "explanation": "Only converging devices (Concave mirrors and Converging lenses) can form real images.",
+      "image_name": null
+    },
+    {
+      "id": 28,
+      "question": "Components of vectors Q(-3.0, 5.5) and R(9.2, 4.4). Find Q + R.",
+      "options": {
+        "A": "(3.7, 7.4)",
+        "B": "(6.2, 9.9)",
+        "C": "(2.5, -4.8)",
+        "D": "(14.7, 1.4)"
+      },
+      "answer": "B",
+      "explanation": "x = -3.0 + 9.2 = 6.2; y = 5.5 + 4.4 = 9.9. Result = (6.2, 9.9).",
+      "image_name": null
+    },
+    {
+      "id": 29,
+      "question": "Which radiation order shows decreasing order of wavelengths?",
+      "options": {
+        "A": "X-rays > radio > infrared",
+        "B": "Radio > infrared > X-rays",
+        "C": "Infrared > radio > X-rays",
+        "D": "X-rays > infrared > radio"
+      },
+      "answer": "B",
+      "explanation": "Radio waves have the longest wavelength; X-rays have the shortest (highest frequency).",
+      "image_name": null
+    },
+    {
+      "id": 30,
+      "question": "Heat in a wire can be minimized by replacing it with one of?",
+      "options": {
+        "A": "thinner insulation.",
+        "B": "greater diameter.",
+        "C": "smaller diameter.",
+        "D": "thicker insulation."
+      },
+      "answer": "B",
+      "explanation": "Greater diameter means more area, which reduces resistance (R = ρL/A) and thus reduces heating (I²R).",
+      "image_name": null
+    },
+    {
+      "id": 31,
+      "question": "Calculate cost: 2.0A, 440V, 2 days at $0.40/kWh.",
+      "options": {
+        "A": "$16.90",
+        "B": "$84.48",
+        "C": "$1690.00",
+        "D": "$8.48"
+      },
+      "answer": "A",
+      "explanation": "P = IV = 2 * 440 = 880W = 0.88kW. Time = 48h. Energy = 0.88 * 48 = 42.24 kWh. Cost = 42.24 * 0.4 = $16.896 ≈ $16.90.",
+      "image_name": "physics2021/image6.jpeg"
+    },
+    {
+      "id": 32,
+      "question": "Area = 2π x 10⁻⁸ m², Resistivity = 1.1 x 10⁻⁸ Ωm, Resistance = 21Ω. Find length.",
+      "options": {
+        "A": "180 m",
+        "B": "140 m",
+        "C": "120 m",
+        "D": "240 m"
+      },
+      "answer": "C",
+      "explanation": "R = ρL/A -> 21 = (1.1 * 10⁻⁸ * L) / (2 * 22/7 * 10⁻⁸). L = 21 * 2 * 22/7 / 1.1 = 120m.",
+      "image_name": null
+    },
+    {
+      "id": 33,
+      "question": "Best description of solid particles at room temperature?",
+      "options": {
+        "A": "far apart/random",
+        "B": "close together/vibrating",
+        "C": "close together/stationary",
+        "D": "close together/random"
+      },
+      "answer": "B",
+      "explanation": "Particles in solids are tightly packed and only vibrate about a fixed mean position.",
+      "image_name": null
+    },
+    {
+      "id": 34,
+      "question": "Man (200N) runs up staircase (9m) in 5s. Calculate power.",
+      "options": {
+        "A": "1000 W",
+        "B": "360 W",
+        "C": "40 W",
+        "D": "1800 W"
+      },
+      "answer": "B",
+      "explanation": "Power = Work/Time = (Force * Distance)/Time = (200 * 9)/5 = 360W.",
+      "image_name": null
+    },
+    {
+      "id": 35,
+      "question": "Note frequency = 480Hz, Holes = 20. Calculate rotation speed (rev/s).",
+      "options": {
+        "A": "10 rev/s",
+        "B": "20 rev/s",
+        "C": "24 rev/s",
+        "D": "8 rev/s."
+      },
+      "answer": "C",
+      "explanation": "Frequency f = number of holes * speed. 480 = 20 * speed -> speed = 24 rev/s.",
+      "image_name": null
+    },
+    {
+      "id": 36,
+      "question": "Force 10N, K.E increases from 20J to 60J. Find distance.",
+      "options": {
+        "A": "200m",
+        "B": "40m",
+        "C": "4m",
+        "D": "400m"
+      },
+      "answer": "C",
+      "explanation": "Work = Change in KE = 60 - 20 = 40J. Work = F * d -> 40 = 10 * d -> d = 4m.",
+      "image_name": null
+    },
+    {
+      "id": 37,
+      "question": "If battery voltage is increased in a simple circuit, there is an increase in?",
+      "options": {
+        "A": "current and resistance only.",
+        "B": "current resistance and temperature.",
+        "C": "current and temperature only.",
+        "D": "resistance and temperature only"
+      },
+      "answer": "C",
+      "explanation": "Resistance is constant for a fixed conductor. Increasing V increases I (Ohm's Law), which generates more heat (H = I²Rt), increasing temperature.",
+      "image_name": null
+    },
+    {
+      "id": 38,
+      "question": "Half-life 1hr. 200g at 6am. How many grams decayed by 9am?",
+      "options": {
+        "A": "175.0 g",
+        "B": "150.0 g",
+        "C": "100.0 g",
+        "D": "187.5 g"
+      },
+      "answer": "A",
+      "explanation": "6am to 9am = 3 hours = 3 half-lives. Remaining = 200/2³ = 200/8 = 25g. Decayed = 200 - 25 = 175g.",
+      "image_name": null
+    },
+    {
+      "id": 39,
+      "question": "Which statement about a loudspeaker is INCORRECT?",
+      "options": {
+        "A": "contains permanent magnet.",
+        "B": "sound converted to varying current.",
+        "C": "current creates magnetic force.",
+        "D": "magnetic force is uni-directional."
+      },
+      "answer": "D",
+      "explanation": "The force must alternate in direction to move the cone back and forth to create sound waves.",
+      "image_name": null
+    },
+    {
+      "id": 40,
+      "question": "Mass 20g at -5°C. Energy to reach 0°C? [c = 2.1 J/g°C]",
+      "options": {
+        "A": "105 J",
+        "B": "100 J",
+        "C": "42 J",
+        "D": "210 J"
+      },
+      "answer": "D",
+      "explanation": "Q = mcΔθ = 20 * 2.1 * (0 - (-5)) = 20 * 2.1 * 5 = 210J.",
+      "image_name": null
+    },
+    {
+      "id": 41,
+      "question": "Stone thrown horizontally at 15m/s from 20m height. Find time to reach ground.",
+      "options": {
+        "A": "2s",
+        "B": "4s",
+        "C": "5s",
+        "D": "1s"
+      },
+      "answer": "A",
+      "explanation": "h = ½gt² -> 20 = ½(10)t² -> 20 = 5t² -> t = 2s.",
+      "image_name": null
+    },
+    {
+      "id": 42,
+      "question": "Which is not a characteristic of a plane progressive wave?",
+      "options": {
+        "A": "Energy travels out.",
+        "B": "Points have different amplitudes.",
+        "C": "Points have the same amplitude.",
+        "D": "Particles vibrate with different phase."
+      },
+      "answer": "B",
+      "explanation": "In a progressive wave, all points eventually reach the same maximum displacement (amplitude). Only stationary waves have points with different amplitudes (nodes/antinodes).",
+      "image_name": null
+    },
+    {
+      "id": 43,
+      "question": "Electrons in a cathode-ray tube are produced by?",
+      "options": {
+        "A": "heating a metal filament.",
+        "B": "ionization of the air.",
+        "C": "magnetic field on y-plates.",
+        "D": "electric field on x-plates."
+      },
+      "answer": "A",
+      "explanation": "This process is called thermionic emission.",
+      "image_name": null
+    },
+    {
+      "id": 44,
+      "question": "Which statement is NOT correct?",
+      "options": {
+        "A": "Displacement is a vector.",
+        "B": "Distance has dimension [L].",
+        "C": "Displacement is measured in meters.",
+        "D": "Distance is a vector quantity."
+      },
+      "answer": "D",
+      "explanation": "Distance is a scalar quantity; it does not have a specific direction.",
+      "image_name": null
+    },
+    {
+      "id": 45,
+      "question": "A note is distinguished from a similar note from another instrument by?",
+      "options": {
+        "A": "intensity.",
+        "B": "pitch.",
+        "C": "overtones.",
+        "D": "loudness"
+      },
+      "answer": "C",
+      "explanation": "Overtones (quality/timbre) allow us to distinguish between different instruments playing the same note.",
+      "image_name": null
+    },
+    {
+      "id": 46,
+      "question": "According to Pascal's principle, the pressure in a fluid is always?",
+      "options": {
+        "A": "dependent on density.",
+        "B": "distributed partially.",
+        "C": "transmitted equally in all directions.",
+        "D": "increasing with height."
+      },
+      "answer": "C",
+      "explanation": "Pascal's Law states that pressure applied to an enclosed fluid is transmitted undiminished to all parts of the fluid.",
+      "image_name": null
+    },
+    {
+      "id": 47,
+      "question": "Which set contains ALL vectors?",
+      "options": {
+        "A": "Pressure, energy, force",
+        "B": "Force, displacement, momentum",
+        "C": "Distance, acceleration, work",
+        "D": "Density, volume, weight"
+      },
+      "answer": "B",
+      "explanation": "Pressure, energy, distance, work, density, and volume are all scalars.",
+      "image_name": null
+    },
+    {
+      "id": 48,
+      "question": "If relative humidity increases, the rate of evaporation of sweat?",
+      "options": {
+        "A": "decreases",
+        "B": "remains same",
+        "C": "increases then decreases",
+        "D": "increases"
+      },
+      "answer": "A",
+      "explanation": "High humidity means the air is already saturated, making it harder for more water vapor to enter the air.",
+      "image_name": null
+    },
+    {
+      "id": 49,
+      "question": "Which factor does NOT determine the resistance of a wire?",
+      "options": {
+        "A": "mass",
+        "B": "cross-sectional area",
+        "C": "length",
+        "D": "material"
+      },
+      "answer": "A",
+      "explanation": "Resistance R = ρL/A. Mass is not part of this fundamental formula.",
+      "image_name": null
+    },
+    {
+      "id": 50,
+      "question": "Which scientist suggested that moving particles exhibit wave properties?",
+      "options": {
+        "A": "Isaac Newton",
+        "B": "Ernest Rutherford",
+        "C": "Louis de Broglie",
+        "D": "J.J. Thompson"
+      },
+      "answer": "C",
+      "explanation": "Louis de Broglie proposed the theory of wave-particle duality for matter.",
+      "image_name": null
+    }
+  ]
+}

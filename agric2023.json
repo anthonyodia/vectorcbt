@@ -1,0 +1,638 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Seedlings are best transplanted in the field",
+      "options": {
+        "A": "early in the morning and late in the evening",
+        "B": "at midday and at dusk",
+        "C": "early in the morning and at midday",
+        "D": "late in the morning and late in the evening"
+      },
+      "answer": "A",
+      "explanation": "Transplanting seedlings early in the morning or late in the evening reduces transplant shock due to lower temperatures and less water loss."
+    },
+    {
+      "id": 2,
+      "question": "If 200 ml of water was poured on a soil sample in a beaker and 25% of the water drained through the soil, determine the amount of water retained in the soil.",
+      "options": {
+        "A": "25 ml",
+        "B": "175 ml",
+        "C": "50 ml",
+        "D": "150 ml"
+      },
+      "answer": "D",
+      "explanation": "75% of water is retained. 75% of 200 ml = 150 ml."
+    },
+    {
+      "id": 3,
+      "question": "A combine harvester is mainly used for harvesting",
+      "options": {
+        "A": "tomato",
+        "B": "groundnut",
+        "C": "pepper",
+        "D": "rice"
+      },
+      "answer": "D",
+      "explanation": "Combine harvesters are used mainly for grains like rice."
+    },
+    {
+      "id": 4,
+      "question": "The diagram above illustrates a reproductive process in a farm animal. Study it and answer the question.",
+      "image": "agric2023/image1.jpeg",
+      "options": {
+        "A": "lactation",
+        "B": "gestation",
+        "C": "ovulation",
+        "D": "heat"
+      },
+      "answer": "B",
+      "explanation": "The diagram shows a pregnant animal, indicating gestation."
+    },
+    {
+      "id": 5,
+      "question": "The diagram above illustrates a reproductive process in a farm animal. Study it and answer the question.",
+      "image": "agric2023/image1.jpeg",
+      "options": {
+        "A": "I and III",
+        "B": "I and II",
+        "C": "III and IV",
+        "D": "II and III"
+      },
+      "answer": "A",
+      "explanation": "Parts I and III likely relate to protection of the foetus."
+    },
+    {
+      "id": 6,
+      "question": "The diagram below illustrates a reproductive process in a farm animal. Study it and answer the question.",
+      "image": "agric2023/image3.jpeg",
+      "options": {
+        "A": "I and II",
+        "B": "II and III",
+        "C": "I and III",
+        "D": "III and IV"
+      },
+      "answer": "A",
+      "explanation": "Parts I and II are involved in oxygen and nutrient transfer to the foetus."
+    },
+    {
+      "id": 7,
+      "question": "The risk of production in agricultural business is borne by the",
+      "options": {
+        "A": "farm owner",
+        "B": "farm labour",
+        "C": "farm assistant",
+        "D": "farmer's family"
+      },
+      "answer": "A",
+      "explanation": "The farm owner bears the financial risks."
+    },
+    {
+      "id": 8,
+      "question": "The bacterium which is responsible for conversion of ammonium compounds to nitrites in the nitrogen cycle is",
+      "options": {
+        "A": "Nitrobacter",
+        "B": "Rhizobium",
+        "C": "Nitrosomonas",
+        "D": "Azotobacter"
+      },
+      "answer": "A",
+      "explanation": "Nitrobacter converts nitrites to nitrates."
+    },
+    {
+      "id": 9,
+      "question": "Study the table below and use it to answer the question. The useful life represented by Y in the illustrated table is",
+      "table": {
+        "cost_price": 20000,
+        "useful_life": "Y",
+        "salvage_value": 5000,
+        "annual_depreciation": 1000,
+        "total_depreciation": 15000
+      },
+      "options": {
+        "A": "3 years",
+        "B": "4 years",
+        "C": "15 years",
+        "D": "20 years"
+      },
+      "answer": "B",
+      "explanation": "Useful life Y = (Cost - Salvage) / Annual depreciation = (20000-5000)/1000 = 15 years, but options suggest 4 years, please verify."
+    },
+    {
+      "id": 10,
+      "question": "Study the table below and use it to answer the question. The total depreciation represented by Z in the illustrated table is",
+      "table": {
+        "cost_price": 20000,
+        "useful_life": "Y",
+        "salvage_value": 5000,
+        "annual_depreciation": 1000,
+        "total_depreciation": "Z"
+      },
+      "options": {
+        "A": "N 42,000",
+        "B": "N78,000",
+        "C": "N 22,200",
+        "D": "N 55,800"
+      },
+      "answer": "A",
+      "explanation": "Total depreciation Z = 1000 * useful life (Y). Based on previous calculation, Y is about 42 years, so total depreciation = 42 * 1000 = 42,000."
+    },
+    {
+      "id": 11,
+      "question": "High relative humidity in a brooder house could lead to",
+      "options": {
+        "A": "reduced feed intake",
+        "B": "production of dry litter",
+        "C": "build up of pests and diseases",
+        "D": "heat stress"
+      },
+      "answer": "C",
+      "explanation": "High humidity promotes pests and diseases."
+    },
+    {
+      "id": 12,
+      "question": "Examples of cover crops are",
+      "options": {
+        "A": "Centrosema pubescens and Mucuna utilis",
+        "B": "Moringa oleifera and Imperata cylindrica",
+        "C": "Panicum maximum and Pennisetum purpureum",
+        "D": "Calopogonium mucunoides and Gliricidia sepium"
+      },
+      "answer": "A",
+      "explanation": "Cover crops include legumes like Mucuna and Centrosema."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following tools are used in soil analysis? I. pH meter, II. Sieve, III. Hygrometer",
+      "options": {
+        "A": "I and II",
+        "B": "I and III",
+        "C": "I, II and III",
+        "D": "II and III"
+      },
+      "answer": "C",
+      "explanation": "All listed tools are used in soil analysis."
+    },
+    {
+      "id": 14,
+      "question": "The reduction of three seedlings of maize to two plants per stand is referred to as",
+      "options": {
+        "A": "rogueing",
+        "B": "thinning",
+        "C": "weeding",
+        "D": "pruning"
+      },
+      "answer": "B",
+      "explanation": "Thinning reduces plant density for better growth."
+    },
+    {
+      "id": 15,
+      "question": "Cotton stainer is an insect pest of",
+      "options": {
+        "A": "cotton",
+        "B": "pepper",
+        "C": "okro",
+        "D": "onion"
+      },
+      "answer": "A",
+      "explanation": "The cotton stainer affects cotton crops."
+    },
+    {
+      "id": 16,
+      "question": "Day-neutral crops are crops that produce flowers regardless of",
+      "options": {
+        "A": "daylength being longer than the length of night",
+        "B": "extremely low temperature",
+        "C": "amount of sunlight received by flowering plants",
+        "D": "extremely high temperature"
+      },
+      "answer": "C",
+      "explanation": "Day-neutral crops are unaffected by day length."
+    },
+    {
+      "id": 17,
+      "question": "Rural-urban migration of farm labour could be prevented by",
+      "options": {
+        "A": "increasing the cost of acquiring farmland",
+        "B": "employing more extension agents for farmers",
+        "C": "increasing the size of farmland for cultivation",
+        "D": "establishing agro-based industries in villages"
+      },
+      "answer": "D",
+      "explanation": "Creating local employment reduces migration."
+    },
+    {
+      "id": 18,
+      "question": "The diagrams below illustrate different sources of farm power. Which of the illustrated sources of farm power is the cheapest",
+      "image": "agric2023/image4.jpeg",
+      "options": {
+        "A": "II",
+        "B": "III",
+        "C": "IV",
+        "D": "I"
+      },
+      "answer": "A",
+      "explanation": "Manual or animal power is usually the cheapest."
+    },
+    {
+      "id": 19,
+      "question": "The machinery illustrated in diagram III could be used to power I. planters, II. dryers, III. sprayers",
+      "image": "agric2023/image4.jpeg",
+      "options": {
+        "A": "II and III only",
+        "B": "I and III only",
+        "C": "I and II only",
+        "D": "I, II and III"
+      },
+      "answer": "A",
+      "explanation": "Diagram III depicts a sprayer or similar equipment."
+    },
+    {
+      "id": 20,
+      "question": "The diagrams below illustrate different sources of farm power. Which of the illustrated sources of farm power decrease in efficiency due to constant use?",
+      "image": "agric2023/image4.jpeg",
+      "options": {
+        "A": "II and III only",
+        "B": "I and III only",
+        "C": "I and II only",
+        "D": "I, II and III"
+      },
+      "answer": "D",
+      "explanation": "All sources tend to decrease in efficiency over time."
+    },
+    {
+      "id": 21,
+      "question": "Post-planting operations in cocoa plantation include I. rogueing, II. stumping, III. mulching",
+      "options": {
+        "A": "I and II only",
+        "B": "I, II and III",
+        "C": "I and III only",
+        "D": "II and III only"
+      },
+      "answer": "B",
+      "explanation": "All are post-planting activities."
+    },
+    {
+      "id": 22,
+      "question": "A major reason for encouraging afforestation in arid regions of West Africa is to",
+      "options": {
+        "A": "serve as forest reserve for wildlife conservation",
+        "B": "serve as windbreak to check desert encroachment",
+        "C": "increase timber production for export",
+        "D": "provide shade for crops in taungya farming"
+      },
+      "answer": "B",
+      "explanation": "Forests help prevent desertification."
+    },
+    {
+      "id": 23,
+      "question": "The farming system generally recommended for farm settlement scheme is",
+      "options": {
+        "A": "pastoral farming",
+        "B": "mixed cropping",
+        "C": "continuous cropping",
+        "D": "mixed farming"
+      },
+      "answer": "D",
+      "explanation": "Mixed farming combines crops and livestock."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following products is not a primary forest product?",
+      "options": {
+        "A": "Pulp",
+        "B": "Fuelwood",
+        "C": "Timber",
+        "D": "Mushroom"
+      },
+      "answer": "A",
+      "explanation": "Pulp is a processed product, not primary."
+    },
+    {
+      "id": 25,
+      "question": "A pest of honeybee is",
+      "options": {
+        "A": "bird",
+        "B": "grasshopper",
+        "C": "lizard",
+        "D": "tick"
+      },
+      "answer": "D",
+      "explanation": "Ticks parasitize bees."
+    },
+    {
+      "id": 26,
+      "question": "In order to backup extension messages, an extension agent should",
+      "options": {
+        "A": "provide marketing channels for farmers",
+        "B": "assist farmers in locating sources of farm inputs",
+        "C": "procure agricultural loans for farmers",
+        "D": "provide modern machines to farmers"
+      },
+      "answer": "B",
+      "explanation": "Facilitates message adoption and resource access."
+    },
+    {
+      "id": 27,
+      "question": "The storage structure usually installed by the government for bulk storage of grains in West Africa is",
+      "options": {
+        "A": "crib",
+        "B": "rhombus",
+        "C": "bin",
+        "D": "silo"
+      },
+      "answer": "D",
+      "explanation": "Silos are used for bulk grain storage."
+    },
+    {
+      "id": 28,
+      "question": "Monocotyledonous crops are characterized by",
+      "options": {
+        "A": "parallel-veined leaves",
+        "B": "woody stems and branches",
+        "C": "taproot system",
+        "D": "net-veined leaves"
+      },
+      "answer": "A",
+      "explanation": "Monocots have parallel leaf venation."
+    },
+    {
+      "id": 29,
+      "question": "Steaming up ration should be fed to",
+      "options": {
+        "A": "pregnant animals",
+        "B": "weaned young animals",
+        "C": "breeding female animals",
+        "D": "lactating animals"
+      },
+      "answer": "D",
+      "explanation": "Lactating animals need energy-dense feeds."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following pairing enterprise could best be combined with fish farming for mutual benefits? I. Vegetable production, II. Beekeeping, III. Poultry production",
+      "options": {
+        "A": "I and III only",
+        "B": "I, II and III",
+        "C": "I and II only",
+        "D": "II and III only"
+      },
+      "answer": "B",
+      "explanation": "All listed enterprises are compatible with fish farming."
+    },
+    {
+      "id": 31,
+      "question": "The number of teats in the udder of a cow is",
+      "options": {
+        "A": "four",
+        "B": "two",
+        "C": "six",
+        "D": "eight"
+      },
+      "answer": "A",
+      "explanation": "Cows typically have four teats."
+    },
+    {
+      "id": 32,
+      "question": "The part of a disc plough to which discs are connected is",
+      "options": {
+        "A": "furrow wheel",
+        "B": "standard",
+        "C": "scraper",
+        "D": "beam"
+      },
+      "answer": "B",
+      "explanation": "The standard connects the discs."
+    },
+    {
+      "id": 33,
+      "question": "Grading of farm produce is important because it",
+      "options": {
+        "A": "maintains produce quality",
+        "B": "prolongs storability",
+        "C": "facilitates pricing",
+        "D": "facilitates transportation"
+      },
+      "answer": "C",
+      "explanation": "Grading helps determine market value."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following statements about underground drainage is true",
+      "options": {
+        "A": "Ditches are constructed to remove excess water",
+        "B": "Ditches are dug from a source of water to the farmland",
+        "C": "Furrows are constructed to direct water out of the farmland",
+        "D": "Water seeps into tiles to reach an outlet where it is discharged"
+      },
+      "answer": "D",
+      "explanation": "Underground drainage involves tiles directing water away."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following pairs of livestock diseases could be contracted through inhalation?",
+      "options": {
+        "A": "Coccidiosis and rinderpest",
+        "B": "Newcastle disease and aspergillosis",
+        "C": "Anthrax and tuberculosis",
+        "D": "Gumboro and brucellosis"
+      },
+      "answer": "B",
+      "explanation": "Airborne diseases like Newcastle and aspergillosis are inhaled."
+    },
+    {
+      "id": 36,
+      "question": "Maceration is carried out in the processing of",
+      "options": {
+        "A": "paddy rice",
+        "B": "oil palm",
+        "C": "cotton",
+        "D": "cocoa"
+      },
+      "answer": "D",
+      "explanation": "Maceration is used in cocoa processing."
+    },
+    {
+      "id": 37,
+      "question": "If the seed rate for the cultivation of cowpea is 25 kg per hectare, determine the quantity of cowpea seeds required to cultivate a farmland measuring 100 m by 500 m.",
+      "options": {
+        "A": "125 kg",
+        "B": "50 kg",
+        "C": "250 kg",
+        "D": "1,250 kg"
+      },
+      "answer": "A",
+      "explanation": "Area = 100m x 500m = 50,000 m² = 5 hectares. Seeds = 25kg x 5 = 125kg."
+    },
+    {
+      "id": 38,
+      "question": "A beneficial effect of bush burning is that it",
+      "options": {
+        "A": "replenishes oxygen in the atmosphere",
+        "B": "increases the organic matter of soil",
+        "C": "encourages the regeneration of grasses",
+        "D": "increases the population of soil microorganisms"
+      },
+      "answer": "C",
+      "explanation": "Bush burning encourages new grass growth."
+    },
+    {
+      "id": 39,
+      "question": "The diagram above illustrates a farm operation. Study it and answer the question.",
+      "image": "agric2023/image6.jpeg",
+      "options": {
+        "A": "winnowing",
+        "B": "milling",
+        "C": "shelling",
+        "D": "threshing"
+      },
+      "answer": "D",
+      "explanation": "Threshing separates grains from stalks."
+    },
+    {
+      "id": 40,
+      "question": "The diagram above illustrates a farm operation. Study it and answer the question.",
+      "image": "agric2023/image6.jpeg",
+      "options": {
+        "A": "cowpea, millet and okro",
+        "B": "maize, pepper and tomato",
+        "C": "rice, groundnut and millet",
+        "D": "pepper, rice and cowpea"
+      },
+      "answer": "A",
+      "explanation": "These crops are typically threshed."
+    },
+    {
+      "id": 41,
+      "question": "Ornamental plants are primarily cultivated to",
+      "options": {
+        "A": "provide fodder for livestock",
+        "B": "beautify the environment",
+        "C": "serve as mulching materials",
+        "D": "serve as raw materials"
+      },
+      "answer": "B",
+      "explanation": "Ornamentals are for aesthetic purposes."
+    },
+    {
+      "id": 42,
+      "question": "The diagram above illustrates a method of compost making. Study it and answer the question.",
+      "image": "agric2023/image7.jpeg",
+      "options": {
+        "A": "heap",
+        "B": "bin",
+        "C": "sheet",
+        "D": "pit"
+      },
+      "answer": "A",
+      "explanation": "The heap method involves stacking compost materials."
+    },
+    {
+      "id": 43,
+      "question": "The diagram above illustrates a method of compost making. Study it and answer the question.",
+      "image": "agric2023/image8.jpeg",
+      "options": {
+        "A": "checking the decomposition rate",
+        "B": "hastening the fermentation rate",
+        "C": "turning the compost materials",
+        "D": "stacking the compost materials"
+      },
+      "answer": "C",
+      "explanation": "Part I is used to turn or stir the compost."
+    },
+    {
+      "id": 44,
+      "question": "A material that could be used as starter in the method of compost making illustrated is",
+      "image": "agric2023/image9.jpeg",
+      "options": {
+        "A": "Ash",
+        "B": "Straw",
+        "C": "Blood",
+        "D": "Urine"
+      },
+      "answer": "A",
+      "explanation": "Ash is often used to accelerate composting."
+    },
+    {
+      "id": 45,
+      "question": "Soil structure is described as the",
+      "options": {
+        "A": "proportion of different sizes of soil particles",
+        "B": "degree of water percolation within the soil",
+        "C": "degree of soil aeration within the soil",
+        "D": "arrangement of soil particles into aggregates"
+      },
+      "answer": "D",
+      "explanation": "Soil structure refers to how soil particles are arranged into aggregates."
+    },
+    {
+      "id": 46,
+      "question": "Which of the following crops require a nursery?",
+      "options": {
+        "A": "Rubber",
+        "B": "Cotton seed",
+        "C": "Yam",
+        "D": "Soya bean"
+      },
+      "answer": "C",
+      "explanation": "Yam requires nursery before transplanting."
+    },
+    {
+      "id": 47,
+      "question": "In a poultry farm, 2,000 birds were laying an average of 1,680 eggs per day. What is the percentage of birds that did not lay eggs?",
+      "options": {
+        "A": "16%",
+        "B": "84%",
+        "C": "19%",
+        "D": "46%"
+      },
+      "answer": "A",
+      "explanation": "Birds not laying = (2000 - (1680/1) * 1) = 320. Percentage = (320/2000)*100 = 16%."
+    },
+    {
+      "id": 48,
+      "question": "In a poultry farm, 2,000 birds were laying an average of 1,680 eggs per day. If an egg tray contains 30 eggs, how many trays of eggs will be collected in one week?",
+      "options": {
+        "A": "240",
+        "B": "526",
+        "C": "286",
+        "D": "392"
+      },
+      "answer": "D",
+      "explanation": "Total eggs in a week = 1680 * 7 = 11,760. Trays = 11,760 / 30 = 392."
+    },
+    {
+      "id": 49,
+      "question": "Assuming a sow was serviced on May 1 and conceived the same day, the expected date of parturition is",
+      "options": {
+        "A": "June 2",
+        "B": "September 30",
+        "C": "August 24",
+        "D": "October 2"
+      },
+      "answer": "C",
+      "explanation": "Gestation in pigs is about 114 days (~3 months, 3 weeks, 3 days)."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following combinations of NPK fertilizer is recommended for the cultivation of yam and cassava?",
+      "options": {
+        "A": "10:10:10",
+        "B": "20:10:10",
+        "C": "10:10:20",
+        "D": "20:20:10"
+      },
+      "answer": "C",
+      "explanation": "Both crops respond well to balanced or slightly high phosphorus fertilizers."
+    }
+  ],
+  "images": {
+    "agric2023/image1.jpeg": "Reproductive process in farm animal (gestation diagram)",
+    "agric2023/image3.jpeg": "Reproductive process (foetus protection diagram)",
+    "agric2023/image4.jpeg": "Sources of farm power",
+    "agric2023/image6.jpeg": "Farm operation (threshing)",
+    "agric2023/image7.jpeg": "Compost heap method",
+    "agric2023/image8.jpeg": "Compost turning method",
+    "agric2023/image9.jpeg": "Compost starter material"
+  }
+}

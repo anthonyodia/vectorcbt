@@ -1,0 +1,660 @@
+{
+  "exam_name": "WAEC 2021 Computer Studies",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quantitative data can exist in",
+      "image_name": null,
+      "options": [
+        "continuous form only",
+        "continuous and discrete forms",
+        "nominal and ordinal forms",
+        "ordinal form only"
+      ],
+      "answer": 1,
+      "explanation": "Quantitative data is numerical and can be categorized as discrete (countable whole numbers) or continuous (measurable values within a range)."
+    },
+    {
+      "id": 2,
+      "question": "Data created by the user is called",
+      "image_name": null,
+      "options": [
+        "primary data",
+        "qualitative data",
+        "quantitative data",
+        "secondary data"
+      ],
+      "answer": 0,
+      "explanation": "Primary data is data collected first-hand by the researcher or user specifically for the purpose at hand."
+    },
+    {
+      "id": 3,
+      "question": "The sequence of operation of a computer is",
+      "image_name": null,
+      "options": [
+        "accept data, process data and produce output",
+        "accept data, produce data and produce information",
+        "produce data, supply data and produce output",
+        "process data, produce data and display information"
+      ],
+      "answer": 0,
+      "explanation": "This follows the standard IPO (Input-Process-Output) cycle."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following descriptions is not true about data?",
+      "image_name": null,
+      "options": [
+        "It can be converted to information",
+        "is a collection of raw facts and figures",
+        "is unorganized",
+        "is used for decision making"
+      ],
+      "answer": 3,
+      "explanation": "Information (processed data), not raw data, is what is used for decision making."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following statements is true about super computers? They",
+      "image_name": null,
+      "options": [
+        "can fit on a single small chip",
+        "are easily affordable",
+        "can process billions of operations in a second",
+        "are found across various homes and offices"
+      ],
+      "answer": 2,
+      "explanation": "Supercomputers are known for their extreme processing speed, often measured in FLOPS (floating-point operations per second)."
+    },
+    {
+      "id": 6,
+      "question": "The Slide Rule is accurate to",
+      "image_name": null,
+      "options": [
+        "1-2 decimal places",
+        "3-4 decimal places",
+        "5 decimal places",
+        "6 decimal places"
+      ],
+      "answer": 1,
+      "explanation": "The slide rule typically provides precision to about 3 or 4 significant digits."
+    },
+    {
+      "id": 7,
+      "question": "What factors will motivate a field engineer into choosing a notebook computer over a desktop computer?",
+      "image_name": null,
+      "options": [
+        "Cost, convenience and battery life",
+        "Cost, size and convenience",
+        "Size, convenience and battery life",
+        "Size, cost and battery life"
+      ],
+      "answer": 2,
+      "explanation": "Field engineers require portability (size/convenience) and the ability to work without a constant power source (battery life)."
+    },
+    {
+      "id": 8,
+      "question": "A collection of wires through which data are transmitted from one part of the computer to another is known as",
+      "image_name": null,
+      "options": [
+        "address",
+        "bus",
+        "driver",
+        "register"
+      ],
+      "answer": 1,
+      "explanation": "A bus is a communication system that transfers data between components inside a computer."
+    },
+    {
+      "id": 9,
+      "question": "The total possible combinations of the input variables for a logic gate containing three input variables is",
+      "image_name": null,
+      "options": [
+        "3",
+        "4",
+        "8",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "The number of combinations is calculated as $2^n$. For 3 inputs, $2^3 = 8$."
+    },
+    {
+      "id": 10,
+      "question": "What is the least number of 750 MB capacity CD-ROM discs needed to transfer 10 GB size file?",
+      "image_name": null,
+      "options": [
+        "75",
+        "31",
+        "14",
+        "13"
+      ],
+      "answer": 2,
+      "explanation": "10 GB is approx 10,240 MB. $10240 / 750 \\approx 13.6$. Therefore, 14 discs are needed."
+    },
+    {
+      "id": 11,
+      "question": "The logic gates represented in Figure 1 is called",
+      "image_name": "computer2021/image1.jpeg",
+      "options": [
+        "AND gate",
+        "NAND gate",
+        "NOR gate",
+        "OR gate"
+      ],
+      "answer": 0,
+      "explanation": "The D-shaped symbol represents an AND gate."
+    },
+    {
+      "id": 12,
+      "instruction": "Use the logic gate in Fig 2 to answer question 12.",
+      "question": "Which of the logic gates will give an output opposite to the input state?",
+      "image_name": "computer2021/image2.jpeg",
+      "options": [
+        "X",
+        "Y",
+        "Z",
+        "X and Y"
+      ],
+      "answer": 2,
+      "explanation": "Gate Z is a NOT gate (inverter), which flips the input state."
+    },
+    {
+      "id": 13,
+      "instruction": "Use the logic gate in Fig 2 to answer question 13.",
+      "question": "Which of the following statements is true about logic gates X and Y?",
+      "image_name": "computer2021/image3.jpeg",
+      "options": [
+        "They both have multiple output variables",
+        "The output state of each depends on the input state",
+        "The output is true only if all inputs are true",
+        "They are both equivalent gates."
+      ],
+      "answer": 1,
+      "explanation": "All logic gates generate an output based on the specific conditions of their inputs."
+    },
+    {
+      "id": 14,
+      "question": "The logical equation for the logic circuit in Figure 3 is",
+      "image_name": "computer2021/image4.jpeg",
+      "options": [
+        "Z = A + B (overlined) . C (overlined)",
+        "Z = A . B + C",
+        "Z = A + B . C",
+        "Z = A . B (overlined) + C (overlined)"
+      ],
+      "answer": 1,
+      "explanation": "The diagram shows A and B entering an AND gate, with the result entering an OR gate with C."
+    },
+    {
+      "id": 15,
+      "question": "The operation of a computer and peripherals attached to it is controlled by",
+      "image_name": null,
+      "options": [
+        "application",
+        "hardware",
+        "live ware",
+        "system software"
+      ],
+      "answer": 3,
+      "explanation": "System software (like the Operating System) manages the hardware and peripheral communication."
+    },
+    {
+      "id": 16,
+      "question": "COBOL was developed for",
+      "image_name": null,
+      "options": [
+        "business operations",
+        "game developers",
+        "mobile application developers",
+        "search engines optimization"
+      ],
+      "answer": 0,
+      "explanation": "COBOL stands for Common Business-Oriented Language."
+    },
+    {
+      "id": 17,
+      "question": "The operating system performs the following operations except",
+      "image_name": null,
+      "options": [
+        "organization of data",
+        "resource allocation",
+        "creation of data",
+        "arrangement of files"
+      ],
+      "answer": 2,
+      "explanation": "Users and applications create data; the OS simply manages and stores it."
+    },
+    {
+      "id": 18,
+      "question": "The fundamental purpose of the BIOS is",
+      "image_name": null,
+      "options": [
+        "initializing and testing hardware components",
+        "testing the system performance",
+        "updating the system performance",
+        "saving the operating system's file"
+      ],
+      "answer": 0,
+      "explanation": "BIOS (Basic Input/Output System) initializes hardware during the booting process (POST)."
+    },
+    {
+      "id": 19,
+      "question": "The IF... THEN statement in BASIC is called",
+      "image_name": null,
+      "options": [
+        "an assignment statement",
+        "an object",
+        "a class",
+        "a control structure"
+      ],
+      "answer": 3,
+      "explanation": "It is a conditional control structure that decides the path of execution."
+    },
+    {
+      "id": 20,
+      "question": "The use of natural language and symbols to write instructions for the computer is called",
+      "image_name": null,
+      "options": [
+        "machine language programming",
+        "assembly language programming",
+        "algorithm language programming",
+        "high level language programming"
+      ],
+      "answer": 3,
+      "explanation": "High-level languages are designed to be easy for humans to read and write using English-like words."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following stages of the SDLC is post-operational stage?",
+      "image_name": null,
+      "options": [
+        "Analysis",
+        "Design",
+        "Investigation",
+        "Maintenance"
+      ],
+      "answer": 3,
+      "explanation": "Maintenance occurs after the system is fully operational and in use."
+    },
+    {
+      "id": 22,
+      "question": "The expression 5 + 3*4/2 - 3^2 in QBASIC evaluate to",
+      "image_name": null,
+      "options": [
+        "7",
+        "4",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explanation": "Calculation: $5 + (12/2) - 9 = 5 + 6 - 9 = 2$."
+    },
+    {
+      "id": 23,
+      "instruction": "Use figure 4 to answer question 23.",
+      "question": "The basic problem with the flow chart is that it has",
+      "image_name": "computer2021/image5.jpeg",
+      "options": [
+        "no direction",
+        "no algorithm",
+        "END is a process",
+        "improper branch out"
+      ],
+      "answer": 2,
+      "explanation": "The 'END' terminator should be in an oval/rounded shape, not a rectangular process box."
+    },
+    {
+      "id": 24,
+      "instruction": "Use Figure 4 to answer question 24.",
+      "question": "What activity is the flowchart made to represent?",
+      "image_name": "computer2021/image6.jpeg",
+      "options": [
+        "How to pick an orange",
+        "Instruction to pick an orange",
+        "Evaluation on how to pick an orange",
+        "Number of times to pick an orange"
+      ],
+      "answer": 0,
+      "explanation": "The logic flow defines the specific steps and conditions for picking an orange."
+    },
+    {
+      "id": 25,
+      "instruction": "Use Figure 4 to answer question 25.",
+      "question": "If N in the flowchart is represented by 10, which of the following conditions is not true?",
+      "image_name": "computer2021/image7.jpeg",
+      "options": [
+        "If C > 10, do not pick orange.",
+        "If C = 10, stop picking orange",
+        "If C < 10, keep picking orange",
+        "If C = 10, continue picking orange"
+      ],
+      "answer": 3,
+      "explanation": "If the condition C=10 is met, the flowchart leads to END, so it does not continue."
+    },
+    {
+      "id": 26,
+      "question": "A computer system on the network that stores pages, takes request from clients as well as send out information is called a",
+      "image_name": null,
+      "options": [
+        "client",
+        "web page",
+        "web server",
+        "website"
+      ],
+      "answer": 2,
+      "explanation": "A web server is a computer that serves content (like web pages) to other computers (clients) over a network."
+    },
+    {
+      "id": 27,
+      "question": "The device is Figure 5 uses a transmission method called",
+      "image_name": "computer2021/image8.jpeg",
+      "options": [
+        "broadcast",
+        "podcast",
+        "multicast",
+        "unicast"
+      ],
+      "answer": 0,
+      "explanation": "A radio/transmission mast broadcasts signals to all receivers in its range."
+    },
+    {
+      "id": 28,
+      "question": "In Figure 6 the signals from modem X to modem Y is",
+      "image_name": "computer2021/image9.jpeg",
+      "options": [
+        "analogue",
+        "digital",
+        "imaginary",
+        "aperiodic"
+      ],
+      "answer": 0,
+      "explanation": "Modems convert digital signals from a computer into analogue signals for transmission over phone lines."
+    },
+    {
+      "id": 29,
+      "question": "The '/exams' in the web address; https://www.waec.org.ng/exams is called",
+      "image_name": null,
+      "options": [
+        "domain name",
+        "path",
+        "port",
+        "subdomain"
+      ],
+      "answer": 1,
+      "explanation": "The path indicates the specific directory or file location on the server."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following statements about URL is true? It is",
+      "image_name": null,
+      "options": [
+        "a computer software program",
+        "a type of web server",
+        "an acronym for unlimited resources for learning",
+        "the address of document or 'page' on the world wide web"
+      ],
+      "answer": 3,
+      "explanation": "URL stands for Uniform Resource Locator."
+    },
+    {
+      "id": 31,
+      "question": "The type of network represented in Figure 7 is called",
+      "image_name": "computer2021/image10.jpeg",
+      "options": [
+        "LAN",
+        "MAN",
+        "PAN",
+        "WAN"
+      ],
+      "answer": 0,
+      "explanation": "A Local Area Network (LAN) connects computers within a small area like an office or a school."
+    },
+    {
+      "id": 32,
+      "question": "In MS Excel, the cell that contains the pointer or cursor is called",
+      "image_name": null,
+      "options": [
+        "active cell",
+        "current cell",
+        "default cell",
+        "passive cell"
+      ],
+      "answer": 0,
+      "explanation": "The active cell is the cell currently selected and ready for data entry."
+    },
+    {
+      "id": 33,
+      "question": "The part of the graphic interface in Figure 8 labelled V is called",
+      "image_name": "computer2021/image11.jpeg",
+      "options": [
+        "pan",
+        "zoom in",
+        "zoom out",
+        "fit to window"
+      ],
+      "answer": 3,
+      "explanation": "The 'V' likely indicates the 'Fit to Window' button which adjusts the zoom to show the whole page."
+    },
+    {
+      "id": 34,
+      "question": "The figure 2 in the number $1101_2$ is indicated in MS Word using a feature called",
+      "image_name": null,
+      "options": [
+        "superscript",
+        "subscript",
+        "root",
+        "exponentiation"
+      ],
+      "answer": 1,
+      "explanation": "Subscript characters appear slightly below the normal line of text, common for base numbers."
+    },
+    {
+      "id": 35,
+      "question": "The part of the MS Access interface labelled X in Figure 9 is called",
+      "image_name": "computer2021/image12.jpeg",
+      "options": [
+        "Report view",
+        "Report wizard",
+        "Query design",
+        "Query view"
+      ],
+      "answer": 2,
+      "explanation": "X points to the Query Design view where users can select tables and fields for a query."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following formulas will display the current seconds past the minute of the clock in MS Excel?",
+      "image_name": null,
+      "options": [
+        "=MINUTES()",
+        "=MINUTES(NOW())",
+        "=MINUTE(YEAR())",
+        "=SECOND(NOW())"
+      ],
+      "answer": 3,
+      "explanation": "The =SECOND() function extracts the seconds from a time value like NOW()."
+    },
+    {
+      "id": 37,
+      "question": "The part of the MS Word interface labelled II in Figure 10 is called",
+      "image_name": "computer2021/image13.jpeg",
+      "options": [
+        "Read mode",
+        "Print Layout",
+        "Proofing error",
+        "Web layout"
+      ],
+      "answer": 1,
+      "explanation": "Print Layout is the default view showing margins and page breaks."
+    },
+    {
+      "id": 38,
+      "question": "What type of relationship can you deduce from the statement 'a department has many employees'?",
+      "image_name": null,
+      "options": [
+        "One-to-one",
+        "One-to-many",
+        "Many-to-many",
+        "Many-to-one"
+      ],
+      "answer": 1,
+      "explanation": "One department can contain multiple employees."
+    },
+    {
+      "id": 39,
+      "question": "The screen background where icons and windows are displayed is GUI is called",
+      "image_name": null,
+      "options": [
+        "explorer",
+        "desktop",
+        "opening screen",
+        "homepage"
+      ],
+      "answer": 1,
+      "explanation": "The desktop is the main workspace area of the Operating System."
+    },
+    {
+      "id": 40,
+      "question": "The windows shortcut key for closing an active application is",
+      "image_name": null,
+      "options": [
+        "Alt+F4",
+        "Ctrl+Alt+Del",
+        "Ctrl+Esc.",
+        "Ctrl+Shift+Del"
+      ],
+      "answer": 0,
+      "explanation": "Alt + F4 is the standard shortcut to close current active windows."
+    },
+    {
+      "id": 41,
+      "question": "Changing the default settings or appearance of the Taskbar in windows by a user is known as",
+      "image_name": null,
+      "options": [
+        "customization",
+        "designing",
+        "generalization",
+        "globalization"
+      ],
+      "answer": 0,
+      "explanation": "Customization is the process of modifying something to suit personal preferences."
+    },
+    {
+      "id": 42,
+      "question": "The part of the computer system shown in Figure 11 is used to",
+      "image_name": "computer2021/image14.jpeg",
+      "options": [
+        "perform memory test",
+        "power on or off the computer",
+        "print a document from the computer",
+        "reset the computer to factory setting"
+      ],
+      "answer": 1,
+      "explanation": "Figure 11 shows the power button icon."
+    },
+    {
+      "id": 43,
+      "question": "A single character in an EBCDIC encoding system can be represented using",
+      "image_name": null,
+      "options": [
+        "4 bits",
+        "6 bits",
+        "8 bits",
+        "16 bits"
+      ],
+      "answer": 2,
+      "explanation": "EBCDIC (Extended Binary Coded Decimal Interchange Code) is an 8-bit character encoding."
+    },
+    {
+      "id": 44,
+      "question": "Evaluate $10011_2 - 1111_2$",
+      "image_name": null,
+      "options": [
+        "00010 (binary)",
+        "00100 (binary)",
+        "01000 (binary)",
+        "10000 (binary)"
+      ],
+      "answer": 1,
+      "explanation": "$10011 (19) - 1111 (15) = 4$. Binary 4 is 100."
+    },
+    {
+      "id": 45,
+      "question": "The binary number 0.1101 in decimal is",
+      "image_name": null,
+      "options": [
+        "0.8125",
+        "0.8215",
+        "0.8225",
+        "0.8512"
+      ],
+      "answer": 0,
+      "explanation": "$0.5 (1/2) + 0.25 (1/4) + 0 (1/8) + 0.0625 (1/16) = 0.8125$."
+    },
+    {
+      "id": 46,
+      "question": "To prevent unforeseen data loss, a user must",
+      "image_name": null,
+      "options": [
+        "edit the data",
+        "create the data",
+        "backup the data",
+        "defragment the data"
+      ],
+      "answer": 2,
+      "explanation": "Backup is the process of creating copies of data to restore in case of loss."
+    },
+    {
+      "id": 47,
+      "question": "The file access method shown in Figure 12 is called",
+      "image_name": "computer2021/image15.jpeg",
+      "options": [
+        "hashed access",
+        "indexed access",
+        "random access",
+        "sequential access"
+      ],
+      "answer": 3,
+      "explanation": "Sequential access requires reading records one after the other in a specific order."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following options is not a similarity between computer file and manual file? Both can",
+      "image_name": null,
+      "options": [
+        "be accessed",
+        "be retrieved",
+        "store multimedia",
+        "contain information"
+      ],
+      "answer": 2,
+      "explanation": "Manual (paper) files cannot store multimedia (video/audio); only digital computer files can."
+    },
+    {
+      "id": 49,
+      "question": "A computer program that gathers information about a person or organization without their knowledge or consent is known as",
+      "image_name": null,
+      "options": [
+        "adware",
+        "time bomb",
+        "trojan horse",
+        "spyware"
+      ],
+      "answer": 3,
+      "explanation": "Spyware is malware that secretly monitors and collects information."
+    },
+    {
+      "id": 50,
+      "question": "The following actions are the effects of virus infection in a system except",
+      "image_name": null,
+      "options": [
+        "deletion of files",
+        "slow operation",
+        "hard disk failure",
+        "display of unwanted messages"
+      ],
+      "answer": 2,
+      "explanation": "Hard disk failure is typically a mechanical/hardware issue, whereas the others are common software effects of viruses."
+    }
+  ]
+}

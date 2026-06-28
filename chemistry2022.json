@@ -1,0 +1,703 @@
+[
+  {
+    "id": "1",
+    "question": "The by-product of fermentation of sugar is",
+    "image": null,
+    "options": {
+      "A": "carbon(IV) oxide.",
+      "B": "ethanoic acid.",
+      "C": "propanol",
+      "D": "propan-1, 2, 3-triol."
+    },
+    "answer": "A",
+    "explanation": "Fermentation of sugar (glucose) by yeast produces ethanol and carbon(IV) oxide (carbon dioxide) as the main by-product, according to the equation: $\\text{C}_6\\text{H}_{12}\\text{O}_6 \\rightarrow 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "2",
+    "question": "Which of the following sugars is a product of the condensation of monosaccharides?",
+    "image": null,
+    "options": {
+      "A": "galactose",
+      "B": "maltose",
+      "C": "glucose",
+      "D": "fructose"
+    },
+    "answer": "B",
+    "explanation": "**Maltose** is a disaccharide formed by the condensation reaction (joining) of two glucose monosaccharide units. Galactose, glucose, and fructose are all monosaccharides.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "3",
+    "question": "The cleansing effect of soap is low in acidic water because of",
+    "image": null,
+    "options": {
+      "A": "the formation of unionized fatty acid.",
+      "B": "increase in the pH of the soap molecules.",
+      "C": "anti-biodegradable effect of hydrogen ions",
+      "D": "the hardness of the acidic water."
+    },
+    "answer": "A",
+    "explanation": "Soap is the salt of a fatty acid (e.g., sodium stearate). In acidic water, the fatty acid salt reacts with $\\text{H}^+$ ions to form the insoluble, unionized fatty acid ($\\text{RCOOH}$), which precipitates as scum and reduces the soap's ability to lather and clean. $\\text{RCOO}^-(\\text{aq}) + \\text{H}^+(\\text{aq}) \\rightarrow \\text{RCOOH}(\\text{s})$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "4",
+    "question": "The following compounds are condensation polymers except",
+    "image": null,
+    "options": {
+      "A": "nylon",
+      "B": "protein",
+      "C": "starch",
+      "D": "polyethene"
+    },
+    "answer": "D",
+    "explanation": "**Polyethene** (Polyethylene) is an **addition polymer** formed by the addition of ethene monomers without the loss of a small molecule. Nylon (polyamide), protein (polypeptide), and starch (polysaccharide) are all condensation polymers, formed with the elimination of a small molecule (usually water).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "5",
+    "question": "What amount of electricity is required to deposit one mole of aluminium from a solution of $\\text{AlCl}_3$?",
+    "image": null,
+    "options": {
+      "A": "One Faraday",
+      "B": "One ampere",
+      "C": "Three Faradays",
+      "D": "Three amperes"
+    },
+    "answer": "C",
+    "explanation": "The reduction half-reaction for aluminium is: $\\text{Al}^{3+} + 3\\text{e}^- \\rightarrow \\text{Al}$. This equation shows that 3 moles of electrons are required to deposit 1 mole of aluminium. By Faraday's First Law of Electrolysis, 1 mole of electrons is equivalent to 1 Faraday of charge. Therefore, **Three Faradays** of electricity are required.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "6",
+    "question": "Which of the following compounds would react rapidly with bromine?",
+    "image": null,
+    "options": {
+      "A": "Benzene",
+      "B": "Hexane",
+      "C": "Hexene",
+      "D": "Hexanol"
+    },
+    "answer": "C",
+    "explanation": "**Hexene** is an alkene, which contains a carbon-carbon double bond. Alkenes undergo rapid **addition reactions** with halogens like bromine ($\\text{Br}_2$), which is characterized by the rapid decolourisation of the reddish-brown bromine solution. Benzene and Hexane are saturated/stable and require heat or a catalyst for substitution.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "7",
+    "question": "Alkanols can be manufactured from alkenes by the initial reaction of alkenes with",
+    "image": null,
+    "options": {
+      "A": "bromine in tetrachloromethane",
+      "B": "concentrated tetraoxosulphate(VI) acid",
+      "C": "aqueous potassium tetraoxomanganate(VII).",
+      "D": "sodium hydroxide solution."
+    },
+    "answer": "B",
+    "explanation": "Alkanols (alcohols) are produced from alkenes through the hydration reaction, which typically proceeds in two steps. The alkene first reacts with **concentrated tetraoxosulphate(VI) acid** ($\\text{H}_2\\text{SO}_4$) in the cold to form an alkyl hydrogen sulphate, which is then hydrolyzed (reacted with boiling water) to yield the alkanol. This is following Markovnikov's rule.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "8",
+    "question": "Which of the following statements about the standard hydrogen electrode is not correct?",
+    "image": null,
+    "options": {
+      "A": "The hydrogen gas is at a pressure of 1 atmosphere",
+      "B": "A solution containing 1 mol $\\text{dm}^{-3}$ of $\\text{H}^+ (\\text{aq})$ ions is used",
+      "C": "A platinum electrode is used",
+      "D": "The temperature is kept at $20 \\text{ °C}$"
+    },
+    "answer": "D",
+    "explanation": "The Standard Hydrogen Electrode (SHE) is defined under **standard conditions**, which include: **1.0 atmosphere** pressure for the gas (A), **1.0 mol $\\text{dm}^{-3}$** concentration for the ions (B), a **Platinum electrode** (C), and a temperature of **$25 \\text{ °C}$** or $298 \\text{ K}$. Therefore, statement D is incorrect.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "9",
+    "question": "If $60\\text{ g}$ of $\\text{M}$ combines with $24\\text{ g}$ of oxygen, what would the empirical formula of the oxide be? (molar mass of $\\text{M} = 120, \\text{O} = 16$)",
+    "image": null,
+    "options": {
+      "A": "MO",
+      "B": "MO2",
+      "C": "MO3",
+      "D": "MO4"
+    },
+    "answer": "C",
+    "explanation": "1. **Find moles of each element:**\n$\\text{Moles of } \\text{M} = \\frac{60\\text{ g}}{120\\text{ g/mol}} = 0.5\\text{ mol}$\n$\\text{Moles of } \\text{O} = \\frac{24\\text{ g}}{16\\text{ g/mol}} = 1.5\\text{ mol}$\n2. **Find the mole ratio (divide by the smallest):**\n$\\text{M}: \\frac{0.5}{0.5} = 1$\n$\\text{O}: \\frac{1.5}{0.5} = 3$\n3. **Empirical Formula:** $\\text{MO}_3$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "10",
+    "question": "The products of the electrolysis of dilute sodium chloride using carbon electrodes are",
+    "image": null,
+    "options": {
+      "A": "chlorine and sodium.",
+      "B": "oxygen and hydrogen.",
+      "C": "chlorine and hydrogen.",
+      "D": "hydrogen and oxygen."
+    },
+    "answer": "B",
+    "explanation": "In **dilute** $\\text{NaCl}$ solution, both $\\text{H}_2\\text{O}$ and $\\text{NaCl}$ are present. **Anode (Oxidation):** $\\text{OH}^-$ from water is preferentially oxidized over $\\text{Cl}^-$, producing $\\text{O}_2$. $\\text{4OH}^-(\\text{aq}) \\rightarrow \\text{O}_2(\\text{g}) + 2\\text{H}_2\\text{O}(\\text{l}) + 4\\text{e}^-$. **Cathode (Reduction):** $\\text{H}^+$ from water is preferentially reduced over $\\text{Na}^+$, producing $\\text{H}_2$. $\\text{2H}_2\\text{O}(\\text{l}) + 2\\text{e}^- \\rightarrow \\text{H}_2(\\text{g}) + 2\\text{OH}^-(\\text{aq})$. The products are **oxygen and hydrogen**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "11",
+    "question": "Determine the quantity of electricity used when a current of $0.20$ amperes is passed through an electrolytic cell for $60$ minutes.",
+    "image": null,
+    "options": {
+      "A": "$12\\text{ C}$",
+      "B": "$120\\text{ C}$",
+      "C": "$360\\text{ C}$",
+      "D": "$720\\text{ C}$"
+    },
+    "answer": "D",
+    "explanation": "Quantity of electricity ($Q$) is given by $Q = I \\times t$, where $I$ is current in Amperes and $t$ is time in seconds. $I = 0.20\\text{ A}$. $t = 60\\text{ minutes} \\times 60\\text{ s/min} = 3600\\text{ s}$. $Q = 0.20\\text{ A} \\times 3600\\text{ s} = 720\\text{ C}$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "12",
+    "question": "Oxochlorate(I) acid is used as a bleaching agent because it is",
+    "image": null,
+    "options": {
+      "A": "a weak acid",
+      "B": "a reducing agent.",
+      "C": "an oxidizing agent",
+      "D": "a strong acid."
+    },
+    "answer": "C",
+    "explanation": "Bleaching agents work by either oxidation or reduction. Oxochlorate(I) acid ($\\text{HOCl}$), or hypochlorous acid, is a strong **oxidizing agent** because chlorine is in the $+1$ oxidation state and readily accepts electrons (is reduced) to oxidize the coloured substance, thereby bleaching it.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "13",
+    "question": "The IUPAC name for $\\text{CH}_3\\text{CH}(\\text{CH}_3)\\text{CH}(\\text{CL})\\text{CH}(\\text{CH}_3)\\text{CH}_2\\text{CH}_3$ is",
+    "image": null,
+    "options": {
+      "A": "$2, 4$ - dimethyl - $3$ - chlorohexane",
+      "B": "$3, 5$ - dimethyl - $4$ - chlorohexane",
+      "C": "$4$ - chloro - $3, 5$ - dirnethylhexane",
+      "D": "$3$ - chloro - $2, 4$ - dimethylhexane"
+    },
+    "answer": "D",
+    "explanation": "1. **Longest Chain:** The longest carbon chain has 6 carbons, so it's a **hexane**. 2. **Numbering:** Number from the end that gives the lowest set of locants. Left-to-right: $2, 3, 4$. Right-to-left: $3, 4, 5$. Lowest set is $2, 3, 4$. 3. **Substituents:** $\\text{CH}_3$ (methyl) on C2 and C4, and $\\text{Cl}$ (chloro) on C3. 4. **Name:** **3-chloro-2,4-dimethylhexane**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "14",
+    "question": "A colourless gas with a pungent smell is evolved when dilute hydrochloric acid is added to a sample of a salt. The gas evolved could turn",
+    "image": null,
+    "options": {
+      "A": "acidified $\\text{K}_2\\text{Cr}_2\\text{O}_7$ solution colourless",
+      "B": "acidified $\\text{KMnO}_4$ solution colourless",
+      "C": "$\\text{Fe}(\\text{NO}_3)_2$ solution green",
+      "D": "$\\text{Pb}(\\text{NO}_3)_2$ paper black"
+    },
+    "answer": "B",
+    "explanation": "The reaction of dilute $\\text{HCl}$ with a salt suggests the salt is a carbonate, sulphite, or sulphide. **Sulphur(IV) oxide** ($\\text{SO}_2$) gas has a pungent smell (from a sulphite or hydrogen sulphite salt, $\\text{SO}_3^{2-}$ or $\\text{HSO}_3^{-}$). $\\text{SO}_2$ is a reducing agent and readily decolourises purple **acidified $\\text{KMnO}_4$** solution by reducing the $\\text{MnO}_4^{-}$ ion to the colourless $\\text{Mn}^{2+}$ ion.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "15",
+    "question": "If $5.0\\text{ g}$ of marble reacts with $25.0\\text{ cm}^3$ hydrochloric acid, which of the following combinations has the fastest reaction rate?",
+    "image": null,
+    "options": {
+      "A": "Marble chips and $2.0\\text{ mol dm}^{-3}$ $\\text{HCl}(\\text{aq})$",
+      "B": "Marble chips and $2.5\\text{ mol dm}^{-3}$ $\\text{HCl}(\\text{aq})$",
+      "C": "Powdered marble and $2.5\\text{ mol dm}^{-3}$ $\\text{HCl}(\\text{aq})$",
+      "D": "Powdered marble and $2.0\\text{ mol dm}^{-3}$ $\\text{HCl}(\\text{aq})$"
+    },
+    "answer": "C",
+    "explanation": "The rate of reaction is increased by two main factors listed in the options: **increased concentration** of reactants and **increased surface area**. **Powdered marble** (C and D) has a much larger surface area than marble chips (A and B). **$2.5\\text{ mol dm}^{-3}$ $\\text{HCl}$** (B and C) is a higher concentration than $2.0\\text{ mol dm}^{-3}$ $\\text{HCl}$ (A and D). The combination with the highest concentration and largest surface area (**Powdered marble and $2.5\\text{ mol dm}^{-3}$ $\\text{HCl}(\\text{aq})$**) will yield the fastest reaction rate.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "16",
+    "question": "Increasing the temperature generally",
+    "image": null,
+    "options": {
+      "A": "decreases the solubility of a solid in a liquid but increases the solubility of a gas in a liquid.",
+      "B": "increases the solubility of a solid in a liquid but decreases the solubility of a gas in a liquid.",
+      "C": "increases the solubility of both a solid and a gas in a liquid",
+      "D": "decreases the solubility of both a solid and a gas in a liquid"
+    },
+    "answer": "B",
+    "explanation": "For most **solids in liquids**, dissolution is endothermic, so increasing the temperature **increases** solubility (Le Chatelier's principle). For **gases in liquids**, dissolution is exothermic, so increasing the temperature **decreases** solubility.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "17",
+    "question": "A white precipitate was formed when $\\text{BaCl}_2(\\text{aq})$ was added to an aqueous solution of a salt $\\text{X}$. The precipitate dissolved in dilute $\\text{HCl}$ with rapid effervescence. Salt $\\text{X}$ is likely to contain",
+    "image": null,
+    "options": {
+      "A": "$\\text{SO}_4^{2-}$ ions",
+      "B": "$\\text{SO}_3^{2-}$ ions",
+      "C": "$\\text{NO}_3^{-}$ ions",
+      "D": "$\\text{CO}_3^{2-}$ ions"
+    },
+    "answer": "D",
+    "explanation": "1. **$\text{BaCl}_2$ forms a white precipitate:** $\\text{Ba}^{2+}$ forms white precipitates with $\\text{SO}_4^{2-}$, $\\text{SO}_3^{2-}$, or $\\text{CO}_3^{2-}$ ions. 2. **Dissolves with effervescence in dilute $\\text{HCl}$:** Effervescence means a gas is produced. Barium Sulphate ($\\text{BaSO}_4$) is insoluble in dilute $\\text{HCl}$ (eliminating A). Barium Sulphite ($\\text{BaSO}_3$) and Barium Carbonate ($\\text{BaCO}_3$) dissolve in $\\text{HCl}$ to produce $\\text{SO}_2$ and $\\text{CO}_2$ gas, respectively. Both $\\text{SO}_2$ and $\\text{CO}_2$ evolution are forms of effervescence. The most common and relevant is $\\text{BaCO}_3$ which reacts with HCl to produce $\\text{CO}_2$ gas.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "18",
+    "question": "Before a reaction could take place, there should be",
+    "image": null,
+    "options": {
+      "A": "ionization of reactant particles",
+      "B": "breakage of bonds of products",
+      "C": "breakage of bonds of reactants",
+      "D": "ionization of product particles"
+    },
+    "answer": "C",
+    "explanation": "According to the collision theory, for reactant particles to rearrange into product particles, the existing bonds in the **reactant molecules** must first be broken. This requires the energy of activation.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "19",
+    "question": "Consider the following reaction equation: $\\text{CaO} + \\text{SiO}_2 \\rightarrow \\text{CaSiO}_3$. Silicon(IV) oxide is acting as",
+    "image": null,
+    "options": {
+      "A": "a basic oxide",
+      "B": "a reducing agent",
+      "C": "an acidic oxide",
+      "D": "an oxidizing agent"
+    },
+    "answer": "C",
+    "explanation": "This is a reaction between a metal oxide, $\\text{CaO}$ (Calcium oxide), and a non-metal oxide, $\\text{SiO}_2$ (Silicon(IV) oxide). Metal oxides are typically **basic oxides**, while non-metal oxides are typically **acidic oxides**. In this reaction, $\\text{CaO}$ acts as the base, and $\\text{SiO}_2$ acts as the acid to form the salt $\\text{CaSiO}_3$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "20",
+    "question": "Which of the following acids would form normal salt only?",
+    "image": null,
+    "options": {
+      "A": "Tetraoxosulphate(VI) acid",
+      "B": "Trioxonitrate(V) acid",
+      "C": "Tetraoxophosphate(V) acid",
+      "D": "Trioxosulphate(IV) acid"
+    },
+    "answer": "B",
+    "explanation": "A **normal salt** is formed when all the replaceable hydrogen ions ($\\text{H}^+$) of an acid are replaced by a metal or ammonium ion. Trioxonitrate(V) acid ($\\text{HNO}_3$) is a **monobasic** acid (has only one replaceable $\\text{H}^+$), meaning it can only form one type of salt (a normal salt). The other acids are polybasic (dibasic or tribasic) and can form both acid salts (where some $\\text{H}^+$ remains) and normal salts.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "21",
+    "question": "What number of moles of oxygen would exert a pressure of $10\\text{ atm}$ at $320\\text{ K}$ in an $8.2\\text{ dm}^3$ cylinder? [$R=0.082\\text{ atm dm}^{-3}\\text{ mol}^{-1}\\text{ K}^{-1}$]",
+    "image": null,
+    "options": {
+      "A": "$0.32$",
+      "B": "$1.52$",
+      "C": "$3.13$",
+      "D": "$31.25$"
+    },
+    "answer": "C",
+    "explanation": "Use the Ideal Gas Law: $\\text{PV} = \\text{nRT}$. We need to find the number of moles ($n$).\n$n = \\frac{PV}{RT}$\nGiven: $P = 10\\text{ atm}$, $V = 8.2\\text{ dm}^3$, $R = 0.082\\text{ atm dm}^{-3}\\text{ mol}^{-1}\\text{ K}^{-1}$, $T = 320\\text{ K}$.\n$n = \\frac{10\\text{ atm} \\times 8.2\\text{ dm}^3}{0.082\\text{ atm dm}^{-3}\\text{ mol}^{-1}\\text{ K}^{-1} \\times 320\\text{ K}}$\n$n = \\frac{82}{26.24} \\approx 3.125\\text{ mol}$, which rounds to **3.13**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "22",
+    "question": "If $50\\text{ cm}^3$ of a saturated solution of $\\text{KNO}_3$ at $40\\text{ °C}$ contained $5.05\\text{ g}$ of the salt, its solubility at the same temperature would be\n[$\\text{KNO}_3 = 101$]",
+    "image": null,
+    "options": {
+      "A": "$1.0\\text{ mol dm}^{-3}$",
+      "B": "$1.5\\text{ mol dm}^{-3}$",
+      "C": "$2.0\\text{ mol dm}^{-3}$",
+      "D": "$5.0\\text{ mol dm}^{-3}$"
+    },
+    "answer": "A",
+    "explanation": "Solubility is expressed in $\\text{mol dm}^{-3}$ (moles per liter). The mass of $\\text{KNO}_3$ contained in the solution is $5.05\\text{ g}$ and the volume is $50\\text{ cm}^3 = 0.050\\text{ dm}^3$.\n1. **Convert mass to moles:**\n$\\text{Moles} = \\frac{\\text{Mass}}{\\text{Molar Mass}} = \\frac{5.05\\text{ g}}{101\\text{ g/mol}} \\approx 0.05\\text{ mol}$\n2. **Calculate solubility (Molarity):**\n$\\text{Solubility} = \\frac{\\text{Moles}}{\\text{Volume in dm}^3} = \\frac{0.05\\text{ mol}}{0.050\\text{ dm}^3} = 1.0\\text{ mol dm}^{-3}$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "23",
+    "question": "Which of the following elements would displace copper from a solution of copper ions?",
+    "image": null,
+    "options": {
+      "A": "silver",
+      "B": "gold",
+      "C": "lead",
+      "D": "mercury"
+    },
+    "answer": "C",
+    "explanation": "An element can displace another from its salt solution if it is **more reactive** (more electropositive) than the other. In the electrochemical series, elements above copper (like **Lead**, Iron, Zinc) are more electropositive than copper and will displace it. Silver, Gold, and Mercury are all below copper and are less reactive.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "24",
+    "question": "What is the percentage composition of carbon in $\\text{Ca}(\\text{HCO}_3)_2$? [ $\\text{Ca} = 40.0, \\text{O}= 16.0, \\text{C} = 12.0, \\text{H}= 1.0$]",
+    "image": null,
+    "options": {
+      "A": "$22.2\\%$",
+      "B": "$14.8\\%$",
+      "C": "$7.4\\%$",
+      "D": "$3.7\\%$"
+    },
+    "answer": "B",
+    "explanation": "1. **Calculate Molar Mass of $\\text{Ca}(\\text{HCO}_3)_2$:**\n$\\text{Ca} = 1 \\times 40.0 = 40.0$\n$\\text{H} = 2 \\times 1.0 = 2.0$\n$\\text{C} = 2 \\times 12.0 = 24.0$\n$\\text{O} = 6 \\times 16.0 = 96.0$\n**Total Molar Mass** $= 40.0 + 2.0 + 24.0 + 96.0 = 162.0\\text{ g/mol}$\n2. **Calculate % Carbon:**\n$$\\text{\\% Carbon} = \\frac{\\text{Mass of Carbon}}{\\text{Molar Mass}} \\times 100\\% = \\frac{24.0}{162.0} \\times 100\\% \\approx 14.81\\%$$\nThis rounds to **$14.8\\%$**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "25",
+    "question": "Which of the following bond types is intermolecular?",
+    "image": null,
+    "options": {
+      "A": "Covalent bond",
+      "B": "Hydrogen bond",
+      "C": "Ionic bond",
+      "D": "Metallic bond"
+    },
+    "answer": "B",
+    "explanation": "An **intermolecular** bond (or force) exists **between** separate molecules. **Hydrogen bonds** are the strongest type of dipole-dipole intermolecular force. Covalent, ionic, and metallic bonds are all **intramolecular** (within the molecule/lattice) forces.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "26",
+    "question": "The maximum number of covalent bonds formed by nitrogen is",
+    "image": null,
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "D",
+    "explanation": "Nitrogen has 5 valence electrons and forms 3 single covalent bonds to achieve a stable octet (like in $\\text{NH}_3$). However, due to the presence of a lone pair of electrons, the nitrogen atom can use this lone pair to form a **dative (co-ordinate) covalent bond** with a proton ($\\text{H}^+$), resulting in the ammonium ion ($\\text{NH}_4^+$), where nitrogen has a total of **4** covalent bonds.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "27",
+    "question": "The IUPAC name of the compound $\\text{CH}_3\\text{CH}(\\text{CH}_3)\\text{CHCH}_2$ is",
+    "image": null,
+    "options": {
+      "A": "$2$ - methyl but - $1$ - ene",
+      "B": "$2$ - methyl but - $2$ - ene",
+      "C": "$3$ - methyl but - $1$ - ene",
+      "D": "$3$ - methyl but - $2$ - ene"
+    },
+    "answer": "C",
+    "explanation": "The compound is $\\text{CH}_3 - \\text{CH}(\\text{CH}_3) - \\text{CH}=\\text{CH}_2$. 1. **Longest Chain:** The longest chain containing the double bond has 4 carbons (a **but-ene**). 2. **Numbering:** Number the chain to give the double bond the lowest possible locant, which is C1 (but-1-ene). 3. **Substituents:** A methyl group ($\\text{CH}_3$) is attached to C3. 4. **Name:** **3-methylbut-1-ene**.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "28",
+    "question": "Ionization energy increases across the period in the periodic table because",
+    "image": null,
+    "options": {
+      "A": "atomic number increases",
+      "B": "effective nuclear charge increases",
+      "C": "mass number decreases",
+      "D": "screening effect decreases"
+    },
+    "answer": "B",
+    "explanation": "Across a period, the number of protons (atomic number) increases, leading to an increase in the attractive force of the nucleus on the valence electrons. The number of electron shells (screening electrons) remains constant. This combined effect means the **effective nuclear charge increases**, causing the atomic radius to decrease and making it harder to remove a valence electron, hence the increase in ionization energy.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "29",
+    "question": "Which of the following properties indicate that an element is a metal. It I. reacts with oxygen to form an acidic oxide. II. forms ionic chlorides. III. has variable oxidation states. IV. displaces hydrogen from dilute $\\text{HCl}$",
+    "image": null,
+    "options": {
+      "A": "I and III only",
+      "B": "I and II only",
+      "C": "II and IV only",
+      "D": "I, II, III and IV"
+    },
+    "answer": "C",
+    "explanation": "I. **False:** Metals react with oxygen to form **basic** or **amphoteric** oxides (I is a property of non-metals). II. **True:** Metals react with chlorine to form ionic (electrovalent) chlorides (e.g., $\\text{NaCl}$). III. **False:** Non-metals and transition metals (a subset of metals) often have variable oxidation states. IV. **True:** Reactive metals (those above hydrogen in the activity series) displace hydrogen from dilute acids (e.g., $\\text{Zn} + 2\\text{HCl} \\rightarrow \\text{ZnCl}_2 + \\text{H}_2$). Therefore, **II and IV only** are reliable indicators of general metallic character.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "30",
+    "question": "The electron configuration of carbon atom in its excited state is",
+    "image": null,
+    "options": {
+      "A": "$1\\text{s}^2 2\\text{s}^2 2\\text{p}_{\\text{x}}^2 2\\text{p}_{\\text{y}}^0$",
+      "B": "$1\\text{s}^2 2\\text{s}^2 2\\text{p}_{\\text{x}}^1 2\\text{p}_{\\text{y}}^1$",
+      "C": "$1\\text{s}^2 2\\text{s}^1 2\\text{p}_{\\text{x}}^1 2\\text{p}_{\\text{y}}^1 2\\text{p}_{\\text{z}}^1$",
+      "D": "$1\\text{s}^1 2\\text{s}^2 2\\text{p}_{\\text{x}}^1 2\\text{p}_{\\text{y}}^1$"
+    },
+    "answer": "C",
+    "explanation": "Carbon (Atomic No. 6) has an ground state configuration of $1\\text{s}^2 2\\text{s}^2 2\\text{p}^2$ (specifically $1\\text{s}^2 2\\text{s}^2 2\\text{p}_{\\text{x}}^1 2\\text{p}_{\\text{y}}^1 2\\text{p}_{\\text{z}}^0$). In its **excited state**, one electron from the filled $2\\text{s}$ orbital jumps to the empty $2\\text{p}_z$ orbital, resulting in four unpaired electrons: $1\\text{s}^2 2\\text{s}^1 2\\text{p}_{\\text{x}}^1 2\\text{p}_{\\text{y}}^1 2\\text{p}_{\\text{z}}^1$. This state allows carbon to form four bonds (e.g., in $\\text{CH}_4$).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "31",
+    "question": "An oxide has the following properties. It I. is a white powder. II. reacts with $\\text{HCl}$. III. reacts with $\\text{NaOH}$. IV. is insoluble in water. The oxide is",
+    "image": null,
+    "options": {
+      "A": "alkali metal oxide",
+      "B": "zinc oxide",
+      "C": "copper(II) oxide",
+      "D": "sodium oxide"
+    },
+    "answer": "B",
+    "explanation": "The properties I (white powder), II (reacts with acid), and III (reacts with base) indicate the oxide is **amphoteric** (reacts with both acids and bases). **Zinc oxide** ($\\text{ZnO}$) is the most common example of a white, insoluble amphoteric oxide that is also generally insoluble in water (IV).",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "40",
+    "question": "What is the IUPAC name for ethanoic acid?",
+    "image": null,
+    "options": {
+      "A": "Methanol",
+      "B": "Ethanoic acid",
+      "C": "Propanol",
+      "D": "Methanoic acid"
+    },
+    "answer": "B",
+    "explanation": "Ethanoic acid is commonly known as acetic acid, with the IUPAC name ethanoic acid.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "41",
+    "question": "The process of adding concentrated acid to water should be done carefully because the reaction is highly",
+    "image": null,
+    "options": {
+      "A": "endothermic",
+      "B": "exothermic",
+      "C": "reversible",
+      "D": "slow"
+    },
+    "answer": "B",
+    "explanation": "This process releases heat and can cause splashing if not done carefully.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "42",
+    "question": "Which type of orbital is spherical in shape?",
+    "image": null,
+    "options": {
+      "A": "p-orbital",
+      "B": "d-orbital",
+      "C": "s-orbital",
+      "D": "f-orbital"
+    },
+    "answer": "C",
+    "explanation": "The s-orbital is spherical in shape.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "43",
+    "question": "Calculate the number of moles in 11 g of CO2. (C=12, O=16)",
+    "image": null,
+    "options": {
+      "A": "0.5 mol",
+      "B": "0.25 mol",
+      "C": "0.1 mol",
+      "D": "0.05 mol"
+    },
+    "answer": "B",
+    "explanation": "Molar mass of CO2 = 12 + 2(16) = 44 g/mol. Moles = 11 / 44 = 0.25 mol.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "44",
+    "question": "The rusting of iron is a form of",
+    "image": null,
+    "options": {
+      "A": "neutralization",
+      "B": "corrosion",
+      "C": "displacement",
+      "D": "decomposition"
+    },
+    "answer": "B",
+    "explanation": "Rusting is corrosion of iron in the presence of oxygen and water.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "45",
+    "question": "What is the oxidation state of sulfur in $\\text{H}_2\\text{SO}_4$?",
+    "image": null,
+    "options": {
+      "A": "+2",
+      "B": "+4",
+      "C": "+6",
+      "D": "+8"
+    },
+    "answer": "C",
+    "explanation": "Oxidation state of sulfur in $\\text{H}_2\\text{SO}_4$ is +6.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "46",
+    "question": "Which of the following is a transition metal?",
+    "image": null,
+    "options": {
+      "A": "Sodium",
+      "B": "Calcium",
+      "C": "Copper",
+      "D": "Aluminum"
+    },
+    "answer": "C",
+    "explanation": "Copper (Cu) is a transition metal.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "47",
+    "question": "In a closed system, an increase in pressure on a reaction involving gases that favors the side with a lower total volume is an application of",
+    "image": null,
+    "options": {
+      "A": "Boyle's Law",
+      "B": "Henry's Law",
+      "C": "Le Chatelier's Principle",
+      "D": "Dalton's Law"
+    },
+    "answer": "C",
+    "explanation": "Le Chatelier's Principle explains how a system at equilibrium responds to changes such as pressure.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "48",
+    "question": "The general formula for the homologous series of alkanes is",
+    "image": null,
+    "options": {
+      "A": "$\\text{C}_n\\text{H}_{2n}$",
+      "B": "$\\text{C}_n\\text{H}_{2n+2}$",
+      "C": "$\\text{C}_n\\text{H}_{2n-2}$",
+      "D": "$\\text{C}_n\\text{H}_n$"
+    },
+    "answer": "B",
+    "explanation": "The general formula for alkanes is $\\text{C}_n\\text{H}_{2n+2}$.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "49",
+    "question": "Which laboratory apparatus is used for heating substances strongly?",
+    "image": null,
+    "options": {
+      "A": "Beaker",
+      "B": "Conical flask",
+      "C": "Crucible",
+      "D": "Burette"
+    },
+    "answer": "C",
+    "explanation": "A crucible is designed for high-temperature heating.",
+    "source": "WAEC 2022"
+  },
+  {
+    "id": "50",
+    "question": "The molarity of a solution containing 10 g of NaOH (molar mass 40 g/mol) in 2 dm³ of solution is",
+    "image": null,
+    "options": {
+      "A": "0.125 M",
+      "B": "0.25 M",
+      "C": "0.5 M",
+      "D": "1.0 M"
+    },
+    "answer": "A",
+    "explanation": "Number of moles = 10 / 40 = 0.25 mol. Molarity = 0.25 mol / 2 dm³ = 0.125 M.",
+    "source": "WAEC 2022"
+  },
+{
+  "id": "51",
+  "question": "Which of the following elements is a halogen?",
+  "image": null,
+  "options": {
+    "A": "Oxygen",
+    "B": "Chlorine",
+    "C": "Nitrogen",
+    "D": "Hydrogen"
+  },
+  "answer": "B",
+  "explanation": "Chlorine is a halogen, found in Group 17 of the periodic table. It is highly reactive and commonly used in disinfectants and bleaching agents.",
+  "source": "WAEC 2022"
+},
+{
+  "id": "52",
+  "question": "The process of converting a liquid into vapor is called",
+  "image": null,
+  "options": {
+    "A": "Condensation",
+    "B": "Evaporation",
+    "C": "Sublimation",
+    "D": "Freezing"
+  },
+  "answer": "B",
+  "explanation": "Evaporation is the process of a liquid turning into vapor at temperatures below its boiling point, usually from the surface.",
+  "source": "WAEC 2022"
+},
+{
+  "id": "53",
+  "question": "Which of the following metals is most reactive?",
+  "image": null,
+  "options": {
+    "A": "Gold",
+    "B": "Copper",
+    "C": "Potassium",
+    "D": "Silver"
+  },
+  "answer": "C",
+  "explanation": "Potassium is an alkali metal and is the most reactive among the options due to its low ionization energy and position in the reactivity series.",
+  "source": "WAEC 2022"
+},
+{
+  "id": "54",
+  "question": "The main component of natural gas is",
+  "image": null,
+  "options": {
+    "A": "Butane",
+    "B": "Methane",
+    "C": "Propane",
+    "D": "Ethane"
+  },
+  "answer": "B",
+  "explanation": "Methane ($\\text{CH}_4$) is the primary component of natural gas.",
+  "source": "WAEC 2022"
+},
+{
+  "id": "55",
+  "question": "A solution with a pH of 3 is considered",
+  "image": null,
+  "options": {
+    "A": "alkaline",
+    "B": "neutral",
+    "C": "acidic",
+    "D": "basic"
+  },
+  "answer": "C",
+  "explanation": "A pH less than 7 indicates an acidic solution. pH 3 is strongly acidic.",
+  "source": "WAEC 2022"
+},
+{
+  "id": "56",
+  "question": "The law that states that the volume of a gas is directly proportional to its temperature at constant pressure is",
+  "image": null,
+  "options": {
+    "A": "Boyle's Law",
+    "B": "Charles's Law",
+    "C": "Gay-Lussac's Law",
+    "D": "Avogadro's Law"
+  },
+  "answer": "B",
+  "explanation": "Charles's Law states that at constant pressure, the volume of a gas is directly proportional to its temperature in Kelvin.",
+  "source": "WAEC 2022"
+},
+{
+  "id": "57",
+  "question": "Which of the following is not a noble gas?",
+  "image": null,
+  "options": {
+    "A": "Helium",
+    "B": "Neon",
+    "C": "Argon",
+    "D": "Krypton",
+    "E": "Oxygen"
+  },
+  "answer": "E",
+  "explanation": "Oxygen is a diatomic non-metal gas, not a noble gas.",
+  "source": "WAEC 2022"
+},
+{
+  "id": "58",
+  "question": "The main purpose of a catalyst in a chemical reaction is to",
+  "image": null,
+  "options": {
+    "A": "speed up the reaction",
+    "B": "decrease the activation energy",
+    "C": "not be used up in the reaction",
+    "D": "all of the above"
+  },
+  "answer": "D",
+  "explanation": "A catalyst speeds up the reaction, lowers the activation energy, and is not consumed in the process.",
+  "source": "WAEC 2022"
+} 
+]
